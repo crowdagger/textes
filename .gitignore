@@ -6,3 +6,9 @@
 *.html
 *.log
 *.aux
+*.txt
+*/couv/
+*/*/couv/
+oi/TODO
+*/*/images/
+*/images/

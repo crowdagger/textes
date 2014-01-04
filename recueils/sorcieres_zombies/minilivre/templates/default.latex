@@ -3,8 +3,10 @@
 \usepackage[french]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{fancyhdr}
-\usepackage[paperwidth=11.0cm, paperheight=17.0cm, top=1.75cm,
-left=2.0cm,bottom=1.25cm,right=1.25cm]{geometry}%A5
+%\usepackage[paperwidth=12.7cm, paperheight=20.32cm, top=1.75cm,
+%left=2.0cm,bottom=1.25cm,right=1.25cm]{geometry}
+\usepackage[paperwidth=10.795cm, paperheight=17.463cm, top=1.5cm,
+left=1.5cm,bottom=1.5cm,right=1.5cm]{geometry}%A5
 %\setlength{\emergencystretch}{3em}  % prevent overfull lines
 $if(numbersections)$
 $else$
@@ -35,6 +37,11 @@ $endfor$
   \newpage
   
   \thispagestyle{empty}
+  \vspace*{\stretch{2}}
+  © 2013 Lizzie Crowdagger. Tous droits réservés.
+
+  ISBN 978-1-291-53790-1
+  
   \chapter*{}
   \vspace*{\stretch{1}}
   \begin{center}
@@ -120,4 +127,6 @@ $for(include-after)$
 $include-after$
 
 $endfor$
+\chapter*{}
+\thispagestyle{empty}
 \end{document}

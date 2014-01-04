@@ -600,7 +600,7 @@ que les choses ne se passent pas trop mal
 quand les rêves et la réalité se chevauchent un peu. Dans la
 mythologie grecque, on nous appelait les *Oneiroi*. 
 
-—  Hum, fit Alys. Ça a un rapport ave la Oi ? »
+—  Hum, fit Alys. Ça a un rapport ave la Oi! ? »
 
 
 *****
@@ -807,7 +807,7 @@ miroir, en se rasant :
 
 Il n'était en fait pas véritablement motivé par son idée car, s'il
 faisait maintenant jour, il pleuvait toujours des cordes dehors.
-De toutes façons, la proposition n'avait pas l'air d'enchanter Alys.
+De toute façon, la proposition n'avait pas l'air d'enchanter Alys.
 
 « Non, répliqua-t-elle simplement. On va aller faire un tour à la
   mine.

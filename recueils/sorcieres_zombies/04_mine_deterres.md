@@ -24,7 +24,7 @@ trop. Avec ce genre d'accessoires, il devait venir de la capitale.
 Elle s'avança de deux pas et porta la main à son casque pour saluer
 les deux individus.
 
-« Bonsoir, messieurs-dames. 
+« Bonsoir, Messieurs-dames. 
 
 — 'soir, lança le grand type. Un problème ?
 
@@ -125,7 +125,7 @@ niveau d'audace de la plupart des gens diminuait drastiquement.
 « Tu sais », lança joyeusement Anya en tirant une chaise et en
 s'asseyant à côté de son collègue, « je suis capable de répondre toute seule.
 
-— Tu n'es jamais contente, de toutes façons.
+— Tu n'es jamais contente, de toute façon.
 
 — Je suppose que tu as raison. Enchantée, au fait », ajouta-t-elle en prenant
 conscience de la présence d'André. « Anya Volk.
@@ -290,7 +290,7 @@ de ce sujet.
 
 — Oh, ma pauvre. Je suis vraiment désolée.
 
-— De toutes façons, ils ont déjà décidé des coupables...
+— De toute façon, ils ont déjà décidé des coupables...
 
 — Tu crois que c'est eux ? »
 
@@ -457,8 +457,8 @@ vous faire mettre dehors par la sécurité ?
 — S'il vous plaît ? » demanda Anya sur un ton doux, avec un regard
 enjôleur. « Les 
 mineurs n'ont pas voulu répondre à celle-là. Pourquoi Maximilien et
-Grégoire auraient fait sauter la mine ? C'était  
-leur gagne-pain. C'était leurs collègues. »
+Grégoire auraient fait sauter la mine ? C'était leur
+gagne-pain. C'était leurs collègues. »  
 
 Le propriétaire soupira, puis s'assit en face de la jeune femme en
 secouant la tête.
@@ -708,7 +708,7 @@ ongles, mais un garde lui avait immédiatement confisqué sa lime parce
 qu'elle risquait de s'en servir pour s'évader.
 
 Elle avait donc opté pour la sieste, mais il y a un nombre
-d'heures maximales pendant lesquelles un humain en bonne santé peut
+d'heures maximales pendant lesquelles une personne en bonne santé peut
 dormir dans la même journée.
 
 Finalement, après une éternité, le garde qui avait participé à son
@@ -925,7 +925,7 @@ qui se passait, mis à part qu'il venait de peu d'échapper à la mort.
 Le colosse haussa les épaules, puis arbora un petit sourire.
 
 « Franchement, comparé à se coltiner ma pote quand elle
-  est dans un de ses mauvais jours, un loup, c'est du gâteau. »
+  est dans un de ses mauvais jours, un loup ensorcelé, c'est du gâteau. »
 
 *****
 
@@ -1258,7 +1258,7 @@ des conduits horizontaux. La mine est en dessous de nous.
 — Vous verrez vite que vous préférez avoir la terre sous vous plutôt
 qu'au-dessus. L'entrée du puits 2 est là. »
 
-André montra du doigt un trou noir dans la façade de la montagne et
+André montra du doigt un trou sombre dans la façade de la montagne et
 s'avança vers l'entrée. Sylvie et Ray le suivirent tandis qu'Anya
 restait un moment dehors.
 
@@ -1603,7 +1603,7 @@ par le col et l'envoya rouler par terre.
 
 — Arrêtez ! C'est mon père !
 
-— C'est *plus* ton père !* protesta le géant en se tournant
+— C'est *plus* ton père ! » protesta le géant en se tournant
 vers elle, furieux.
 
 « Ne le tuez pas, je vous en supplie.
