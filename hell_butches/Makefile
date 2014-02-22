@@ -17,7 +17,7 @@ soleil.html : soleil.md
 	cat soleil.md | ./global/insecateur.py | pandoc -N -t html5 -s --chapters --toc -V -data-dir=global -o $@
 
 soleil.pdf : soleil.md
-	pandoc -N -s --chapters --toc -V fontsize=10pt -V paper=a5 --data-dir=global -o $@  soleil.md
+	pandoc -N -s -V fontsize=10pt -V paper=a5 --data-dir=global -o $@  soleil.md
 
 sigkill.epub : sigkill.md
 	cat sigkill.md | ./global/insecateur.py | pandoc -N -s --chapters --toc -V --data-dir=global --epub-stylesheet=global/templates/epub.css -o $@  
@@ -29,7 +29,19 @@ sigkill.html : sigkill.md
 	cat sigkill.md | ./global/insecateur.py | pandoc -N -t html5 -s --chapters --toc -V -data-dir=global -o $@
 
 sigkill.pdf : sigkill.md
-	pandoc -N -s --chapters --toc -V fontsize=10pt -V paper=a5 --data-dir=global -o $@  sigkill.md
+	pandoc -N -s -V fontsize=10pt -V paper=a5 --data-dir=global -o $@  sigkill.md
+
+morgue.epub : morgue.md
+	cat morgue.md | ./global/insecateur.py | pandoc -N -s --chapters --toc -V --data-dir=global --epub-stylesheet=global/templates/epub.css -o $@  
+
+morgue.odt : morgue.md
+	cat morgue.md | ./global/insecateur.py | pandoc -N -s --chapters --toc -V fontsize=10pt --data-dir=global -o $@ 
+
+morgue.html : morgue.md
+	cat morgue.md | ./global/insecateur.py | pandoc -N -t html5 -s --chapters --toc -V -data-dir=global -o $@
+
+morgue.pdf : morgue.md
+	pandoc -N -s -V fontsize=10pt -V paper=a5 --data-dir=global -o $@  morgue.md
 
 
 
