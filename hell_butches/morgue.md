@@ -1,4 +1,4 @@
-% Une histoire
+% Une histoire pour enfants
 % Lizzie Crowdagger
 
 *Transylvanie, 6 novembre 1897*
@@ -9,7 +9,7 @@ lequel se cachait le comte Dracula.
 
 À l'extérieur, le soleil était en train de se coucher, et il avait
 pratiquement atteint l'horizon. Il fallait faire vite. Abraham van
-Helsing entendit des bruits de pas derrière lui. Mina et Jonathan
+Helsing entendit des bruits de pas qui le rejoignaient. Mina et Jonathan
 Harker, ainsi que le cow-boy Quincey Morris. Si le soleil se couchait,
 il aurait bien besoin de leur aide.
 
@@ -26,7 +26,7 @@ venaient se positionner à ses côtés.
 
 Une fois les éclats de bois retombés et la poussière dissipée, nos
 quatre héros aperçurent la silhouette de Vlad Tepes Dracula, debout dans son
-cercueil. Le comte partit dans un rire diabolique.
+cercueil. Le comte fit valser sa cape et partit dans un rire diabolique.
 
 « Professeur van Helsing, lâcha-t-il une fois qu'il se fut repris, le
 soleil est couché. Vous avez perdu. Vous feriez mieux de courir tant
@@ -39,11 +39,13 @@ pieu en avant. Dracula l'attrapa à la gorge et le regarda un instant,
 arborant un sourire plein de dents.
 
 Quincey Morris vida son six-coups sur le comte, mais celui-ci ne parut
-pas affecté outre-mesure par les balles. Il se contenta de lever une
-main vers lui, la paume tendue, et le pauvre cow-boy se retrouva
-projeté contre le mur, en compagnie de Jonathan et Mina Harker.
+pas affecté outre-mesure par les balles. Après les avoir encaissées
+sans broncher, il se contenta de lever une
+main vers le cow-boy, la paume tendue, et le pauvre se retrouva
+projeté contre le mur, accompagné dans sa débâcle par Jonathan et Mina
+Harker. 
 
-Abraham van Helsing essayait de se débattre, mais le bras du vampire
+Abraham van Helsing, de son côté, essayait de se débattre, mais le bras du vampire
 était comme de l'acier. Il plongea ses yeux dans son adversaire et, en
 voyant leur pupille rouge comme les feux de l'Enfer, il comprit que
 tout était perdu.
@@ -94,7 +96,7 @@ estimer l'âge des enfants.
 
 « Donc tu as tué Dracula ?
 
-— Ouais , répondit la vampire. Il a pas fait le malin longtemps,
+— Ouais, répondit la vampire. Il a pas fait le malin longtemps,
 crois-moi sur parole. »
 
 La petite fille secoua énergiquement la tête.
@@ -118,7 +120,7 @@ allongés ou ses griffes noires rétractiles, rendait les choses plus
 faciles. Les gamins trouvaient ça *cool*, et elle pouvait alors leur
 raconter ses plus beaux exploits authentiques.
 
-Ça ne réglait pas tous les problèmes évidemment. Le gros souci avec
+Ça ne réglait pas tous les problèmes, évidemment. Le gros souci avec
 les enfants, c'était que Morgue n'osait pas fumer en leur
 présence : les petits mortels étaient encore plus fragiles que les
 grands. Elle commençait par conséquent à sérieusement manquer de nicotine.
@@ -159,8 +161,8 @@ dents ! »
 
 Morgue lui fit un sourire, dévoilant au passage ses canines. Elle
 réalisa que c'était une erreur, car Julie semblait sur le point de se
-mettre à rire. Elle lui reprit le téléphone des mains avant que tout
-ne s'écroule.
+mettre à rire. Elle lui reprit le téléphone des mains avant que son
+plan ne s'effondre.
 
 « Oui, confirma-t-elle. Votre baby-sitter est morte. »
 
@@ -187,7 +189,7 @@ fichus de répondre par oui ou par non ?
 
 — Repassez-la moi. »
 
-Nouveaux grésillement dans le téléphone.
+Nouveaux grésillements dans le téléphone.
 
 « Ça a marché ? demanda-t-elle. Il y a cru ?
 
@@ -207,10 +209,10 @@ Julie se mit à rire.
 Ce n'était, après tout, pas une récompense imméritée. La gamine venait
 probablement de lui éviter un séjour en prison.
 
-Celle-ci approuva de la tête, enthousiaste.
+Celle-ci répondit oui d'un signe de tête, enthousiaste.
 
 « Et une autre histoire ! réclama-t-elle.
 
-— D'accord, fit Morgue avec un grand sourire. Tu savais que j'avais
-été amie avec le docteur Frankenstein ? »
+— D'accord, fit Morgue avec un grand sourire. Je vais te raconter
+comment je suis devenue amie avec le docteur Frankenstein. »
 
