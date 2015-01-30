@@ -1,4 +1,4 @@
-% Troll
+% Rock'n troll
 % Lizzie Crowdagger
 
 Thomas décapsula sa canette de bière et fit craquer ses doigts. Il
@@ -21,12 +21,12 @@ Ce soir, il avait décidé de passer un cran au-dessus. Il avait repéré
 le site d'une de ces connasses, fouillé de fond en comble pour y
 trouver tout ce qu'il pouvait, et réussi à dégotter quelques
 informations compromettantes dont il savait pertinemment qu'elles
-feraient mal à *femigrrrl*. Par exemple, révéler qu'elle s'appelait en
+feraient mal à *Femigrrrl*. Par exemple, révéler qu'elle s'appelait en
 réalité Sylvie Lefèvre, ou encore son adresse. Voilà qui la ferait
 flipper.
 
-Lorsqu'il posta les informations qu'il avait réussi, par ses grandes
-compétences techniques, à se procurer, la réaction de l'intéressée ne
+Lorsqu'il posta les informations qu'il avait réussies, par ses
+compétences techniques, à se procurer, la réaction de l'intéressée ne 
 se fit pas attendre.
 
 > `Tu sais quoi, trouduc ? Ce genre de choses pourrait te coûter
@@ -53,7 +53,7 @@ lui apprendrait peut-être à se servir d'Internet.
 Il y eut rapidement un réponse de *Femigrrrl*.
 
 > `Tu devrais arrêter tes conneries MAINTENANT et présenter des
-> `excuses. Ou alors tu auras des soucis. Dernier avertissement.`
+> excuses. Ou alors tu auras des soucis. Dernier avertissement.`
 
 Thomas se mit à rire, seul devant son ordinateur. Elle s'imaginait
 vraiment lui faire peur ?
@@ -67,7 +67,7 @@ l'hystérique débile.
 > CHANCE.`
 
 
-Thomas faillit recracher sa gorgée et regarda sa cannette, qui était effectivement une
+Thomas faillit recracher sa gorgée et regarda sa canette, qui était effectivement une
 Heineken. Comment est-ce qu'elle savait ? Par hasard, peut-être ? Des
 tas de gens buvaient de la Heineken, non ?
 
@@ -77,7 +77,8 @@ tas de gens buvaient de la Heineken, non ?
 Thomas soupira. La webcam. Cette connasse avait dû pirater son
 ordinateur. Il devait admettre qu'il l'avait sous-estimée. Cela dit,
 ça ne l'inquiétait pas plus que ça. Au pire, elle allait lui faire
-quoi, lui effacer ses fichiers ? La belle affaire. Il commença par
+quoi, lui effacer ses fichiers ? La belle affaire, il avait des
+sauvegardes sur son autre ordinateur. Il commença par
 cacher la caméra avec son doigt, puis tapa maladroitement de l'autre
 main :
 
@@ -108,7 +109,7 @@ l'incompréhension.
 
 « Quoi ? finit-il par réussir à dire.
 
-— Le nom n'est pas forcément définitif_», admit Captain Feminist.
+— Le nom n'est pas forcément définitif », admit Captain Feminist.
 
 Elle lui envoya alors un coup de batte en plein dans la jambe, sans
 qu'il n'ait pu s'y attendre. Tout au plus avait-il eu le temps de la

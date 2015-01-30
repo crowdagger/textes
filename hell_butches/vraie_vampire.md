@@ -664,27 +664,27 @@ pas, une balle dans le bide ne nous fera pas grand chose.
 Ce qui m'emmène à la question : comment tuer un vampire ? D'après mon
 expérience, il y a différentes options.
 
-# La tête : la décapitation est idéale, mais pas forcément le plus
-  pratique dans un combat (sauf pour achever son ennemi). Le plus
-  simple reste donc l'arme à feu, si possible à gros calibre (je
-  recommande le fusil à pompe). Ne pas hésiter à mettre le paquet pour
-  être sûr.
-# Le cœur : contrairement à ce qu'on croit, un pieu dans le cœur ne
-  nous tue pas définitivement, et se contente de nous plonger dans une
-  forme de stase. En revanche, pour nous flinguer, il est possible de
-  détruire complètement ou d'arracher notre palpitant. Je déconseille
-  fortement cette méthode, qui exige trop de précision et de
-  connaissances anatomiques pour être fiable.
-# Le soleil : franchement pas efficace. Oui, ça nous tue, mais à moins
-  que ce soit en plein midi au mois d'août, c'est vraiment trop
-  long. Accessoirement, la plupart des vampires évitent de se balader
-  en plein jour, de toute façon, alors à moins de péter des murs,
-  laissez tomber cette option.
-# Le feu : un peu plus efficace, mais pas non plus très pratique. Vous
-  avez déjà essayé de foutre le feu à quelqu'un, en combat rapproché,
-  sans finir vous-même en torche humaine ? Pas si simple. Cela dit,
-  c'est toujours utile d'avoir un jerrican d'essence pour être sûr que
-  les ennemis qui sont à terre ne se relèvent pas.
+1. La tête : la décapitation est idéale, mais pas forcément le plus
+   pratique dans un combat (sauf pour achever son ennemi). Le plus
+   simple reste donc l'arme à feu, si possible à gros calibre (je
+   recommande le fusil à pompe). Ne pas hésiter à mettre le paquet pour
+   être sûr.
+2. Le cœur : contrairement à ce qu'on croit, un pieu dans le cœur ne
+   nous tue pas définitivement, et se contente de nous plonger dans une
+   forme de stase. En revanche, pour nous flinguer, il est possible de
+   détruire complètement ou d'arracher notre palpitant. Je déconseille
+   fortement cette méthode, qui exige trop de précision et de
+   connaissances anatomiques pour être fiable.
+3. Le soleil : franchement pas efficace. Oui, ça nous tue, mais à moins
+   que ce soit en plein midi au mois d'août, c'est vraiment trop
+   long. Accessoirement, la plupart des vampires évitent de se balader
+   en plein jour, de toute façon, alors à moins de péter des murs,
+   laissez tomber cette option.
+4. Le feu : un peu plus efficace, mais pas non plus très pratique. Vous
+   avez déjà essayé de foutre le feu à quelqu'un, en combat rapproché,
+   sans finir vous-même en torche humaine ? Pas si simple. Cela dit,
+   c'est toujours utile d'avoir un jerrican d'essence pour être sûr que
+   les ennemis qui sont à terre ne se relèvent pas.
 
 Bref, si vous avez envie d'éliminer un vampire, laissez tomber le
 folklore et prenez un fusil à pompe. Si vous y tenez, vous
@@ -933,3 +933,75 @@ personne en me filant son adresse. »
 Bull a encore hésité quelques secondes, et elle a enfin cédé.
 
 « Je n'ai que son numéro de téléphone. »
+
+*****
+
+« Allô ? »
+
+La voix au téléphone était pâteuse, celle de quelqu'un qui vient de se
+réveiller. Vu qu'il était maintenant dix-neuf heures, j'en ai conclu
+que mon interlocutrice avait un rythme de vie on ne peut plus
+nocturne. Ça ne la rangeait pas *automatiquement* dans la catégorie
+« chasseuse de vampires », mais c'était tout de même un indice.
+
+« Claire ? ai-je demandé.
+
+— Ouais.
+
+— C'est Morgue. La fille que t'as tapée l'autre jour. Tu te souviens de
+moi ? »
+
+Silence. Elle ne devait pas s'attendre à mon coup de fil.
+
+« Je me souviens, a-t-elle fini par dire.
+
+— Il faudrait qu'on parle, toutes les deux. On pourrait se voir dans
+un bar ? En terrain neutre ? »
+
+Nouveau silence. Soit Claire n'était vraiment pas réveillée, soit elle
+n'était pas très enthousiasmée par ma proposition.
+
+« Parler de quoi ?
+
+— Du fait que je n'ai pas tué ton frère. Entre autres choses.
+
+— Et qu'est-ce qui me dit que ce n'est pas un piège, hein ? Que tu ne
+vas pas décider de me flinguer plutôt que de parler ? »
+
+J'ai soupiré. Personne ne me faisait confiance, en ce moment. C'était
+usant, à la longue. J'ai pris sur moi pour ne pas m'énerver.
+
+« Je pourrais te renvoyer la question, ai-je répliqué. *Ou alors*
+on pourrait se détendre, péter un coup et discuter autour d'une
+bière. »
+
+Encore un blanc dans la conversation.
+
+« D'accord, a-t-elle néanmoins fini par dire.
+
+— Ce soir ? ai-je demandé.
+
+— Non. Demain, vingt heures. Place de l'Opéra. Viens seule et sans
+arme. »
+
+J'ai grimacé. Je n'étais pas certaine que l'horaire corresponde tout à
+fait avec ce que j'avais prévu, mais je pourrais sûrement m'arranger.
+
+« Je prendrai mon harmonica, ai-je répondu.
+
+— Pardon ?
+
+— *Viens seule et sans arme*, ai-je répété. Ça fait un peu *Il était
+une fois dans l'Ouest*, non ? »
+
+Toujours ce putain de silence dans la conversation. Au moins, cette
+fois-ci, c'était juste parce que ma tentative de blague était tombée à l'eau.
+
+« Bon, euh, à demain ? ai-je repris.
+
+— Ouais. »
+
+Elle a raccroché sans me dire au revoir. Cette fille était vraiment
+mal élevée.
+
+
