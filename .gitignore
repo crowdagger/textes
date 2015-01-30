@@ -1,5 +1,7 @@
 *~
 *.odt
+*.doc
+*.toc
 *.epub
 *.pdf
 *.tex
