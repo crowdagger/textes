@@ -68,7 +68,6 @@ peur qu'elle ne soit pas assez réelle pour toi.
 
 La jeune femme haussa les épaules et fit apparaître une cigarette,
 qu'elle plaça dans la bouche du vampire avant de l'allumer. 
-
 William inspira. Ce n'était que de l'air, mais, s'il se concentrait un
 peu, il pouvait imaginer le tabac. 
 
@@ -446,7 +445,7 @@ Darnolc. J'ai arrangé ça.
 
 — Tu n'as pas l'habitude de remercier. 
 
-— Non. En plus j'aurais une dernière faveur à te demander, avant qu'on
+— Non. En plus, j'aurais une dernière faveur à te demander, avant qu'on
 reparte vers Erekh.
 
 — Dis toujours. 
@@ -465,7 +464,6 @@ encaissé le plus de pertes : à cause d'un « problème de
   communication », les renforts que les Onims devaient envoyer
 n'étaient jamais arrivés et le petit groupe s'était retrouvé à
 combattre des troupes plus entraînées et deux fois plus nombreuses.  
-
 Heureusement, la nouvelle de la mort du roi avait fini par mettre fin
 à l'hécatombe.
 
@@ -564,13 +562,13 @@ William.
 *****
 
 
-« _Suivez-nous »_, ordonnèrent deux gardes à l'aube. 
+« Suivez-nous », ordonnèrent deux gardes.
 
-Kalia ouvrit les yeux et grogna. William se contenta de soupirer.
+Il faisait à peine jour et Kalia dormait encore avant qu'ils n'ouvrent bruyamment la porte. Elle rogna. William se contenta de soupirer. 
 
-« _Pourquoi ?_
+« Pourquoi ? demanda-t-il.
 
-— _Suivez-nous_, répéta un des gardes.
+— Suivez-nous, répéta un des gardes.
 
 — Bon, ben, fit William. Je propose qu'on les suive. 
 
@@ -580,9 +578,9 @@ relevant.
 Au contraire, les gardes les firent monter sur le toit, où les
 attendaient Armand et Ly avec deux dragons.
 
-« _Vous êtes libres_, annonça un des gardes.
+« Vous êtes libres, annonça un des gardes.
 
-— Ah, fit Kalia. Euh, ben... _merci ? »_ Elle se tourna vers les
+— Ah, fit Kalia. Euh, ben... merci ? » Elle se tourna vers les
 deux humains et ajouta : « Je ne
   m'attendais pas à vous voir. 
 
@@ -607,10 +605,13 @@ William, lui, ne paraissait pas très heureux.
 
 — Oh. Je vois », fit Armand en posant sa main sur le drap qui avait
 servi à recouvrir le corps d'Axelle. « Tiens. Il y a ça si tu
-  veux. 
+veux. »
 
-— Oh, ouais. Super. Génial. Je sens que ça va être un voyage
-agréable, tiens. »
+William regarda le drap tâché d'un air dédaigneux.
+
+« Je n'ai peut-être pas eu le temps de soigner mon apparence ces
+derniers temps, répliqua-t-il, mais il n'en reste pas moins que je
+préfère encore brûler un peu que m'affubler de *ça*. »
 
 
 *****
@@ -831,7 +832,6 @@ Kalia hocha la tête, même si elle n'en était pas vraiment
 convaincue. Si elle avait été un homme, 
 peut-être... Mais juste vivre heureuses, ensemble, pour deux femmes,
 cela impliquait déjà de se battre.
-
 Malgré ça, elle se tut. Elle n'avait pas envie de contredire son amie pour l'instant.
 
 « On pourrait », se contenta-t-elle de répondre.
@@ -852,7 +852,7 @@ joyeuse. Certes, elles savaient qu'elles n'auraient pas d'enfants et
 ne se marieraient probablement jamais, mais elles en étaient fermement
 convaincues : elles vivraient heureuses, et acceptées par les autres,
 malgré le fait qu'elles étaient deux femmes, malgré le fait qu'elles
-n'étaient pas humaines selon les normes les plus strictes, malgré le
+n'étaient pas strictement humaines, malgré le
 fait qu'elles comptaient bien continuer à essayer de refaire le monde,
 ou en tout cas de ne pas se faire refaire par lui. 
 

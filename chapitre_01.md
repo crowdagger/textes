@@ -10,8 +10,8 @@ peu moins mal, mais elle ne pouvait que l'ignorer.
 
 
 Derrière elle, un grand troll lui bloquait les bras d'une seule
-main énorme. Pendant ce temps, la voleuse qu'elle venait d'essayer  
-d'arrêter souriait en agitant l'arme devant ses yeux.
+main énorme. Pendant ce temps, la voleuse qu'elle venait d'essayer
+d'arrêter souriait en agitant l'arme devant ses yeux. 
 
 « Ce n'est pas très futé, pour une garde seule, de s'attaquer à
   un troll. »
@@ -28,7 +28,7 @@ pas vu, en fait.
 arrive à être discret, dans le noir. Vu sa taille, je veux dire. »
 
 Les deux jeunes femmes restèrent quelques instants à se
-regarder en silence, puis Kalia parcourut des yeux la pièce à la
+regarder en silence, puis Kalia parcourut la pièce des yeux, à la
 recherche de quelque chose qui aurait pu l'aider. Il faisait
 sombre, et seuls quelques minces traits de lumière qui passaient à travers les volets
 fermés lui permettaient de distinguer les deux silhouettes. Elle se
@@ -52,8 +52,9 @@ fois.
 
 — Je suppose. »
 
-À la réflexion, Kalia songea que la vraie erreur avait été commises
-dès le début, le jour où elle s'était engagée dans la garde. Elle avait eu une opportunité et avait pensé
+À la réflexion, Kalia songea que la vraie erreur avait été commise
+dès le début, le jour où elle s'était engagée dans la garde. Elle
+avait eu une opportunité et avait pensé 
 que le travail pourrait lui convenir, mais elle s'était trompée : ce
 n'était pas un métier fait pour elle. Elle
 aurait à la rigueur pu se débrouiller dans un quartier tranquille où
@@ -103,12 +104,11 @@ savait pas trop si c'était une sorte de sixième sens elfique qui se
 serait réveillé ou juste la peur qui la faisait halluciner.
 
 En tout cas, et à son grand regret, elle l'avait reconnue pratiquement
-depuis le début. Il s'agissait d'Axelle CrèveCœur, la
-danseuse nue la plus connue de la ville. Kalia 
-n'était pas adepte de ce genre de spectacles, mais la plupart des
-autres gardes en raffolaient et, une fois, elle y avait accompagné
+depuis le début. Il s'agissait d'Axelle CrèveCœur, l'effeuilleuse la
+plus connue de la ville. Kalia n'était pas adepte de ce genre de
+spectacles, mais la plupart des autres gardes en raffolaient et, une fois, elle y avait accompagné
 des collègues avec qui elle ne s'entendait pas trop mal. Sans grande
-surprise, elle avait été l'unique femme dans le public.  
+surprise, elle avait été l'unique femme dans le public. 
 
 Elle se mordit la lèvre et se demanda si elle devait essayer de
 mentir, mais le temps qu'elle passa à hésiter fut suffisant pour que
@@ -174,7 +174,7 @@ de la grille, paraissait se passionner pour les vieilles pierres.
 « Tu sais, fit-elle au bout d'un moment, je crois vraiment que tu
   es dans la merde.
 
-— 'Connu pire », marmonna William. 
+— Connu pire », marmonna William. 
 
 Angèle secoua la tête, provoquant une onde dans ses longs cheveux
 blonds. 
@@ -248,7 +248,7 @@ William haussa les épaules.
 plus...
 
 — Pompeux ? Seulement quand on a une « lignée ». Ma mère était
-une putain, et je suis une bâtarde. « Kalia Sans-Nom » est le plus
+une putain, et je suis une bâtarde. Kalia Sans-Nom est le plus
 pompeux que je puisse faire. 
 
 — Désolé, fit William sans grande conviction.
@@ -314,7 +314,7 @@ prototype et il lui avait toujours été formellement interdit de s'en
 servir. Le fait que l'engin ait eu, à une période, le défaut de parfois se
 déclencher sans raison apparente n'y était sans doute pas étranger.
 
-« Merci, monsieur. Bien, monsieur. J'y vais sur le champ », réussit
+« Merci, Monsieur. Bien, Monsieur. J'y vais sur le champ », réussit
 à répondre l'elfe alors qu'elle se demandait si son supérieur était fou ou
 criminel pour l'autoriser à utiliser une telle arme afin de disperser une émeute.
 
@@ -494,7 +494,7 @@ sourire que le prisonnier n'appréciait pas.
 que mon devoir en tant que reine est de permettre votre réinsertion
 dans la société et de vous donner un travail.
 
-— Je suis peintre, mademoiselle. Je ne verrais aucun
+— Je suis peintre, Mademoiselle. Je ne verrais aucun
 inconvénient à dessiner des portraits de Votre Majesté, mais j'ai du
 mal à croire que toute cette mise en scène ne soit là que pour ça.
 
@@ -506,11 +506,11 @@ l'évêque Crowney. Il paraît pourtant que c'était un bon chasseur de
 vampires.
 
 — C'était lui ou moi. Un coup de chance. Et pour être franc,
-mademoiselle, je n'ai aucune envie de devenir un tueur à gages. 
+Mademoiselle, je n'ai aucune envie de devenir un tueur à gages. 
 
 — Qui vous parle de cela ? J'aurais simplement besoin de quelqu'un
 capable de se déplacer dans le noir sans se faire remarquer, et il
-semblerait que vous soyez plutôt doué pour ça. En tout cas, il nous a fallu
+semblerait que vous soyez plutôt doué pour cela. En tout cas, il nous a fallu
 un certain temps pour vous attraper. » 
 
 William soupira, laissa tomber son mégot de cigarette par terre,
@@ -578,7 +578,7 @@ protégea. Jusqu'ici, tout se passait bien. En tout cas, la situation
 n'était pas encore désespérée : ils s'étaient
 contentés de cailloux et avaient laissé les haches au repos.
 
-Pour l'instant.
+*Pour l'instant*.
 
 « Je veux juste discuter !
 
@@ -720,7 +720,9 @@ Il n'y avait pas à débattre : légalement, le nain avait tout contre
 lui. Le rôle de Kalia n'était pas de le défendre.
 
 D'un autre côté, elle trouvait aussi que ce n'était pas juste, et c'était presque un
-ami. Et puis, pourquoi devrait-elle se préoccuper de la loi plus que les autres
+ami. Du moins, une connaissance. En tout cas, elle se souvenait
+vaguement de lui. Et puis, pourquoi devrait-elle se préoccuper de la
+loi plus que les autres 
 gardes ? On l'avait envoyée disperser une émeute, et il y avait un
 moyen très simple de le faire. 
 
@@ -729,9 +731,9 @@ visage, j'ai peur que ses amis soient plus enclins à lui accorder leur
 confiance qu'à vous. Étant donné leur nombre et le nôtre, je pense qu'il
 serait plus sage de résoudre cette situation de manière intelligente.
 
-— Insinueriez vous, mademoiselle, demanda le garde d'un air mauvais,
-    que nous devrions libérer ce criminel parce que quelques-uns de
-    ses complices crient dehors ? » 
+— Insinueriez vous, demanda le garde d'un air mauvais,
+  que nous devrions libérer ce criminel parce que quelques-uns de
+  ses complices crient dehors ? » 
 
 Il y eut quelques grimaces parmi les autres policiers. Apparemment,
 certains considéraient que cela semblait une raison tout à fait
@@ -744,11 +746,11 @@ valable, surtout lorsqu'ils brandissaient des haches en plus de crier.
 cellule. 
 
 — Bien, soupira Kalia en se tournant vers la porte. Comme vous voudrez.
-Je vais y aller. Ils ont promis qu'ils *me » laisseraient sortir.*
+Je vais y aller. Ils ont promis qu'ils *me* laisseraient sortir. »
 
 Il y eut un silence gêné dans la salle.
 
-« Écoutez, monsieur, reprit le garde. Peut-être qu'elle a raison. 
+« Écoutez, chef, reprit le garde. Peut-être qu'elle a raison. 
 
 — Ouais, renchérit un autre homme. J'ai une femme et un gosse, moi. »
 
@@ -768,7 +770,7 @@ acrobaties, c'était plutôt bien payé.
 « Bien », lança-t-elle en laissant tomber la barre de fer rouillée
 qu'elle avait ramassée au cours du combat. « Ravie
     d'avoir fait votre connaissance. Si vous avez envie d'aller
-    *encore » plus loin avec moi, n'hésitez pas.*
+    *encore* plus loin avec moi, n'hésitez pas. »
 
 Puis elle commença à s'éloigner, sans jeter un regard vers les hommes
 à terre qui étaient occupés à faire le compte, eux, de leurs membres
@@ -839,9 +841,8 @@ doigts.
 — Ouais », répondit Kalia, gênée.
  
 Bien sûr, techniquement, elle était bien l'une des seules à avoir lu
-les lois en entier et à les connaître pratiquement par cœur. C'était vrai.
-
-Seulement, en l'occurrence, elle avait « gagné » en convainquant des
+les lois en entier et à les connaître pratiquement par cœur. C'était
+vrai. Seulement, en l'occurrence, elle avait « gagné » en convainquant des
 collègues de ne pas véritablement l'appliquer. Même si le résultat lui
 paraissait globalement positif, il n'en restait pas moins que ça lui
 posait un problème de conscience.
@@ -871,12 +872,12 @@ rancunier. Ça pourrait t'apporter des ennuis.
 
 Le groupe de nains finissait de se disperser lorsque Kalia
 partit. Elle fit un geste à Grimmel, qui s'écartait avec quelques
-amis, sans doute pour fêter sa libération en allant boire une bière. 
+amis, sans doute pour fêter sa libération en allant boire une bière.
 
 Sur le chemin du retour, l'elfe reconnut une silhouette qui se
 tenait à l'ombre, appuyée contre un mur. Axelle CrèveCœur.
 
-Elle s'en approcha lentement, la main sur le pommeau
+Elle s'en approcha lentement, la main sur le pommeau de son
 épée. Elle commençait à avoir la même sensation que la première fois
 qu'elle l'avait rencontrée : l'impression qu'elle suintait le 
 mal par tous les pores de la peau. Encore une fois, c'était peut-être
@@ -934,9 +935,8 @@ L'elfe tendit finalement la main et attrapa la bourse.
 — Disons que c'est une compensation. »
 
 Kalia regarda la voleuse partir sans trop savoir quoi faire. Elle se
-demanda si c'était quelque chose comme de la corruption.
-
-Comme elle ne roulait pas sur l'or et que quelques pièces en plus ne
+demanda si cette *compensation* pouvait s'apparenter à de la corruption. Comme elle ne
+roulait pas sur l'or et que quelques pièces en plus ne 
 lui feraient pas de mal, elle décida que non.
 
 
@@ -960,7 +960,7 @@ refus cette fois-ci.
 
 « Bon », commença William, vautré dans un canapé, en allumant une
 cigarette. « Vous allez m'expliquer ce que vous attendez de moi
-  exactement, mademoiselle ? »
+  exactement, Mademoiselle ? »
 
 La reine s'assit en face de lui, dans un fauteuil.
 
@@ -1015,7 +1015,8 @@ d'ailleurs. Comment un homme
 comme vous, qui arrive aussi bien à se fondre dans les ténèbres, peut-il
 laisser autant de traces derrière lui ?
 
-— Il n'y a pas de ténèbres en journée, mademoiselle. »
+— Les ténèbres ne durent qu'un moment, Mademoiselle. Le soleil finit
+toujours par se lever. »
 
 La reine hocha la tête.
 
@@ -1059,7 +1060,6 @@ Lorsqu'Axelle CrèveCœur remonta sur scène, l'elfe la
 regarda avec attention. C'était bien la femme qu'elle avait
 rencontrée à deux reprises, il n'y avait pas à en douter, et pourtant
 elle sentait qu'elle avait quelque chose de différent.
-
 Sa peau était parfaitement lisse, tout comme les cheveux. Ils
 paraissaient même briller. Il y avait aussi un autre éclat dans les
 yeux... Bien sûr, elle avait pu se maquiller un peu, mais cela n'aurait pas fait autant de différence. Elle était

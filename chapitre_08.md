@@ -7,7 +7,7 @@ Chapitre 8
 Le slogan ne fut pas énormément repris. Elle avait trouvé qu'il
 sonnait bien à l'écrit, mais, à l'oral, elle devait admettre qu'il
 n'était pas terrible. Le rythme n'était pas bon. Et puis, la plupart
-des manifestants ne devait même pas connaître la signification de
+des manifestants ne devait même pas connaître la signification du mot
 « faciès ». 
 
 Il y avait une large proportion de nains parmi la foule. Ils s'étaient
@@ -62,7 +62,6 @@ avoir demandé des renfort aux gardes des quartiers voisins, notamment
 ceux du centre et du quartier Nain, le rapport de force n'était
 pas véritablement en leur faveur. Surtout qu'il y avait un troll au
 milieu. Heureusement, il avait un atout caché dans sa manche. 
-
 L'atout en question s'appelait monsieur Creso Sixte.
 
 « Bonsoir, capitaine, salua-t-il en inclinant légèrement la tête. Je
@@ -85,7 +84,6 @@ il était habillé en noir et n'avait pas de chapeau.
 
 La jeune femme se retourna et reconnut le caporal Vali,
 qu'elle avait croisé dans le poste de garde du quartier Nain. 
-
 Elle hésita un peu puis se souvint qu'il s'était montré plutôt amical
 et l'avait même plus ou moins soutenue face à son propre capitaine,
 aussi elle s'approcha de lui.
@@ -105,7 +103,7 @@ bottes neuves pour remplacer sa vieille paire trouée. Elle portait
 aussi un bandana noir pour se cacher les oreilles, ses cheveux étant
 maintenant trop courts pour le faire. 
 
-Le tout lui donner une allure... eh bien, une allure tout court, pour
+Le tout lui donnai une allure... eh bien, une allure tout court, pour
 commencer. Elle n'y était pas franchement habituée.
 
 « Tu n'es pas venu parler chiffons, hein ? demanda-t-elle.
@@ -167,8 +165,8 @@ ferma les paupières et se concentra quelques secondes pour se persuader que
 c'était le fruit de son imagination.
 
 C'était ça, le truc, avec la magie : elle n'était pas *tout à fait*
-réelle. Il suffisait d'en être suffisamment convaincu pour  
-qu'elle n'ait plus d'effet sur vous. Tout était dans la
+réelle. Il suffisait d'en être suffisamment convaincu pour qu'elle
+n'ait plus d'effet sur vous. Tout était dans la 
 tête. Évidemment, quand une boule de feu fonçait sur vous et brûlait
 vos vêtements, il était relativement dur de rester *suffisamment*
 convaincu que la douleur et la chair qui se consumait n'était qu'une
@@ -185,7 +183,6 @@ courant, malgré les cris de l'elfe qui essayait d'expliquer qu'il
 ne s'agissait que d'une illusion. Autant pour le départ groupé. Même
 Aymak, qui avait le physique pour tenir tête à une armée, prit
 ses jambes à son cou.
-
 C'était fou ce qu'un peu de magie pouvait avoir comme effet sur des
 gens, même costauds et sans peur.
 
@@ -200,7 +197,6 @@ qu'une illusion ; mais si elle n'y croyait pas assez fort, elle
 finirait brûlée, ce dont elle ne mourait pas d'envie.
 
 Elle finit par abandonner et leva les mains en signe de reddition. 
-
 Le bon côté, c'était que, du coup, son intervention orale était
 annulée. 
 
@@ -268,10 +264,9 @@ elle passerait déjà un bon mois entre quatre murs ; sans compter que
 lorsqu'il y avait des gardes dans la balance, beaucoup de juges
 n'étaient plus très sérieux.
 
-Il y avait tout de même un aspect positif. Elle avait beau avoir
+Elle avait beau avoir
 démissionné, dans les jours qui suivraient, elle aurait l'occasion de
 croiser ses anciens collègues. 
-
 C'est toujours bien de ne pas perdre le contact avec ses amis.
 
 
@@ -409,7 +404,7 @@ pouvait les entendre.
 
 — Aucune idée. Juste des discussions qui s'interrompent quand
 j'arrive. Des regards en coin. J'ai l'impression qu'il y a une sorte
-de... secret et que je ne suis pas dans la confidence.
+de secret et que je ne suis pas dans la confidence.
 
 — Vraiment ? 
 
@@ -420,7 +415,6 @@ mission pour la reine. Il y a une ambiance malsaine. »
 Kalia hocha la tête. L'ambiance malsaine, ça, elle voulait bien y
 croire. Tout de même, un secret ? Une conspiration ? Louis était
 peut-être effectivement un peu paranoïaque. 
-
 Peut-être que les petites cachotteries de ses anciens collègues
 n'étaient que des ragots ordinaires à propos de la femme d'un tel qui
 le trompait avec un autre.
@@ -519,11 +513,13 @@ serait un peu calmé pendant quelques temps.
 
 — Tu peux demander à la reine, non ?
 
-— Bien sûr. Tu te doutes bien que je l'ai déjà fait. 
+— Bien sûr. Tu te doutes bien que je l'ai déjà fait. Malheureusement,
+il semblerait que tu sois condamné à rester ici quelques jours de plus.
 
-— Tu ne vas pas me dire qu'elle ne peut pas ?
+— Tu ne vas pas me dire qu'elle ne peut pas me faire sortir de là ?
 
-— Peut-être juste qu'elle ne veut pas. »
+— Il y a des implications politiques. Elle ne peut pas se permettre de
+se mettre à dos la garde. Pas en ce moment. »
 
 Kalia donna un gros coup de pied contre la grille, ce qui eut comme
 effet principal de lui faire mal aux orteils.
@@ -597,7 +593,7 @@ l'information. Sauf s'ils sont dans le coup.
 — Peut-être qu'il n'y a pas de complot ?
 
 — Peut-être. Je vais quand même essayer de me
-renseigner. On reste en contact ?
+renseigner. Je te tiendrai au courant.
 
 — D'accord. Merci pour la lettre, au fait.
 
@@ -702,7 +698,6 @@ Voilà qui changeait certaines choses.
 façons, elle connaissait la réponse. Elle se demandait juste ce que le
 roi du Darnolc cherchait vraiment à détruire : Erekh, ou son propre
 pays ?
-
 À moins que ça n'ait été les deux.
 
 « Avez vous des liens avec des groupes rebelles ? En-dehors de cet
@@ -733,14 +728,13 @@ peux manger quand même ?
 
 — Je croyais que vous n'aviez pas faim ?
 
-— Ben, ce serait quand même dommage de gâcher. »
+— Ben, ce serait quand même dommage que ça se perde. »
 
 
 *****
 
 Axelle eut le droit de manger un morceau avant d'être placée dans une
 cellule délabrée gardée par une sentinelle.
-
 Elle passa la fin d'après-midi à dormir et se réveilla un peu après la
 tombée de la nuit. La sentinelle ronflait, assise sur une chaise
 bancale. Si elle tendait la main à travers les barreaux, elle pouvait
@@ -748,14 +742,12 @@ toucher les clés.
 
 C'était une occasion d'évasion rêvée. À vrai dire, un peu trop
 rêvée. Ça puait le piège à plein nez.
-
 Axelle fonça dedans, estimant que c'était en se jetant dans la gueule
 du loup qu'on pouvait voir le mieux à quoi il ressemblait.
 
 Le garde ne se réveilla pas lorsqu'elle attrapa les clés. Elle ne
 croisa pas de soldats dans le camp. Apparemment, tout le monde dormait
 à poings fermés. 
-
 La plus grande difficulté, c'était sa jambe blessée, qui avait bien du
 mal à la porter. Elle trouva un balai pour lui servir de
 béquille, mais c'était loin d'être une solution idéale. 
@@ -767,14 +759,13 @@ jusque là, dans son sac de vêtements laissé à l'abandon.
 
 Une fois qu'elle l'eut récupérée et passée dans son dos, elle boita
 jusqu'en dehors du campement et commença à se diriger vers le sommet
-de la montage en espérant pouvoir — peut-être — atteindre la
+de la montagne en espérant pouvoir — peut-être — atteindre la
 frontière. 
 
 Elle ne vérifia pas si elle était suivie. C'était évident. À moins que
 Ly n'ait lancé, par dragon, un sort de sommeil, ce qui était peu
 probable, il était inconcevable 
 que son évasion n'ait pas été prévue.
-
 La question était : pourquoi ? Elle pouvait peut-être espérer
 atteindre Erekh en quelques jours. Ou alors elle mourrait de
 faim et de froid. L'un comme l'autre n'apporterait rien aux
@@ -783,7 +774,6 @@ orcs.
 Le commandant du camp lui avait demandé si Erekh avait des liens avec
 les rebelles. Peut-être qu'il espérait qu'elle les localiserait pour
 lui ? 
-
 Dans ce cas, c'était mal parti. Axelle savait vaguement qu'il y avait
 des Nytelovers quelque part dans les montagnes mais, même si elle
 l'avait voulu, elle aurait été bien incapable de les trouver. 
@@ -803,7 +793,6 @@ de franchir la montagne.
 Elle avait mal, froid, soif et faim, mais tout ça, elle commençait à
 s'y habituer. Le vrai problème, c'est qu'elle commençait sérieusement
 à avoir de la fièvre. Elle ne se sentait plus capable de se déplacer.
-
 À vrai dire, elle commençait à croire qu'elle allait mourir lorsqu'un
 petit groupe d'orcs entra dans la grotte. 
 
@@ -830,29 +819,27 @@ c'était la première fois qu'il posait sa main sur une humaine. Il
 avait déjà touché le front de William mais il s'agissait d'un vampire,
 alors c'était sans doute normal qu'il soit plus froid qu'elle.
 
-« _Elle a dit quoi ?_ demanda Erutur, une orque mince à la peau
-  noire et aux cheveux blancs. 
+« Elle a dit quoi ? demanda Erutur, une orque mince aux cheveux blancs. 
 
-— _Qu'elle a été suivie. On va éviter de rentrer au camp tout de
-suite._
+— Qu'elle a été suivie. On va éviter de rentrer au camp tout de
+suite.
 
-— _Merde._
+— Merde.
 
-— _Comme tu dis. Je vais regarder ses blessures. Tu peux faire un feu
-?_
+— Comme tu dis. Je vais regarder ses blessures. Tu peux faire un feu
+?
 
-— _Je vais chercher du bois »_, répondit Erutur en sortant de la
+— Je vais chercher du bois », répondit Erutur en sortant de la
 grotte.
 
-Edine se tourna vers Ogar, un type immense à la peau verte, qui était
+Edine se tourna vers Ogar, un type immense et costaud, qui était
 resté silencieux jusque là.
 
-« _Tu peux aller l'aider ? Et essayer de ramener quelque chose à
-  manger ?_ »
+« Tu peux aller l'aider ? Et essayer de ramener quelque chose à
+  manger ? »»
 
 Ogar hocha la tête et sortit sans un mot. Edine alluma une torche et
 commença à déshabiller Axelle. 
-
 Sa blessure à la jambe n'était pas belle à voir. Il se demanda comment
 elle avait bien pu marcher jusque là. Elle n'aurait même pas dû
 pouvoir poser le pied par terre.
@@ -860,7 +847,6 @@ pouvoir poser le pied par terre.
 Il désinfecta la plaie et lui posa un bandage propre, mais il ne
 pouvait pas faire grand chose de plus. À part peut-être l'amputer,
 mais il espérait qu'il n'aurait pas à en arriver là.
-
 Il examina ensuite l'œil, ou plutôt son orbite, et jura entre ses
 dents. Elle avait été soignée par un véritable boucher. Il savait que
 le nouveau roi avait
@@ -888,30 +874,30 @@ de désinfecter la blessure et de changer le pansement.
 
 Erutur rentra, des branches plein les bras.
 
-« _Alors ?_ demanda-t-elle. 
+« Alors ? demanda-t-elle. 
 
-— _Je change ses pansements », répondit Edine. _Et il y en a un paquet._
+— Je change ses pansements, répondit Edine. Et il y en a un paquet.
 
-— _Tu n'aurais pas une branche droite ? Je voudrais lui
-faire une attelle._
+— Tu n'aurais pas une branche droite ? Je voudrais lui
+faire une attelle.
 
-— _Là ? Non. Je vais essayer de t'en trouver une dehors. Tu penses
-qu'elle va s'en sortir ?_
+— Là ? Non. Je vais essayer de t'en trouver une dehors. Tu penses
+qu'elle va s'en sortir ?
 
-— _Je pense. Elle a l'air solide, mais j'ai peur qu'elle soit
-difficile à transporter._
+— Je pense. Elle a l'air solide, mais j'ai peur qu'elle soit
+difficile à transporter.
 
-— _Comment on va faire ?_ demanda l'orque en allumant le feu. _Je veux
-dire, avec les types qui nous suivent ?_
+— Comment on va faire ? demanda l'orque en allumant le feu. Je veux
+dire, avec les types qui nous suivent ?
 
-— _Si on arrive à atteindre la frontière, ils auront du mal à
-le faire._
+— Si on arrive à atteindre la frontière, ils auront du mal à
+le faire.
 
-— _Sauf que, tu l'as dit, il va falloir la transporter. Il fait froid,
-là haut. Tu es sûr qu'elle tiendra le coup ?_
+— Sauf que, tu l'as dit, il va falloir la transporter. Il fait froid,
+là haut. Tu es sûr qu'elle tiendra le coup ?
 
-— _Ce serait difficile si on passait à pied_, admit Edine. _Mais
-j'espère bien qu'on n'aura pas à le faire_. »
+— Ce serait difficile si on passait à pied, admit Edine. Mais
+j'espère bien qu'on n'aura pas à le faire. »
 
 
 *****
@@ -956,7 +942,7 @@ paysan.
 un moment. Je ne voudrais pas avoir à l'amputer.
 
 — Moi non plus, j'ai déjà perdu un œil... Le problème, c'est
-qu'on ne pas pouvoir rester dans cette grotte éternellement.
+qu'on ne va pas pouvoir rester dans cette grotte éternellement.
 
 — En effet. On va essayer de passer la frontière.
 

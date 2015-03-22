@@ -1,3 +1,4 @@
+
 Chapitre 13
 ===========
 
@@ -146,25 +147,25 @@ sauter ? »
 
 Le jeune orc sursauta lorsque William atterrit derrière lui.
 
-« _C'est moi que tu attends, je crois_, annonça-t-il en orc.
+« C'est moi que tu attends, je crois, annonça-t-il en orc.
 
-— _Je commençais à désespérer, à vrai dire._
+— Je commençais à désespérer, à vrai dire.
 
-— _J'ai eu un contretemps._
+— J'ai eu un contretemps.
 
-— _Ne traînons pas. Je vais te montrer ta planque. »_
+— Ne traînons pas. Je vais te montrer ta planque. »
 
 La planque en question était une petite cave condamnée à l'arrière
 d'une taverne située en face du palais. Le vampire grimaça lorsqu'il
 la découvrit. 
 
-« _C'est là-dedans que je vais devoir rester pendant je ne sais
-  combien de temps ?_
+« C'est là-dedans que je vais devoir rester pendant je ne sais
+  combien de temps ?
 
-— _Je passerai de la nourriture par le soupirail. Il vaudrait
-mieux éviter de sortir._
+— Je passerai de la nourriture par le soupirail. Il vaudrait
+mieux éviter de sortir.
 
-— _Je sens que je vais follement m'amuser._
+— Je sens que je vais follement m'amuser.
 
 
 *****
@@ -247,7 +248,6 @@ de l'année et le brouillard ne venait pas.
 
 Ses plans furent quelque peu contrariés par un message que William lui
 retransmit et qui provenait d'Armand.
-
 Erekh avait attaqué le Darnolc.
 
 
@@ -300,7 +300,7 @@ Cela avait étonné la jeune femme lorsque son amie lui avait confié
 cela. Elle paraissait tellement inébranlable. 
 
 Finalement, cela rassurait un peu l'elfe. Elle n'avait jamais douté
-que la démone eût des sentiments très humains, même si elle le niait,
+du fait que la démone avait en réalité des sentiments très humains, même si elle le niait, 
 mais il lui arrivait parfois de trouver que sa témérité confinait à la
 folie. 
 
@@ -526,13 +526,12 @@ des Onims. Elle ne se sentait pas détendue pour autant : maintenant,
 si les choses se passaient mal, elle aurait la vie de milliers de
 personnes sur la conscience. 
 
-Heureusement qu'elle n'avait pas de conscience.
+Heureusement qu'elle n'était pas censée avoir de conscience.
 
 *****
 
 Axelle traversa le village endormi et se dirigea vers l'ancienne forge,
 espérant y trouver Kalia.
-
 L'elfe s'y trouvait effectivement, mais elle dormait encore. La démone lui
 caressa l'oreille. 
 
@@ -593,65 +592,10 @@ efficaces de le faire.
 Kalia consacra sa dernière journée dans le village à finir les
 réglages de son arme, tandis qu'Axelle échangeait des chauves-souris
 avec William. 
-
 Elles firent ensuite l'amour une dernière fois, même si toutes les
 deux espéraient que ça ne serait pas *vraiment* la dernière. 
 
 Puis elles se rhabillèrent lentement, sans grande conviction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 « J'imagine qu'il faut y aller, soupira Kalia.

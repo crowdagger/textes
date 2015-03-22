@@ -1,3 +1,4 @@
+
 Chapitre 10
 ===========
 
@@ -11,7 +12,6 @@ Ils chevauchaient depuis plusieurs jours. Axelle ne semblait accorder
 aucune importance à la santé de leurs montures ; pas plus qu'à la
 siennne. En effet, malgré les avertissements d'Edine, elle s'était
 rapidement remise à marcher.
-
 À la surprise de l'orc, elle allait pourtant de mieux en mieux. Non
 seulement sa jambe était redevenue capable de la porter mais elle boitait à
 peine. 
@@ -19,17 +19,14 @@ peine.
 La démone, elle, ne partageait pas le soulagement du docteur. D'accord,
 sa jambe allait mieux, mais son œil n'avait toujours pas repoussé
 et elle commençait à croire qu'il ne guérirait pas.
-
 Ce n'était pas absolument dramatique en soi, étant donné qu'après tout
 elle en avait un autre, mais elle commençait à trouver que ses
 pouvoirs avaient fortement décliné depuis qu'elle avait
 abandonné l'Enfer.
 
-Ce n'était pas qu'elle aimait particulièrement sa nature maléfique ou
-qu'elle avait une grand soif de puissance ; elle n'avait jamais ressenti le
+Elle n'aimait pas particulièrement sa nature maléfique et elle n'avait pas une grand soif de puissance ; elle n'avait jamais ressenti le 
 besoin de pousser des « Mouahahahahaha » sous des cieux
 orageux. Non, elle préférait avoir une vie normale, ou presque. 
-
 Le « ou presque » faisait tout de même une sacrée
 différence. C'était ça qui permettait à Axelle de s'empiffrer sans
 craindre de perdre sa ligne, qui faisait qu'elle n'avait pas à se
@@ -549,13 +546,14 @@ Axelle prit donc le chemin le plus direct et parvint à circuler sans
 être interpellée, ce grâce à l'obscurité qui
 commençait à tomber sur la ville, un peu de chance, et une certaine
 aura dont elle n'était pas consciente qui incitait la plupart des gens
-dotés d'un instant de survie à ne pas la remarquer.
+dotés d'un instant de survie à ne pas la remarquer. Ses pouvoirs
+démoniaques n'avaient pas tout à fait  disparu.
+
 
 Elle atteignit ainsi la place de la vertu et ce qu'elle vit lui
 souleva l'estomac. Il y avait des dizaines de 
 personnes nues, pendues par les pieds. Le sol était couvert de sang
 séché. 
-
 Mais le plus horrible, c'était qu'elle pouvait reconnaître sans
 hésitation son amie parmi les cadavres.
 
@@ -614,7 +612,6 @@ pleurer et s'agenouilla à côté de Kalia.
 Les seuls témoins de l'altercation, c'était un couple qui restait
 pétrifié. Ils n'osaient pas crier, de peur de se faire tuer. Ils
 n'avaient pas encore eu l'idée d'aller courir chercher des gardes.
-
 Ils ne tarderaient pas, mais, pour le moment, Axelle était tranquille
 et pouvait laisser couler ses larmes en silence.
 

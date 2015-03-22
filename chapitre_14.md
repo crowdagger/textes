@@ -1,10 +1,10 @@
+
 Chapitre 14
 ===========
 
 William attendait, assis sur le rebord du toit du palais, à côté des
 cadavres des deux gardes. Il fumait une cigarette qu'il avait récupérée
 dans la poche d'un des hommes. 
-
 À ses côtés, Angèle essayait de lui saper le moral.
 
 « D'accord, tu as réussi à atteindre le toit sans te faire
@@ -21,7 +21,6 @@ mal tourner pour autant. C'est peut-être ta dernière clope, tu sais ?
 
 Le vampire écrasa sa cigarette et fit un geste au dragon afin de
 guider comme il le pouvait son atterrissage. 
-
 Axelle en descendit, puis Kalia.
 
 « Content de vous revoir, chuchota William. Et de me dégourdir un peu
@@ -92,7 +91,7 @@ en train de se redresser ; mais aucune balle ne la toucha.
 Ce n'était pas que l'elfe avait particulièrement mal visé : une bonne
 moitié des projectiles auraient atteint leur cible si elles ne s'étaient
 pas mises à flotter devant la jeune orque, immobiles et, par
-conséquent, inoffensives.
+conséquent, inoffensifs.
 
 *****
 
@@ -158,7 +157,7 @@ blessé pour limiter l'hémorragie.
 
 — Tu crois sérieusement qu'elle me contrôle ? demanda le roi du
 Darnolc en levant les yeux au ciel. Ce n'est pas elle qui m'a
-invoquée. Elle m'a libéré. Oh ? J'imagine que ceux qui t'ont envoyée
+invoquée. Elle m'a *libéré*. Oh ? J'imagine que ceux qui t'ont envoyée
 ne t'ont pas parlé de ça ?
 
 
@@ -189,7 +188,7 @@ mais je suppose que tu t'en fiches.
 — Pourquoi quoi ? » demanda Okyst en se baissant et en posant son
 pied sur le bras blessé de Kalia, ce qui lui arracha un cri de
 douleur. C'était la première fois que l'elfe pouvait vraiment voir à
-quoi ressemblait son ennemie : une jeune femme à la peau sombre, aux
+quoi ressemblait son ennemie : une jeune femme aux
 cheveux blonds et aux yeux déments.   
 
 « Pourquoi est-ce que vous avez invoqué ce démon, pour
@@ -200,7 +199,9 @@ sont tes maîtres. Ça leur permettait d'avoir un pantin complètement
 contrôlable au service d'Erekh. Moi, j'ai juste appris la magie.  Je l'ai
 libéré. 
 
-— Quoi ? » demanda Kalia, stupéfaite. Alors l'ennemi mortel d'Erekh
+— Quoi ? » demanda Kalia, stupéfaite.
+
+Alors l'ennemi mortel d'Erekh
 n'était finalement que sa propre création ? 
 
 « J'en avais assez d'être impuissante, que notre pays
@@ -357,12 +358,16 @@ sourire dément. Là où c'est drôle, c'est que je ne sais pas si c'est la mien
 tienne qui est aspirée. Sûrement les deux. »
 
 Elle n'arrivait plus, en effet, à détacher sa main de l'arme. Et elle
-sentait l'épée la dévorer de l'intérieur.
+sentait l'épée la dévorer de l'intérieur. Elle n'était pas faite pour
+porter cette arme, destinée à un mystérieux *Élu*. Sans doute un
+connard de gamin qui vivait tranquillement à la campagne, pendant
+qu'elle se chargeait du sale boulot alors que ce n'était pas à elle de
+le faire. 
 
 Estimant qu'elle n'avait pas le cœur assez pur pour porter une
 telle arme plus longtemps, Axelle retira l'autre épée des griffes de
 son ennemi agonisant, ferma les yeux et, d'un geste sec, se trancha le
-poignet droit.   
+poignet droit.
 
 Elle conserva peut-être son âme, mais perdit toute l'énergie que
 l'arme lui avait donnée et son corps s'écroula au sol pour la dernière
@@ -377,40 +382,40 @@ Etip, capitaine d'escadron chez les Onims, pénétra dans le palais, un
 contrôlaient presque toute la ville et espérait donc qu'il n'y aurait
 plus trop de résistance dans le dernier bâtiment dont l'issue était indéterminée.
 
-« _On en est où ?_ demanda-t-il à un des orcs présents dans
+« On en est où ? demanda-t-il à un des orcs présents dans
   le hall.
 
-— _On contrôle le rez-de-chaussée et le premier étage. Au
-  dessus, c'est plus compliqué. 
+— On contrôle le rez-de-chaussée et le premier étage. Au
+  dessus, c'est plus compliqué.
 
-— _Vous savez où est le roi ?_
+— Vous savez où est le roi ?
 
-— _Dans les étages supérieurs, apparemment._ 
+— Dans les étages supérieurs, apparemment.
 
-— _Bien. Vous tous, là, vous venez avec moi, on va voir ce qu'il en est._
+— Bien. Vous tous, là, vous venez avec moi, on va voir ce qu'il en est.
 
-— _Euh... on s'est dit qu'on pourrait attendre un peu. Les
-  envoyés d'Erekh doivent s'en occuper._
+— Euh... on s'est dit qu'on pourrait attendre un peu. Les
+  envoyés d'Erekh doivent s'en occuper.
 
-— _Le sort du Darnolc dépend de ça. On y va. »_
+— Le sort du Darnolc dépend de ça. On y va. »
 
 Etip se précipita dans les escaliers, accompagné d'une quinzaine
 d'hommes. Ils montèrent trois étages avant de tomber sur d'autres
 Onims.
 
-« _Il y a encore une poche de résistance ici_, expliqua un
+« Il y a encore une poche de résistance ici, expliqua un
   orc.
 
-— _Vous savez où est le roi ?_ demanda Etip.
+— Vous savez où est le roi ? demanda Etip.
 
-— _Au-dessus. On a entendu des coups de feu._
+— Au-dessus. On a entendu des coups de feu.
   
-— _Et vous n'êtes pas allés voir ?_
+— Et vous n'êtes pas allés voir ?
 
-— _Euh... ben, on se disait, c'est peut-être plus sûr
-  d'attendre,  hein ? C'est un démon..._
+— Euh... ben, on se disait, c'est peut-être plus sûr
+  d'attendre,  hein ? C'est un démon...
 
-— _Je vois. Fini de lambiner, on y va. »_
+— Je vois. Fini de lambiner, on y va. »
 
 Ils montèrent les derniers escaliers avec plus de précaution que les
 précédents, mais il n'y avait plus de bruit de combat, à part ceux
@@ -419,58 +424,58 @@ qu'on entendait venant de l'étage du dessous.
 Etip fit signe à ses hommes de prendre position dans les deux pièces,
 puis entra dans la chambre d'Okyst à la suite d'un petit groupe.
 
-« _Deux morts et une fille vivante. Humaine »_, constata un orc.
+« Deux morts et une fille vivante. Humaine », constata un orc.
 
 Etip jeta un coup d'œil et aperçut Kalia, qui était assise par
 terre, contre le mur. À première vue, elle ne lui paraissait pas dangereuse.
 
-« _Bien. Surveillez-la._
+« Bien. Surveillez-la.
 
-— _Hé ! » fit un orc. _Celui-là est vivant._ »
+— Hé ! » fit un orc. Celui-là est vivant. »
 
 Il parlait de William, qui n'était pourtant plus vraiment vivant
 depuis un bout de temps mais était encore capable de bouger un peu,
 malgré le fait que la majorité de sa peau avait brûlé. 
 
-« _Avec qui il est ?_ demanda Etip, tandis que des hommes
+« Avec qui il est ? demanda Etip, tandis que des hommes
   pointaient leur arme vers lui.
 
-— _Arrêtez !_ protesta Kalia dans un orc approximatif. _On
-  est avec les Nytelovers !_ 
+— Arrêtez ! protesta Kalia dans un orc approximatif. On
+  est avec les Nytelovers !
 
-— _Nytelovers ? Bon, surveillez les deux. On verra
-  après._ »
+— Nytelovers ? Bon, surveillez les deux. On verra
+après. »
 
 Il sortit ensuite de la chambre et se dirigea vers l'autre.
 
-« _Juste des cadavres, ici_, rapporta un de ses
-  hommes. _C'est... immonde. »_ 
+« Juste des cadavres, ici, rapporta un de ses
+  hommes. C'est... immonde. »
 
 Etip aperçut le sang, les entrailles, la main coupée et dut se retenir
 pour ne pas vomir. 
 
-« _D'accord. Vérifiez juste que le roi est bien mort._
+« D'accord. Vérifiez juste que le roi est bien mort.
 
-— _Déjà fait. Il est froid._
+— Déjà fait. Il est froid.
 
-— _Bien. Bien, bien. On dirait que le Darnolc n'a plus de
-  dirigeant._
+— Bien. Bien, bien. On dirait que le Darnolc n'a plus de
+  dirigeant.
 
-— _Hé ! » fit une voix derrière lui. _Arrêtez !_ »
+— Hé ! » fit une voix derrière lui. Arrêtez ! »
 
 Le capitaine se retourna et aperçut l'elfe blessée qui essayait de
 rentrer dans la pièce ; mais elle perdit l'équilibre et s'écroula juste
 devant la porte.
 
-« _Vous êtes blessée_, expliqua Etip en essayant de la
-    redresser un peu. _Ne bougez pas._
+« Vous êtes blessée, expliqua Etip en essayant de la redresser un
+peu. Ne bougez pas. 
 
-— _Veux savoir... comment elle va..._, supplia Kalia.
+— Veux savoir... comment elle va..., supplia Kalia.
 
-— _Je suis désolé_, reprit le capitaine, _mais la femme
-  qui est dans cette pièce est morte._ »
+— Je suis désolé, reprit le capitaine, mais la femme
+  qui est dans cette pièce est morte. »
 
-Étrangement, Kalia arbora un léger sourire.
+Kalia arbora un sourire triste.
 
 « Je l'avais bien dit, que ça ne se passerait pas comme prévu. »
 

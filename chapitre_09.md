@@ -1,3 +1,5 @@
+
+
 Chapitre 9
 ==========
 
@@ -23,7 +25,6 @@ sortirait de là, pour commencer.
 Malgré cet espoir, Kalia passa un certain temps à regarder si elle
 pouvait s'évader, estimant qu'on n'était jamais mieux servi que par
 soi-même, mais elle ne trouva rien de bien concluant.  
-
 La porte était solide — les cellules avaient été rénovées l'année
 précédente — 
 et bien ancrée au mur. La prisonnière n'avait rien qui aurait pu lui
@@ -41,7 +42,6 @@ barreaux.
 Kalia parvint à en desceller un, qui bougeait déjà au départ, au bout
 de deux jours de travail. Elle abandonna cependant en réalisant qu'il y en
 avait encore cinq à enlever et qu'ils semblaient plus solidement placés.
-
 Elle se résigna donc à passer un bon moment dans sa petite cellule et 
 essaya d'en voir les bons côtés. À vrai dire, il n'y en avait pas
 beaucoup.  
@@ -125,11 +125,10 @@ Un homme moins sûr de son hallucination se serait sans
 doute demandé s'il y avait vraiment des assaillants et si une
 « amie » imaginaire était vraiment fiable. Mais, là encore,
 William décida qu'il pourrait se poser des questions plus tard. 
-
 Il se précipita donc vers l'homme et lui ordonna de fermer la
 porte ; mais le garde se contenta de rester immobile et de sourire. 
 
-« Je ne crois pas, monsieur. »
+« Je ne crois pas, Monsieur. »
 
 Le vampire leva un peu sa lèvre supérieur, dévoilant ses impressionnantes
 canines. 
@@ -235,7 +234,6 @@ mettre à terre et lui prendre les clés, mais pour faire mal, pour
 détruire, pour se venger de toutes ces années où on s'était moqué
 d'elle parce qu'elle était trop gentille. Ils ne comprenaient que la
 force ? Elle pouvait s'y mettre aussi.
-
 Maxime avait pris pour tous les autres. Ce n'était pas très juste,
 mais on lui avait fait comprendre pendant des années que la vie était
 injuste. 
@@ -310,9 +308,7 @@ idée de ce qu'elle pouvait faire et qu'elle était seule : Axelle était
 loin et William à l'autre bout de la ville. 
 
 L'adrénaline tombée, elle se rendit enfin compte qu'elle avait peur. Énormément
-peur. 
-
-Si seulement Axelle était là, avec elle...
+peur. Si seulement Axelle était là, avec elle...
 
 En attendant, ce qu'il lui fallait, c'était quelque chose à boire.
 
@@ -321,7 +317,6 @@ En attendant, ce qu'il lui fallait, c'était quelque chose à boire.
 *****
 
 Kalia entra dans la taverne « Aux vieux brigands ».
-
 La dernière fois, on ne l'avait pas laissée rester, mais les choses
 avaient changé, depuis. Elle n'était plus garde. Elle espérait au moins
 qu'elle pourrait prendre un verre.
@@ -366,7 +361,6 @@ Le quinquagénaire se tourna et examina ses bouteilles pendant quelques
 secondes. Il hésita un peu, puis en prit une qui ne portait pas
 d'inscription. On pouvait tout de même la distinguer des autres
 parce qu'il y avait un serpent à l'intérieur.
-
 Il servit un petit verre et le tendit à la jeune femme, qui l'avala
 cul-sec. Son visage se colora instantanément. De même que ses yeux.
 
@@ -400,25 +394,21 @@ considéraient presque comme l'une des leurs.
 
 Or, le quartier Nain était situé au nord du Déni. Les deux quartiers
 étaient placés de part et d'autre de la Porte Est.
-
 Tout le monde n'accepterait pas forcément le duc de
 Léhen 
 naturellement comme souverain et, surtout, la reine devait encore avoir
 quelques atouts dans sa manche.
-
 Il était donc probable qu'il enverrait son armée. À une époque,
 tous les seigneurs en avaient une plus ou moins conséquente ; le
 général était un des seuls qui avaient perpétué sérieusement  cette
 vieille tradition. Comme son duché se situait à l'est de Nonry, il
 était probable qu'il passerait par la Porte Est pour entrer dans la
 capitale. Elle n'était jamais fermée en temps normal et, si les
-gardes  
-étaient partisans de Léhen, ils ne verraient aucune raison de les
+gardes étaient partisans de Léhen, ils ne verraient aucune raison de les
 rabattre. 
 
 À moins que quelqu'un d'autre ne le fasse. Il y avait un coup à
 tenter. 
-
 Ça ne changerait peut-être pas grand-chose, parce qu'il suffirait que
 les soldats contournent par le sud ou par l'ouest, voire tentent le
 passage en force, mais ça pourrait peut-être donner du temps aux
@@ -440,7 +430,7 @@ porter l'épée de Lumina.
 « Vous n'avez pas appris à frapper ? demanda Lucie de Guymor en se
   tournant vers le vampire. Nous étions en réunion...
 
-— Nous sommes attaqués, mademoiselle, coupa William. Vous devriez
+— Nous sommes attaqués, Mademoiselle, coupa William. Vous devriez
 vous enfuir.
 
 — C'est ridicule. Je ne compte pas abandonner la couronne. »
@@ -458,7 +448,7 @@ La reine grimaça. La menace semblait sérieuse.
 
 « Gérald ? demanda-t-elle. Tu penses que tu peux le battre ?
 
-— Je ne sais pas, majesté, répondit le jeune homme. Je ne suis pas...
+— Je ne sais pas, Majesté, répondit le jeune homme. Je ne suis pas...
 
 — Combien d'hommes en face ? demanda subitement le vampire.
 
@@ -470,8 +460,8 @@ Angèle disparut, puis réapparut quelques secondes plus tard.
 « Dur à dire. Il y a des traîtres parmi les gardes royaux. Ça se
   bat déjà à l'intérieur.
 
-— Ils sont proches, mademoiselle. Vous devez
-partir.  
+— Ils sont proches, Mademoiselle. Vous devez
+partir.
 
 — Ne dis pas merci, surtout », grommela Angèle.
 
@@ -500,7 +490,6 @@ Kalia voulut grimper au sommet de la Porte Est pour vérifier si l'armée de
 Léhen approchait et, si oui, savoir à quelle distance elle était, mais
 elle ne put le faire car des gardes l'en empêchèrent. Tous les accès
 étaient bloqués. 
-
 *A priori*, cela confirmait son hypothèse : Léhen devait
 s'approcher par ce côté. À moins qu'il ne soit déjà en ville et qu'il
 attende les 
@@ -569,7 +558,7 @@ avait aussi quelques humains, mais ils étaient en minorité.
 Kalia se sentait un peu mal à l'aise. Elle ne voyait pas comment elle
 pourrait attirer leur attention.
 
-« Je peux vous aider, mademoiselle ? demanda un ouvrier qui tirait un
+« Je peux vous aider, Mademoiselle ? demanda un ouvrier qui tirait un
   chariot. 
 
 — Euh, fit l'elfe. Je ne sais pas. Peut-être.
@@ -592,7 +581,6 @@ impressionnant.
 Les soldats occupaient la cour du palais et commençaient à peine à se
 répartir dans le bâtiment à la recherche de la reine lorsque l'un
 d'entre eux la vit, courant dans un couloir.
-
 Il rameuta immédiatement d'autres de ses camarades, qui se mirent à
 la poursuivre. Malgré sa robe, elle courait étonnamment vite et se
 dirigeait vers les escaliers. 
@@ -602,12 +590,11 @@ rejoindre et à l'attraper par le bras. Il reçut en réponse un coup de
 pied dans les parties sensibles et dut lâcher sa cible. La jeune femme
 se remit à courir et grimpa quatre à quatre les escaliers qui menaient
 aux toits.
-
 Là, elle réalisa qu'elle était coincée. Elle était bien loin du sol et
 les autres bâtiments étaient trop loin.
 
 
-« Alors, majesté ? fit un des gardes en ricanant. On dirait que
+« Alors, Majesté ? fit un des gardes en ricanant. On dirait que
   votre règne touche à sa fin. 
 
 — Ça fait un bout de temps », répliqua William en se retournant.
@@ -667,7 +654,6 @@ de terminer sa phrase.
 Le toit s'écroula brusquement sous leurs pieds. Les soldats
 dégringolèrent, abasourdis, sans comprendre ce qu'il se
 passait. 
-
 Quelques secondes plus tard et deux étages plus bas, le vampire fut le
 seul à se relever promptement. Il sortit de la pièce en courant. Deux
 soldats essayèrent de le suivre, mais un mur de feu leur barra
@@ -678,7 +664,7 @@ inquiet.
 
 « Ça va ? demanda-t-il.
 
-— 'Connu pire, répondit William. Mais qu'est-ce que tu foutais ?
+— Connu pire, répondit William. Mais qu'est-ce que tu foutais ?
 
 — Il y avait des gardes, j'ai dû...
 
@@ -693,7 +679,6 @@ C'est là que William réalisa qu'il y avait une faille dans son
 plan. Il avait prévu de se déguiser en reine pour attirer l'attention,
 puis de s'échapper grâce au mage, mais il avait oublié un petit
 détail : comment sortir du palais ?
-
 Il se précipita vers une fenêtre et constata qu'ils étaient encore au
 troisième étage. C'était un peu haut pour sauter. 
 
@@ -740,7 +725,12 @@ brouhaha mentionné. Le pire, c'était que parfois un nain répondait en
 hurlant à une discussion privée ou au contraire baissait soudain la
 voix pour s'adresser uniquement à ses voisins les plus proches.
 
-Kalia avait beaucoup de mal à suivre, surtout que les discussions se
+Quelques contremaîtres avaient voulu remettre tout le monde au
+travail, mais les nains les avaient poliment envoyé promener. Les
+contremaîtres avaient alors insisté, et s'étaient cette fois fait
+remballer beaucoup moins poliment. 
+
+Kalia avait beaucoup de mal à suivre ce qui se passait, surtout que les discussions se
 faisaient pour la plupart en nain et qu'elle ne maîtrisait pas
 totalement le langage. Les quelques humains qui travaillaient à la
 forge semblaient encore plus perdus qu'elle.
@@ -801,7 +791,7 @@ Kalia ne put retenir un léger sourire : il n'y avait vraiment que des
 nains pour la qualifier de « grande ».
 
 « Les gardes ne laissent approcher personne, mais je suis monté
-  dans un immeuble à côté de la Porte. Il y a bien une armée qui
+  sur le toit d'un bâtiment, à côté de la Porte. Il y a bien une armée qui
   approche. Je dirais qu'ils seront à Nonry d'ici une heure ou deux. »
 
 L'annonce fut suivie d'un nouveau brouhaha. Kalia leva la main pour
@@ -866,7 +856,7 @@ Le mage jeta un coup d'œil rapide à travers la vitre.
 
 Le vampire soupira. La même idée lui avait traversé la tête, mais il
 refusait de penser à ce qu'il se passerait s'il atterrissait
-*sur » le petit muret au lieu de *derrière*. Surtout que, le
+*sur* le petit muret au lieu de *derrière*. Surtout que, le
 soleil n'étant pas encore couché, son sang surnaturel ne lui serait
 d'aucune utilité.
 
@@ -981,16 +971,17 @@ on ne peut pas vraiment se permettre beaucoup plus. »
 Le garde jeta un coup d'œil rapide à ce qu'il avait en face de
 lui. Il y avait un bon paquet de nains, auxquels s'étaient mêlés
 quelques humains en plus.
-
 Le plus embêtant, c'était que la foule était armée. Il y avait un
-certain nombre de haches, mais aussi quelques arbalètes, deux fendoirs
-de bouchers, trois masses d'armes et un balai. 
+certain nombre de haches, les nains étant culturellement très attachés
+à ces objets, ainsi que quelques arbalètes. Il y avait aussi et
+surtout un bon nombre d'armes improvisées : des outils, des barres de
+fer, et même un balai.
 
 « Hum, fit le garde en reculant de quelques pas. Je vous demande
   de déposer vos armes....
 
 — C'est toi qui va poser les tiennes ! cria un nain vers le fond. Ou
-alors, *schlick ! »*
+alors, *schlick !* »
 
 Le garde déglutit et commença à trouver la situation vraiment
 inconfortable.
@@ -1044,7 +1035,6 @@ de moi, d'accord ? »
 Les autres gardes furent à peine plus durs à convaincre. Ils
 commencèrent par protester mais réalisèrent rapidement
 que le rapport de force n'était pas en leur faveur.
-
 Il n'y eut que le capitaine pour s'obstiner. C'était l'homme avec qui
 Kalia s'était déjà frottée le jour de l'arrestation de Grimmel. 
 
@@ -1166,7 +1156,6 @@ sur la muraille et autour de la Porte avec le soutien des gardes,
 ceux qui avaient des arbalètes ou des armes de jet en haut et ceux
 qui avaient des armes de corps à corps derrière, au cas où leurs
 ennemis parviendraient à entrer.
-
 D'autres personnes avaient commencé à monter des barricades, au cas où
 des renforts rappliqueraient depuis l'intérieur de la ville. 
 
@@ -1180,20 +1169,18 @@ risquaient de se retrouver prises entre deux feux.
 
 *****
 
-Lorsqu'elle entra dans la taverne, Kalia constata que, si la porte était ouverte,
+Lorsqu'elle entra dans l'établissement, Kalia constata que, si la porte était ouverte,
 il n'y avait personne à l'intérieur. La salle principale semblait par
 ailleurs avoir été dévastée : les tables manquaient et il ne restait
 plus que chaises qui gisaient, renversées. Même la barre verticale
 dont les danseuses se servaient avait été arrachée.
-
 Qu'avait-il bien pu se passer ?
 
-Kalia ressortit de la taverne en se demandant si des combats avaient
+Kalia ressortit du Chaud Dragon en se demandant si des combats avaient
 déjà eu lieu à cet endroit, puis elle réalisa qu'un groupe de
 personnes s'affairaient au bout de la rue.
-
-Lorsqu'elle s'approche, elle comprit : les travailleuses du Chaud
-Dragon étaient en train de monter une barricade.
+Lorsqu'elle s'approcha, elle comprit : les travailleuses de la taverne
+étaient en train de monter une barricade.
 
 « Qu'est-ce que vous faites ? » demanda-t-elle.
 
@@ -1236,7 +1223,7 @@ deux, et portait la non moins classique et non moins blanche barbe.
 « Vous désiriez me voir ? demanda-t-il.
 
 — Oui. Nous nous excusons de vous déranger,
-monsieur, mais il s'agit d'une affaire de la plus haute importance. »
+Monsieur, mais il s'agit d'une affaire de la plus haute importance. »
 
 Le recteur laissa tomber son regard sur la chemise du vampire. En plus
 d'être trempée, elle était déchirée et maculée de sang.
@@ -1261,12 +1248,11 @@ neutre. Vous pouvez disposer. »
 William haussa les épaules. L'issue de la conversation ne l'étonnait
 guère, à vrai dire.
 
-« Comme vous voulez, monsieur. Gérald, tu restes ici ? Tu en as
+« Comme vous voulez, Monsieur. Gérald, tu restes ici ? Tu en as
   déjà assez fait comme ça et ça pourrait être dangereux, dehors.
 
 — Oh, d'accord, fit le jeune homme en sautant sur l'occasion de se
-mettre à l'abri. Oui, je
-crois que je vais rester là.
+mettre à l'abri. Oui, je crois que je vais rester là.
 
 — À plus tard, alors », lança William en se dirigeant vers les
 escaliers. « Oh. Avant de partir. Vous n'auriez pas une cigarette,
@@ -1346,7 +1332,6 @@ passer pendant un moment, mais elle ne tiendrait pas éternellement.
 William sautait de toit en toit pour ne pas être vu des soldats. En
 tout cas, il avait sauté au départ, mais il se contentait à présent de
 clopiner, une main sur sa blessure au ventre.
-
 En plus de ça, il avait affreusement envie d'une cigarette, mais il
 avait perdu son tabac en plongeant dans la Malsaine. 
 
@@ -1750,12 +1735,10 @@ grande effusion de sang. Il avait emprunté une arbalète à un émeutier et
 
 Il avait un avantage : il était parmi les meilleurs pour se fondre
 dans l'obscurité, devenant pratiquement invisible pour l'œil non
-expert.  
-
+expert.
 L'ennui, c'était qu'il faisait jour et que le peu d'ombre qu'il y avait
 lui permettait peut-être que sa peau brûle un peu moins, mais
 certainement pas de passer inaperçu. 
-
 Le fait qu'il soit blessé et encore humide ne l'aidait certainement
 pas. Ce n'est donc pas par manque d'effort ou par incompétence qu'il
 fut repéré, mais simplement parce que les circonstances jouaient
@@ -1823,7 +1806,6 @@ moins, mais il s'en tirera.
 Le soldat commença à tirer la corde, qui glissa autour d'une poulie et
 éleva les pieds de William de quelques centimètres, provoquant sa
 chute contre le sol poussiéreux.
-
 Ensuite, le soldat continua à tirer et le vampire monta progressivement,
 la tête en bas. Lorsque ses poignets furent à la bonne hauteur, le
 garde sortit sa dague et les lui entailla, avant de retourner
@@ -1833,7 +1815,6 @@ Pour ce qu'il en avait compris, l'idée de ce petit manège
 était de pendre, dans une position humiliante et douloureuse, c'est à
 dire nues et la tête en bas, les personnes responsables des désordres
 dans l'est de la ville jusqu'à ce qu'ils se vident de leur sang. 
-
 William n'était pas véritablement responsable de ces troubles, mais,
 apparemment, les gens du quartier Haut tenaient à voir que les soldats
 avaient les choses en main, aussi la notion de « responsable »
@@ -1869,17 +1850,15 @@ pont. Kalia reconnut un certain nombre de ses anciens collègues.
 
 Il y avait quelques drapeaux aux couleurs du duché de Léhen : blancs
 avec un aigle jaune. 
-
 La jeune femme décida de faire la même chose qu'eux et attacha son
 foulard noir à un manche à balai. Elle ne
-savait pas trop si c'était pour symboliser la colère ou la mort
+savait pas trop si ça symbolisait la colère ou la mort
 imminente, mais elle trouvait que la couleur allait bien aux
 circonstances. 
 
 Une fois qu'elle eut réalisé son drapeau de fortune, Kalia escalada la
 barricade et redescendit de l'autre côté, sous les regards surpris de
 ses compagnons et des gardes ennemis.
-
 Elle s'avança vers ces derniers et, fait surprenant, atteignit indemne
 le tiers du pont, où elle se trouvait presque face à face avec les
 gardes. 
@@ -1893,7 +1872,6 @@ portait, même s'il était un peu ridicule, elle ne l'aurait lâché pour
 rien au monde. Il donnait un sens à ce qu'elle faisait :
 mourir avec un drapeau à la main, c'était héroïque, épique, ce n'était
 pas mourir pour rien, juste parce qu'on avait eu une idée stupide.
-
 C'était rassurant, au moins un tout petit peu.
 
 « Je ne compte pas me rendre. Je veux juste dire
@@ -1936,7 +1914,6 @@ résultats. Peut-être même que le fait qu'aucun d'eux n'ait encore tiré
 
 L'ennui était que, si aucun des gardes n'avait obéi à l'ordre du
 capitaine, ce dernier possédait aussi une arbalète.
-
 Le carreau s'enfonça dans la poitrine de Kalia, lui déchirant le
 poumon gauche. 
 

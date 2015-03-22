@@ -1,3 +1,4 @@
+
 Chapitre 11
 ===========
 
@@ -31,7 +32,6 @@ paraissaient maintenant si dérisoires.
 
 Sa mère ? Kalia ne se souvenait même pas d'elle. Cela dit, elle devait
 l'aimer, sûrement. Au fond d'elle-même. Peut-être. 
-
 Enfin, ce n'était pas elle qui comptait le plus.
 
 « Et Axelle ? » demanda-t-elle.
@@ -98,7 +98,6 @@ Axelle referma la porte derrière William et retourna dans la chambre
 veiller sur son amie.
 
 Lorsqu'elle pénétra dans la pièce, elle se figea.
-
 L'elfe était debout, la peau pâle et le regard le vide. Elle
 avançait lentement, en trébuchant, les bras ballants. 
 
@@ -149,18 +148,17 @@ qu'au milieu de batailles de rue, quand bien même elle appréciait la
 confusion de ce genre de combats.
 
 Non seulement Kalia ne lui posa pas de question, mais elle
-l'embrassa. L'elfe pensa fugitivement qu'elle aurait dû être être  
-plus craintive et hésitante, mais venir de frôler la mort, sans
+l'embrassa. L'elfe pensa fugitivement qu'elle aurait dû être être plus
+craintive et hésitante, mais venir de frôler la mort, sans 
 compter la joie de retrouver Axelle en vie, lui
-permettait sans doute de moins se poser de questions qu'à  
+permettait sans doute de moins se poser de questions qu'à
 l'accoutumée. Il n'est pas impossible non plus que le sang de vampire
 que lui avait 
 fait avaler William ait eu un certain effet euphorisant.
 
 Toujours est-il qu'elle se mit à déboutonner la chemise de son amie,
 tandis que celle-ci  arrêtait de caresser son oreille pour faire
-descendre lentement sa main  
-vers son cou, puis vers sa poitrine.
+descendre lentement sa main vers son cou, puis vers sa poitrine.
 
 La respiration de Kalia s'accéléra tandis que 
 la main 
@@ -196,76 +194,6 @@ détestes et je rêverais de te voir avec. C'est quand même bête, non ?
 peut faire avec. »
 
 Ensuite, elles firent l'amour.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 *****
 
@@ -343,7 +271,7 @@ pas une mince affaire, car les personnes qui vivaient là devaient bien
 mesurer vingt centimètres de plus qu'elle. Elle parvint tout de même à
 trouver une chemise dont les manches ne 
 faisaient pas deux fois la taille de ses bras et enfila un pantalon
-d'homme, trop large et trop long. Elle trouva une ceinture qui lui
+trop large et trop long. Elle trouva une ceinture qui lui
 permit de résoudre le premier problème, mais restait la longueur.
 
 « Hmmm, fit Axelle qui s'était réveillée à son tour et constatait
@@ -496,7 +424,7 @@ depuis un certain temps.
 
 — Seulement quand je vois de la bonne viande.
 
-— La ville est à feu et à sang, et monsieur fait la popote, railla
+— La ville est à feu et à sang, et Monsieur fait la popote, railla
 la démone.
 
 — Et vous deux, vous allez me faire croire que vous vous êtes
@@ -966,7 +894,7 @@ telle expérience, on ait un peu tendance à se sentir invincible.
 pour me donner des conseils de prudence.
 
 — Oui, mais moi, répliqua William en souriant, j'ai de l'expérience
-dans le domaine. Et du sang de vampire — quoique tu en ais aussi eu
+dans le domaine. Et du sang de vampire, quoique tu en ais aussi eu
 ta dose récemment. Excuse-moi, je ne voulais pas
 te vexer, mais...
 
@@ -980,16 +908,15 @@ l'elfe tourna la tête.
 
 *****
 
-Kalia s'arrêta devant le Chaud Dragon, qui était passé au cours de la
-nuit de l'autre côté des barricades — plus exactement, c'était
-elles qui étaient passées d'un côté à l'autre de la rue.
+Kalia s'arrêta devant le Chaud Dragon, qui était repassé au cours de la
+nuit de l'autre côté des barricades. Plus exactement, c'était
+celles-ci qui étaient passées d'un côté à l'autre de la rue. 
 
 « Je vais voir s'il y a du monde, histoire de les rassurer sur
   Axelle. »
 
 William la suivit à l'intérieur et s'arrêta à côté d'elle, surpris par
 le spectacle. 
-
 La taverne était méconnaissable. La plupart des meubles n'étaient plus
 là, mais sur les barricades. À la place, la grande salle servait
 d'infirmerie, tandis qu'une carte sommaire avait été déployée sur le
@@ -1078,8 +1005,8 @@ tu as des informations qui pourraient m'intéresser.
 
 — Vous voulez vous débarrasser de mon maître ?
 
-— J'ai besoin de plus d'informations pour en décider. Enfin, c'est
-assez probable quand même.
+— J'ai besoin de plus d'informations pour en décider. Cela dit, je
+pense que cela risque d'arriver.
 
 — Et votre argument, c'est que j'y gagnerais aussi. 
 
@@ -1118,18 +1045,21 @@ une ferme et cultiver des champs. Ou voler des riches marchands et
 passer tes soirées à boire dans des tavernes, ce qui est sans doute
 plus amusant. Et si tu me demandes une grosse quantité d'argent parce
 que tu trouves que c'est concret, je dois pouvoir te la trouver. Tu
-veux quoi, *toi* ?
+veux quoi, *toi* ? »
 
-— Je voudrais une petite maison, fit Eryna, le regard
-rêveur. Seule. Au bord de la mer. Je n'ai jamais vu la mer. 
+Eryna hésita un instant.
 
-— Au bord de la mer ? D'accord. Marché conclu ? »
+« Je voudrais une petite maison, finit-elle par dire. Seule. Au bord
+de la mer. Je n'ai jamais vu la mer.  
+
+— Ça me paraît envisageable, répondit Axelle avec un petit
+sourire. Marché conclu ? »
 
 
 *****
 
 Kalia bâilla tandis que le patient dont elle s'était occupée se
-rhabillait, pendant qu'Edine finissait de bander un blessé.
+rhabillait. De son côté, Edine finissait de bander un blessé.
 
 « C'est bien là, le médecin ? lança quelqu'un en entrant dans
   l'espace qui servait d'infirmerie. 
@@ -1154,7 +1084,7 @@ compresse tandis que l'orc s'apprêtait à retirer le morceau de bois.
 
 « En venant ici. J'espérais que dans le noir ces cons n'arriveraient
   pas à me toucher, mais il y en a un qui a dû avoir un coup
-  de... *aïe ! »... chance.*
+  de... *aïe !*... chance. »
 
 L'orc venait de retirer la flèche et appliquait la compresse contre la
 plaie. 
@@ -1229,7 +1159,6 @@ brouhaha ne se calme assez pour lui permettre d'être entendu.
 
 Il y eut cette fois-ci quelques vivats. On cria : « Vive la
   reine! »
-
 Ni Axelle, ni Kalia ne participèrent à la brève euphorie. Elles
 se posaient silencieusement la question : « qu'est-ce qu'elle lui
   a donné pour obtenir ça ? »
@@ -1287,7 +1216,6 @@ expliqua que c'était ainsi qu'il serait possible de faire changer les
 choses. Elle exposa un certain nombre de points urgents à imposer,
 comprenant notamment l'abolition du servage, la redistribution des
 terres et une législation encadrant les conditions de travail. 
-
 Le seul point faible de son allocution était qu'il n'expliquait pas
 vraiment comment ils pourraient tenir à la fois contre les troupes de
 Léhen et les alliés de la reine. 
@@ -1317,10 +1245,14 @@ distinguer ce qu'elle disait.
 — Je n'aime pas beaucoup la reine, reprit l'elfe un peu plus
 fort et un peu plus calmement. Et je ne pense pas qu'avoir le droit de
 choisir qui parlera en mon nom dans un conseil consultatif soit
-quelque chose de suffisant. Mais... » Elle n'osa pas regarder Axelle
+quelque chose de suffisant. Mais... »
+
+Elle n'osa pas regarder Axelle
 lorsqu'elle prononça ce mot et porta par la suite une attention
 particulière à ne pas croiser son regard, forcément
-désapprobateur. C'était déjà bien assez dur comme ça. « Mais nous
+désapprobateur. C'était déjà bien assez dur comme ça.
+
+« Mais nous
   avons de nombreux morts et blessés. Le sang a déjà beaucoup
   coulé. On a pu tenir face à Léhen parce qu'il ne s'attendait pas à
   ce qu'on lui résiste. Mais contre Léhen *et* la reine ? Il ne
@@ -1383,7 +1315,6 @@ choses.
 La décision fut prise de laisser les troupes de la reine
 reprendre le contrôle du Déni et du quartier Nain. Personne ne semblait vraiment
 savoir s'il fallait se réjouir ou pleurer. 
-
 Beaucoup de gens décidèrent finalement de rentrer chez eux dormir un
 peu avant le lever du soleil et c'est aussi la voie que choisit
 Kalia.

@@ -1,3 +1,4 @@
+
 Chapitre 4
 ===========
 
@@ -9,14 +10,13 @@ une des chaises sans demander l'autorisation. Cela avait légèrement
 dérangé Lucie de Guymor, mais elle avait préféré ne rien dire : après tout,
 elle et Armand revenaient d'une mission capitale et elle pouvait
 pardonner un tel écart.
-
 Seulement, la jeune femme ne s'était pas contentée de s'asseoir. Elle
 s'était ensuite balancée avec la chaise, puis avait fini par poser ses
 deux pieds, avec ses bottes sales, sur un coin du bureau de la
 reine. Cette dernière lui lança un regard lourd de signification, mais
 Ly ne parut pas s'en rendre compte.
 
-Elle abandonna et tourna la tête pour regarder l'épée. 
+La reine abandonna et tourna la tête pour regarder l'épée. 
 
 « Bien », fit-elle en se tournant vers son conseiller. « C'est
   celle que vous cherchiez ?
@@ -310,7 +310,6 @@ Axelle attrapa le barreau métallique qui se trouvait
 au-dessus d'elle et monta de cinquante centimètres. Elle en profita
 pour reprendre un instant son souffle et eut le malheur de regarder
 vers le bas. 
-
 Il fallait l'admettre, elle avait une vue magnifique sur
 Nonry au clair de lune. C'était le côté positif de se trouver en train
 d'escalader l'Efeltawar, à quatre-vingt-dix mètres

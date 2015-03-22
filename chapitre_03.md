@@ -200,7 +200,6 @@ entassées sur son lit. Il y avait un pantalon et une tunique, quelques
 chaussettes, percées pour la plupart, une paire de culottes, ainsi
 qu'un vieux bonnet et un manteau épais et à peine troué qu'elle avait
 achetés la veille avec l'argent de Sa Majesté.
-
 Si ses estimations de la durée du voyage et de la température qu'il
 faisait en Transye Vanille étaient correctes, non seulement elle
 mourrait de froid, mais en plus elle n'aurait pas de quoi se changer.
@@ -212,10 +211,7 @@ vampires ni aux loups-garous mais serait toujours mieux que rien,
 vérifia qu'elle n'oubliait rien et partit, résolue, pour la Transye
 Vanille.  
 
-*****
-
 À peine eut-elle franchi le pas de la porte qu'un imprévu l'arrêta.
-
 L'imprévu, surpris aussi, la dévisagea un instant avec ses yeux verts
 avant de sourire.
 
@@ -244,7 +240,7 @@ position d'une telle arme, dont le sort du monde dépendait, ne serait sans dout
 C'était particulièrement malvenu, évidemment. Seulement, elle allait
 peut-être mourir seule dans un pays étranger et froid, tout ça pour
 les beaux yeux de Sa Majesté, alors autant que la personne qui était
-la plus proche de ce qu'elle pouvait considérer comme « amie » soit
+la plus proche de ce qu'elle pouvait considérer comme une amie soit
 au courant. 
 
 « Et c'est juste comme ça, demanda Axelle en fronçant les
@@ -314,7 +310,9 @@ deux danseuses au Chaud Dragon.
   que vous êtes garde...
 
 — On pourrait peut-être se tutoyer, non ? » proposa Kalia en remuant
-son thé. La jeune femme était probablement la première personne qui avait l'air
+son thé.
+
+La jeune femme était probablement la première personne qui avait l'air
 de la considérer avec une certaine crainte. Ça la gênait. Le mépris ou
 la haine, au moins, elle y était habituée.
 
@@ -325,7 +323,6 @@ l'aise. Kalia aussi était mal à l'aise, bien sûr, mais c'était normal
 : elle était mal à l'aise partout et tout le temps. Elle était capable
 de s'adapter à la moindre situation banale pour s'y sentir aussi à
 l'aise qu'un poisson hors de l'eau.
-
 Là, Diane avait l'air d'avoir peur d'elle, ce qui était une vraie
 nouveauté. Personne n'avait pas peur de Kalia, d'habitude.
 
@@ -379,8 +376,8 @@ Diane baissa la tête. Elle semblait à nouveau être au bord des
 larmes. Lili, elle, lui jeta un regard mauvais et lourd de
 signification.
 
-Kalia baissa la tête et s'en voulut de n'avoir même pas le courage
-d'essayer de les aider. 
+Kalia grimaça. Elle s'en voulait de n'avoir même pas le courage
+d'*essayer* de les aider. 
 
 « Je ne peux rien faire, répéta-t-elle faiblement.
 
@@ -431,7 +428,7 @@ serait de la vengeance.
 
 — Et alors ?
 
-— Ce n'est pas *bien » !*
+— Ce n'est pas *bien* ! »
 
 Axelle leva les yeux au ciel.
 
@@ -526,8 +523,7 @@ douzaine de gardes.
 
 Les gardes rechignèrent à laisser passer les voleuses de dragon
 malgré la menace qui planait sur Ly ; mais l'arbalète de Kalia, après
-avoir tiré quatre carreaux en moins de  
-dix secondes, acheva de les convaincre.
+avoir tiré quatre carreaux en moins de dix secondes, acheva de les convaincre.
 
 « Wow », souffla la pilote une fois qu'elles eurent ligoté les gardes et
 qu'elles furent passées dans la salle des dragons. « Jolie arme.
@@ -545,17 +541,18 @@ au carreau suivant.
 
 — Là, il y a un levier. En l'actionnant, ça active
 cette gemme, et ça attire la corde, à cause du petit morceau
-de pierre placé dessus. Et du coup, ça recharge l'arme. Ensuite, il
+de pierre placé dessus. C'est une sorte... d'artefact magique,
+disons. Et du coup, ça recharge l'arme. Ensuite, il 
 n'y a plus qu'à appuyer une nouvelle fois sur la détente pour tirer.
 
 — Bien pensé. Je peux voir ?
 
 — Bien sûr, répondit l'elfe en lui tendant l'arme, ravie que
-quelqu'un s'intéresse à tout son travail.
+quelqu'un s'intéresse à son travail.
 
 — Tu n'es quand même pas vraiment maligne, blondinette », fit Ly en
 retournant l'arme contre sa propriétaire et en actionnant le mécanisme, qui arma
-l'appareil avec un *clac » puissant. « Lève les mains.*
+l'appareil avec un *clac* puissant. « Lève les mains. »
 
 Kalia se mordit la lèvre.
 
@@ -608,7 +605,7 @@ Il y eut un petit instant de silence. Puis Ly se mit à sourire.
 haussant les épaules. Comme je vous l'ai expliqué, le premier coup ne
 fait que tourner le cylindre. Vous avez armé l'arme, mais à vide. Même
 en appuyant deux fois sur la détente, ça ne marcherait pas, parce que
-vous ne l'avez pas fait dans le bon ordre. Cela dit,
+vous n'avez pas actionné le levier avant. Cela dit,
 je préférerais que vous ne tiriez pas, parce que ça abîme la corde. »
 
 Il y eut un nouveau moment de silence, puis Ly haussa les épaules et
@@ -708,10 +705,8 @@ l'aubergiste les prévint qu'il s'agissait d'un endroit dangereux, où,
 dès la tombée de la nuit, les vampires et les loups-garous vous
 tombaient dessus et vous vidaient de votre sang tout en vous croquant,
 Kalia ne put s'empêcher de remarquer le léger sourire sur le visage
-d'Axelle.  
-
-Cette fille était cinglée, il n'y avait pas de doute là-dessus. D'un
-autre côté, pour un démon, c'était peut-être normal. 
+d'Axelle. Cette fille était cinglée, il n'y avait pas de doute
+là-dessus. D'un autre côté, pour un démon, c'était peut-être normal. 
 
 Le lendemain, elles partirent à pied vers la Transye Vanille.
 
@@ -749,21 +744,22 @@ entendu parler de lui.
 — Wolf, soupira la reine. Vous savez que j'aime que mes hommes
 fassent preuve d'initiative.
 
-— Vraiment, mademoiselle ?
+— Vraiment, Mademoiselle ?
 
 — En l'occurrence, le fait de nouer une alliance avec un groupe
 révolutionnaire orc me semble faire preuve de *trop*
 d'initiative. Vous voyez ce que je veux dire ?
 
-— Écoutez, mademoiselle, en toute honnêteté, si vous désirez me
+— Écoutez, Mademoiselle, en toute honnêteté, si vous désirez me
 licencier... 
 
 — Je n'ai pas à vous rappeler les termes de notre contrat, n'est-ce
 pas ? répliqua Lucie de Guymor d'une voix glaciale.
 
-— Sans vouloir vous offenser, mademoiselle, je n'ai pas dormi depuis
-deux jours, j'ai craché à la gueule du roi orc qui voulait m'acheter
-et je l'ai payé en me brisant la 
+— Sans vouloir vous offenser, Mademoiselle, je n'ai pas dormi depuis
+deux jours, j'ai craché à la gueule du roi orc qui voulait
+m'acheter. Le roi orc qui n'est pas un orc, soit dit en passant. J'ai
+payé mon refus en me brisant la 
 quasi-totalité des os. Alors si vous voulez quelque chose de moi,
 arrêtez de tourner autour du pot. »
 
@@ -808,7 +804,6 @@ au bar qu'il n'allait pas tarder à fermer.
   sinon, vlan !, ils t'égorgent. »
 
 La porte s'ouvrit. Tout le monde se tourna vers le nouveau venu.
-
 Qui, en réalité, s'avérait être une femme. Axelle put voir l'ensemble
 des regards la suivre alors qu'elle se dirigeait vers le bar.
 
@@ -820,7 +815,6 @@ des regards la suivre alors qu'elle se dirigeait vers le bar.
 Sur la place du village, Kalia, assise sur un banc, attendait
 en grelottant. Il faisait encore plus froid en Transye Vanille
 qu'elle ne s'y était attendue. 
-
 Le soleil était en train de passer derrière les montagnes
 lorsqu'Axelle la rejoignit. 
 
@@ -872,7 +866,7 @@ les trente secondes.
 
 Ni Kalia ni Axelle n'étaient apparemment de vraies héroïnes,
 car il faisait nuit noire. La démone trébucha une nouvelle fois sur
-une racine et heurta son amie
+une racine et heurta son amie.
 
 « Je crois, fit cette dernière en grelottant, qu'on devrait
   abandonner. Revenir demain. Avec des torches. Et des manteaux en plus.
@@ -918,10 +912,8 @@ vous pourriez nous aider.
 
 — Je m'appelle Axelle. En mission pour Kalia. »
 
-Annabelle hocha la tête. Elles ne paraissaient pas bien
-dangereuses, malgré le fait que la plus petite se disait en mission
-pour la reine. Pas dangereuses, sauf pour elles. Si elle les laissait
-là, elles mourraient probablement de froid durant la nuit.
+Annabelle hocha la tête. Elles ne paraissaient pas menaçantes, malgré
+le fait que la plus petite se disait en mission pour la reine.
 
 « Enchantée. Je suis Annabelle, sorcière. »
 
@@ -1010,7 +1002,8 @@ ajouta Kalia avant de réaliser que ses deux interlocutrices la
 regardaient d'un drôle d'air. « Ben quoi ?
 
 — C'est censé être une insulte à Dieu ? s'étonna Axelle. Je veux
-dire, moi, j'ai connu une de Ses anges qui avait...
+dire, je n'ai jamais rencontré le daron, mais j'ai connu une de Ses
+anges qui avait...
 
 — Hum, hum ! interrompit Annabelle, qui n'avait manifestement pas
 envie que la discussion parte sur ce terrain. Tout ça pour dire que le simple fait
@@ -1078,9 +1071,8 @@ voir.
 
 William regarda le dragon en face de lui et grogna. Il n'avait aucune
 envie de remonter sur une de ces sales bêtes. Le voyage pour rentrer
-du Darnolc l'avait épuisé et il aurait aimé dormir. 
-
-Malheureusement, la reine lui avait expliqué ce qui se cachait derrière le terme
+du Darnolc l'avait épuisé et il aurait aimé dormir. Malheureusement,
+la reine lui avait expliqué ce qui se cachait derrière le terme 
 de « diversion » et il n'aimait pas ça. Pour ce qu'il en avait
 compris, ça consistait à envoyer à la mort une gamine.
 
@@ -1089,9 +1081,8 @@ connaissait pas cette fille. Il l'avait à peine aperçue après avoir
 été arrêté. Par ailleurs, il n'était pas sûr qu'elle courre un
 danger. Peut-être que la reine était paranoïaque et qu'aucun ennemi
 ne tenait à mettre la main su ce genre d'arme avant elle. 
-
 Seulement, il n'y croyait pas trop ; et, même s'il l'avait juste croisée, il
-avait bien aimé Kiala. Ou Lakia. Quelque chose comme ça, en tout cas. 
+avait bien aimé cette Kiala. Ou Lakia. Quelque chose comme ça, en tout cas. 
 
 Finalement, il haussa les épaules et grimpa sur le dragon. Après tout,
 il était un vampire, ça ne lui ferait pas de mal de passer quelques
@@ -1179,7 +1170,6 @@ glacée venait lacérer le visage de Kalia, malgré son bonnet et son
 Elle lacérait sans doute aussi celui d'Axelle, mais cela ne paraissait
 pas déranger outre mesure cette dernière, qui continuait à avancer
 avec de grandes enjambées.
-
 L'elfe, elle, manquait de trébucher à chaque pas. Elle avait les pieds
 gelés, ou du moins encore plus gelés que le reste 
 du corps.
@@ -1251,7 +1241,6 @@ Elle se maudissait intérieurement pour ne pas avoir réalisé plus tôt
 dans la journée que les elfes, comme la plupart des gens, ne
 résistaient pas aussi bien aux variations de température que les
 démons.
-
 À quelques mètres du château, elle réalisa que Kalia avait perdu
 connaissance. Elle dut la traîner pour atteindre l'édifice, qui était
 sombre et immense, surtout lorsqu'on était habitué à vivre dans une
@@ -1262,10 +1251,9 @@ sans doute pu apercevoir des silhouettes de chauves-souris voletant
 autour des tours. Un énorme écriteau au-dessus de la porte proclamant,
 avec des lettres en néons clignotants, « ICI VIT UN VAMPIRE » n'aurait pas été plus explicite. 
 
-Le portail, comme le reste, était démesurée et, surtout,
+Le portail, comme le reste, était démesuré et, surtout,
 fermé. Axelle tenta de le pousser mais c'était solidement
 verrouillé. 
-
 Elle décida de tenter sa chance en frappant, même si c'était plutôt
 stupide, étant donné que le château était supposé être abandonné ; ou
 hanté, au mieux, mais les fantômes n'ouvraient que rarement quand on
@@ -1290,7 +1278,6 @@ ne vinrent pas.
 
 Elle transporta Kalia jusqu'à un salon, tandis que les
 bougies continuaient à s'allumer sur son passage.
-
 Lorsqu'elle étendit son amie sur un canapé, ce fut même les bûches
 présentes dans la cheminée qui s'embrasèrent. Ça l'arrangeait plutôt :
 elle n'avait rien pour allumer un feu et il ne faisait pas très chaud.
@@ -1339,7 +1326,6 @@ car, s'il ne faisait pas aussi froid que dehors, leurs vêtements
 actuels n'étaient suffisants qu'à moins d'un mètre de la cheminée et
 n'auraient pas été très convenants en cas de rencontre avec un fantôme
 ou un vampire ressuscité.
-
 Elles trouvèrent une chambre au premier étage où traînaient quelques
 habits. Kalia récupéra un pantalon trop large et un manteau
 noir qui lui descendait jusqu'aux chevilles, tandis qu'Axelle enfila
@@ -1350,7 +1336,6 @@ Elles purent ensuite commencer sérieusement leur
 exploration. En l'occurrence, cela consistait à déambuler dans les
 longs couloirs vides en jetant des coups d'œil par les portes pour
 voir si l'épée ne traînait pas dans une chambre ou une bibliothèque.
-
 Les bougies et les torches continuaient à s'allumer sur leur passage,
 mais, à l'exception du bruit du vent qui pouvait ressembler aux
 hurlements d'un fantôme, elles n'avaient pas encore
@@ -1359,7 +1344,6 @@ remarqué de véritable manifestation surnaturelle.
 Kalia tenait tout de même son arbalète à la main, au cas où. Il était
 peu probable qu'elle soit utile contre un fantôme, mais son poids la
 rassurait. 
-
 Alors qu'elles marchaient lentement dans le couloir 
 du troisième étage, un homme aux cheveux blancs apparut quelques
 mètres devant elles.
@@ -1368,7 +1352,7 @@ Kalia sursauta et appuya instinctivement sur la détente de son
 arbalète ; mais Axelle avait déjà dévié son bras vers le haut et le
 carreau alla se planter dans le plafond.
 
-« Tsss. On ne tue pas les inconnus quand on est polie.
+« Tsss. On ne tue pas les inconnus, quand on est polie.
 
 — Désolée, s'excusa l'elfe. J'ai cru que c'était un fantôme.
 
@@ -1456,8 +1440,6 @@ l'âge adulte, même s'ils pouvaient toujours être tués par une flèche,
 une épée, le froid ou une maladie. L'immortalité reste toujours toute
 relative. 
 
-En tout cas, l'histoire l'intéressait.
-
 « Vous êtes trop jeune pour ces vieilles histoires, non ?
 
 — Comment vous savez que je suis jeune ? Les elfes ne
@@ -1531,7 +1513,8 @@ noir usé était simplement écrit, en lettres d'or à moitié effacées par
 le temps : 
 
 > Gil De Relly
-> 1340 - 1342 : Une guerre perdue d'avance
+>
+> *1340 - 1342 : Une guerre perdue d'avance*
 
 
 « Vous... bafouilla Kalia. Vous êtes monsieur De Relly ?
@@ -1550,7 +1533,6 @@ dut prendre son mal en patience tandis qu'ils se mettaient à parler de
 vieux bouquins et de personnes mortes depuis des siècles. Il n'y avait
 d'ailleurs que dans la littérature vampirique que les auteurs morts
 depuis des siècles pouvaient continuer à assurer des dédicaces.
-
 La démone finit tout de même par réussir à rappeler à Kalia qu'elles
 n'étaient pas venues dans ce château pour parler de livres mais pour
 récupérer une épée.
@@ -1583,15 +1565,17 @@ lectrices.
 La crypte n'était éclairée que par quelques bougies, mais elle ne
 ressemblait pas beaucoup à une crypte de château vampirique. Elle
 manquait de toiles d'araignées, de crânes et de cercueils.
-
 Il n'y avait qu'une tombe, au centre, devant laquelle traînaient
 quelques fleurs fanées.
 
 Sur la pierre tombale était simplement écrit : 
 
 > Ici repose Elizabeth Miya
-> Morte pour la liberté 
-> 1123 - 1151 
+>
+> Morte pour la liberté
+>
+> 1123 - 1151
+>
 > 1151 - 1342
 
 
@@ -1664,7 +1648,7 @@ sentir le fond.
 Elle attrapa le verre enchanté et prononça les mots qui
 activaient la vision nocturne, puis s'allongea à côté de l'ouverture.
 
-« Si tu veux y aller, fit Axelle, dépêche toi, je ne vais pas
+« Si tu veux y aller, fit Axelle, dépêche-toi, je ne vais pas
   tenir éternellement. »
 
 L'elfe obéit et se glissa à l'intérieur, la tête la première. Ce
@@ -1711,8 +1695,7 @@ Kalia ne comprenait pas. Ni comment son amie pouvait la trahir comme
 ça, ni comment elle avait pu jouer la comédie tout le long.
 
 Elle comprit cependant qu'elle allait mourir, dans cette tombe. Une mort
-lente, probablement de faim ou de manque d'air.
-
+lente, probablement de faim ou de manque d'air. 
 Puis il y eut un grincement tandis que la pierre était à nouveau
 soulevée. 
 
@@ -1780,7 +1763,6 @@ veille.
 Vers le crépuscule, elles aperçurent le petit chemin cerné par les
 montagnes qui leur permettrait de rejoindre l'auberge où elles
 s'étaient arrêtées à l'aller. 
-
 L'elfe se réjouissait d'être bientôt arrivée,
 mais Axelle ne partageait pas son enthousiasme. Elle paraissait
 inquiète et se retournait régulièrement depuis quelques minutes, sans
@@ -1815,7 +1797,6 @@ l'arbalète, elle fut surprise par son poids. Bien sûr, ce n'était pas
 *si* étonnant étant donné qu'elle avait un énorme cylindre
 métallique qui contenait une douzaine de carreaux ; mais elle se
 demanda comment Kalia pouvait s'en servir.
-
 L'elfe devait avoir plus de force dans les bras que ce que sa petite
 taille ne laissait supposer.
 
@@ -1837,7 +1818,6 @@ pour tirer.
 La voleuse acquiesça de la tête et regarda son amie s'éloigner quelques
 instants. Puis elle passa l'arbalète en bandoulière dans son dos,
 grimpa à un arbre et attendit.
-
 Ce fut au bout d'une bonne dizaine de minutes, alors qu'elle
 commençait à se demander si elle n'était pas paranoïaque, qu'elle
 aperçut une ombre passer en dessous d'elle.
@@ -1877,11 +1857,10 @@ arbres.
 Elle se figea lorsqu'elle vit quatre bandits sortir de leurs
 cachettes. L'un portait une arbalète, tandis que les trois autres
 tenaient des couteaux.
-
 Peut-être que si elle se mettait à courir... Malheureusement, ils étaient
 trop proches et seraient sans doute plus rapides qu'elle.
 
-Si seulement Axelle était là, songea Kalia. Elle, elle aurait su quoi
+*Si seulement Axelle était là*, songea Kalia. Elle, elle aurait su quoi
 faire.
 
 « Lève les mains et lâche cette épée », ordonna l'homme qui portait
@@ -1982,7 +1961,7 @@ pour aider leur complice qui se tenait à une dizaine de mètres d'eux.
 — Ah ! » fit un des hommes, probablement pas le plus intelligent de
   la paire. « Tu n'as qu'un carreau et nous sommes deux !
 
-— Je *rêvais » de vous entendre dire ça*, répliqua la démone
+— Je *rêvais* de vous entendre dire ça », répliqua la démone
 avec un sourire malsain.
 
 *****
@@ -2016,7 +1995,6 @@ chercherait pas à se relever avant un bon bout de temps, elle continua
 tout de même à frapper. 
 
 Au bout d'un moment, elle s'écroula et se mit à pleurer.
-
 Axelle posa doucement le manteau sur ses épaules.
 
 « Ça va, dit-elle. C'est fini. »

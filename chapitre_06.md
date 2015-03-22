@@ -1,3 +1,4 @@
+
 Chapitre 6
 ==========
 
@@ -21,14 +22,14 @@ sujet.
   que vous avez effectuées ces derniers temps. Quel est le chiffre
   exact, déjà ? 
 
-— Aucune, monsieur, répondit Kalia, penaude.
+— Aucune, Monsieur, répondit Kalia, penaude.
 
 — Autant ? Avec de tels résultats, pas étonnant que vous vous
 sentiez l'envie de prendre des vacances. 
 
-— Des vacances, monsieur ? demanda-t-elle.
+— Des vacances, Monsieur ? demanda-t-elle.
 
-— Et bien, il ne me semblait pas avoir eu la chance de vous croiser
+— Eh bien, il ne me semblait pas avoir eu la chance de vous croiser
 souvent ces derniers jours.
 
 — J'étais en mission. Je...
@@ -46,11 +47,11 @@ Kalia aurait eu envie d'avoir le courage de lui rappeler que c'était
 lui qui avait choisi de la désigner volontaire, mais elle ne réussit
 qu'à baisser encore un peu la tête.
 
-« Je suis désolée, monsieur, mais cette mission était confidentielle.
+« Je suis désolée, Monsieur, mais cette mission était confidentielle.
 
 — Confidentielle, hein ? 
 
-— Oui, monsieur. »
+— Oui, Monsieur. »
 
 Il y eut un moment de silence. Le capitaine joignit ses deux mains et
 parut réfléchir.
@@ -58,23 +59,23 @@ parut réfléchir.
 « Seulement, voyez-vous, il fallait bien que la garde continue son
   travail pendant ce temps, vous comprenez ?
 
-— Oui, monsieur.
+— Oui, Monsieur.
 
 — Et étant donné notre budget, nous ne pouvons pas nous permettre de
 payer quelqu'un à ne rien faire. Vous comprenez ?
 
-— Je comprends, monsieur. Mais je n'ai pas « rien fait »,
+— Je comprends, Monsieur. Mais je n'ai pas « rien fait »,
 monsieur. 
 
 — Vraiment ?
 
-— Oui, monsieur. J'ai travaillé pour la reine. Bien sûr, il serait
+— Oui, Monsieur. J'ai travaillé pour la reine. Bien sûr, il serait
 anormal que vous me payiez ce temps... 
 
 — Évidemment, admit le capitaine. Mais il ne vous est pas venu à
 l'esprit que nous aurions pu vous remplacer ?
 
-— Je comprends bien, monsieur. Je vous suggère de voir directement
+— Je comprends bien, Monsieur. Je vous suggère de voir directement
   avec la reine. Elle saura régler cette situation. »
 
 L'elfe garda la tête baissée, mais c'était pour que le capitaine ne
@@ -90,7 +91,7 @@ chef n'avait pas le droit de la renvoyer comme ça.
 Kalia se mordit plus profondément la lèvre. Elle avait espéré que le
 capitaine ne s'en serait pas encore rendu compte.
 
-« Oui, monsieur. Je n'avais pas pu le faire avant de partir.
+« Oui, Monsieur. Je n'avais pas pu le faire avant de partir.
 
 — Mesdemoiselles Diane et Lili. Qui disent avoir été molestées.
 
@@ -103,7 +104,7 @@ capitaine ne s'en serait pas encore rendu compte.
 — Si vous le dites. Et elles prétendent que le coupable serait le
 sergent Garnier.
 
-— Oui, monsieur. »
+— Oui, Monsieur. »
 
 D'un geste vif, le capitaine plaqua sur son bureau les deux feuilles
 sur lesquelles étaient enregistrées les plaintes. Le bruit fit
@@ -127,9 +128,8 @@ pas d'ennuis. C'était une solution attrayante.
 plaintes comme classées ?
 
 — Je fais confiance au sergent Garnier pour démontrer sa virilité
-en n'acceptant pas qu'une femme refuse de coucher avec lui alors qu'il
-paye. Je suis
-désolée, monsieur, mais ces plaintes ne sont pas 
+en n'acceptant pas qu'une femme refuse de coucher avec lui. Je suis
+désolée, Monsieur, mais ces plaintes ne sont pas 
 classées. » 
 
 Il y eut un silence glacial. Le capitaine ferma son poing. Il
@@ -147,7 +147,7 @@ Kalia regarda ses pieds, sans trop savoir quoi répondre. Elle hésita à
 se taire, mais décida de ne pas le faire. 
 
 « Le viol ne fait effectivement pas partie de mes valeurs,
-  monsieur. Vu le contexte, je ne pense pas que je sois celle qui
+  Monsieur. Vu le contexte, je ne pense pas que je sois celle qui
   salisse le plus l'image de la garde.
 
 — Je vais annuler ces plaintes. Quant à vous, vous feriez mieux de
@@ -197,7 +197,7 @@ soulever une goutte d'eau. « Tu es la seule personne qui peut me
   voir et la plupart du temps tu m'ignores totalement. Quand tu
   daignes faire attention à moi, c'est pour me dire de la fermer ou
   pour te plaindre de ton sort. Tu ne t'es jamais demandé ce que je
-  ressentais, *moi » ?* 
+  ressentais, *moi* ? »
 
 William resta silencieux quelques secondes. Puis il haussa les épaules
 et commença à se rouler une cigarette.
@@ -357,7 +357,9 @@ La plupart du temps, en tout cas.
 
 *****
 
-La taverne suivante où se rendit Kalia ne portait pas de nom. La
+Kalia dut marcher un certain temps avant de trouver un troquet où elle
+serait sûre de pouvoir rester ; et elle y resta un certain temps. La
+taverne ne portait pas de nom. La 
 plupart des gens qui y mettaient les pieds l'appelaient simplement
 « la taverne », s'ils devaient l'appeler.
 
@@ -365,8 +367,7 @@ C'était parce que les gens qui s'y rendaient allaient rarement dans
 d'autres établissements. Non pas parce que la bière y était meilleure ou
 moins chère qu'ailleurs, mais parce que c'était la seule de la ville
 qui était tenue par des nains. 
-
-Bien sûr, n'importe qui pouvait y entrer, nain ou
+N'importe qui pouvait y entrer, nain ou
 pas. Il se trouvait juste que la plupart des gens qui y mettaient les
 pieds se trouvaient être de petite taille. Parmi les causes à cela, à moins
 que ça n'en ait été une conséquence, il y avait certainement le fait
@@ -410,7 +411,6 @@ pareils.
 L'elfe essaya de lui expliquer rapidement ses démêlés avec son
 capitaine ; cela prit plus de temps que prévu, parce qu'elle avait
 bu et qu'elle sanglotait un peu.
-
 Lorsqu'elle eut terminé, elle réalisa qu'il y avait une demi-douzaine
 d'autres nains qui s'étaient rapprochés pour écouter.
 
@@ -427,7 +427,7 @@ soi-disant, j'avais jeté un « regard narquois » à un garde. »
 Les autres nains hochèrent la tête. La plupart avait vécu des
 expériences similaires.
 
-« Merde, je ne sais même pas ce que ça veut dire, narquois ! »
+« Merde, je ne sais même pas ce que ça veut dire, *narquois* ! »
 
 Kalia ne put s'empêcher de sourire. Elle vida une nouvelle chope de
 bière, alors que Grimmel racontait comment on l'avait arrêté et
@@ -440,7 +440,7 @@ se serait contentée de trouver qu'elle n'était pas à la hauteur et
 l'aurait ignoré. Mais là, c'était différent : elle avait bu et elle
 était la plus grande de la salle. Ça n'arrivait pas tous les jours.
 
-« 'Savez quoi ? fit-elle d'un air concentré. C'qui faudrait,
+« Savez quoi ? fit-elle d'un air concentré. C'qui faudrait,
   c'est nous r'grouper. »
 
 Les nains la regardèrent sans trop comprendre. 
@@ -455,7 +455,7 @@ examinaient la proposition.
 « J'suis pas d'accord, fit l'un d'entre eux. Se regrouper avec des
   filles qui se déshabillent sur scène ? Ça me paraît pas sain, à moi.
 
-— Va t'faire met', Ergor ! protesta Kalia. 'Font ça pour avoir de quoi
+— Va t'faire met', Ergor ! protesta Kalia. Font ça pour avoir de quoi
 s'payer à manger. Tu crois qu'y a beaucoup d'métiers pour une femme
 dans c'te ville de merde ? »
 
@@ -475,7 +475,6 @@ Lorsque Kalia se réveilla, le lendemain, elle réalisa rapidement deux
 choses. La première, c'était qu'elle avait affreusement mal à la tête
 et la deuxième, c'était qu'elle n'avait aucune idée de l'endroit où
 elle se trouvait.
-
 Elle était sur un petit lit, qui était entouré d'un mur de pierres
 d'un côté et d'un rideau des trois autres. Il faisait sombre. Il
 devait y avoir des bougies de l'autre côté du rideau, car des ombres

@@ -108,8 +108,6 @@ arbres n'étaient plus qu'à quelques dizaines de mètres.
 Elle ferma les yeux un instant et se dit que, si elle avait encore cru
 en quelque chose, elle aurait bien prié.
 
-*****
-
 L'atterrissage fut rude. Axelle commença par se faire égratigner par
 des branches, qui lui permirent cependant de ralentir un peu sa chute,
 et ce d'autant plus qu'elles ne tardèrent pas à se prendre dans les
@@ -139,15 +137,13 @@ l'épaisse porte et l'ouvrit.
 
 Dans un petit lit se trouvait un orc qui, contrairement à ceux
 qu'elle avait croisés pour l'instant, portait des cheveux qui lui
-allaient jusqu'aux épaules. Il avait la peau sombre, mais c'était
-peut-être simplement à cause de l'obscurité.
+allaient jusqu'aux épaules. 
 
-« Edine ? chuchota Axelle. 
+« Edine ? » chuchota Axelle. 
 
-— _Qu'est-ce qui se passe ?_ demanda l'orc en se réveillant en
-sursaut. 
+L'orc se réveilla en sursaut et dit quelque chose que la jeune femme ne comprit pas.
 
-— Je suis venue vous aider. Vous parlez ma langue ?
+« Je suis venue vous aider, annonça-t-elle. Vous parlez ma langue ?
 
 — Oui », répondit Edine en écarquillant les yeux. Il ne parvint
 cependant pas à voir grand-chose à cause de l'obscurité. « Qui
@@ -230,7 +226,7 @@ quelque chose, mais il lui semblait avoir au moins entendu un chien
 japper après qu'elle ait tiré. Ça en ferait toujours un de moins
 derrière Edine. 
 
-Axelle venait de terminer ses munitions lorsqu'un chien lui sauta
+Axelle venait d'arriver à cours de munitions lorsqu'un chien lui sauta
 dessus. Il était imposant et le choc fut rude, mais la jeune femme
 tint bon et parvint à envoyer l'animal rouler dans la boue. Elle
 attrapa un bâton et s'en servit pour réceptionner en l'air une autre

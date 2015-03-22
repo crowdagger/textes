@@ -38,7 +38,6 @@ Son collègue se contenta de hausser les épaules.
 
 On ne faisait pas attendre sa Majesté, mais sa Majesté pouvait vous
 faire attendre. Kalia avait fini par s'endormir sur une chaise.
-
 Elle sursauta lorsque le secrétaire de la reine le réveilla.
 
 « La reine va vous recevoir », lui expliqua-t-il en lui lançant un
@@ -82,13 +81,14 @@ nécessaire de soutenir les révolutionnaires orcs.
 
 — C'est ce que Gérald dit, expliqua la reine. Et puis, il est aussi
 dit que la reine d'Erekh — moi, en l'occurrence  — devrait être
-plus à l'écoute du peuple et moins des...  *aristocrates éactionnaires*. Et je ne mentionne même pas ce qui, objectivement,
+plus à l'écoute du peuple et moins des...  *aristocrates
+réactionnaires*. Et je ne mentionne même pas ce qui, objectivement, 
 ressemble plus à des revendications qu'à une prophétie. »
 
 Kalia retint une grimace. Elle avait bien dit à Axelle qu'elle en
 faisait peut-être trop, mais son amie n'avait pas voulu en démordre.
 
-« Et en quoi puis-je vous aider, majesté ? demanda-t-elle.
+« Et en quoi puis-je vous aider, Majesté ? demanda-t-elle.
 
 — Je me demandais simplement, vous êtes peut-être plus au courant des
 lois que moi. Je suis ça de loin, vous savez ? Alors, dites moi. S'il
@@ -231,7 +231,7 @@ sanctionnés, si tu persistes, tu remets en cause son autorité.
 Pourquoi est-ce qu'elle ne fait pas en sorte qu'ils soient jugés ?
 
 — Si tu condamnes un garde, tu décrédibilises toute
-*la » garde, tu vois ce que je veux dire ?*
+*la* garde, tu vois ce que je veux dire ? »
 
 Kalia fronça les sourcils en montant la dernière marche. Elle ne
 voyait pas trop ce que William voulait dire. Elle voyait en revanche
@@ -319,13 +319,12 @@ le plus touché : les chiens avaient arraché de larges morceaux de
 chair. Elle avait aussi une grosse blessure au visage, au niveau de
 l'œil droit, qui lui faisait atrocement mal. À l'heure actuelle,
 des bandes le recouvraient, alors elle se demandait s'il pourrait à
-nouveau être fonctionnel rapidement. 
+nouveau être fonctionnel, ou plutôt *quand*.
 
 Malgré son état physique critique, Axelle ne s'inquiétait pas trop
 pour sa santé. Elle avait un avantage sur le quidam moyen, c'était
 son sang démoniaque. Les démons guérissaient plutôt bien. À long
 terme, même un œil crevé ne serait pas un problème. 
-
 Ce qui l'inquiétait un peu plus, en revanche, c'était ce que les orcs
 allaient faire d'elle. Ils voudraient l'interroger,
 probablement. Étant donné qu'elle ne parlait pas un mot de leur
@@ -346,10 +345,9 @@ l'obscurité, la lumière d'une torche fut suffisante pour lui faire mal
 habituer et distingua la silhouette d'un orc. 
 
 C'était la première fois qu'elle en voyait un de près avec un
-éclairage correct. On les lui avait décrits comme grands, verts 
-et prognathes. Cet orc là n'était pas très grand et avait la peau
-plutôt noire que verte. Axelle ne le trouvait pas non plus très
-prognathe, mais étant donné qu'elle ignorait le sens de ce mot, cela
+éclairage correct. On les lui avait décrits comme grands et
+prognathes. Cet orc là n'était pas très grand. Axelle ne le trouvait
+pas non plus très prognathe, mais étant donné qu'elle ignorait le sens de ce mot, cela
 ne voulait pas dire grand-chose.
 
 L'orc parla en orc et Axelle ne le comprit pas. Elle essaya de dire
@@ -382,11 +380,10 @@ terre. Elle essaya de prendre appui sur ses bras
 pour se relever mais ne parvint qu'à s'élever de quelques centimètres
 avant de retomber piteusement.
 
-Elle exagérait un peu, en fait. Avec un peu de volonté, elle n'aurait
+Elle exagérait un peu, en vérité. Avec un peu de volonté, elle n'aurait
 pas eu véritablement de mal à se mettre debout, mais elle espérait que
 paraître plus faible qu'elle ne l'était réellement pourrait
 éventuellement lui ouvrir des possibilités d'évasion.
-
 Elle resta quelques instants par terre avant qu'un orc ne l'aide à se
 relever en l'attrapant par les cheveux ; puis il la plaqua contre le
 mur en lui écrasant la gorge.
@@ -396,7 +393,7 @@ mur en lui écrasant la gorge.
 
 Axelle gémit. L'orc qu'elle avait en face d'elle correspondait cette
 fois-ci tout à fait à la description : il mesurait près de deux mètres,
-avait la peau vert sombre et elle le trouvait méchamment
+et elle le trouvait méchamment
 prognathe. Il semblait avoir un grade important, puisqu'il portait un
 uniforme avec des épaulettes.
 
@@ -422,19 +419,12 @@ chariot bâché et la jetèrent à l'intérieur sans ménagement.
 L'un d'eux grimpa à sa suite, lui attacha les mains et la fit
 s'asseoir dans un coin. Quelques minutes plus tard, d'autres soldats
 faisaient monter une demi-douzaine d'autres prisonniers. Ces
-derniers étaient tous orcs, la plupart à la peau noire et, pour
-ce qu'Axelle pouvait en juger, avec une mauvaise mine. Elle
+derniers étaient tous orcs et ils avaient une mauvaise mine. Elle
 remarqua aussi avec une pointe de jalousie qu'ils portaient des
 vêtements. En lambeaux certes, mais au moins eux avaient de quoi se
 couvrir un peu. 
 
 Elle put se rhabiller un peu lorsque 
-
-
-
-
-
-
 quatre soldats armés montèrent dans le
 chariot. L'un d'entre eux tenait un sac en toile et en
 sortit, l'air goguenard, les vêtements déchirés et ensanglantés
@@ -465,7 +455,6 @@ Les soldats firent descendre les prisonniers. Lorsque ce fut le tour
 de la démone, il y eut une discussion animée. Elle n'y comprenait rien
 mais, apparemment, la question était de savoir si elle devait descendre
 aussi ou pas. 
-
 Finalement, ils lui firent comprendre qu'elle devait rester dans le
 chariot, qui s'ébranla une nouvelle fois. Axelle essaya de s'allonger
 et finit, au bout d'un temps indéterminé, par s'endormir, malgré les
@@ -486,7 +475,7 @@ lâcher. Elle tomba à genoux, devant un orc qui devait être le chef de
 ce camp militaire. C'était une petite base, constituée de tentes et de
 quelques palissades en bois, qui contrastaient avec les murailles en
 pierre de Tel Otsip. C'était aussi un petit homme, ou plutôt un petit
-orc, à la peau vert sombre ridé. Il examinait Axelle d'un œil
+orc, à la peau ridée. Il examinait Axelle d'un œil
 minutieux. 
 
 « Je suppose », commença-t-il en erekhien, malgré un accent
@@ -514,7 +503,7 @@ Kalia grimaça.
 Il se dirigea vers la carte qui était étalée sur le bureau et montra
 un point sur les montagnes, au sud du mont Aulmar.
 
-« Apparemment, expliqua-t-il, elle a été transféré dans un petit
+« Apparemment, expliqua-t-il, elle a été transférée dans un petit
   camp, près de la frontière. C'est le premier point positif. Le
   second point positif, c'est que les Nytelovers sont relativement
   actifs dans cette zone. Je vais voir si on peut envisager une
@@ -609,7 +598,6 @@ laisser. »
 
 Une fois seule, Kalia se déshabilla et se plongea dans l'eau
 chaude. Elle devait admettre que c'était plutôt agréable. 
-
 C'était la première fois depuis qu'elle était à Nonry qu'elle pouvait
 se permettre ce genre de petite fantaisie. Les bains publics étaient
 en effet quelque chose de rare et cher. Grâce à William, elle pouvait
@@ -625,7 +613,6 @@ tête plongea sous la surface. Elle essaya de se redresser, paniquée, mais
 elle était maintenue sous l'eau. Au bout de quelques bonnes
 dizaines de secondes, la main qui la tenait relâcha son étreinte et elle put
 relever la tête et respirer.
-
 Alors qu'elle reprenait son souffle, une voix grave derrière elle lui
 dit : 
 
@@ -654,7 +641,6 @@ Alors qu'elle essayait de reconnaître un signe particulier, la surface
 parut être troublée par un point rouge, qui disparut aussitôt. Kalia
 se demanda si elle commençait à délirer à cause du manque d'air, mais
 d'autres points rouges apparurent. 
-
 Puis il n'y eut plus de main pour lui tenir la tête et elle put à
 nouveau se redresser et respirer.
 
@@ -741,7 +727,7 @@ Le jeune couple entra dans le prestigieux restaurant « Au diable
 « Bonsoir », salua l'homme. Il était petit, blond et moustachu. « Nous
   avions réservé pour deux personnes.
 
-— C'est à quel nom, monsieur ?
+— C'est à quel nom, Monsieur ?
 
 — Loup, répondit l'homme. Karl et Willow Loup.
 
@@ -771,7 +757,7 @@ raccourcis dans l'après-midi, elle passait au mieux pour un gamin
 
 Le serveur s'approcha de leur table, une bouteille à la main.
 
-« Voulez-vous goûter notre vin, monsieur ?
+« Voulez-vous goûter notre vin, Monsieur ?
 
 — Euh, hésita ce dernier avec une voix qui se voulait grave. Non
 merci. Chérie, tu veux goûter ?
@@ -838,14 +824,14 @@ inconsciemment mais que je ne perçois pas bien. Tu comprends ?
 — Oui », répondit William avec un nouvel sourire enjôleur. « Je
 vais prendre une *bavette à la gobelin*.
 
-— Quelle cuisson, madame ?
+— Quelle cuisson, Madame ?
 
 — Saignant, répondit cette dernière avec un petit sourire
 carnassier.
 
-— Et pour vous, monsieur ?
+— Et pour vous, Monsieur ?
 
-— Je voudrais une *assiette troll ».*
+— Je voudrais une *assiette troll*. »
 
 Le serveur nota la commande et se dirigea vers la cuisine.
 
@@ -866,7 +852,9 @@ William Wolf, il m'aurait sûrement reconnu.
 
 — Oh, tu as l'air terriblement gênée, ironisa William. Ce n'est pas
 moi qui t'ai demandé de te couper les cheveux, je te signale. Et
-niveau vêtements, on ne peut pas dire que ça te change beaucoup. Tu
+niveau vêtements, l'uniforme de la Garde n'est pas beaucoup plus
+féminin que ce que tu portes présentement. Il te va beaucoup moins
+bien, cela dit. Tu
 aurais préféré une robe ? »
 
 Kalia grimaça à cette idée, ce qui permit au vampire d'arborer un
@@ -882,7 +870,6 @@ Une fois que les deux hommes qu'elle espionnait eurent quitté la
 salle, Angèle alla rejoindre William et Kalia, alors qu'ils entamaient
 le dessert. Elle commença par se plaindre de ne pas avoir sa part du
 gâteau à la framboise, puis commença son rapport.
-
 William l'écouta attentivement tandis que l'elfe, qui ne le pouvait
 pas, mangeait en silence.
 

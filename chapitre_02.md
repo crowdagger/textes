@@ -2,23 +2,18 @@ Chapitre 2
 ==========
 
 À l'ombre de la Porte Est de Nonry, Kalia, qui faisait équipe avec
-Louis, scrutait l'horizon. 
-
-Scruter, c'est une façon de parler. Plus honnêtement, adossée contre le
+Louis, scrutait l'horizon.  Ou, plus exactement, adossée contre le
 mur, elle essayait de garder les yeux ouverts et, si possible,
 vaguement tournés dans le bon sens.
 
 C'était un boulot tranquille : il s'agissait juste d'assurer un
 minimum de sécurité pour la tenue de la première course de dragons en
-Erekh, qui devait commencer dans l'après-midi.
-
+Erekh, qui devait commencer dans l'après-midi. 
 Concrètement, les deux gardes se contentaient de vérifier que les gens qui
 entraient dans la ville n'avaient pas d'armes sur eux, ce qui ne
 servait pas à grand-chose étant donné qu'il y avait de toutes façons des
 armureries en ville. L'objectif réel était surtout de 
-faire bonne impression.
-
-Pour l'occasion, Kalia avait nettoyé son plastron rouillé, s'était
+faire bonne impression. Pour l'occasion, Kalia avait nettoyé son plastron rouillé, s'était
 coiffée et avait même le droit de porter une arbalète — mais pas
 celle qu'elle avait modifiée elle-même, Louis avait été très clair
 là-dessus.
@@ -30,7 +25,6 @@ même si personne n'était arrivé avant sept heures. Depuis un mois,
 apparemment ulcéré par le comportement de la jeune femme avec les
 émeutiers nains, il prenait un malin plaisir à changer ses horaires de
 jour en jour, parfois à la dernière minute.
-
 Tandis qu'elle faisait le planton, Kalia se demanda combien de temps
 elle devrait supporter ce régime et, surtout, quand elle pourrait
 dormir.  
@@ -75,7 +69,6 @@ les morceaux de viande quelques secondes plus tôt et il cria : « Au
 En entendant cela, Axelle réprima une grimace, jugea qu'elle avait
 assez « travaillé » pour la matinée et commença à s'écarter
 lentement.
-
 Apparemment, quelqu'un d'autre avait dû la remarquer, puisque, à côté
 d'elle, un homme se mit à crier : « C'est lui ! », tenta de
 l'immobiliser et réalisa qu'il ne s'agissait pas de « lui », mais
@@ -104,16 +97,15 @@ William se retourna vers son hallucination et aperçut deux orcs lourdement
 armés en face d'elle. Il n'avait aucune envie de les affronter en combat
 singulier, surtout alors qu'il faisait jour.
 
-« _Pas un geste ! »_, lança un soldat dans la langue orque.
-
+« Pas un geste ! », lança un soldat dans la langue orque.
 
 William leva lentement les mains.
 
-« _Je ne suis pas un ennemi_, expliqua-t-il calmement.
+« Je ne suis pas un ennemi, expliqua-t-il calmement dans la même langue.
 
-— _Qu'est-ce que tu fais là ?_ 
+— Qu'est-ce que tu fais là ?
 
-— _Tourisme ? »_ hasarda le jeune homme.
+— Tourisme ? » hasarda le jeune homme.
 
 Cela ne parut convaincre aucun des deux orcs, aussi le vampire
 décida-t-il de prendre ses jambes à son cou.
@@ -133,7 +125,6 @@ précision. Si elle arrivait à s'enfuir, elle n'aurait ainsi pas
 besoin de quitter la ville ; mais encore fallait-il qu'elle y
 parvienne. Elle était maintenant acculée à un mur et un tas de gens
 avaient l'air de lui en vouloir. 
-
 Cependant, le *vrai* problème, c'était les deux gardes armés qui
 approchaient. Axelle ferma les yeux et inspira profondément.
 
@@ -150,15 +141,12 @@ des arbalètes et qu'elle devrait peut-être s'écarter un peu plus avant
 de se reposer. Elle se remit donc debout et courut sur les toits
 jusqu'à pouvoir descendre dans une rue déserte. 
 
-*****
-
 Une fois redescendue les pieds sur terre, Axelle vérifia qu'il n'y
 avait personne et s'éloigna du marché d'un pas vif, soulagée :
 apparemment, plus personne ne la poursuivait. 
 
 C'était du moins ce qu'elle croyait avant de tourner dans la rue
 d'à-côté, où elle tomba nez-à-nez avec une arbalète chargée.
-
 Axelle s'immobilisa, surprise, puis leva les mains.
 
 « Kalia, fit-elle en souriant. Ma petite épine dans le pied
@@ -222,7 +210,7 @@ quelqu'un. Quelqu'un qui puait le mal et utilisait une sorte de magie
 bizarre, en plus. Elle se mordit néanmoins la 
 lèvre inférieure tandis que les bruits de pas se rapprochaient.
 
-Axelle était définitivement étrange d'accord. Pourtant, elle ne
+Axelle était définitivement étrange, d'accord. Pourtant, elle ne
 l'avait pas tuée alors qu'elle en avait eu 
 l'occasion. Elle lui avait même fait cadeau d'une somme considérable.
 C'était peut-être une façon de l'inciter à ne pas parler, mais c'était
@@ -235,7 +223,6 @@ laquelle Axelle se tenait et tira cette dernière à l'intérieur.
 
 Quelques secondes après que la porte se fût refermée, la voleuse, encore
 médusée, entendait des bruits de pas dans la rue.
-
 Devant elle, Kalia avait l'air d'être dans un drôle d'état. Elle avait
 le visage livide, les yeux dans le vide et elle se mordait toujours la
 lèvre.
@@ -248,7 +235,6 @@ remontait parfois mais qu'elle s'empressait de chasser de son esprit.
 
 En plus de tout le reste, il y avait la fatigue : elle était
 complètement exténuée.
-
 Kalia commença à sentir le monde tourner bizarrement autour d'elle.
 
 « Hey ! fit Axelle en la soutenant. Ça ne te dirait pas d'attendre
@@ -264,7 +250,6 @@ Kalia commença à sentir le monde tourner bizarrement autour d'elle.
 William commençait à manquer sérieusement de souffle et les orcs
 étaient toujours derrière lui ; de plus en plus nombreux, apparemment,
 ce qui n'était pas bon signe.
-
 Un carreau le dépassa en le frôlant et alla se ficher dans un arbre,
 ce qui n'était pas non plus un excellent présage.
 
@@ -275,7 +260,7 @@ avait bien peur que, comme le reste, ça lui soit destiné.
 « Tu sais, Will, fit Angèle, qui paraissait flotter à côté de lui,
   je crois que tu es dans la merde.
 
-— 'Connu pire », marmonna William en dévalant un talus.
+— Connu pire », marmonna William en dévalant un talus.
 
 Brusquement, alors qu'il entendait une de ces nouvelles
 explosions, il sentit une de ses jambes se dérober sous lui et il
@@ -293,19 +278,16 @@ sang.
 Au-dessus de Nonry, poussé par le vent, un nuage s'écarta, laissant la
 place à un rayon de soleil qui tomba sur la ville, passa à travers
 une vieille lucarne et finit par atterrir sur le visage de Kalia.
-
 Cette dernière ouvrit les yeux, les referma immédiatement
 à cause de l'intensité lumineuse, se retourna et trouva refuge dans
 son oreiller. 
 
 Puis son cerveau acheva de se remettre en marche et commença à
 analyser la situation. 
-
 La présence familière de l'oreiller, de la lucarne, ainsi que du lit
 laissaient supposer qu'elle était dans le grenier qui lui servait
 d'appartement — et qui lui coûtait tout de même la moitié de son
-salaire.
-
+salaire. 
 Il y avait aussi une odeur pas franchement familière dans la pièce :
 celle de la viande en train de cuire. Elle n'en avait pas mangé
 depuis des semaines.
@@ -406,15 +388,17 @@ minutes.
 
 — De toute façon, j'imagine que le Mal ne peut pas être bien pire que le Bien. 
 
-— Non, répondit Axelle en souriant. Cela dit certains pourraient
+— Non, répondit Axelle en souriant. Cela dit, certains pourraient
   s'étonner d'entendre une telle phrase sortant de la bouche d'une
   garde.
 
 — Il faut bien vivre, répliqua Kalia en avalant un morceau de viande.
 
 — Ouais », admit la démone en tournant la tête vers l'étagère où se
-trouvaient les livres de l'elfe. Elle en avait, en effet, une
-collection assez admirable, en tout cas comparée à la moyenne d'Erekh,
+trouvaient les livres de l'elfe.
+
+Celle-ci avait, une collection assez admirable, en tout cas comparée à
+la moyenne d'Erekh, 
 et qui contrastait avec la pauvreté de sa chambre. L'ensemble était
 plutôt hétéroclite, allant de l'encyclopédie au recueil de poésie
 vampire. Axelle semblait plus particulièrement admirer les trois gros
@@ -473,13 +457,11 @@ causée par sa blessure à la jambe et son « amie » imaginaire.
 
 Il faisait presque nuit lorsque le camp entra en ébullition. William
 essaya de se tourner pour voir ce qu'il se passait. 
-
 Tous les orcs semblaient s'agenouiller les uns après les autres, à
 l'exception d'un petit groupe qui se dirigeait vers lui. Tandis qu'ils
 approchaient, le vampire parvint à discerner deux personnes qui s'en
 détachaient : un humain grand et mince avec des cheveux noirs qui lui
-descendaient jusqu'à la taille et une jeune orque à la peau noire et
-aux cheveux blonds. 
+descendaient jusqu'à la taille et une jeune orque aux cheveux blonds. 
 
 Cette dernière resta en retrait pendant que l'homme s'approchait de
 lui.
@@ -497,7 +479,7 @@ Le vampire inclina la tête avec un sourire ironique.
 
 Le roi du Darnolc haussa les épaules et trancha les liens de son prisonnier
 avec un petit poignard. William, toujours assis par terre, en profita
-pour fouiller dans les poches de son manteau et en sortir du tabac.
+pour fouiller dans les poches de son manteau et en sortit du tabac.
 
 « Elyareleth, dit-il pensivement en commençant à rouler sa
   cigarette. Elyareleth... C'est un nom orc ?
@@ -538,9 +520,13 @@ le Darnolc, hein ?
 — Non, répliqua Elyareleth. Des siècles, plutôt.
 
 — Ouais », fit William, lugubre, en soufflant sa fumée vers le
-sol. Techniquement, il était bien incapable de dire qui avait
+sol.
+
+Techniquement, il était bien incapable de dire qui avait
 l'avantage entre deux groupes de brutes musclées, mais il n'allait pas
-admettre son ignorance.« Vous comptez nous envahir ?
+admettre son ignorance.
+
+« Vous comptez nous envahir ? demanda-t-il.
 
 — Non, je lève une armée juste pour le plaisir de faire des
 balades en montagne. 
@@ -658,6 +644,11 @@ l'honneur, tout ça, ce n'était pas mon truc.
 
 — Hmmm.
 
+— Et puis je me suis rendue compte qu'il n'était pas vraiment mon
+genre, de toute façon.
+
+— Hmmm.
+
 — Et toi,  si ce n'est pas indiscret, je me demandais pourquoi tu
 étais venue à Nonry ?
 
@@ -683,15 +674,15 @@ L'elfe prit appui sur ses mains, repassa en position assise et bâilla.
 
 — Un peu, je suppose, répondit Kalia en souriant. J'étais
 *vraiment* naïve, à l'époque. » Puis le sourire
-s'effaça. « Enfin, la vraie raison, reprit-elle, c'est que je ne  
-  supportais plus de vivre là-bas. Tu sais, ici, il y en a qui croient
-  que la forêt d'Onyx, c'est le paradis, que les elfes vivent tous en
-  harmonie, mais je ne me suis jamais sentie bien là-bas. Je n'avais pas
-  le bon physique, déjà. Pas assez grande, pas une assez bonne vue,
-  pas assez habile. Ma mère était une pute et je n'ai jamais connu mon
-  père, il y a mieux comme statut social. Et puis, je n'aimais pas les
-  bonnes choses : ni les bonnes activités, ni la bonne nourriture, ni
-  la bonne façon de vivre... »  
+s'effaça. « Enfin, la vraie raison, reprit-elle, c'est que je ne
+supportais plus de vivre là-bas. Tu sais, ici, il y en a qui croient
+que la forêt d'Onyx, c'est le paradis, que les elfes vivent tous en
+harmonie, mais je ne me suis jamais sentie bien là-bas. Je n'avais pas
+le bon physique, déjà. Pas assez grande, pas une assez bonne vue,
+pas assez habile. Ma mère était une pute et je n'ai jamais connu mon
+père, il y a mieux comme statut social. Et puis, je n'aimais pas les
+bonnes choses : ni les bonnes activités, ni la bonne nourriture, ni
+la bonne façon de vivre... »
 
 Il y eut un court moment de silence, tandis que Kalia hésitait à
 poursuivre. 
@@ -764,7 +755,7 @@ Axelle se contenta de hausser les épaules.
 
 *****
 
-Installé sous une tente, un orc à la peau sombre retirait les
+Installé sous une tente, un orc retirait les
 pansements de William.
 
 « Je dois admettre que tes facultés de récupération sont
@@ -793,7 +784,7 @@ Le vampire haussa les épaules. Lui-même n'en savait trop rien.
 
 William avait rencontré Axelle quelques mois plus tôt dans une taverne
 où un certain nombre des criminels de la ville aimaient se
-retrouver. Ils avaient plus ou moins sympathisé même s'il trouvait
+retrouver. Ils avaient plus ou moins sympathisé, même s'il trouvait
 qu'elle manquait désespérément de classe et de subtilité. C'était à
 vrai dire un point de vue partagé par beaucoup de vampires envers
 beaucoup de démons.
@@ -810,9 +801,7 @@ plus utile là-bas qu'ici.
 — Utile à quoi ? » demanda le vampire.
 
 Le médecin ne répondit pas. Il sortit de la tente et fit signer à
-William de le suivre.
-
-Une fois que les deux hommes furent dehors, Edine montra du doigt un groupe
+William de le suivre. Une fois que les deux hommes furent dehors, Edine montra du doigt un groupe
 d'orcs occupés à s'entraîner. Ils rampaient par terre en tenant un
 bâton censé figurer un *snikov* ou une arbalète.
 
@@ -849,7 +838,6 @@ train de rédiger un courrier au roi d'Arkor pour le féliciter du
 mariage de son troisième fils, qu'elle n'avait jamais rencontré et
 dont elle n'avait absolument rien à faire. Ce n'était pas très
 intéressant, mais cela faisait partie des tâches de la reine. 
-
 Alors qu'elle en arrivait à la dernière phrase, elle entendit frapper
 à la porte.
 
@@ -940,7 +928,7 @@ tuer ce démon ; et seul l'Élu pourra porter cette épée.
 
 Gérald parut blessé par la remarque.
 
-« C'est sérieux, majesté ! 
+« C'est sérieux, Majesté ! 
 
 — Oh, je n'en doute pas. C'est juste que... eh
 bien, si le roi du Darnolc lève une armée pour conquérir Erekh,

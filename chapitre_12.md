@@ -1,3 +1,4 @@
+
 Chapitre 12
 ===========
 
@@ -9,7 +10,6 @@ L'elfe essaya tout de même de se tenir un peu au courant des
 changements qui se tramaient. Comme elle l'avait supposé, le Borgne
 s'entendait finalement plutôt bien avec la reine depuis qu'elle
 parlait de démocratie.
-
 Kalia réussit à obtenir le droit de participer à une
 des réunions que la reine organisait avec le Conseil actuel et des
 répresentants des insurgés ; ou, pour être plus précis,
@@ -52,7 +52,7 @@ le peuple ne l'accepterait jamais.
 
 Kalia voulut alors quitter la salle, mais la reine lui fit signe de
 rester assise et elle n'osa pas désobéir. 
-terminait. 
+Heureusement, la réunion se terminait. 
 
 « Ah, fit la reine une fois que les autres furent sortis. Je
   voulais vous parler.
@@ -218,7 +218,7 @@ présence d'Erekh ne soit trop visible. En revanche, monsieur Wolf,
 vous pourriez vous rendre utile là-bas. J'ai d'ailleurs l'impression
 que c'est déjà ce que vous aviez prévu. 
 
-— Je ne peux rien vous cacher, mademoiselle, répondit le vampire en
+— Je ne peux rien vous cacher, Mademoiselle, répondit le vampire en
 souriant. 
 
 — Et qui d'autre qu'un démon serait mieux placé pour combattre un
@@ -275,7 +275,8 @@ tuerais.
 
 — Ne sois pas si défaitiste. Je ne pense pas non plus que ce soit
 une très bonne chose, mais vous oubliez un truc : Elyareleth est un
-démon. Les orcs auront du mal à le virer tous seuls. 
+démon. Avant qu'il ne retourne sa veste, il a eu le soutien d'Erekh
+pendant des années. Les orcs auront du mal à le virer tous seuls. 
 
 — Et parce qu'on est des héros au cœur pur, on y arriverait ?
 répliqua l'elfe. Ça me paraît un peu présomptueux. 
@@ -310,7 +311,6 @@ n'a pas d'autre choix. »
 William, du bras, poussa par terre les mégots, tasses vides et autres
 objets pas forcément identifiables qui encombraient sa carte du
 Darnolc.
-
 Les autres — c'est à dire Axelle, Kalia et Édine, auxquels s'étaient
 ajoutés temporairement Eryna, Armand et Gérald — s'assirent autour de la table.
 
@@ -344,7 +344,7 @@ pense pas qu'il y ait de problèmes.
 
 — Une fois que le roi est mort ? Pour l'instant, c'est assez simple,
 si j'ai bien compris. Les Nytelovers sont contre le roi. Les Onims
-sont contre le roi. Même les seigneurs sont contre le roi. 
+sont contre le roi. Même les seigneurs orcs sont contre le roi. 
 
 — Certains.
 
@@ -514,7 +514,7 @@ et on va guider ces ploucs d'orcs vers des lendemains meilleurs ?
 
 — Je propose qu'on laisse tomber ces conneries. Si tu tiens à aller
 au Darnolc, d'accord, pourquoi pas ? Mais qu'on ne leur impose pas un
-coup d'État aventureux.
+coup d'État aventureux soutenu par la reine d'une puissance étrangère.
 
 — Oh, d'accord, grogna Axelle. Reste là, avec tes bouquins. Si tu
 crois que tu feras changer les choses comme ça. Moi, je continue avec
@@ -523,7 +523,6 @@ mes conneries. Bonne nuit. »
 Ce ne fut que quelques secondes après qu'Axelle fût partie en
 claquant la porte que Kalia réalisa qu'elle avait mal pris sa
 remarque. 
-
 Et ce ne fut encore que quelques secondes après que ses larmes se
 mirent à couler.
 
@@ -598,7 +597,7 @@ Tu n'as pas  à t'excuser pour m'avoir dit ce que tu pensais.
 — On cause de ça à l'intérieur ? »
 
 Kalia hocha la tête et suivit son amie dans l'appartement, qui était
-juste légèrement trop ordonné pour être qualifié de chaotique. 
+à peine trop ordonné pour être qualifié de chaotique. 
 
 « Tu as faim ? demanda Axelle en se coupant une tranche de
   saucisson.
@@ -608,7 +607,7 @@ juste légèrement trop ordonné pour être qualifié de chaotique.
 — Oh, arrête. Je n'ai pas posé la question quand t'es entrée. Et
     puis, c'est presque l'heure du petit-déj'.
 
-— L'heure du *saucisson* ?
+— Tu prends du *saucisson* au petit-déjeuner ?
 
 — Je l'ai piqué au palais. Il est vachement bon. Enfin, fais comme
     tu veux. Pour en revenir à ce que tu disais, c'est plutôt moi qui
