@@ -22,8 +22,8 @@ ont, eux, jamais empêcher de vider la bouteille de vodka.)
 Je suis une *vraie* vampire. J'ai plusieurs milliers d'années. J'étais
 là lorsque Jésus Christ se faisait planter sur sa croix. J'étais là
 quand Néron foutait le feu à Rome. J'étais là quand Danton se faisait
-guillotiner, à la prise du Palais d'Hiver, quand Hitler se tirait une
-balle dans la tête ou encore au premier concert d'AC/DC.
+guillotiner, là à la prise du Palais d'Hiver, là quand Hitler se tirait une
+balle dans la tête ou encore là au premier concert d'AC/DC.
 
 J'ai tué Dracula, qui n'était pas aussi fort qu'il le croyait. J'ai
 rencontré le Premier Vampire, celui dont nous descendons tous et qui
@@ -46,7 +46,7 @@ décolorés.
 Ce soir, je sers des verres au *From L*, le bar pas si privé de Lille
 réservé 
 aux *filles de la nuit*. Si la dénomination vous paraît  un peu
-floue, c'est normal : nous mêmes on est pas forcément très au clair
+floue, c'est normal : nous mêmes on n'est pas forcément très au clair
 là-dessus. En pratique, on se contente de ne pas accepter les mecs,
 mais toutes les nanas sont acceptées : vampires, louves-garous,
 sorcières, et même les pathétiques mortelles. Au début, j'ai un peu
@@ -66,7 +66,7 @@ C'est Shade, notre mère fondatrice, qui a eu l'idée du nom. Ce soir,
 elle est avec moi à servir des verres. Shade est une louve-garou
 noire qui porte le Stetson et des santiags. Si, avec ça, vous n'aviez
 pas deviné qu'elle était ricaine, attendez qu'elle ouvre la bouche,
-parce qu'elle n'est pas du genre à s'abaisser à parler français si
+parce qu'elle n'est pas du genre à s'abaisser à parler le *froggy* si
 elle n'en a pas un besoin vital.
 
 Shade n'aime pas beaucoup la France. Si ça ne tenait qu'à elle, elle
@@ -80,7 +80,7 @@ par hasard : elle y avait passé un certain temps durant la seconde
 guerre mondiale, au sein de l'unité des *Marines* constituée de
 loups-garous. Son statut d'héroïne de guerre lui a permis de conserver
 certaines connexions que n'ont pas la plupart des groupes de
-lesbiennes hors-la-loi. C'est ce qui fait qu'elle n'a jamais
+lesbiennes hors-la-loi. C'est grâce à ça qu'elle n'a jamais été
 extradé. C'est aussi en partie ce qui fait qu'on n'est pas toutes en
 taule.
 
@@ -127,7 +127,7 @@ Je me suis concentrée un peu sur ma respiration, le temps que les
 mauvais rêves se dissipent. Le même genre que d'habitude : de la
 boucherie sanguinolente qui me laissait au réveil avec un mélange de
 tristesse et de culpabilité. Là encore, deux sentiments que j'arrive à
-évacuer en état de veille mais que mon subconscient me refourguent
+évacuer en état de veille mais que mon subconscient me refourgue
 dans mon sommeil.
 
 Respiration ventrale, se dire que tout va bien. Ouais, *respiration
@@ -153,7 +153,7 @@ clopes. *Vide*. Chiotte. Voilà une putain de journée qui commençait
 bien.
 
 J'ai enfilé mon pantalon, mis mon blouson en cuir et mes godasses, ce
-qui a pris un certain temps, vu que c'était des bottes montantes avec
+qui a pris un certain temps, vu que c'était mes bottes montantes avec
 plein de sangles. J'ai ensuite attrapé une casquette noire que j'ai
 mise sur ma tête, et je suis sortie de l'appart'. Le temps de prendre
 l'ascenseur et j'étais dehors, dans la rue.
@@ -166,7 +166,8 @@ ressurgir un mal de crâne lancinant.
 
 Quand on est une vampire, c'est pire, évidemment. On n'est fait pour
 sortir en plein soleil, même si la notion de « plein soleil » est
-toujours très relative à Lille et qu'il y avait quand même une
+toujours très relative à Lille et qu'il y avait, comme toujours, quand
+même une 
 pelletée de nuages.
 
 J'ai rabattu ma casquette et ai pressé le pas vers le
@@ -179,10 +180,10 @@ Un sourire s'est dessiné sur mon visage alors que je me mettais dans
 le bon état d'esprit pour apprécier la lumière du jour. Quand je pense
 que la plupart de mes congénères évitent rigoureusement toute
 exposition parce que ça piquote un peu. Quelle bande de fiottes. Ils
-ne savent pas ce qu'ils ratent.
+ne savent pas ce qu'ils râtent.
 
 Je suis entrée dans de tabac et ai demandé deux paquets de
-*Lucky Strike*. Le buraliste, qui me connaissait un peu depuis le
+*Lucky Strike*. Le buraliste, qui commence à me connaître depuis le
 temps, m'a tendu les clopes et a remarqué mes mains rougies par le
 soleil.
 
@@ -216,7 +217,7 @@ Quand je suis arrivée, Shade était derrière le bar. Il n'y avait
 pas des masses de clientes, alors j'ai décidé qu'elle pouvait se
 débrouiller. Surtout qu'à une table se trouvait Bull, en train de se
 tenir la tête à deux mains devant une bière. Je ne suis pas très douée
-avec les gens, l'empathie, et ce genre de connards, mais même moi
+avec les gens, pour l'empathie, et ce genre de conneries, mais même moi
 j'étais capable de voir qu'elle n'était pas en grande forme.
 
 Bull, c'est une membre de notre petit gang. Une humaine, plutôt
@@ -254,7 +255,7 @@ boire de la bière et manger des frites, ce qui est autrement plus
 utile dans la vie de tous les jours. (Pour revenir sur un point abordé
 précédemment, cette particularité de mon régime alimentaire fait aussi
 que je ne fais, techniquement, pas partie des vampires qui n'ont pas
-besoin de faire caca.)
+besoin de faire caca. C'est le souci de manger solide.)
 
 Je me suis donc assise en face de Bull, qui a levé les yeux vers moi
 sans prononcer un mot.
@@ -360,7 +361,7 @@ c'est juste pour le *show*, hein ? »
 
 J'ai haussé les épaules.
 
-« Sauf pour ceux que je n'aime pas », ai-je répliqué.
+« Je ne mange que ceux qui m'énervent », ai-je répliqué.
 
 En vérité, je ne mange plus guère de gens. Ce n'est pas vraiment une
 volonté d'intégration et de coexistence pacifique avec les humains,
@@ -386,15 +387,16 @@ grosse crise de foie, et depuis je ne bois plus des masses de sang.
 
 « Et Rouge, a-t-elle repris, elle m'a toujours dit qu'elle me
 considérait comme une égale. Que le fait de boire le sang, c'était
-juste dans l'acte sexuel, et plus lié à de l'amour. Pas vrai ? »
+juste dans l'acte sexuel, et plus lié à de l'amour qu'autre chose. Pas
+vrai ? » 
 
 Je n'ai pas répondu. Je ne voyais pas où elle voulait en venir, et je
 doutais que ce qui me venait en tête puisse l'aider. Je me voyais mal
-argumenter sur le fait que l'amour n'était pas exactement incompatible
+argumenter en disant que l'amour n'était pas exactement incompatible
 avec la consommation de l'autre et le fait de le considérer comme un
 inférieur.
 
-« Sauf qu'hier, a repris Bull, Rouge m'a traîné à une soirée organisée
+« Sauf qu'hier, a repris Bull, Rouge m'a traînée à une soirée organisée
 par le conseil vampirique, et franchement, ce n'était pas ça. J'avais
 l'impression d'être « la meuf de », pire que quand je sortais avec des
 mecs. Que j'étais vue comme sa propriété. Que les humains étaient
@@ -490,7 +492,7 @@ On a éclaté de rire toutes les deux, et puis on a fini nos verres.
 vampirisme sans parler de lutte des classes.
 
 — On ne peut pas analyser grand chose sans parler de lutte des
-classes.
+classes a-t-elle répliqué.
 
 — *Amen*. »
 
@@ -537,7 +539,7 @@ Bull a secoué la tête.
 
 « Ce ne sont pas des chasseuses de vampires », a-t-elle protesté.
 
-Le groupe en question dont parlait Bull, était constitué d'une
+Le groupe en question dont parlait Bull était constitué d'une
 demi-douzaine de nanas humaines qui se réunissaient pour parler,
 essentiellement, de vampires. La plupart avaient été en relation avec
 des suceurs de sang, et ça ne s'était pas très bien passée.
@@ -604,7 +606,7 @@ Si j'étais si curieuse à son sujet, c'est parce que Claire m'a
 tapé dans l'œil. Au sens propre. Elle s'est pointée au bar, deux
 semaines plus tôt, alors que je faisais le service. Elle s'est
 assise au comptoir, sur un grand tabouret, et est restée là sans
-rien dire, à me dévisager ?
+rien dire, à me dévisager.
 
 « Tu veux un truc à boire ? ai-je demandé.
 
@@ -619,7 +621,8 @@ chelou.
 
 J'ai ignoré la nana pendant une dizaine de minutes, me contentant de
 servir des bières et l'occasionnel verre de Coca au sang synthétique
-(une grande nouveauté de la multinationale, qui s'était ouverte au
+(une grande nouveauté de la multinationale, qui s'est ouverte, plus
+tardivement que d'autres, au
 marché vampirique en commercialisant une version traditionnel soda que
 les suceurs de sang sont capables d'ingérer sans difficulté).
 
@@ -687,7 +690,7 @@ expérience, il y a différentes options.
    les ennemis qui sont à terre ne se relèvent pas.
 
 Bref, si vous avez envie d'éliminer un vampire, laissez tomber le
-folklore et prenez un fusil à pompe. Si vous y tenez, vous
+folklore et prenez pompe. Si vous y tenez, vous
 pouvez mettre des munitions en argent, mais franchement, le plomb fait
 aussi bien l'affaire.
 
@@ -703,7 +706,7 @@ peu *snob* de la gâchette. Contrairement au reste de l'équipe qui se
 contente de tirer dans le tas, elle, c'est une tireuse d'élite. Elle
 serait capable de flinguer un moustique à vingt mètres. Et du coup,
 son point de vue, c'est que nos munitions en argent sont moins
-précises, alors elle se contente du plomb.
+précises, alors elle se contente des classiques.
 
 Je la comprends tout à fait, mais je pense qu'elle n'envisage l'argent
 que d'un point de vue ballistique, alors qu'il y a aussi toute une
@@ -910,7 +913,7 @@ concrète, que *moi* j'allais voir ailleurs, et que ce n'était pas tout
 J'ai rangé tout ça dans la catégorie « problèmes de mortels que je ne
 comprends pas » et je me suis contentée de lui dire que ouais, on
 pouvait être en relation exclusive si elle voulait, elle n'avait qu'à
-demander, ce n'était pas la peine d'en faire toute une histoire.
+demander, ce n'était pas la peine d'en faire tout un fromage.
 
 « Donc, a demandé Bull dont le sourire s'était élargi, entre vous
 deux, c'est, genre, *sérieux* ? »
@@ -1005,3 +1008,35 @@ Elle a raccroché sans me dire au revoir. Cette fille était vraiment
 mal élevée.
 
 
+*****
+
+Après, j'ai encore picolé un peu avec Bull pendant que le bar
+commençait à se remplir. Il faisait maintenant nuit, mais je restais
+la seule vampire dans le rade. Ça ne me gênait pas plus que ça,
+notez.
+
+Vers vingt heures, Cassandra est arrivée. Elle a dit vite fait bonjour
+aux nanas qu'elle connaissait, a chopé une bière au bar, puis elle est
+venue nous rejoindre. 
+
+« Tu t'es encore levée tôt ? m'a-t-elle demandée après m'avoir
+embrassée.
+
+— Ouais », ai-je simplement répondu. Je ne voyais pas quoi dire
+d'autre.
+
+Elle a laissé traîner sa main sur mon visage, qui portait sans doute
+encore les traces de brûlure de mon excursion à la lumière du jour.
+
+« Tu n'as encore pas mis de crème solaire.
+
+— Désolée, maman », ai-je répliqué.
+
+Elle a lâché un profond soupir et s'est assise à côté de nous. Bull,
+de son côté, souriait.
+
+« Salut, Casse. Ça fait un bai
+
+— Ouais, a répondu Cassandra en décapsulant sa bouteille de bière.
+
+— Ça va ?
