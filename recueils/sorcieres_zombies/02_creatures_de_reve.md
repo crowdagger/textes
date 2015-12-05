@@ -26,12 +26,12 @@ clopes.
 — On vous a pas appris à dire « s'il vous plaît », d'où vous
 venez ?
 
-—  Nan. On m'a pas appris grand-chose, à vrai dire », répliqua Alys en
+— Nan. On m'a pas appris grand-chose, à vrai dire », répliqua Alys en
 souriant. « Désolée. Alors... S'il vous plaît ?
 
-—  Quelle marque, pour les cigarettes ?
+— Quelle marque, pour les cigarettes ?
 
-—  Les moins chères. S'il vous plaît. »
+— Les moins chères. S'il vous plaît. »
 
 Une fois que le barman lui eut apporté ses cigarettes, sa bière et
 son sandwich, Alys se mit à manger. Le pain était un peu rassis et la
@@ -49,17 +49,17 @@ Pendant quelques secondes, le silence se fit. Alys souriait.
 
 « Ne répondez pas tous en même temps.
 
-—  Qu'est-ce que vous voulez aller faire là-bas ? » demanda le type
+— Qu'est-ce que vous voulez aller faire là-bas ? » demanda le type
 qui  avait essayé laborieusement de lui faire la cour. « Vous êtes
   journaliste ? 
 
-—  Pas franchement. Je veux juste aller faire un tour dans ce bled.
+— Pas franchement. Je veux juste aller faire un tour dans ce bled.
 
-—  Il n'y a plus personne, à Longsil.
+— Il n'y a plus personne, à Longsil.
 
-—  Je sais. Et alors ? Ça ne me fera pas de mal, d'être seule.
+— Je sais. Et alors ? Ça ne me fera pas de mal, d'être seule.
 
-—  La ville hantée », répliqua mystérieusement un vieil homme assis
+— La ville hantée », répliqua mystérieusement un vieil homme assis
 près d'elle, le  regard dans le vide. « Il y en a qui n'en sont
   jamais revenus. » 
 
@@ -67,20 +67,20 @@ Alys souriait toujours.
 
 « Il paraît, ouais.
 
-—  Vous êtes journaliste, hein ? reprit celui qui lui avait déjà
+— Vous êtes journaliste, hein ? reprit celui qui lui avait déjà
 posé la question. Une fouille-merde qui espère pouvoir
 pondre un article dans une feuille de choux de la capitale en
 exhumant un passé douloureux ? 
 
-—  En même temps, soupira la jeune femme, quand bien même je serais
+— En même temps, soupira la jeune femme, quand bien même je serais
 une chasseuse de fantômes attirée par le nouvel eldorado du
 paranormal, qu'est-ce que ça peut vous foutre ? Vous espérez peut-être
 me vendre une carte ?  
 
-—  Je voudrais que vous évitiez d'aller là-bas. Vous n'y trouverez
+— Je voudrais que vous évitiez d'aller là-bas. Vous n'y trouverez
 rien de bon. 
 
-—  Franchement, j'y comptais pas trop. Malheureusement, il paraît
+— Franchement, j'y comptais pas trop. Malheureusement, il paraît
 que j'y suis née. »
 
 
@@ -176,16 +176,16 @@ carrosserie avec un choc sourd.
 
 « Eh ben, constata la jeune femme, c'était chaud. 
 
-—  Qui vous êtes, vous ? demanda l'homme, haletant et trempé.
+— Qui vous êtes, vous ? demanda l'homme, haletant et trempé.
 
-—  Alys. 
+— Alys. 
 
-—  Et qu'est-ce que vous faites là ? 
+— Et qu'est-ce que vous faites là ? 
 
-—  Pour l'instant, je me contente de te sauver la peau. Sacrés
+— Pour l'instant, je me contente de te sauver la peau. Sacrés
 molosses, hein ?
 
-—  Ouais. Putain, je ne sais pas d'où ils sortent. Il n'y avait
+— Ouais. Putain, je ne sais pas d'où ils sortent. Il n'y avait
 personne ce matin. Je crois qu'il vaudrait mieux se tirer d'ici. »
 
 Il tourna la clé de contact, mais la voiture n'émit qu'un bruit
@@ -201,24 +201,24 @@ parvint et se mit à fouiller dans le coffre.
 
 « Vous cherchez quoi ? 
 
-—  Je sais pas. Arrête de me vouvoyer, tu veux ?
+— Je sais pas. Arrête de me vouvoyer, tu veux ?
 
-—  D'accord.
+— D'accord.
 
-—  C'est quoi, ton nom ?
+— C'est quoi, ton nom ?
 
-—  Stéphane. 
+— Stéphane. 
 
-—  Ah, super.
+— Ah, super.
 
-—  Mon prénom ? demanda Stéphane, un brin étonné. 
+— Mon prénom ? demanda Stéphane, un brin étonné. 
 
-—  Non, ça », expliqua la jeune femme en sortant la manivelle destinée
+— Non, ça », expliqua la jeune femme en sortant la manivelle destinée
 au cric. 
 
 « Et tu comptes faire quoi ? 
 
-—  Ben, ça. »
+— Ben, ça. »
 
 Elle ouvrit la portière arrière droite et balança un coup de chaussure
 dans la tête du premier chien à lui sauter dessus, ce qui lui donna
@@ -232,14 +232,14 @@ sur les vêtements.
 
 « Je crois que les toutous ne nous embêteront plus. 
 
-—  Euh... ouais », lâcha Stéphane, impressionné. « Je crois que tu
+— Euh... ouais », lâcha Stéphane, impressionné. « Je crois que tu
 as raison, elle ne redémarrera pas. Qu'est-ce qu'on fait ?
 
-—  Toi, je sais pas. Moi, j'ai un truc à régler dans ce bled.
+— Toi, je sais pas. Moi, j'ai un truc à régler dans ce bled.
 
-—  On devrait peut-être rester ensemble ? 
+— On devrait peut-être rester ensemble ? 
 
-—  Ouais. Si tu veux que je continue à te protéger, effectivement, il
+— Ouais. Si tu veux que je continue à te protéger, effectivement, il
 vaudrait mieux que tu restes avec moi. »
 
 
@@ -259,38 +259,38 @@ trempée.
 « Je suis venu dans l'après-midi, expliqua le jeune homme. Il n'y
   avait rien. Je ne vois pas d'où sortent ces chiens. 
 
-—  Et tu venais faire quoi, ici ? 
+— Et tu venais faire quoi, ici ? 
 
-—  Mon frère est mort dans l'accident de la mine, il y a deux ans.
+— Mon frère est mort dans l'accident de la mine, il y a deux ans.
 
-—  Et ? 
+— Et ? 
 
-—  C'est juste que... je ne l'avais jamais connu. J'ai été
+— C'est juste que... je ne l'avais jamais connu. J'ai été
 adopté.  J'ai entendu dire que tout, là-bas était resté... comme
 avant.
 
-—  T'espérais quoi ? Fouiller son passé ? 
+— T'espérais quoi ? Fouiller son passé ? 
 
-—  Je ne sais pas. Découvrir mes racines. Et toi ? Qu'est-ce que tu
+— Je ne sais pas. Découvrir mes racines. Et toi ? Qu'est-ce que tu
 viens faire ? 
 
-—  Un peu la même chose, mais dans l'autre sens. Mon psy m'a dit que
+— Un peu la même chose, mais dans l'autre sens. Mon psy m'a dit que
 je devais tuer le père.
 
-—  Pardon ?
+— Pardon ?
 
-—  Ouais. Il m'a dit : monsieur Vermont, parce que ce connard
+— Ouais. Il m'a dit : monsieur Vermont, parce que ce connard
 m'appelle Monsieur, vous êtes un homosexuel refoulé, selon Lacan et
 Freud, bla bla bla, vous n'avez pas tué le père. Connard.
 
-—  Hum, fit Stéphane sans trop comprendre. D'accord. 
+— Hum, fit Stéphane sans trop comprendre. D'accord. 
 
-—  Parce que ce corps a un pénis, expliqua Alys. Alors il croit qu'il peut
+— Parce que ce corps a un pénis, expliqua Alys. Alors il croit qu'il peut
 m'appeler Monsieur. 
 
-—  Heu. Ah, fit le jeune homme. Tu es... transsexuelle ?
+— Heu. Ah, fit le jeune homme. Tu es... transsexuelle ?
 
-—  J'imagine », répondit Alys tout en essayant piteusement d'allumer
+— J'imagine », répondit Alys tout en essayant piteusement d'allumer
 une cigarette, ce qui, vu la pluie, n'était pas une tâche
 facile. « Ça, ou bien je suis une démone 
 enfermée dans ce corps de mortel pathétique. Peut-être même que je
@@ -300,16 +300,16 @@ suis les deux en même temps. Ce serait très quantique.
 
 — Je suis pas une ange, ça c'est sûr. 
 
-—  Ah, euh... D'accord. Et sinon, pourquoi tu continues à le voir, ce psy ? S'il
+— Ah, euh... D'accord. Et sinon, pourquoi tu continues à le voir, ce psy ? S'il
 t'emmerde tant que ça ?
 
-—  Là où j'étais, j'étais un peu obligée de le voir de temps en
+— Là où j'étais, j'étais un peu obligée de le voir de temps en
 temps. Et je ne pouvais pas trop me tirer de là où j'étais.
 
-—  Waw, lança Stéphane en rigolant. Ta façon de le dire, on croirait
+— Waw, lança Stéphane en rigolant. Ta façon de le dire, on croirait
 que c'était une prison. 
 
-—  Ouais, répliqua Alys. Eux, ils appelaient ça un hôpital
+— Ouais, répliqua Alys. Eux, ils appelaient ça un hôpital
 psychiatrique, mais ça revenait un peu au même, dans les faits. »
 
 
@@ -319,10 +319,10 @@ sujet :
 
 « Et ton histoire de père à tuer...
 
-—  Je suis amnésique, en fait. J'ai appris que mon père vivait dans
+— Je suis amnésique, en fait. J'ai appris que mon père vivait dans
 ce bled.
 
-—  Oh, fit le jeune homme. Je vois. En fait, tu es venue essayer de
+— Oh, fit le jeune homme. Je vois. En fait, tu es venue essayer de
 retrouver la mé... »
 
 Il ne termina pas sa phrase, car Alys lui avait attrapé le bras pour
@@ -330,9 +330,9 @@ le forcer à s'arrêter.
 
 « Ne bouge pas avant que je te le dise, chuchota-t-elle.
 
-—  Qu'est-ce qu'il y a ? 
+— Qu'est-ce qu'il y a ? 
 
-—  Regarde sur l'arbre. »
+— Regarde sur l'arbre. »
 
 Le jeune homme plissa les yeux et parvint à distinguer, malgré
 l'obscurité et la pluie, une ombre à forme d'oiseau posée sur
@@ -362,12 +362,12 @@ avait envie de vomir.
 
 « Tu avais dit qu'il ne nous attaquerait pas...
 
-—  Je ne me souviens pas avoir dit ça.
+— Je ne me souviens pas avoir dit ça.
 
-—  Tu as dit qu'il ne nous ferait pas de mal, protesta le jeune
+— Tu as dit qu'il ne nous ferait pas de mal, protesta le jeune
 homme.
 
-—  Ouais. Je n'ai pas dit qu'il n'*essaierait* pas. »
+— Ouais. Je n'ai pas dit qu'il n'*essaierait* pas. »
 
 
 
@@ -380,11 +380,11 @@ complètement trempés.
 « À partir de maintenant, chuchota Alys, il vaudrait peut-être
   mieux éviter de faire du bruit. On a de la chance qu'il pleuve. 
 
-—  Pourquoi ? demanda Stéphane. Il n'y a plus personne.
+— Pourquoi ? demanda Stéphane. Il n'y a plus personne.
 
-—  Ouais, ouais.
+— Ouais, ouais.
 
-—  Et quand bien même, répliqua le jeune homme. Si on pouvait trouver
+— Et quand bien même, répliqua le jeune homme. Si on pouvait trouver
 de l'aide, pour la voiture... »
 
 
@@ -393,10 +393,10 @@ Alys soupira.
 « Si tu veux aller demander de l'aide, vas-y seul. Moi, je
   préfère ne pas être repérée.
 
-—  N'empêche qu'il n'y a personne. Le village est interdit d'accès
+— N'empêche qu'il n'y a personne. Le village est interdit d'accès
 à cause des risques d'effondrements.
 
-—  C'est ça. Suis-moi. Et silence. »
+— C'est ça. Suis-moi. Et silence. »
 
 Stéphane obéit, un peu piteusement. Il ne comprenait pas la paranoïa
 de la jeune femme, mais il n'avait aucune envie de rester seul dans
@@ -417,11 +417,11 @@ La jeune femme grimaça, puis fit signe à Stéphane de la suivre.
 
 « Merde, chuchota-t-elle. Tout a brûlé.
 
-—  On est où ?
+— On est où ?
 
-—  C'était le syndicat des mineurs. 
+— C'était le syndicat des mineurs. 
 
-—  Comment tu sais ça, au fait ? Tu n'es pas censée être amnésique ? »
+— Comment tu sais ça, au fait ? Tu n'es pas censée être amnésique ? »
 
 Alys lui jeta un regard mauvais destiné à lui faire comprendre
 que ce n'était pas le genre de questions qu'on posait à une personne
@@ -443,7 +443,7 @@ l'escalier, mais le reste paraissait intact.
 « On peut parler normalement, maintenant ? demanda Stéphane après
   qu'Alys eut refermé la porte.
 
-—  Je pense, oui.  Viens, on
+— Je pense, oui.  Viens, on
 monte, on verra mieux là-haut. Et n'allume pas de lumière. »
 
 Stéphane soupira, énervé par le comportement de la jeune
@@ -456,7 +456,7 @@ venir le rejoindre.
 
 « Tu vois l'église, là-bas ? 
 
-—  Oui. »
+— Oui. »
 
 Elle était au bout d'une rue par laquelle ils n'étaient pas passés
 pour venir, à une centaine de mètres de la maison, peut-être un peu plus.
@@ -468,15 +468,15 @@ filtrait du vitrail, mais il finit par acquiescer.
 
 « Alors, il n'y a personne, hein ? demanda Alys.
 
-—  Je ne comprends pas. Tout à l'heure...
+— Je ne comprends pas. Tout à l'heure...
 
-—  Tout à l'heure, tu n'es pas venu ici.
+— Tout à l'heure, tu n'es pas venu ici.
 
-—  Je suis allé à l'église, je n'ai...
+— Je suis allé à l'église, je n'ai...
 
-—  Pas tout à fait *cette* église.
+— Pas tout à fait *cette* église.
 
-—  Quoi ? »
+— Quoi ? »
 
 Stéphane ne comprenait pas. Alys soupira et chercha ses mots quelques
 instants.
@@ -484,26 +484,26 @@ instants.
 « Tu es allé faire un tour dans le village. Et ensuite, tu t'es
   endormi dans la voiture, n'est-ce pas ?
 
-—  Oui. Je me suis réveillé et j'ai voulu y retourner pour aller
+— Oui. Je me suis réveillé et j'ai voulu y retourner pour aller
 chercher...
 
-—  Non. Tu ne t'es *pas* réveillé. »
+— Non. Tu ne t'es *pas* réveillé. »
 
 Stéphane fronça les sourcils.
 
 « Tu veux dire qu'on est dans un rêve ? 
 
-—  Plus ou moins.
+— Plus ou moins.
 
-—  Alors, je vais me réveiller ?
+— Alors, je vais me réveiller ?
 
-—  Ouais. Il vaut mieux que tu croies ça.
+— Ouais. Il vaut mieux que tu croies ça.
 
-—  Écoute, je... protesta le jeune homme. Ça ne tient pas debout.
+— Écoute, je... protesta le jeune homme. Ça ne tient pas debout.
 
-—  Crois ce que tu veux.
+— Crois ce que tu veux.
 
-—  Cela dit, tu as raison, c'est flippant, cette ambiance. »
+— Cela dit, tu as raison, c'est flippant, cette ambiance. »
 
 Alys haussa les épaules, l'air manifestement assez peu flippée.
 
@@ -563,7 +563,7 @@ torrentielle.
 
 « Tu n'es pas réelle, hein ? constata Alys.
 
-—  Tsss. Réelle, pas réelle, ce n'est pas la peine d'être si normative. »
+— Tsss. Réelle, pas réelle, ce n'est pas la peine d'être si normative. »
 
 
 *****
@@ -574,12 +574,12 @@ torrentielle.
   il est 
     pas mal.
 
-—  Je m'appelle Laura. C'est pas non plus mon vrai nom, mais
+— Je m'appelle Laura. C'est pas non plus mon vrai nom, mais
 l'original est un peu imprononçable. 
 
-—  Et qu'est-ce que tu viens faire là ?
+— Et qu'est-ce que tu viens faire là ?
 
-—  Je te sens un peu agressive. »
+— Je te sens un peu agressive. »
 
 Alys aussi se sentait un peu agressive. Elle avait prévu que les
 choses seraient pénibles, mais elle avait en plus eu droit à un boulet
@@ -591,16 +591,16 @@ Pour autant qu'elle ait jamais eu de plans.
 « Pourtant, reprit Laura, si tu réfléchis, on devrait
   s'entendre. On est là pour la même chose, non ?
 
-—  Mouais. Moi je vois surtout que je suis une gauchiste matérialiste
+— Mouais. Moi je vois surtout que je suis une gauchiste matérialiste
 et que t'es une flic onirique.
 
-—  Tsss, s'offusqua Laura. Je préfère définir ce que je fais comme de
+— Tsss, s'offusqua Laura. Je préfère définir ce que je fais comme de
 la « dialectique onirique ». Mon travail, c'est de faire en sorte
 que les choses ne se passent pas trop mal 
 quand les rêves et la réalité se chevauchent un peu. Dans la
 mythologie grecque, on nous appelait les *Oneiroi*. 
 
-—  Hum, fit Alys. Ça a un rapport ave la Oi! ? »
+— Hum, fit Alys. Ça a un rapport ave la Oi! ? »
 
 
 *****
@@ -609,9 +609,9 @@ mythologie grecque, on nous appelait les *Oneiroi*.
   je suppose, remarqué que cette ville est coincée quelque part entre
   le rêve et la réalité, entre la vie et la mort...
 
-—  C'est une ville transgenre, quoi.
+— C'est une ville transgenre, quoi.
 
-—  Mouais », fit la jeune femme onirique qui ne paraissait pas très
+— Mouais », fit la jeune femme onirique qui ne paraissait pas très
 convaincue par la pertinence de la remarque. « Le problème, c'est
   surtout que des gens se retrouvent, ni morts, ni vivants, coincés
   dans ce cauchemar. »
@@ -624,64 +624,64 @@ tee-shirt trempé.
   l'*oneiroi*, n'est pas que cette ville se trouve entre le rêve
   et la réalité, c'est que c'est devenu un cauchemar. 
 
-—  Des gens ont disparu, ajouta Alys. Ou ne se
+— Des gens ont disparu, ajouta Alys. Ou ne se
 sont pas réveillés. 
 
-—  Voilà. Tout ça pour dire que je veux arrêter ça.
+— Voilà. Tout ça pour dire que je veux arrêter ça.
 
-—  Tout ça pour ça, soupira Alys. Je me doutais que tu ne venais pas cueillir
+— Tout ça pour ça, soupira Alys. Je me doutais que tu ne venais pas cueillir
 des fleurs.
 
-—  D'accord, d'accord. Tu me laisses finir ?
+— D'accord, d'accord. Tu me laisses finir ?
 
-—  Accouche, alors.
+— Accouche, alors.
 
-—  J'ai vite compris que la source de ce cauchemar se trouvait dans
+— J'ai vite compris que la source de ce cauchemar se trouvait dans
 la mine. Nous, les rêves, on sent un peu ce genre de choses. 
 
-—  C'était pas non plus très dur à deviner, répliqua Alys. C'est
+— C'était pas non plus très dur à deviner, répliqua Alys. C'est
 depuis l'accident de cette mine que ce village est désaffecté. 
 
-—  De là où je suis, expliqua Laura, je ne peux pas vraiment le
+— De là où je suis, expliqua Laura, je ne peux pas vraiment le
 savoir. En tout cas, j'ai essayé d'y aller, seulement il y a quelque chose,
 ou quelqu'un, qui m'empêche d'approcher. Quelque chose ou quelqu'un
 qui arrive à se protéger des rêves... et au final, je ne suis que ça.
 
-—  Pas grave, fit Alys en allumant une cigarette avec son Zippo. Moi,
+— Pas grave, fit Alys en allumant une cigarette avec son Zippo. Moi,
 je ne suis pas un rêve.
 
-—  Tu serais prête à aller là-bas ? Je n'ai aucune idée de ce qu'il y
+— Tu serais prête à aller là-bas ? Je n'ai aucune idée de ce qu'il y
 aura dessous...
 
-—  Je n'ai pas peur des rêves. Et puis, je pense que mon père est
+— Je n'ai pas peur des rêves. Et puis, je pense que mon père est
 là-bas. »
 
 Laura hocha la tête.
 
 « Peut-être. J'ai cru comprendre que tu étais amnésique.
 
-—  Ah, fit Alys. C'est donc *toi* qui nous espionnait. »
+— Ah, fit Alys. C'est donc *toi* qui nous espionnait. »
 
 L'*oneiroi* parut un peu désarçonnée et regarda son interlocutrice
 avec un air dubitatif.
 
 « Tu m'avais repérée ?
 
-—  Non, répliqua la jeune femme en souriant. Mais je peux prétendre
+— Non, répliqua la jeune femme en souriant. Mais je peux prétendre
 que si.
 
-—  Oh. Maligne, hein ? Je me disais, en tant qu'amnésique, tu dois
+— Oh. Maligne, hein ? Je me disais, en tant qu'amnésique, tu dois
 *forcément* avoir un tatouage ou une cicatrice qui te donne un
 indice sur ton passé ?
 
-—  J'ai bien un tatouage, répliqua Alys, mais il n'est pas très
+— J'ai bien un tatouage, répliqua Alys, mais il n'est pas très
 mystérieux.
 
-—  Je peux le voir ?
+— Je peux le voir ?
 
-—  Ben, il est pas super bien situé...
+— Ben, il est pas super bien situé...
 
-—  Oh. »
+— Oh. »
 
 Alys haussa les épaules, se leva et tourna le dos à la jeune femme
 onirique.
@@ -699,9 +699,9 @@ l'anarchisme plus sexy sur une fesse que le A dans un cercle.
   mystérieux. Mais c'est mignon. Et je le trouve au contraire
   *très* bien situé.
 
-—  C'est bon ? Je peux me rhabiller ?
+— C'est bon ? Je peux me rhabiller ?
 
-—  Hum », fit Laura en posant une main sur le tatouage et l'autre sur
+— Hum », fit Laura en posant une main sur le tatouage et l'autre sur
 le ventre nu d'Alys, en dessous de sa poitrine. « Je me disais que
   je n'avais jamais fait ce que à quoi je pense avec une fille comme
   toi.
@@ -711,7 +711,7 @@ le ventre nu d'Alys, en dessous de sa poitrine. « Je me disais que
 — Ben, tu sais ? Une mortelle qui comprend en fait quelque chose à ce
 qui se passe dans ce genre de situations. C'est original.
 
-—  Fabuleux, soupira Alys. Je rencontre une nana qui est en fait une
+— Fabuleux, soupira Alys. Je rencontre une nana qui est en fait une
 créature mythologique qui n'existe que dans les rêves des gens, et il
 faut que ce soit *elle* qui me trouve exotique. »
 
@@ -734,34 +734,34 @@ semblait assoupie, elle.
 
 « Hum, fit Stéphane. Désolé.
 
-—  'lut. Bien dormi ?
+— 'lut. Bien dormi ?
 
-—  Hum... Euh... Qu'est-ce qu'il s'est passé, en fait ? »
+— Hum... Euh... Qu'est-ce qu'il s'est passé, en fait ? »
 
 Alys se gratta les cheveux, se remémora les évènements de la veille et
 arbora un sourire légèrement gêné.
 
 « Oh. Je t'ai mis K.O. Je pensais que tu te réveillerais.
 
-—  Hein ? 
+— Hein ? 
 
-—  Hummm ? fit Laura en se retournant, avant de se mettre la tête
+— Hummm ? fit Laura en se retournant, avant de se mettre la tête
 sous un oreiller pour isoler un peu ses oreilles de la source de
 bruit.
 
-—  Je veux dire, reprit Alys, te réveiller dans le monde réel. Mais
+— Je veux dire, reprit Alys, te réveiller dans le monde réel. Mais
 apparemment, tu es toujours là.
 
-—  Euh, fit Stéphane en décidant de ne plus chercher à
+— Euh, fit Stéphane en décidant de ne plus chercher à
 comprendre. Ouais. C'est qui, au fait ?
 
-—  Elle s'appelle Laura. C'est une flic onirique.
+— Elle s'appelle Laura. C'est une flic onirique.
 
-—  Chui pas flic, marmonna l'*oneiroi*.
+— Chui pas flic, marmonna l'*oneiroi*.
 
-—  Elle va nous filer un coup de main pour sortir de ce cauchemar.
+— Elle va nous filer un coup de main pour sortir de ce cauchemar.
 
-—  Je ne comprends pas trop de quoi tu parles... »
+— Je ne comprends pas trop de quoi tu parles... »
 
 Alys soupira et lui jeta un regard las.
 
@@ -812,7 +812,7 @@ De toute façon, la proposition n'avait pas l'air d'enchanter Alys.
 « Non, répliqua-t-elle simplement. On va aller faire un tour à la
   mine.
 
-—  Quoi ? » s'exclama le jeune homme.
+— Quoi ? » s'exclama le jeune homme.
 
 
 *****
@@ -834,11 +834,11 @@ s'ils allaient à une étrange partie de chasse.
   dans l'accident. Ça ne sert à rien de...
 
 
-—  Si.
+— Si.
 
-—  Tout s'est effondré.
+— Tout s'est effondré.
 
-—  Dans la réalité, oui, répliqua Alys. Pas ici. »
+— Dans la réalité, oui, répliqua Alys. Pas ici. »
 
 Stéphane soupira et se demanda si c'était la jeune femme qui était
 folle, ou si c'était lui. 
@@ -847,9 +847,9 @@ folle, ou si c'était lui.
   posant une main sur son épaule. La plupart du temps, les rêves sont
   moins... réalistes.
 
-—  Mouais, grommela le jeune homme sans paraître très convaincu.
+— Mouais, grommela le jeune homme sans paraître très convaincu.
 
-—  Et, accessoirement, la plupart du temps, on ne risque pas de ne
+— Et, accessoirement, la plupart du temps, on ne risque pas de ne
 jamais s'en réveiller. »
 
 
@@ -875,9 +875,9 @@ passait. Si c'était le cas, ça ne lui plaisait pas.
 « Tu vois, murmura Alys en se plaçant à côté de lui. La mine est
   toujours là.
 
-—  Je vois, répliqua un Stéphane lugubre.
+— Je vois, répliqua un Stéphane lugubre.
 
-—  Et ça, vous le voyez ? » demanda Laura en tendant un doigt vers
+— Et ça, vous le voyez ? » demanda Laura en tendant un doigt vers
 l'entrée de la grotte.
 
 Un chariot en sortait, poussé sur les rails par deux hommes en habits
@@ -888,7 +888,7 @@ terre et un casque muni d'une lampe.
   mine. Vous allez devoir vous débrouiller sans moi à partir de
   maintenant.
 
-—  Mais comment on peut entrer ? demanda Stéphane, tandis que les
+— Mais comment on peut entrer ? demanda Stéphane, tandis que les
 mineurs continuaient à pousser leur wagonnet. S'il ne faut pas qu'on
 se fasse remarquer... »
 
@@ -905,10 +905,10 @@ se diriger nonchalamment vers les deux mineurs.
 
 « Oh non, souffla-t-il.
 
-—  Elle ne va quand même pas faire ça ? demanda Laura. Remarque, ça
+— Elle ne va quand même pas faire ça ? demanda Laura. Remarque, ça
 pourrait marcher. C'est dans les vieux pots...
 
-—  Je n'y crois pas, coupa Stéphane. Elle... »
+— Je n'y crois pas, coupa Stéphane. Elle... »
 
 Elle venait d'assommer les deux hommes coup sur coup, avec la crosse
 de son arme. Elle entreprit ensuite de les déshabiller et enfila une
@@ -924,12 +924,12 @@ espérant que dans l'obscurité de la mine personne ne les remarquerait.
   une veste bleue qui ne sentait pas très bon, tu n'es pas obligé d'y
   aller...
 
-—  Je ne suis pas très courageux, répliqua Stéphane, mais
+— Je ne suis pas très courageux, répliqua Stéphane, mais
 quand même. Je ne vais pas la laisser y aller seule. 
 
-—  Comme tu veux.
+— Comme tu veux.
 
-—  Et puis, ce n'est qu'un rêve, si j'ai bien compris. Ce n'est pas
+— Et puis, ce n'est qu'un rêve, si j'ai bien compris. Ce n'est pas
 comme si je risquais quelque chose. »
 
 Laura grimaça, et interrogea Alys du regard. Cette dernière se
@@ -938,26 +938,26 @@ contenta de hausser les épaules.
 « Il vaut sans doute mieux que tu crois ça, ouais. Bon, il faut
   que vous trouviez ce qui est à l'origine de ce cauchemar...
 
-—  ... et qu'on le détruise, compléta Alys. Pas compliqué.
+— ... et qu'on le détruise, compléta Alys. Pas compliqué.
 
-—  Faites gaffe. Quand ce sera fait, sortez vite.
+— Faites gaffe. Quand ce sera fait, sortez vite.
 
-—  Ouais, fit la jeune femme en dissimulant son fusil à l'intérieur du
+— Ouais, fit la jeune femme en dissimulant son fusil à l'intérieur du
 chariot. Je ne comptais pas m'éterniser, de toutes façons. Tu es prêt
 ?
 
-—  Autant qu'on puisse l'être, répliqua Stéphane.
+— Autant qu'on puisse l'être, répliqua Stéphane.
 
-—  Bon, alors on y va. »
+— Bon, alors on y va. »
 
 Alors qu'il pénétrait dans la mine et que ses yeux essayaient de
-s'adapter à l'obscurité —  le bon côté, c'était qu'au moins il n'y
+s'adapter à l'obscurité — le bon côté, c'était qu'au moins il n'y
 avait plus de pluie — , Stéphane, qui gardait la tête baissé, demanda
 à sa coéquipière, en chuchotant : 
 
 « Au fait, tu as prévu un plan ?
 
-—  Ben, on suit les rails ? »
+— Ben, on suit les rails ? »
 
 
 *****
@@ -988,9 +988,9 @@ s'adressait pas à elle.
 
 « Toi ! répéta l'homme. Viens voir par ici. 
 
-—  Moi ? demanda enfin Alys, toujours sans montrer son visage. 
+— Moi ? demanda enfin Alys, toujours sans montrer son visage. 
 
-—  Oui, toi. »
+— Oui, toi. »
 
 Elle obéit, à contrecœur, et s'approcha de l'homme. Il n'avait pas
 la peau décharnée, un œil sans orbite ni même un teint spécialement
@@ -1010,8 +1010,8 @@ dévoilant ses cheveux blonds.
 « Une femme ? » s'étonna l'homme, puis il ne chercha plus à
 comprendre et commença à l'étrangler avec une force surhumaine.
 
-Alors qu'elle se demandait —  sans paniquer, parce qu'elle ne voyait pas
-l'intérêt de paniquer pour des détails techniques —  comment elle
+Alors qu'elle se demandait — sans paniquer, parce qu'elle ne voyait pas
+l'intérêt de paniquer pour des détails techniques — comment elle
 allait faire pour sortir de ce mauvais pas alors que même les coups de
 genoux dans les testicules semblaient sans effet, le contremaître
 s'effondra.
@@ -1021,25 +1021,25 @@ s'effondra.
 « Bien joué, fit simplement Alys en se dirigeant vers leur
   chariot.
 
-—  J'ai eu une bonne prof.
+— J'ai eu une bonne prof.
 
-—  Tu sais, je crois qu'on ne va pas passer inaperçus longtemps »,
+— Tu sais, je crois qu'on ne va pas passer inaperçus longtemps »,
 ajouta la jeune femme en attrapant le fusil qui était resté dans le
 chariot. « Du coup, on devrait peut-être passer au plan B ? 
 
-—  Il y avait un plan A ? 
+— Il y avait un plan A ? 
 
-—  Non, admit Alys. Donc, j'allais proposer qu'on fonce vers le Boss.
+— Non, admit Alys. Donc, j'allais proposer qu'on fonce vers le Boss.
 
-—  Le Boss ? protesta Stéphane. On n'est pas dans un jeu. 
+— Le Boss ? protesta Stéphane. On n'est pas dans un jeu. 
 
-—  Le patron, quoi. Mon père.
+— Le patron, quoi. Mon père.
 
-—  Euh... Et tu veux qu'on fonce ? 
+— Euh... Et tu veux qu'on fonce ? 
 
-—  Ouais. 
+— Ouais. 
 
-—  Vers où ? »
+— Vers où ? »
 
 Alys prit un air pensif : ils se trouvaient effectivement dans une 
 grande salle où débouchaient trois tunnels en plus de celui par lequel
@@ -1064,9 +1064,9 @@ fusil d'Alys.
 « À ta place, murmura cette dernière, je ne ferais pas trop de
   bruit.
 
-—  Heu- eur ?
+— Heu- eur ?
 
-—  J'ai juste une question à te poser. Si t'es capable de
+— J'ai juste une question à te poser. Si t'es capable de
 répondre. Où est votre patron ? »
 
 Le mineur eut l'air de se concentrer horriblement pour essayer de
@@ -1101,7 +1101,7 @@ si de rien n'était.
 
 « Allons, allons. Tu croyais vraiment que ce serait si facile ?
 
-—  Ben, je dois dire que j'espérais un peu. »
+— Ben, je dois dire que j'espérais un peu. »
 
 
 *****
@@ -1126,9 +1126,9 @@ sol.
     juste... ridicule. Mais que tu viennes essayer de gâcher mon
     rêve... 
 
-—  Ton rêve ? répliqua Alys. Le terme « cauchemar » serait plus approprié.
+— Ton rêve ? répliqua Alys. Le terme « cauchemar » serait plus approprié.
 
-—  Quelle importance ? soupira le quinquagénaire. C'était la seule
+— Quelle importance ? soupira le quinquagénaire. C'était la seule
 façon de préserver ce village. La mine ne pouvait plus tenir... »
 
 Il haussa les épaules et s'approcha d'un mineur auquel il fit un signe
@@ -1184,9 +1184,9 @@ visage de son père.
 « Tu croyais tirer avantage de ce rêve, hein ? Assouvir ton
   appétit pour l'or, ta soif de pouvoir...
 
-—  C'était le village, qui comptait...
+— C'était le village, qui comptait...
 
-—  Conneries. Tu as vu ce que tu as fait du village. La vérité, c'est
+— Conneries. Tu as vu ce que tu as fait du village. La vérité, c'est
 que tu voulais te servir de ce cauchemar, alors que c'est lui qui se
 servait de toi. Tout est fini. »
 
@@ -1195,9 +1195,9 @@ D'un geste sec, elle égorgea l'homme. Le sang coula, beaucoup.
 « Tu sais quoi ? Je suis bien contente d'être amnésique. J'aurais
   pas vu l'intérêt de me souvenir d'un type pareil.
 
-—  C'était ton père, tout de même, protesta Stéphane.
+— C'était ton père, tout de même, protesta Stéphane.
 
-—  En fait, j'ai menti. Ce n'est... » commença la jeune femme avant de
+— En fait, j'ai menti. Ce n'est... » commença la jeune femme avant de
 s'arrêter en fronçant les sourcils. 
 
 Il lui semblait aussi qu'il faisait plus sombre que quelques secondes
@@ -1259,17 +1259,17 @@ Elle l'embrasse.
 
 « Tu as bien dormi ? demande-t-il.
 
-—  Oui, mon amour. J'ai juste fait un rêve absurde. Enfin, je ne m'en
+— Oui, mon amour. J'ai juste fait un rêve absurde. Enfin, je ne m'en
 souviens déjà plus.
 
-—  Tu veux un croissant ? »
+— Tu veux un croissant ? »
 
 Alys sourit et s'assoit en face de son mari. Elle attrapa une
 viennoiserie et se sert un verre de jus d'orange. 
 
 « Tu es si attentionné...
 
-—  C'est parce que je t'aime. Et puis... »
+— C'est parce que je t'aime. Et puis... »
 
 Il baisse son regard vers le ventre de sa femme. Elle sourit. Elle est
 enceinte et cela commence à se voir un peu. 
@@ -1311,11 +1311,11 @@ avec le cauchemar.
   quoi cette histoire d'être enceinte ? Je n'ai jamais pu cadrer les
   gosses. Sérieusement, tu aurais pu faire plus original. 
 
-—  *Je pourrais...* commença le cauchemar d'une voix qui
+— *Je pourrais...* commença le cauchemar d'une voix qui
 paraissait faible et hésitante. *Je pourrais te proposer tant
   d'autres choses...*
 
-—  Va chier », répliqua simplement la jeune femme. 
+— Va chier », répliqua simplement la jeune femme. 
 
 
 *****
@@ -1329,9 +1329,9 @@ La jeune femme lui tapota la joue et essaya de le réveiller.
 
 « Stéphane ?
 
-—  Hummmm ?
+— Hummmm ?
 
-—  Il faut qu'on y aille. »
+— Il faut qu'on y aille. »
 
 Il y eut un grondement sourd et elle sentit la terre vibrer. 
 
@@ -1343,12 +1343,12 @@ qui semblaient se réveiller.
 
 « Ce que tu as dit, à propos de ton père... Que tu avais menti... 
 
-—  Le vrai Mathieu Vermont est mort, expliqua Alys. Son père ne
+— Le vrai Mathieu Vermont est mort, expliqua Alys. Son père ne
 pouvait pas le savoir. Surtout que les fantômes n'ont pas très bonne
 mémoire des visages. Je suis assez fière de mon coup, je dois dire. Ça
 aurait sans doute été beaucoup plus compliqué, sans ça.
 
-—  Mais... pourquoi être venue ? »
+— Mais... pourquoi être venue ? »
 
 La jeune prit un air sérieux. 
 
@@ -1371,10 +1371,10 @@ forcément pris pour une raison très valable.
 
 « Il faut y aller ! fit-t-elle. La mine va s'effondrer.
 
-—  C'est mon frère ! répliqua le jeune homme en aidant un travailleur à se
+— C'est mon frère ! répliqua le jeune homme en aidant un travailleur à se
 relever. 
 
-—  Vous discuterez dehors, alors, fit Alys en l'aidant à soutenir le
+— Vous discuterez dehors, alors, fit Alys en l'aidant à soutenir le
 mineur. Il faut vraiment qu'on sorte. »
 
 
@@ -1402,9 +1402,9 @@ La jeune femme onirique haussa les épaules.
 
 « L'un est vivant. L'autre est mort.
 
-—  C'est... triste.
+— C'est... triste.
 
-—  Je ne sais pas. Au moins, ça lui aura permis de connaître son
+— Je ne sais pas. Au moins, ça lui aura permis de connaître son
 frère. 
 
 — Il ne s'en souviendra sans doute même pas en se réveillant.
@@ -1418,9 +1418,9 @@ s'effondrer sérieusement.
 
 « Bon, fit Laura. Je crois que ça se termine.
 
-—  Ça y ressemble.
+— Ça y ressemble.
 
-—  La prochaine fois que tu veux un rêve érotique... appelle-moi. »
+— La prochaine fois que tu veux un rêve érotique... appelle-moi. »
 
 Elle approcha ses lèvres de celles d'Alys. Et le rêve disparut.
 
@@ -1433,7 +1433,7 @@ tête vers elle, surpris.
 
 « Qu'est-ce que vous faites là ? 
 
-—  Arrête de me vouvoyer », répondit simplement Alys.
+— Arrête de me vouvoyer », répondit simplement Alys.
 
 Stéphane haussa les épaules et décida que si la jeune femme avait passé la
 nuit à dormir à côté de lui, c'est qu'il était peu probable qu'elle fût
