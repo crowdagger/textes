@@ -1,0 +1,22 @@
+author: Lizzie Crowdagger
+title: Noir & Blanc
+lang: fr
+
+numbering_template: Chapitre {{number}} : {{title}}
+
+output_epub: blanc-noir.epub
+output_pdf: blanc-noir.pdf
+output_html: blanc-noir.html
+
+! copyright.md
++ chapitre_1.md
++ chapitre_2.md
++ chapitre_3.md
++ chapitre_4.md
++ chapitre_5.md
++ chapitre_6.md
++ chapitre_7.md
++ chapitre_8.md
+- epilogue.md
+- livres.md
+
