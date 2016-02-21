@@ -1,0 +1,33 @@
+author: Lizzie Crowdagger
+title: Pas tout à fait des hommes
+lang: fr
+subject: fantasy
+
+cover: couv/cover.png
+
+temp_dir: /tmp/
+
+numbering: false
+autoclean: true
+tex_command: pdflatex
+epub_version: 3
+
+output_epub: ptafdh.epub
+output_html: ptafdh.html
+output_pdf: ptafdh.pdf
+
+- chapitre_01.md
+- chapitre_02.md
+- chapitre_03.md
+- chapitre_04.md
+- chapitre_05.md
+- chapitre_06.md
+- chapitre_07.md
+- chapitre_08.md
+- chapitre_09.md
+- chapitre_10.md
+- chapitre_11.md
+- chapitre_12.md
+- chapitre_13.md
+- chapitre_14.md
+- chapitre_15.md
