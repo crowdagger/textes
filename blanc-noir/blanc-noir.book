@@ -18,5 +18,5 @@ output_html: blanc-noir.html
 + chapitre_7.md
 + chapitre_8.md
 - epilogue.md
-- livres.md
+#- livres.md
 

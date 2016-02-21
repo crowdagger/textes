@@ -1,3 +1,6 @@
+Épilogue
+========
+
 Qu’est-ce qu’il y a à dire, après ?
 
 Laura a eu un enterrement sordide. On était trois à y assister : ses
