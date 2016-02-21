@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -10,30 +11,31 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2821"
-   height="2126"
-   id="svg2"
+   width="990"
+   height="765"
+   id="svg4615"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="fullcover.svg"
-   inkscape:export-filename="/home/elly/Textes/nouvelles/recueils/sorcieres_zombies/couv/fullcover.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fullcover2.svg"
+   inkscape:export-filename="/home/elly/textes/recueils/sorcieres_zombies/couv/fullcover2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
-     id="defs4" />
+     id="defs4617" />
   <sodipodi:namedview
-     id="base"
+     inkscape:document-units="in"
      pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2201317"
-     inkscape:cx="1178.3809"
-     inkscape:cy="968.33994"
-     inkscape:document-units="px"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="221.92087"
+     inkscape:cy="303.80174"
      inkscape:current-layer="layer1"
+     id="namedview4619"
      showgrid="false"
+     units="in"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
@@ -43,54 +45,18 @@
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
-       position="1281.6673,2727.1567"
-       id="guide3818" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1281.6673,2775.3397"
-       id="guide3820" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1355.5479,2675.7616"
-       id="guide3822" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1461.5504,2865.2813"
-       id="guide3824" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1281.6673,2537.637"
-       id="guide3826" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="1541.8554,2470.1808"
-       id="guide3828" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="61.031776,2075.0804"
-       id="guide3830" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="-176.67093,2068.656"
-       id="guide3832" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="2762.4909,2299.9343"
-       id="guide3834" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="1792.4069,57.819578"
-       id="guide3836" />
+       position="494.97475,498.90312"
+       id="guide4665" />
   </sodipodi:namedview>
   <metadata
-     id="metadata7">
+     id="metadata4621">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,95 +64,119 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1073.6378)">
+     transform="translate(0,-225)">
     <g
-       style="opacity:0.47389556;fill:none;stroke:#f80000;stroke-width:16.63337135;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="g2753"
-       transform="matrix(2.0428516,-1.5144435,1.5144435,2.0428516,680.82092,-285.88804)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 293.976,768.61 c 103.536,0 187.992,-84.456 187.992,-187.992 0,-103.608 -84.456,-188.064 -187.992,-188.064 -103.608,0 -188.064,84.456 -188.064,188.064 0,103.536 84.456,187.992 188.064,187.992 z"
-         id="path2755"
-         style="stroke:#f80000;stroke-width:16.63337135;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       id="Layer_2_1_"
+       i:layer="yes"
+       i:dimmedPercent="50"
+       i:rgbTrio="#FFFF4F004F00"
+       transform="matrix(0.497603,0.34932987,-0.34932987,0.497603,630.22869,476.70161)"
+       style="fill:#ff0000;fill-opacity:0.65365852">
+      <polygon
+         i:knockout="Off"
+         points="307.271,293.624 289.005,293.624 348.333,110.983 269.458,168.295 254.677,157.561 381.412,65.483 "
+         id="polygon3377"
+         style="fill:#ff0000;fill-opacity:0.65365852" />
+      <polygon
+         i:knockout="Off"
+         points="223.626,318.139 217.982,300.768 410.017,300.752 331.136,243.449 336.777,226.074 463.512,318.152 "
+         id="polygon3379"
+         style="fill:#ff0000;fill-opacity:0.65365852" />
+      <polygon
+         i:knockout="Off"
+         points="174.442,246.175 189.219,235.439 248.576,418.071 278.699,325.342 296.966,325.338 248.558,474.325 "
+         id="polygon3381"
+         style="fill:#ff0000;fill-opacity:0.65365852" />
+      <polygon
+         i:knockout="Off"
+         points="227.66,177.174 242.436,187.911 87.085,300.798 184.583,300.792 190.233,318.165 33.579,318.165 "
+         id="polygon3383"
+         style="fill:#ff0000;fill-opacity:0.65365852" />
+      <polygon
+         i:knockout="Off"
+         points="309.747,206.479 304.102,223.849 148.733,110.987 178.868,203.711 164.091,214.453 115.683,65.465 "
+         id="polygon3385"
+         style="fill:#ff0000;fill-opacity:0.65365852" />
+      <g
+         i:knockout="Off"
+         id="g3387"
+         style="fill:#ff0000;fill-opacity:0.65365852">
+        <g
+           id="g3389"
+           style="fill:#ff0000;fill-opacity:0.65365852">
+          <path
+             inkscape:connector-curvature="0"
+             i:knockout="Off"
+             d="m 255.626,476.183 -7.085,20.94 c 0.007,0 0.014,0 0.021,0 110.536,0 204.203,-72.161 236.507,-171.939 l -22.061,0.276 C 432.218,411.301 351.356,473.278 255.626,476.183 z M 248.563,0 C 194.008,0 143.569,17.589 102.578,47.387 l 18.048,12.771 c 36.473,-24.821 80.524,-39.335 127.968,-39.335 47.432,0 91.473,14.507 127.94,39.317 l 17.995,-12.744 -6.554,21.064 c 53.75,41.659 88.357,106.835 88.357,180.102 0,22.009 -3.132,43.283 -8.957,63.415 l 17.699,13.189 c 7.811,-24.132 12.048,-49.871 12.048,-76.604 C 497.124,111.285 385.838,0 248.563,0 z M 20.853,248.561 c 0,-73.23 34.572,-138.379 88.277,-180.04 L 102.551,47.406 C 40.41,92.59 0,165.851 0,248.561 c 0,26.727 4.235,52.461 12.042,76.588 l 17.749,-13.237 c -5.813,-20.113 -8.938,-41.366 -8.938,-63.351 z m 13.324,76.898 -22.121,-0.269 c 32.303,99.767 125.957,171.92 236.479,171.933 l -7.096,-20.945 C 145.761,473.224 64.954,411.264 34.177,325.459 z"
+             id="path3391"
+             style="fill:#ff0000;fill-opacity:0.65365852" />
+        </g>
+      </g>
     </g>
-    <g
-       style="opacity:0.47389556;fill:none;stroke:#f80000;stroke-width:16.63337135;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="g2757"
-       transform="matrix(1.8872926,-1.3991217,1.3991217,1.8872926,792.56971,-239.6415)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 183.96,432.586 293.688,766.594 396.144,426.106 118.152,637.354 471.384,634.33 183.96,432.586 z"
-         id="path2759"
-         style="stroke:#f80000;stroke-width:16.63337135;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
+    <rect
+       style="fill:#ff0000;fill-opacity:0.73658537;stroke:none"
+       id="rect4535"
+       width="1096.4915"
+       height="156.77844"
+       x="-28.89126"
+       y="214.94086" />
     <text
        xml:space="preserve"
-       style="font-size:77.73896027px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Embossing Tape 1 BRK;-inkscape-font-specification:Embossing Tape 1 BRK"
-       x="2920.8677"
-       y="-624.33899"
+       style="font-size:49.27743149px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif Bold"
+       x="768.66187"
+       y="238.14461"
        id="text2993"
        sodipodi:linespacing="125%"
        transform="scale(0.70743971,1.413548)"><tspan
          sodipodi:role="line"
-         id="tspan4418"
-         x="2920.8677"
-         y="-624.33899">Lizzie Crowdagger</tspan></text>
+         id="tspan3260"
+         x="768.66187"
+         y="238.14461">Lizzie Crowdagger</tspan></text>
+    <g
+       id="g3149"
+       i:knockout="Off"
+       i:layer="yes"
+       i:editable="no"
+       i:dimmedPercent="50"
+       i:rgbTrio="#4F008000FFFF"
+       transform="matrix(0.41402672,0.29065722,-0.29065722,0.41402672,174.65404,332.58527)" />
     <text
        xml:space="preserve"
-       style="font-size:164.40632629px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK Bold'"
-       x="3057.6411"
-       y="-451.01126"
-       id="text2993-0"
+       style="font-size:90.59004974px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif Bold"
+       x="1462.3315"
+       y="350.27441"
+       id="text2993-9-7-3-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.63932969,1.5641382)"><tspan
+         sodipodi:role="line"
+         id="tspan4529"
+         x="1462.3315"
+         y="350.27441">SORCIÈRES</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4531"
+         x="1462.3315"
+         y="463.51196">&amp;</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4533"
+         x="1462.3315"
+         y="576.74951">ZOMBIES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:49.27743149px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif Bold"
+       x="79.412323"
+       y="240.11763"
+       id="text2993-5"
        sodipodi:linespacing="125%"
        transform="scale(0.70743971,1.413548)"><tspan
          sodipodi:role="line"
-         id="tspan4441"
-         x="3057.6411"
-         y="-451.01126">Zombies décérébrés</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4443"
-         x="3057.6411"
-         y="-245.50334">&amp;</tspan><tspan
-         sodipodi:role="line"
-         id="tspan4445"
-         x="3057.6411"
-         y="-39.995438">Sorcières manipulatrices</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:69.99924469px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK Bold'"
-       x="501.42609"
-       y="-1036.0109"
-       id="text2993-0-8"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,0.745425,-1.3415166,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4484"
-         x="501.42609"
-         y="-1036.0109">Zombies décérébrés &amp; Sorcières manipulatrices</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:69.99924469px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK Bold'"
-       x="-1003.1548"
-       y="-1036.2909"
-       id="text2993-0-8-9"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,0.745425,-1.3415166,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4507"
-         x="-1003.1548"
-         y="-1036.2909">Lizzie Crowdagger</tspan></text>
-    <rect
-       style="fill:none;stroke:none;stroke-width:3.40000010000000019;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect4509"
-       width="1031.8169"
-       height="1580.8718"
-       x="154.45299"
-       y="-795.95831" />
+         id="tspan4688"
+         x="79.412323"
+         y="240.11763">Sorcières &amp; Zombies</tspan></text>
     <flowRoot
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
        id="flowRoot4573"
-       transform="translate(0,164)"><flowRegion
+       transform="translate(0,1836.6378)"><flowRegion
          id="flowRegion4575"><use
            x="0"
            y="0"
@@ -195,48 +185,98 @@
            width="2821"
            height="2126" /></flowRegion><flowPara
          id="flowPara4609">Avec un titre pareil, on pourrait croire qu'il s'agit d'un essai sur la stigmatisation des féministes. En fait, il s'agit juste de quatre textes fantastiques :</flowPara><flowPara
-         id="flowPara4611">  </flowPara><flowPara
+         id="flowPara4611" /><flowPara
          id="flowPara4613">- Une mine de déterrés est une nouvelle avec une mine, des zombies et une sorcière ;  </flowPara><flowPara
-         id="flowPara4615"></flowPara><flowPara
+         id="flowPara4615" /><flowPara
          id="flowPara4617">- Créatures de rêve est une autre nouvelle avec une autre mine, d'autres zombies et   une autre sorcière, ce qui prouve bien que quand l'auteure a tendance à tourner un peu en rond ;</flowPara><flowPara
-         id="flowPara4619"></flowPara><flowPara
+         id="flowPara4619" /><flowPara
          id="flowPara4621">- Route de nuit contient également des zombies, mais pas de mine ni de   sorcière, même s'il y a une nana mystérieuse et un chat noir ;  </flowPara><flowPara
-         id="flowPara4623"></flowPara><flowPara
-         id="flowPara4625">- enfin, Sortir du cercueil ne comporte ni zombies, ni sorcières, et on   se demande bien ce qu'il vient faire dans ce recueil.</flowPara></flowRoot>    <text
+         id="flowPara4623" /><flowPara
+         id="flowPara4625">- enfin, Sortir du cercueil ne comporte ni zombies, ni sorcières, et on   se demande bien ce qu'il vient faire dans ce recueil.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:154.73617554px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK Bold'"
-       x="973.43091"
-       y="-487.87289"
-       id="text2993-0-2"
-       sodipodi:linespacing="125%"
-       transform="scale(0.70743971,1.413548)"><tspan
-         sodipodi:role="line"
-         id="tspan4711"
-         x="973.43091"
-         y="-487.87289">Sorcières manipulatrices</tspan></text>
-    <text
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="flowRoot4573-0"
+       transform="translate(0,1836.6378)"><flowRegion
+         id="flowRegion4575-6"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4509"
+           id="use4577-4"
+           width="2821"
+           height="2126" /></flowRegion><flowPara
+         id="flowPara4609-8">Avec un titre pareil, on pourrait croire qu'il s'agit d'un essai sur la stigmatisation des féministes. En fait, il s'agit juste de quatre textes fantastiques :</flowPara><flowPara
+         id="flowPara4611-8" /><flowPara
+         id="flowPara4613-9">- Une mine de déterrés est une nouvelle avec une mine, des zombies et une sorcière ;  </flowPara><flowPara
+         id="flowPara4615-0" /><flowPara
+         id="flowPara4617-3">- Créatures de rêve est une autre nouvelle avec une autre mine, d'autres zombies et   une autre sorcière, ce qui prouve bien que quand l'auteure a tendance à tourner un peu en rond ;</flowPara><flowPara
+         id="flowPara4619-9" /><flowPara
+         id="flowPara4621-7">- Route de nuit contient également des zombies, mais pas de mine ni de   sorcière, même s'il y a une nana mystérieuse et un chat noir ;  </flowPara><flowPara
+         id="flowPara4623-7" /><flowPara
+         id="flowPara4625-5">- enfin, Sortir du cercueil ne comporte ni zombies, ni sorcières, et on   se demande bien ce qu'il vient faire dans ce recueil.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:164.40632629px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK Bold'"
-       x="1586.9502"
-       y="-590.02753"
-       id="text2993-0-7"
-       sodipodi:linespacing="125%"
-       transform="scale(0.70743971,1.413548)"><tspan
-         sodipodi:role="line"
-         id="tspan4709"
-         x="1586.9502"
-         y="-590.02753">&amp;</tspan></text>
-    <text
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="flowRoot4573-8"
+       transform="translate(0,1836.6378)"><flowRegion
+         id="flowRegion4575-0"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4509"
+           id="use4577-8"
+           width="2821"
+           height="2126" /></flowRegion><flowPara
+         id="flowPara4609-7">Avec un titre pareil, on pourrait croire qu'il s'agit d'un essai sur la stigmatisation des féministes. En fait, il s'agit juste de quatre textes fantastiques :</flowPara><flowPara
+         id="flowPara4611-1" /><flowPara
+         id="flowPara4613-3">- Une mine de déterrés est une nouvelle avec une mine, des zombies et une sorcière ;  </flowPara><flowPara
+         id="flowPara4615-7" /><flowPara
+         id="flowPara4617-0">- Créatures de rêve est une autre nouvelle avec une autre mine, d'autres zombies et   une autre sorcière, ce qui prouve bien que quand l'auteure a tendance à tourner un peu en rond ;</flowPara><flowPara
+         id="flowPara4619-4" /><flowPara
+         id="flowPara4621-4">- Route de nuit contient également des zombies, mais pas de mine ni de   sorcière, même s'il y a une nana mystérieuse et un chat noir ;  </flowPara><flowPara
+         id="flowPara4623-0" /><flowPara
+         id="flowPara4625-3">- enfin, Sortir du cercueil ne comporte ni zombies, ni sorcières, et on   se demande bien ce qu'il vient faire dans ce recueil.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:156.06985474px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK Bold'"
-       x="797.45184"
-       y="-596.74548"
-       id="text2993-0-4"
-       sodipodi:linespacing="125%"
-       transform="scale(0.70743971,1.413548)"><tspan
-         sodipodi:role="line"
-         id="tspan4707"
-         x="797.45184"
-         y="-596.74548">Zombies décérébrés</tspan></text>
-  </g>
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       id="flowRoot4573-3"
+       transform="translate(0,1836.6378)"><flowRegion
+         id="flowRegion4575-2"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4509"
+           id="use4577-0"
+           width="2821"
+           height="2126" /></flowRegion><flowPara
+         id="flowPara4609-4">Avec un titre pareil, on pourrait croire qu'il s'agit d'un essai sur la stigmatisation des féministes. En fait, il s'agit juste de quatre textes fantastiques :</flowPara><flowPara
+         id="flowPara4611-9" /><flowPara
+         id="flowPara4613-92">- Une mine de déterrés est une nouvelle avec une mine, des zombies et une sorcière ;  </flowPara><flowPara
+         id="flowPara4615-8" /><flowPara
+         id="flowPara4617-1">- Créatures de rêve est une autre nouvelle avec une autre mine, d'autres zombies et   une autre sorcière, ce qui prouve bien que quand l'auteure a tendance à tourner un peu en rond ;</flowPara><flowPara
+         id="flowPara4619-0" /><flowPara
+         id="flowPara4621-72">- Route de nuit contient également des zombies, mais pas de mine ni de   sorcière, même s'il y a une nana mystérieuse et un chat noir ;  </flowPara><flowPara
+         id="flowPara4623-5" /><flowPara
+         id="flowPara4625-4">- enfin, Sortir du cercueil ne comporte ni zombies, ni sorcières, et on   se demande bien ce qu'il vient faire dans ce recueil.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="flowRoot5419"
+       transform="translate(0,36)"><flowRegion
+         id="flowRegion5421" /><flowPara
+         id="flowPara5427">Sorcières &amp; Zombies est un recueil de nouvelles mêlant fantastique et fantasy, humour et horreur, vampirisme et homosexualité, morts-vivants et enquête, transsexualité et sorcellerie. </flowPara><flowPara
+         id="flowPara5429" /><flowPara
+         id="flowPara5431">Ce recueil contient quatre textes : « Route de nuit » et « Créatures de rêve » (fantastique) revisitent les clichés de l'horreur en jonglant entre cauchemar et réalité, tandis que « Sortir du cercueil » (fantasy) s'attaque aux vampires et que « Une mine de déterrés » mélange surnaturel et enquête policière.</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:none"
+       id="rect3055"
+       width="369.02139"
+       height="424.26404"
+       x="70.29126"
+       y="404.42719" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:justify;writing-mode:lr"
+       id="flowRoot3065"><flowRegion
+         id="flowRegion3067"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3055"
+           id="use3069" /></flowRegion><flowPara
+         id="flowPara3073">Sorcières &amp; Zombies est un recueil de nouvelles mêlant fantastique et fantasy, humour et horreur, vampirisme et homosexualité, morts-vivants et enquête, transsexualité et sorcellerie.</flowPara><flowPara
+         id="flowPara3075"></flowPara><flowPara
+         id="flowPara3077">Ce recueil contient quatre textes : « Route de nuit » et « Créatures de rêve » (fantastique) revisitent les clichés de l'horreur en jonglant entre cauchemar et réalité, tandis que « Sortir du cercueil » (fantasy) s'attaque aux vampires et que « Une mine de déterrés » mélange surnaturel et enquête policière.</flowPara></flowRoot>  </g>
 </svg>
