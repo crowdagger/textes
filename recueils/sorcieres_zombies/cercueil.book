@@ -1,0 +1,11 @@
+author: Lizzie Crowdagger
+title: Sortir du cercueil
+lang: fr
+subject: fantasy
+
+output_html: cercueil.html
+output_epub: cercueil.epub
+output_pdf: cercueil.pdf
+output_odt: cercueil.odt
+
+! 03_sortir_du_cercueil.md
