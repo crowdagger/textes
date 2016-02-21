@@ -8,10 +8,10 @@ essentiellement masculine et qu'elle attirait un peu l'attention, avec
 ses longs cheveux blonds, son mètre quatre-vingt, sa petite jupe en
 treillis noir, ses bas résille et ses rangers aux lacets rouges.
 
-Ensuite, les regards jugèrent bon de revenir là où ils étaient
-quelques secondes plus tôt, parce que la jeune femme avait une façon
-de vous regarder dans les yeux qui mettait mal à l'aise la plupart des
-gens. 
+Ensuite, les regards croisèrent celui de la jeune femme et jugèrent
+bon de revenir là où ils étaient quelques secondes plus tôt, parce
+qu'elle avait une façon de vous dévisager en retour qui mettait mal à
+l'aise la plupart des gens. 
 
 Alys alla près du bar, laissa tomber à terre un gros sac de voyage et
 s'assit sur un tabouret.
@@ -21,17 +21,7 @@ s'assit sur un tabouret.
 — Pas grand chose, répondit le barman. Il me reste des sandwiches. 
 
 — Un jambon-beurre, alors. Et puis une bière. Et un paquet de
-clopes.
-
-— On vous a pas appris à dire « s'il vous plaît », d'où vous
-venez ?
-
-— Nan. On m'a pas appris grand-chose, à vrai dire », répliqua Alys en
-souriant. « Désolée. Alors... S'il vous plaît ?
-
-— Quelle marque, pour les cigarettes ?
-
-— Les moins chères. S'il vous plaît. »
+clopes. »
 
 Une fois que le barman lui eut apporté ses cigarettes, sa bière et
 son sandwich, Alys se mit à manger. Le pain était un peu rassis et la
@@ -40,7 +30,7 @@ bière était tout juste buvable, mais ça remplissait l'estomac. Un type
 avalait son repas, mais elle lui prêta à peine attention, concentrée qu'elle
 était sur sa tâche. 
 
-Ensuite, elle alluma une cigarette et demanda : 
+Ensuite, elle alluma une cigarette et demanda à la cantonade : 
 
 « Dites, ça fait un bail que je ne suis pas venue dans ce
   coin... pour aller vers Longsil, c'est par où, déjà ? »
@@ -53,7 +43,7 @@ Pendant quelques secondes, le silence se fit. Alys souriait.
 qui  avait essayé laborieusement de lui faire la cour. « Vous êtes
   journaliste ? 
 
-— Pas franchement. Je veux juste aller faire un tour dans ce bled.
+— Pas franchement. Je veux juste aller faire un tour dans ce patelin.
 
 — Il n'y a plus personne, à Longsil.
 
@@ -87,19 +77,18 @@ que j'y suis née. »
 *****
 
 Alys finit par trouver quelqu'un pour lui indiquer la route de
-Longsil. Par contre, il n'y eut personne pour la prendre en
+Longsil. Il n'y eut en revanche personne pour la prendre en
 stop. Alors, elle marcha durant un peu plus de deux heures, son sac à
 dos sur les épaules. 
 
-Heureusement pour elle, le ciel était gris, mais il ne pleuvait
-pas. Elle arriva enfin à l'embranchement qui menait vers son village
+Heureusement pour elle il ne pleuvait pas, même si le ciel était
+gris. Elle arriva enfin à l'embranchement qui menait vers son village 
 natal. Il devait encore lui rester trois kilomètres à parcourir :
 grosso-modo, une rivière à traverser et une colline à gravir. 
 
 En fait de rivière, il ne s'agissait que d'un ruisseau. Il devait
 y avoir eu plus d'eau dans le passé : le pont qui l'enjambait
-paraissait ridiculement surdimensionné.  
-
+paraissait ridiculement surdimensionné.
 Des barrières étaient censées empêcher les gens de le traverser, mais
 elles avaient été déplacées pour permettre à une voiture de passer. 
 
@@ -120,14 +109,11 @@ Les plus anciens avaient des titres tels que « Catastrophe à
   Longsil » ou « Effondrement de la dernière mine d'or de France ». Ensuite,
 les titres étaient du genre « Une disparition mystérieuse »,
 « Nouvelle disparition à Longsil » ou encore « Le
-  nouveau triangle des Bermudes », selon le type de journaux. Il y
-avait eu des titres plus racoleurs, mais la jeune femme n'avaient pas
-conservé les articles.
+  nouveau triangle des Bermudes », selon le type de journaux. 
 
 Il y avait beaucoup de traces de stylo rouge sur les articles, mais
-elles étaient pour la plupart peu pertinentes. La seule qui mérite
-vraiment d'être mentionnée est un dessin de Jésus en bondage sur la
-Croix ; les autres n'avaient comme unique intérêt que d'illustrer les
+elles étaient pour la plupart peu pertinentes et avaient comme
+principal intérêt d'illustrer les
 difficultés de concentration de la gribouilleuse.
 
 *****
@@ -140,10 +126,6 @@ tomba sur une voiture arrêtée.
 quelqu'un qui semblait dormir. Elle jura. Il fallait tout de même être
 complètement débile pour s'endormir dans un bled que tous les ploucs
 du coin qualifiaient de « ville hantée ».
-
-Alys ne savait pas si le patelin était rempli de fantômes, mais en
-tout cas parler de ville lui paraissait exagéré. Déja, « village »,
-c'était assez généreux.
 
 Elle dévissa l'antenne de la voiture et s'en servit, en la passant
 entre la vitre et le caoutchouc du joint, pour ouvrir la portière ;
@@ -213,10 +195,10 @@ parvint et se mit à fouiller dans le coffre.
 
 — Mon prénom ? demanda Stéphane, un brin étonné. 
 
-— Non, ça », expliqua la jeune femme en sortant la manivelle destinée
+— Non, ça, expliqua la jeune femme en sortant la manivelle destinée
 au cric. 
 
-« Et tu comptes faire quoi ? 
+— Et tu comptes faire quoi ? 
 
 — Ben, ça. »
 
@@ -226,7 +208,7 @@ assez de temps pour se lever et envoyer un coup de manivelle dans le
 suivant. 
 
 Stéphane entendit encore quelques coups, suivis de jappements pitoyables
-venant des molosses qui l'avaient poursuivi. Puis Alys se
+venant des molosses qui l'avaient poursuivi. Après quoi, Alys se
 rassit sur le siège avec un large sourire sur le visage et du sang
 sur les vêtements. 
 
@@ -408,7 +390,6 @@ grand.
 
 Alys s'arrêta devant un bâtiment de quelques étages dont le
 rez-de-chaussée avait brûlé. 
-
 Une moitié de porte en bois, noircie par le feu, bloquait toujours
 l'entrée. Alys essaya de la pousser doucement, mais elle ne s'ouvrit
 qu'avec un grincement bruyant.
@@ -447,8 +428,8 @@ l'escalier, mais le reste paraissait intact.
 monte, on verra mieux là-haut. Et n'allume pas de lumière. »
 
 Stéphane soupira, énervé par le comportement de la jeune
-femme. Cela dit, il était peu probable qu'il y eut encore
-du courant.  
+femme. Il obéit néanmoins : il était de toute façon peu probable qu'il
+y eut encore du courant. 
 
 Il suivit Alys jusqu'à une chambre exiguë sous les
 toits. Elle s'agenouilla à côté de la fenêtre et lui fit signe de
@@ -531,7 +512,7 @@ chaud, mais ça n'était pas terriblement efficace.
 Elle fit une dizaine de mètres, tourna au coin de la rue, avança
 encore un peu, et arriva là où elle le voulait, c'est-à-dire devant la
 maison de Bernard. C'était un chasseur, alors il devait bien 
-y avoir un fusil chez lui. Elle savait qu'il s'était sorti vivant de
+y avoir un fusil chez lui. Elle savait qu'il était sorti vivant de
 l'accident de la mine, alors il n'y avait pas trop de risque de tomber
 sur lui. 
 
@@ -543,10 +524,8 @@ Trouver le fusil dans la maison ne fut pas bien difficile, car il
 était exposé sur le mur du salon, à côté d'une tête de cerf
 empaillé très kitsch. Trouver des munitions se révéla un peu plus
 dur : il fallut une dizaine de minutes à Alys pour trouver le
-tiroir où elles étaient rangées. 
-
-Ensuite, elle repartit rapidement vers le logement où elle avait
-laissé Stéphane.
+tiroir où elles étaient rangées. Ensuite, elle repartit rapidement
+vers le logement où elle avait laissé Stéphane.
 
 Alors qu'elle allait tourner au coin de la rue, quelqu'un l'attrapa
 vigoureusement par les épaules et la plaqua face au mur, en lui
@@ -556,7 +535,7 @@ Alys entendit des bruits de pas et vit trois ombres passer sans les
 voir à côté d'elle et de la personne qui l'avait empêchée de se faire
 repérer bêtement.
 
-Puis cette personne la relâcha et elle put se retourner. En face
+Cette personne la relâcha et elle put se retourner. En face
 d'elle, il y avait une jeune femme aux yeux verts brillants et aux
 cheveux longs, noirs et, surtout, manifestement secs malgré la pluie
 torrentielle. 
@@ -591,29 +570,23 @@ Pour autant qu'elle ait jamais eu de plans.
 « Pourtant, reprit Laura, si tu réfléchis, on devrait
   s'entendre. On est là pour la même chose, non ?
 
-— Mouais. Moi je vois surtout que je suis une gauchiste matérialiste
-et que t'es une flic onirique.
+— Je ne sais pas. Tu es là pour quoi ?
 
-— Tsss, s'offusqua Laura. Je préfère définir ce que je fais comme de
-la « dialectique onirique ». Mon travail, c'est de faire en sorte
+— Mon travail, c'est de faire en sorte
 que les choses ne se passent pas trop mal 
 quand les rêves et la réalité se chevauchent un peu. Dans la
-mythologie grecque, on nous appelait les *Oneiroi*. 
+mythologie grecque, on nous appelait les *Oneiroi*. »
 
-— Hum, fit Alys. Ça a un rapport ave la Oi! ? »
+— Hum, fit Alys. 
 
-
-*****
-
-« Bon, expliqua Laura. Qu'est-ce que je fais là, alors ? Tu auras,
+— Bon, reprit Laura, tu dois te demander ce que je fais là, alors ? Tu auras,
   je suppose, remarqué que cette ville est coincée quelque part entre
   le rêve et la réalité, entre la vie et la mort...
 
-— C'est une ville transgenre, quoi.
+— Merci, *Captain Obvious*.
 
-— Mouais », fit la jeune femme onirique qui ne paraissait pas très
-convaincue par la pertinence de la remarque. « Le problème, c'est
-  surtout que des gens se retrouvent, ni morts, ni vivants, coincés
+— Le problème, continua la jeune femme onirique en ignorant la pique,
+c'est que que des gens se retrouvent, ni morts, ni vivants, coincés
   dans ce cauchemar. »
 
 Il y eut un moment de silence. Laura paraissait réfléchir et Alys ne
@@ -626,15 +599,6 @@ tee-shirt trempé.
 
 — Des gens ont disparu, ajouta Alys. Ou ne se
 sont pas réveillés. 
-
-— Voilà. Tout ça pour dire que je veux arrêter ça.
-
-— Tout ça pour ça, soupira Alys. Je me doutais que tu ne venais pas cueillir
-des fleurs.
-
-— D'accord, d'accord. Tu me laisses finir ?
-
-— Accouche, alors.
 
 — J'ai vite compris que la source de ce cauchemar se trouvait dans
 la mine. Nous, les rêves, on sent un peu ce genre de choses. 
@@ -667,54 +631,7 @@ avec un air dubitatif.
 
 « Tu m'avais repérée ?
 
-— Non, répliqua la jeune femme en souriant. Mais je peux prétendre
-que si.
-
-— Oh. Maligne, hein ? Je me disais, en tant qu'amnésique, tu dois
-*forcément* avoir un tatouage ou une cicatrice qui te donne un
-indice sur ton passé ?
-
-— J'ai bien un tatouage, répliqua Alys, mais il n'est pas très
-mystérieux.
-
-— Je peux le voir ?
-
-— Ben, il est pas super bien situé...
-
-— Oh. »
-
-Alys haussa les épaules, se leva et tourna le dos à la jeune femme
-onirique.
-
-« Et puis, si tu en as envie... »
-
-Elle leva sa jupe et baissa un peu son slip pour montrer sa fesse
-droite à Laura, qui la regarda d'un air curieux et gourmand.
-
-Le tatouage était une petite étoile à cinq branches dont la moitié
-gauche était rouge et la moitié droite noire. Un symbole de
-l'anarchisme plus sexy sur une fesse que le A dans un cercle. 
-
-« Effectivement, constata l'*oneiroi*. Ce n'est pas très
-  mystérieux. Mais c'est mignon. Et je le trouve au contraire
-  *très* bien situé.
-
-— C'est bon ? Je peux me rhabiller ?
-
-— Hum », fit Laura en posant une main sur le tatouage et l'autre sur
-le ventre nu d'Alys, en dessous de sa poitrine. « Je me disais que
-  je n'avais jamais fait ce que à quoi je pense avec une fille comme
-  toi.
-  
-— Une fille comme moi ?
-
-— Ben, tu sais ? Une mortelle qui comprend en fait quelque chose à ce
-qui se passe dans ce genre de situations. C'est original.
-
-— Fabuleux, soupira Alys. Je rencontre une nana qui est en fait une
-créature mythologique qui n'existe que dans les rêves des gens, et il
-faut que ce soit *elle* qui me trouve exotique. »
-
+— Non, répliqua la jeune femme en souriant. Je bluffais, en fait. »
 
 *****
 
@@ -722,8 +639,8 @@ Stéphane mit un certain temps à émerger de son sommeil et plus encore
 à se décider à se lever. Ce fut un affreux mal de crâne qui le motiva
 à essayer d'aller chercher de l'aspirine.
 
-Il descendit les escaliers en titubant, s'appuyant lourdement sur la
-rampe, et aperçut un pied nu d'Alys par l'entrebâillement de la porte
+Il tituba pour descendre les escaliers, s'appuyant lourdement sur la
+rampe. Il aperçut un pied nu d'Alys par l'entrebâillement de la porte
 d'une chambre. Voulant voir si la jeune femme était éveillée, il
 poussa le battant d'un mouvement qui se voulait léger et réalisa, d'une
 part, qu'elle ne dormait plus et, d'autre part, qu'elle n'était pas
@@ -777,7 +694,6 @@ prendre une douche chaude aidait peut-être aussi.
 Il avait été surpris, puis enchanté, de voir que la maison abandonnée
 depuis des années avait encore de l'eau chaude, surtout alors qu'il
 n'y avait pas d'électricité. 
-
 Il ne chercha cependant pas à étudier en détail le fonctionnement de
 l'installation, préférant se demander dans quel pétrin il s'était
 fourré.
@@ -881,7 +797,7 @@ passait. Si c'était le cas, ça ne lui plaisait pas.
 l'entrée de la grotte.
 
 Un chariot en sortait, poussé sur les rails par deux hommes en habits
-de mineurs : ils portaient une vieille tenue bleue noircie par la
+de mineurs : ils portaient une vieille tenue bleue noircie par la
 terre et un casque muni d'une lampe. 
 
 « Bon, fit Laura. Je ne pourrai pas m'approcher beaucoup plus de la
@@ -912,7 +828,7 @@ pourrait marcher. C'est dans les vieux pots...
 
 Elle venait d'assommer les deux hommes coup sur coup, avec la crosse
 de son arme. Elle entreprit ensuite de les déshabiller et enfila une
-tenue bleue. Elle conserva néanmoins ses rangers aux lacets rouges,
+tenue bleue. Elle conserva néanmoins ses *rangers* aux lacets rouges,
 espérant que dans l'obscurité de la mine personne ne les remarquerait.
 
 « Bon alors, tu viens ? » lança-t-elle à Stéphane.
@@ -950,10 +866,9 @@ chariot. Je ne comptais pas m'éterniser, de toutes façons. Tu es prêt
 
 — Bon, alors on y va. »
 
-Alors qu'il pénétrait dans la mine et que ses yeux essayaient de
-s'adapter à l'obscurité — le bon côté, c'était qu'au moins il n'y
-avait plus de pluie — , Stéphane, qui gardait la tête baissé, demanda
-à sa coéquipière, en chuchotant : 
+Lorsqu'il pénétra dans la mine, ses yeux mirent un peu de temps à
+s'adapter à l'obscurité. Au moins, il n'y avait plus de pluie. Stéphane, qui gardait la tête baissé, chuchota
+à sa coéquipière :
 
 « Au fait, tu as prévu un plan ?
 
@@ -981,7 +896,7 @@ un rêve de série B, c'était à peu près aussi malin que d'annoncer
 qu'on était à deux jours de la retraite quand on était un policier qui
 s'apprêtait à désarmorcer une bombe.
 
-« Eh, toi ! » lança une voix qui venait sur sa gauche.
+« Eh, toi ! » lança une voix qui venait de sa gauche.
 
 Elle ne se tourna pas, espérant que, par miracle, l'homme ne
 s'adressait pas à elle. 
@@ -992,7 +907,7 @@ s'adressait pas à elle.
 
 — Oui, toi. »
 
-Elle obéit, à contrecœur, et s'approcha de l'homme. Il n'avait pas
+Elle obéit à contrecœur, et s'approcha de l'homme. Il n'avait pas
 la peau décharnée, un œil sans orbite ni même un teint spécialement
 livide, mais l'ensemble lui donnait tout de même un air de parenté
 avec un cadavre ambulant. Alys n'avait jamais lu Aristote, mais elle
@@ -1010,8 +925,7 @@ dévoilant ses cheveux blonds.
 « Une femme ? » s'étonna l'homme, puis il ne chercha plus à
 comprendre et commença à l'étrangler avec une force surhumaine.
 
-Alors qu'elle se demandait — sans paniquer, parce qu'elle ne voyait pas
-l'intérêt de paniquer pour des détails techniques — comment elle
+Alors qu'elle se demandait omment elle
 allait faire pour sortir de ce mauvais pas alors que même les coups de
 genoux dans les testicules semblaient sans effet, le contremaître
 s'effondra.
@@ -1058,8 +972,8 @@ Il ne termina pas sa phrase, car il vit un mineur de dos à quelques
 mètres devant eux. L'homme devait les avoir entendu courir ou parler,
 car il commençait à se retourner lentement.
 
-Lorsqu'il eut terminé sa manœuvre, il se retrouva nez à nez avec le
-fusil d'Alys.
+Lorsqu'il eut terminé sa manœuvre, il se retrouva nez à nez avec les
+deux canons du fusil d'Alys.
 
 « À ta place, murmura cette dernière, je ne ferais pas trop de
   bruit.
@@ -1075,9 +989,7 @@ comprendre la question, puis il arbora un sourire joyeux.
 « Derre... heuurr... vous... »
 
 Alys et Stéphane se retournèrent, d'un geste synchrone. Il y avait une
-dizaine de mineurs derrière eux. 
-
-Et puis, surtout, il y avait un homme d'une cinquantaine d'années,
+dizaine de mineurs derrière eux. Et puis, surtout, il y avait un homme d'une cinquantaine d'années,
 peut-être soixante, qui portait un superbe costume noir qui
 contrastait terriblement avec les vêtements sales et usés de ses employés.
 
@@ -1088,13 +1000,13 @@ contrastait terriblement avec les vêtements sales et usés de ses employés.
 Alys leva le fusil vers son père d'une seule main et lui fit un
 sourire malveillant.
 
-« Je ne suis plus ton fils. »
+« Je ne suis pas ton fils. »
 
 Ensuite, elle tira. 
 La tête de monsieur Vermont partit en arrière. Du sang gicla par
 terre.
 
-Et le corps ne s'écroula pas. Au lieu de cela, lentement, le
+Le corps ne s'écroula pas. Au lieu de cela, lentement, le
 propriétaire de la mine ramena la tête en avant.
 Il avait un trou rouge en plein dans le front, mais il souriait comme
 si de rien n'était. 
@@ -1113,11 +1025,9 @@ deux bras bloqués par le mineur que la jeune femme avait menacé plus
 tôt, tandis que deux hommes arrachaient le fusil de cette dernière et la
 neutralisaient. 
 
-Son père s'approcha d'elle, lentement, ses chaussures brillantes
-grinçant sur le sol. 
-
-Puis, une fois qu'il fut en face d'elle, il fit un signe aux hommes, 
-qui la lâchèrent. Et il lui envoya un coup de poing qui l'envoya au
+Vermont s'approcha d'elle, lentement, ses chaussures brillantes
+grinçant sur le sol. Une fois qu'il fut en face d'elle, il fit un signe aux hommes, 
+qui la lâchèrent. Il lui envoya un coup de poing qui l'envoya au
 sol. 
 
 « Que tu abandonnes ta famille, c'était déjà méprisable »,
@@ -1140,7 +1050,7 @@ imposant de sous sa veste bleue.
   importe... »
 
 Il écarta la veste bleue et fit glisser son couteau sur le tee-shirt
-de celle qui avait été son fils. Cette dernière baissa la tête pour
+d'Alys. Cette dernière baissa la tête pour
 suivre le parcours de la lame, montrant plus de curiosité que de
 crainte. 
 
@@ -1171,7 +1081,7 @@ plongea sur le fusil.
 
 Le patron de la mine essaya de se relever, mais reçut un coup de pied
 dans l'estomac et retomba au sol, cette fois-ci sur le dos. Alys
-s'assit sur la cage thoracique de son père pendant que le jeune homme
+s'assit sur sa cage thoracique pendant que Stéphane
 tenait les mineurs en respect. 
 
 « Quoi ? demanda-t-elle avec un sourire mauvais. Tu croyais que
@@ -1188,176 +1098,84 @@ visage de son père.
 
 — Conneries. Tu as vu ce que tu as fait du village. La vérité, c'est
 que tu voulais te servir de ce cauchemar, alors que c'est lui qui se
-servait de toi. Tout est fini. »
+servait de toi. Tu as perdu. »
 
-D'un geste sec, elle égorgea l'homme. Le sang coula, beaucoup.
+Elle planta alors le couteau dans la gorge de l'homme. Le sang coula,
+beaucoup. Cela ne suffit pas à Alys, qui s'acharna à essayer de le
+décapiter.
 
-« Tu sais quoi ? Je suis bien contente d'être amnésique. J'aurais
-  pas vu l'intérêt de me souvenir d'un type pareil.
+« La prochaine fois, râla-t-elle, je prendrais une putain de tronçonneuse.
 
-— C'était ton père, tout de même, protesta Stéphane.
+— Tu fais quoi ? protesta Stéphane. C'était ton père, tout de même !
 
-— En fait, j'ai menti. Ce n'est... » commença la jeune femme avant de
-s'arrêter en fronçant les sourcils. 
+— En fait, j'ai menti. Le vrai Mathieu Vermont est mort. Je ne suis
+pas lui. Je ne suis pas amnésique. Les fantômes, par contre, ont
+tendance à avoir une mauvaise mémoire. Pratique, si tu sais en profiter. »
 
-Il lui semblait aussi qu'il faisait plus sombre que quelques secondes
-plus tôt. Elle baissa les 
-yeux et vit que le sang qui coulait de la gorge de son père était
-maintenant noir profond et non plus rouge.
+Alors qu'elle parlait, elle continuait péniblement à essayer de
+décapiter Vermont, mais son couteau n'était pas l'outil adapté. La
+tâche était d'autant plus ardue que l'homme continuait à se débattre,
+malgré ses blessures qui auraient dû être fatales.
 
-« *Tu avais raison, gamine* », fit une voix désincarnée.
+« Pourquoi ? demanda Stéphane.
 
-Alys vit une forme noire se dégager par la bouche, la gorge, le nez de
-celui qui avait été son père. 
+— Tout ça, c'est un rêve, répliqua Alys. Ça marche à base
+d'histoires. Tu commences à rajouter les tiennes en loucedé, et c'est
+toi qui finis par écrire le scénario. »
 
-Le cauchemar, sans doute. 
+La jeune femme s'arrêta et fronça les sourcils.
 
-« *Je lui ai donné ce qu'il voulait et en échange j'ai
-    utilisé sa foi. Et maintenant, il y a toi. Toi, qu'est-ce que tu
-    veux ?* »
+« Ce qui me fait penser... »
 
+Elle se leva subitement et s'approcha d'un chariot dont le contenu
+était couvert par une bâche. Les autres mineurs la regardèrent faire
+sans broncher. Vermont, lui, commençait à se relever.
 
+« Ah ! fit Alys en écartant la bâche. Oui, on dirait que ça
+fonctionne. »
 
-*****
-
-Alys ouvre les yeux. Elle est dans sa maison. Elle réalise que tout ce
-qu'elle vient de vivre n'était qu'un rêve. Un rêve étrange.
-
-Elle tourne la tête vers le réveil numérique. Il est un peu plus de
-neuf heures. Elle décide qu'il est temps de se lever. 
-
-Elle commence par s'asseoir. Elle est nue, entièrement nue ; seul un
-drap blanc couvre sa poitrine généreuse et son sexe. Elle a les
-cheveux longs, qui lui descendent jusqu'au milieu du dos.
-
-« Hum », fait-elle en se grattant la tête, parce qu'elle repense au
-rêve qu'elle a fait.
-
-Puis elle se lève et va sous la douche. L'eau
-chaude coule sur sa peau. Elle se sent bien. 
-
-En sortant de la douche, elle se regarde quelques instants dans le
-miroir et sourit, un beau sourire brillant qu'on pourrait utiliser
-pour vendre des dentifrices. 
-
-Puis elle hausse les épaules et se brosse les cheveux en oubliant
-qu'elle a rêvé qu'elle avait un pénis.
-
+Elle se pencha au-dessus du chariot, et en sortit une tronçonneuse
+qu'elle montra à Stéphane avec un air ravi. Elle s'approcha de
+Vermont, qui avait fini par se relever, et tira sur le câble qui
+permettait de démarrer l'engin.
 
 *****
 
-Alys est en peignoir lorsqu'elle sort dans le jardin. Le soleil
-brille. Les oiseaux chantent. Elle sent l'herbe sous ses pieds nus.
+Stéphane contemplait le carnage, à peu près aussi atterré que les
+mineurs qui n'avaient toujours pas bougé. Alys, de son côté, était
+couverte de sang. Elle tenait la tête décapitée de Vermont dans une
+main et la tronçonneuse dans l'autre.
 
-C'est un beau jour.  Elle se sent bien, heureuse, épanouie. 
+Elle leva le crâne et l'examina attentivement. 
 
-Sur une table en fer blanc, il y a un pichet de jus d'orange frais et
-quelques croissants. Assis à cette table, un homme, beau et bien
-rasé. Il l'attend.
+« Je crois que c'est bon, commenta-t-elle en le laissant rouler à
+terre. On peut y aller. »
 
-Elle l'embrasse. 
+Stéphane sortit un peu de sa torpeur, et regarda à nouveau le corps
+décapité.
 
-« Tu as bien dormi ? demande-t-il.
+« C'était vraiment nécessaire ? » demanda-t-il.
 
-— Oui, mon amour. J'ai juste fait un rêve absurde. Enfin, je ne m'en
-souviens déjà plus.
+Alys haussa les épaules.
 
-— Tu veux un croissant ? »
+« En tout cas, répliqua-t-elle, le fusil et le couteau n'étaient pas
+suffisants. »
 
-Alys sourit et s'assoit en face de son mari. Elle attrapa une
-viennoiserie et se sert un verre de jus d'orange. 
+Il y eut un grondement sourd Stéphane sentit la terre vibrer. 
 
-« Tu es si attentionné...
+« Il vraiment qu'on y aille », fit Alys.
 
-— C'est parce que je t'aime. Et puis... »
-
-Il baisse son regard vers le ventre de sa femme. Elle sourit. Elle est
-enceinte et cela commence à se voir un peu. 
-
-« Autant l'habituer à de bonnes choses... »
-
-Elle tend la main vers son mari, qui pose la sienne dessus. Il lui
-caresse un peu le pouce. Elle se sent heureuse.
-
-« Je t'aime, chérie. »
-
-Elle sourit. Il sourit. 
-
-*****
-
-Et puis, il ne sourit plus. Il faut dire qu'il se trouve face au canon
-d'un pistolet.
-
-« Bon », lâche Alys avec un sourire qui, utilisé dans une publicité
-pour dentifrice, entraînerait probablement la démission immédiate du
-responsable communication de la marque ainsi qu'une nouvelle
-jurisprudence sur les images pouvant choquer les enfants. « On
-  arrête les frais ? »
-
-
-*****
-
-Il y eut brièvement une flamme jaune intense pendant qu'Alys
-s'allumait une cigarette.
-
-On aurait pu croire qu'elle était seule, dans l'obscurité.  En
-réalité, bien que le terme soit probablement mal choisi, elle était
-avec le cauchemar. 
-
-« Je sais que ça peut paraître surprenant à des gens qui pensent
-  que mon seul but dans la vie devrait être d'obtenir un vagin, mais
-  il se trouve que je crois que j'aime bien ce corps. Je m'y suis
-  attachée, je crois. Et puis, c'est
-  quoi cette histoire d'être enceinte ? Je n'ai jamais pu cadrer les
-  gosses. Sérieusement, tu aurais pu faire plus original. 
-
-— *Je pourrais...* commença le cauchemar d'une voix qui
-paraissait faible et hésitante. *Je pourrais te proposer tant
-  d'autres choses...*
-
-— Va chier », répliqua simplement la jeune femme. 
-
-
-*****
-
-Alys se retrouva à nouveau dans la mine, allongée par terre, à côté de son
-père mort. Elle se releva et remarqua que tout le monde gisait au sol,
-inanimé. Stéphane avait l'air de rêver ; il bougeait dans son
-sommeil. 
-
-La jeune femme lui tapota la joue et essaya de le réveiller.
-
-« Stéphane ?
-
-— Hummmm ?
-
-— Il faut qu'on y aille. »
-
-Il y eut un grondement sourd et elle sentit la terre vibrer. 
-
-« Ouais, ajouta-t-elle en aidant Stéphane à se lever. Il faut
-  vraiment qu'on y aille. » 
-
-Ils clopinèrent sur une dizaine de mètres, croisant quelques mineurs
+Ils avancèrent une dizaine de mètres, croisant quelques mineurs
 qui semblaient se réveiller. 
 
-« Ce que tu as dit, à propos de ton père... Que tu avais menti... 
+« Si rien de ce que tu as dit n'est vrai, demanda Stéphane, pourquoi
+être venue ?
 
-— Le vrai Mathieu Vermont est mort, expliqua Alys. Son père ne
-pouvait pas le savoir. Surtout que les fantômes n'ont pas très bonne
-mémoire des visages. Je suis assez fière de mon coup, je dois dire. Ça
-aurait sans doute été beaucoup plus compliqué, sans ça.
-
-— Mais... pourquoi être venue ? »
-
-La jeune prit un air sérieux. 
-
-« Je lui avais promis. À Mathieu, je veux dire. Enfin, son
+— Je lui avais promis. À Mathieu, je veux dire. Enfin, son
   fantôme. Et puis... »
 
-Elle réalisa alors que Stéphane ne l'écoutait plus. 
-
-Il s'était précipité vers un mineur en s'exclamant « Antoine ?
+Alys réalisa alors que Stéphane ne l'écoutait plus. Il s'était
+  précipité vers un mineur en s'exclamant « Antoine ? 
   Antoine ! ». Alys soupira, mais cette diversion l'arrangeait un
 peu. La vérité, c'était qu'un fantôme lui avait raconté une histoire
 et qu'elle avait voulu voir le fond de la chose.
@@ -1367,7 +1185,7 @@ Pas par bonté d'âme. Pas par quête de la vérité. Pas pour apaiser une
 qu'elle s'ennuyait, qu'elle n'avait rien de mieux à faire et qu'une
 ville fantôme, avec une *mine* ça lui avait semblé
 *cool*. Elle sentait au fond d'elle-même que ça ne serait pas
-forcément pris pour une raison très valable.  
+forcément pris pour une raison très valable.
 
 « Il faut y aller ! fit-t-elle. La mine va s'effondrer.
 
@@ -1381,15 +1199,13 @@ mineur. Il faut vraiment qu'on sorte. »
 *****
 
 Alys fut un peu déçue. Elle estimait qu'ils auraient dû sortir de la
-mine de justesse, pendant qu'elle se serait effondrée au fur et à
-mesure de leur avancement.
-
-En réalité, elle tenait toujours debout lorsqu'ils eurent atteint la
-sortie. Laura les attendait, assise sur un rocher.
+mine de justesse, suivis de peu par des effondrements
+apocalyptiques. Il n'y eut rien de tout ça, juste la terre qui
+tremblait un peu, et ils purent atteindre la sortie sans
+encombre. Dehors, Laura les attendait, assise sur un rocher.
 
 Stéphane s'écarta un peu et alla discuter avec son frère. Il n'avait
 pas l'air d'aller très bien, constata Alys.
-
 Évidemment, pour quelqu'un qui était mort deux ans plus tôt, c'était
 un peu normal.
 
@@ -1414,15 +1230,13 @@ frère.
 — T'es une psy, maintenant ? »
 
 Elles tournaient la tête vers la mine, qui commençait enfin à
-s'effondrer sérieusement. 
+s'écrouler.
 
 « Bon, fit Laura. Je crois que ça se termine.
 
 — Ça y ressemble.
 
-— La prochaine fois que tu veux un rêve érotique... appelle-moi. »
-
-Elle approcha ses lèvres de celles d'Alys. Et le rêve disparut.
+— À la prochaine, alors. »
 
 
 *****
