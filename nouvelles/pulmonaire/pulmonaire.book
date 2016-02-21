@@ -2,8 +2,12 @@ author: Lizzie Crowdagger
 title: Blonde à forte capacité pulmonaire
 lang: fr
 
+cover: couv.png
+
 output_html: pulmonaire.html
 output_epub: pulmonaire.epub
 output_pdf: pulmonaire.pdf
 
 ! pulmonaire.md
+- about.md
+- livres.md
