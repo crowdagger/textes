@@ -11,9 +11,10 @@ autoclean: true
 tex.command: pdflatex
 epub.version: 3
 
-output.epub: ptafdh.epub
-output.html: ptafdh.html
-output.pdf: ptafdh.pdf
+output.epub: endr.epub
+output.html: endr.html
+output.pdf: endr.pdf
+output.odt: endr.odt
 
 - chapitre_01.md
 - chapitre_02.md
