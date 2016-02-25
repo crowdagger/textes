@@ -10,6 +10,7 @@
 *.log
 *.aux
 *.txt
+deploy.sh
 oi/TODO
 */*/images/
 */images/
