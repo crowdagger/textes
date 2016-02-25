@@ -6,9 +6,10 @@ cover: couv/blanc-noir.png
 
 numbering_template: Chapitre {{number}} : {{title}}
 
-output_epub: blanc-noir.epub
-output_pdf: blanc-noir.pdf
-output_html: blanc-noir.html
+output.epub: blanc-noir.epub
+output.pdf: blanc-noir.pdf
+output.html: blanc-noir.html
+output.odt: blanc-noir.odt
 
 ! copyright.md
 + chapitre_1.md
