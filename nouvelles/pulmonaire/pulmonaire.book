@@ -4,9 +4,9 @@ lang: fr
 
 cover: couv.png
 
-output_html: pulmonaire.html
-output_epub: pulmonaire.epub
-output_pdf: pulmonaire.pdf
+output.html: pulmonaire.html
+output.epub: pulmonaire.epub
+output.pdf: pulmonaire.pdf
 
 ! pulmonaire.md
 - about.md

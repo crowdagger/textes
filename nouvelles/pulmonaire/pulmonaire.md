@@ -152,7 +152,7 @@ Nelly l’a regardée en penchant la tête, avec une moue interrogative.
 Nelly a fait une nouvelle grimace. Elle ne voyait pas pourquoi l’elfe ne
 la trouvait pas discrète.
 
-\*\*\*\*\*
+*****
 
 La détective a frappé à la porte d’entrée de la villa et attendu un
 moment. Elle n’était pas à l’aise dans le Quartier Haut. Elle n’avait
@@ -227,7 +227,7 @@ s’agissait d’autre chose.
 Ensuite, il lui a donné le reste de ses honoraires en lui faisant
 promettre de rédiger un rapport et l’elfe est rentrée chez elle.
 
-\*\*\*\*\*
+*****
 
 C’est au milieu de la nuit que Kalia a commencé à avoir des doutes.
 
@@ -258,7 +258,7 @@ s’est levée, bien résolue à faire disparaître ses derniers doutes.
 Kalia a hésité à refuser, mais elle s’est dit qu’elles ne seraient pas
 trop de deux pour trouver des indices.
 
-\*\*\*\*\*
+*****
 
 Franchir le mur d’une villa, en principe, ce n’est pas très difficile, à
 condition de s’y connaître un minimum en escalade, ce qui était le cas
@@ -316,7 +316,7 @@ L’elfe a étouffé un cri lorsqu’elle a réalisé que ce qu’elle tenait
 approchée de l’endroit où s’était agenouillée Nelly, s’est baissée et a
 vu le reste du cadavre.
 
-\*\*\*\*\*
+*****
 
 Le lendemain, Kalia est retournée voir monsieur Delacour. Il l’a faite
 patienter un moment dans un salon avant de la recevoir dans un bureau
