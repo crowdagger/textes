@@ -132,7 +132,7 @@ peut-être pas le choix.
 
 *****
 
-« Ce n'est pas risqué, de l'avoir laissé partir ? » demanda Aymak.
+« Ce n'est pas risqué, de l'avoir laissée partir ? » demanda Aymak.
 
 Les trolls étaient souvent perçus comme des êtres stupides ne sachant pas
 s'exprimer et ne jurant que par la violence. C'était compréhensible :

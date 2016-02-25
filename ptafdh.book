@@ -7,14 +7,13 @@ cover: couv/cover.png
 
 temp_dir: /tmp/
 
-numbering: false
 autoclean: true
-tex_command: pdflatex
-epub_version: 3
+tex.command: pdflatex
+epub.version: 3
 
-output_epub: ptafdh.epub
-output_html: ptafdh.html
-output_pdf: ptafdh.pdf
+output.epub: ptafdh.epub
+output.html: ptafdh.html
+output.pdf: ptafdh.pdf
 
 - chapitre_01.md
 - chapitre_02.md
