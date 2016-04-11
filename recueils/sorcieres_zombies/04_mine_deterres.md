@@ -1,3 +1,13 @@
+---
+author: Lizzie Crowdagger
+title: Une mine de déterrés
+lang: fr
+
+output.pdf: mine_de_deterres.pdf
+output.epub: mine_de_deterres.epub
+output.html: mine_de_deterres.html
+html.display_chapter: false
+---
 
 Une mine de déterrés
 ====================
