@@ -29,8 +29,6 @@ Trois heures du matin, elle ne dormait toujours pas. Elle se retourna
 une nouvelle fois, puis une autre, se redressa un peu, et hésita à
 reprendre le volant. 
 
-*****
-
 C'est alors qu'elle aperçut une silhouette devant la
 voiture. Quelqu'un approchait.
 
@@ -40,8 +38,6 @@ baladait.
 
 Un type qui se baladait sur une départementale, à trois heures du
 matin. Rien d'anormal.
-
-*****
 
 Elle prit une profonde inspiration, espérant calmer les
 battements de son cœur. Sans grand succès. Surtout qu'elle
@@ -54,8 +50,6 @@ qui attisaient son imagination ?
 
 Il n'y avait qu'un moyen de savoir. Elle alluma les phares.
 
-*****
-
 Claire poussa un cri d'horreur en découvrant ce qu'avait révélé la
 lumière jaune : devant elle se trouvaient une demi-douzaine
 de personnes, hommes et femmes, aux vêtements déchirés, aux regards de
@@ -64,27 +58,25 @@ trébuchant régulièrement.
 
 Des zombies.
 
-« Oh mon Dieu », murmura Claire d'une voix faible.
-
-*****
+— Oh mon Dieu, murmura Claire d'une voix faible.
 
 Après être restée pétrifiée quelques instants, elle se décida à faire
 démarrer la voiture. Qui cala. Elle songea avec une ironie distante
 que cela faisait vraiment mauvais film d'horreur. Il lui fallut quatre
 essais, avant que la voiture ne se décide enfin à s'ébranler.
 
-Les zombies — car il s'agissait bien de mort-vivants, il n'y avait
+Les zombies (car il s'agissait bien de mort-vivants, il n'y avait
 pas de doutes là-dessus : il manquait même de
-la peau sur certains d'entre eux — étaient maintenant à quelques
+la peau sur certains d'entre eux) étaient maintenant à quelques
 centimètres de la voiture.
 
-« Merde ! » hurla Claire, paniquée, en manquant de
-renverser un des cadavres ambulants. Elle ne pouvait quand même pas
-les écraser. Et puis, elle réalisa le ridicule de la situation : ils
-étaient déjà morts, de toute façon.
+— Merde ! hurla Claire, paniquée, en manquant de
+renverser un des cadavres ambulants.
 
+Elle ne pouvait quand même pas les écraser. Et puis, elle réalisa le
+ridicule de la situation : ils étaient déjà morts, de toute façon. 
 Tremblante, elle appuya sur l'accélérateur et renversa un zombie,
-qui roula sur le capot avant de tomber au sol.  
+qui roula sur le capot avant de tomber au sol.
 
 Elle put voir un instant son regard mort la fixer, ce qui la révulsa
 encore plus et lui donna envie de vomir, d'être ailleurs, et surtout
@@ -118,8 +110,6 @@ Une minute passa et rien ne se produisit. Puis une autre minute.
 Finalement, la porte s'ouvrit. Claire retint son souffle, et espéra
 qu'il ne s'agissait pas d'un zombie.
 
-*****
-
 C'était en fait un jeune type d'une 
 vingtaine d'années, aux cheveux longs, au visage boutonneux et à l'air
 pas très réveillé. Il avait un tee-shirt qui disait « I see
@@ -130,34 +120,39 @@ une véritable vie, il n'avait en tout cas pas l'air d'être un non-mort.
 Claire sortit de la voiture et se demanda un moment comment expliquer
 la situation.
 
-« Vous voulez quoi ? demanda le garçon avec une voix aiguë.
+— Vous voulez quoi ? demanda le garçon avec une voix aiguë.
 
 — Je peux entrer ? Je me suis perdue, et dehors il y
-a des... » 
+a des...
 
 La phrase mourut dans sa bouche. Elle ne pouvait pas prononcer le
 terme « zombie » sans se sentir un peu ridicule. « Mort-vivant »
 ne sonnait pas beaucoup mieux.
 
-« Ça roule », fit le garçon, en entrant dans la grande maison. 
+— Ça roule, fit le garçon.
 
-Claire le suivit, mal à l'aise. Elle referma la porte derrière
+Il entra dans la grande maison. Claire le suivit, mal à l'aise. Elle
+referma la porte derrière 
 elle, et se tourna vers le jeune homme d'un air implorant. 
 
-« Il vaudrait mieux fermer à clé, peut-être ? S'il vous plaît ? 
+— Il vaudrait mieux fermer à clé, peut-être ? S'il vous plaît ? 
 
 — Si vous voulez, répondit le jeune homme en verrouillant la
-porte. Au fait, moi c'est Ludovic. »
+porte. Au fait, moi c'est Ludovic.
 
-« Claire », fit Claire tandis qu'il s'asseyait à côté d'une
-  antique table en bois sur laquelle était posé un ordinateur
-  portable, beaucoup moins antique et beaucoup moins en bois. « Ça
-    va vous paraître fou, mais dehors il y  avait des... » La situation
-  lui paraissait idiote, à présent qu'elle était au chaud, à la
-  lumière, en face d'un type qui pianotait sur un
-  ordinateur.
+— Claire.
 
-« Des quoi ? demanda Ludovic. On croirait que vous avez vu un fantôme.
+Il s'assit à côté d'une antique table en bois sur laquelle était posé
+un ordinateur portable, beaucoup moins antique et beaucoup moins en
+bois.
+
+— Ça va vous paraître fou, fit Claire, mais dehors il y  avait des...
+
+La situation lui paraissait idiote, à présent qu'elle était au chaud,
+à la lumière, en face d'un type qui pianotait sur un
+ordinateur.
+
+— Des quoi ? demanda Ludovic. On croirait que vous avez vu un fantôme.
 
 — C'était des zombies, répondit Claire d'une voix faible.
 
@@ -166,30 +161,30 @@ porte. Au fait, moi c'est Ludovic. »
 — Je suis sérieuse ! ajouta Claire.
 
 — Oh, je n'en doute pas, répondit le jeune homme. J'ai lu les
-*news*. »
+*news*.
 
 Claire fronça les sourcils.
 
-« Les *news* ?
+— Les *news* ?
 
 — Sur Internet, expliqua le garçon. Il paraîtrait que les morts se
-relèvent. »
+relèvent.
 
 Claire essaya de digérer l'information. Ce n'était donc pas une
 hallucination. Ce n'était pas non plus, *a priori*, un phénomène
 localisé. Et ce stupide garçon boutonneux qui paraissait s'en moquer !
 
-« Mon Dieu, lâcha-t-elle. Il faut faire quelque chose.
+— Mon Dieu, lâcha-t-elle. Il faut faire quelque chose.
 
 — Parlez-en à ma sœur, répliqua le garçon. C'est elle qui est
 accro à ce genre de trucs. Moi, tant qu'ils ne bouffent pas les
 ordis... 
 
-— Votre sœur ? demanda Claire. Où est-elle ? »
+— Votre sœur ? demanda Claire. Où est-elle ?
 
 Ludovic fit un geste vague de la main.
 
-« Quelque part à l'étage, répondit-il. Elle va adorer cette
+— Quelque part à l'étage, répondit-il. Elle va adorer cette
   histoire. Maintenant, excusez-moi, mais cet algorithme ne va pas
   s'écrire tout seul, si vous voyez ce que je veux dire.
 
@@ -197,7 +192,7 @@ Ludovic fit un geste vague de la main.
 
 — On vit dans un monde dangereux, répliqua calmement Ludovic. Mais
 ça n'empêche pas que le code ne s'écrit pas tout seul. Moi, tant que
-les programmes morts ne se relèvent pas... »
+les programmes morts ne se relèvent pas...
 
 Claire haussa les épaules et décida qu'il valait
 peut-être mieux laisser ce boutonneux asocial à son ordinateur et
@@ -210,7 +205,7 @@ de randonnée qui traînait contre le mur. Ça pouvait toujours être utile.
 *****
 
 Alors que Claire montait les vieux escaliers en bois avec précaution
-— ce qui ne les empêchait pas de grincer abominablement, elle sentit
+(ce qui ne les empêchait pas de grincer abominablement), elle sentit 
 quelque chose contre sa jambe. 
 
 Son cœur manqua quelques battements, mais lorsqu'elle baissa les
@@ -229,7 +224,7 @@ Quelques mètres en dessous d'elle, Ludovic pianotait toujours sur son
 ordinateur, sans paraître le moins du monde se soucier de sa
 visiteuse.
 
-« Comment s'appelle votre sœur ? lui demanda Claire en criant.
+— Comment s'appelle votre sœur ? lui demanda Claire en criant.
 
 — Lise, répondit Ludovic après un petit moment.
 
@@ -239,15 +234,16 @@ visiteuse.
 
 — Ça a l'air grand.
 
-— Elle est peut-être dans la salle de bains. Vers la droite »,
-répondit-il finalement, comme à contrecœur. « Et peut-être pas »,
-ajouta-t-il en marmonnant.
+— Elle est peut-être dans la salle de bains, répondit-il finalement,
+comme à contrecœur. Vers la droite.
 
 Claire se dirigea donc vers la droite, en brandissant son bâton d'un
 air menaçant. Ou, plus exactement, d'un air pathétique qui se voulait
 menaçant. 
 
-« Lise ? appela Claire. Lise ? »
+— Et peut-être pas, ajouta le jeune homme en marmonnant.
+
+— Lise ? appela Claire. Lise ?
 
 Pas de réponse. Tout cela lui paraissait bizarre. D'abord les zombies,
 puis cette maison, puis ce type... 
@@ -272,9 +268,6 @@ Soudainement, un cri lui glaça le sang. Elle se précipita vers la
 chambre d'où il semblait provenir, ouvrit la porte d'un geste
 brusque et resta pétrifiée.
 
-
-*****
-
 La fenêtre de la chambre avait été brisée. Il y avait des éclats de verre
 dans la moitié de la pièce. Au milieu de ceux-ci, à genoux, se
 trouvait celle qui devait être Lise, la tête en sang, assaillie par
@@ -286,10 +279,10 @@ milieu des oiseaux qui se dispersèrent. Elle attrapa ensuite
 le bras de la jeune fille et la tira vers le couloir, fermant
 brusquement la porte derrière elles.
 
-« Merci », fit Lise en essuyant la trace de sang qui lui coulait
-  du front. 
+— Merci, fit Lise.
 
-La première chose que remarqua Claire, c'est que, contrairement à ce
+Elle essuya la trace de sang qui lui coulait du front. La première
+chose que remarqua Claire, c'est que, contrairement à ce 
 qu'elle avait cru en l'apercevant, la blessure était plutôt légère :
 le front de la jeune fille était bien un peu abîmé, mais à part ça,
 elle était indemne.
@@ -301,25 +294,23 @@ cheveux noirs. Un moment, elle se demanda si elle était aussi
 socialement inadaptée que lui.
 
 Niveau tee-shirt, c'était le même genre : « I see fragged people »
-était remplacé par un plus politique « One solution, Revolution »
-— Claire se demanda d'ailleurs furtivement pourquoi une fille qui
-portait un tel tee-shirt vivait dans une gigantesque maison. En
+était remplacé par un plus politique « One solution,
+Revolution ». Claire se demanda d'ailleurs furtivement pourquoi une
+fille qui portait un tel tee-shirt vivait dans une gigantesque
+maison. En 
 revanche, Claire nota que Lise était vêtue d'un pantalon. Il y avait
 donc du progrès. 
 
-
-*****
-
-« Mais qui êtes vous ? demanda Lise en levant un sourcil.
+— Mais qui êtes vous ? demanda Lise en levant un sourcil.
 
 — Je me suis perdue, répondit Claire. J'allais à un mariage... je me
 suis endormie dans la voiture, et j'ai été attaquée par des
-zombies... et je suis venue me réfugier ici. » 
+zombies... et je suis venue me réfugier ici.
 
 Il y eut un court moment de silence, le temps que la jeune fille
 digère la phrase.
 
-« Des zombies ? dit-elle finalement. *Cool*. »
+— Des zombies ? dit-elle finalement. *Cool*.
 
 
 *****
@@ -331,7 +322,7 @@ comme elle s'y était attendue, elle paraissait surexcitée : il fallait
 barricader la maison, fabriquer des armes, aller au garage chercher de
 quoi faire des cocktails molotov. 
 
-« Du calme, répliqua Claire, qui ne l'était pas vraiment. Si on
+— Du calme, répliqua Claire, qui ne l'était pas vraiment. Si on
   tient jusqu'au lever du  soleil, je pense que tout ira bien. 
 
 — Ah, fit Lise, manifestement un peu déçue de l'avortement de la
@@ -349,14 +340,14 @@ Claire.
 — Votre oncle ? s'étonna Claire. Où est-il ?
 
 — Qu'est-ce que j'en sais ? La baraque est plutôt grande, si vous
-n'avez pas remarqué. »
+n'avez pas remarqué.
 
 Claire soupira. Malgré la gravité de la situation, cette fille
 commençait à lui taper sur les nerfs avec sa façon de tout prendre à
 la légère.
 
-« Bon, fit-elle. Il n'est apparemment pas au premier. On va voir
-  au rez-de-chaussée. »
+— Bon, fit-elle. Il n'est apparemment pas au premier. On va voir
+  au rez-de-chaussée.
 
 Les deux jeunes femmes se dirigèrent donc vers le bout du couloir,
 Claire avançant prudemment en tête, poursuivant sa quête
@@ -372,14 +363,14 @@ Claire sentit un vent froid la parcourir alors qu'elle allumait
 l'interrupteur du bas. Elle se tourna, et aperçut qu'une porte menant
 à un jardin était ouverte.
 
-« Merde, lâcha-t-elle.
+— Merde, lâcha-t-elle.
 
 — Oh, c'est normal, répliqua Lise, elle a toujours mal fermé.
 
 — Mais ils ont pu rentrer ! hurla Claire, paniquée. 
 
 — *Zen*, répondit Lise, inébranlable. Rien ne dit qu'ils l'ont
-fait. Allons chercher mon oncle. » 
+fait. Allons chercher mon oncle.
 
 Claire inspira et souffla profondément, tentant, d'une part, d'enrayer
 le sentiment de panique qu'elle éprouvait et, d'autre part, de ne pas
@@ -388,8 +379,8 @@ s'énerver contre Lise.
 Elle la rattrapa alors qu'elle entrait dans une autre pièce,
 apparemment la cuisine. 
 
-« Je ne sais pas vous, fit-elle joyeusement en ouvrant le
-  réfrigérateur, mais moi, les films d'horreur, ça me donne faim. »
+— Je ne sais pas vous, fit-elle joyeusement en ouvrant le
+  réfrigérateur, mais moi, les films d'horreur, ça me donne faim.
 
 Comme pour les autres pièces, Claire se précipita vers l'interrupteur,
 et en quelques secondes les néons s'allumèrent, illuminant toute la cuisine.
@@ -409,32 +400,33 @@ se mit à déchirer fébrilement le plastique qui enveloppait les
 steacks. Elle les lança devant les morts-vivants qui,
 comme elle l'avait espéré, se précipitèrent dessus.
 
-« Si c'est pas malheureux », râla-t-elle alors qu'elle sortait de
-la cuisine, toujours un steack haché à la main, tandis que Claire fermait
-la porte et la bloquait, « gâcher de la nourriture comme ça.
+Elle sortit de la cuisine, un steack haché toujours à la main, tandis
+que Claire fermait la porte et la bloquait.
+
+— Si c'est pas malheureux, gâcher de la nourriture comme ça.
 
 — Tu t'en es gardé un ? demanda Claire, atterrée, en désignant le
 steack qu'elle avait à la main.
 
 — Je me disais, plutôt que ce soit le chat qui le bouffe qu'une de
-ces bestioles », répondit-elle en tendant la viande au chat, qui s'en
-empara en ronronnant.
+ces bestioles.
 
-Claire secoua la tête, alors que ses mains tremblaient.
+Elle tendit la viande au chat, qui s'en empara en ronronnant. Claire
+secoua la tête, alors que ses mains tremblaient. 
 
-« Tu te rends compte qu'ils auraient pu te tuer ?
+— Tu te rends compte qu'ils auraient pu te tuer ?
   demanda-t-elle. Que ce sont des putain de mort-vivants ? On n'est
   pas dans un film !
 
 — *Cool*, répondit Lise en attrapant le carton de jus de
 pomme. J'aurais aussi pu me faire dévorer par un monstre à neuf
 dimensions,
-mais ce n'est pas le cas. Je suis en vie, et j'ai soif et faim. »
+mais ce n'est pas le cas. Je suis en vie, et j'ai soif et faim.
 
 Claire dut faire plusieurs exercices de respiration, pendant que Lise
 buvait bruyamment à la bouteille.
 
-« Bon, dit finalement Lise, je pense qu'il faudrait aller dans le
+— Bon, dit finalement Lise, je pense qu'il faudrait aller dans le
   garage.
 
 — Le garage ?
@@ -446,11 +438,11 @@ garage. Léonard y est peut-être.
 
 — Mon oncle.
 
-— Et tu ne pouvais pas le dire plus tôt ? » 
+— Et tu ne pouvais pas le dire plus tôt ?
 
 Lise se contenta de hausser les épaules.
 
-« Je ne savais pas que son nom était si important pour vous.
+— Je ne savais pas que son nom était si important pour vous.
 
 — Je veux dire, qu'il était au garage !
 
@@ -459,23 +451,23 @@ Lise se contenta de hausser les épaules.
 
 — Il travaille à quatre heures du matin ?
 
-— Aucune idée, je n'ai pas de montre. »
+— Aucune idée, je n'ai pas de montre.
 
 Lise avala quelques nouvelles gorgées de jus de pomme pendant que
 Claire essayait de se calmer. Lorqu'elle eut fini de boire, elle
 annonça :  
  
-« Bon, il faudrait aussi aller chercher mon frangin. Pour qu'on
+— Bon, il faudrait aussi aller chercher mon frangin. Pour qu'on
   soit plus efficace, je propose qu'on se sépare.
 
 — Je ne pense pas que ce soit une bonne idée, répliqua
 Claire, horrifiée. C'est la meilleure manière d'y passer
 toutes les deux.
 
-— Mais non », répondit Lise en commençant à avancer dans le
-couloir, sans prendre la peine d'allumer la lumière. « Ils font
+— Mais non, répondit Lise en commençant à avancer dans le
+couloir, sans prendre la peine d'allumer la lumière. Ils font
   toujours ça dans les films d'horreur, et ils ont de l'expérience
-  dans le domaine. »
+  dans le domaine.
 
 
 *****
@@ -508,7 +500,7 @@ Ce n'était pas un avion de ligne, évidemment, juste un vieux modèle à
 hélice, mais cela faisait tout de même incongru. 
 Elle s'approcha un peu, impressionnée.
 
-« Monsieur Léonard ? » appela-t-elle.
+— Monsieur Léonard ? appela-t-elle.
 
 Elle eut le temps d'entendre un petit bruit derrière elle, se
 retourna, et se retrouva nez à nez avec le canon d'un fusil à pompe.
@@ -519,19 +511,19 @@ lunettes de soleil. Mais le pire, c'est que les traits de son visage,
 à l'exception d'une épaisse moustache qui descendait de part et
 d'autre de sa bouche, étaient les mêmes que ceux de Lise et Ludovic.
 
-« Monsieur Léonard ? répéta Claire, un peu plus nerveuse.
+— Monsieur Léonard ? répéta Claire, un peu plus nerveuse.
 
-— Ah, répondit-il, vous n'êtes pas un de ces foutus zombies. »
+— Ah, répondit-il, vous n'êtes pas un de ces foutus zombies.
 
 Sa voix sonnait mal. Elle avait un côté viril, mais il paraissait
 artificiel, comme s'il se forçait. Et malgré ça, elle restait trop
 aiguë, comme la voix de Ludovic. 
 
-« Lise ? ne put s'empêcher de demander Claire, tellement Léonard
+— Lise ? ne put s'empêcher de demander Claire, tellement Léonard
   lui rappelait la jeune femme.
 
 — Ah, fit l'oncle en baissant son arme, vous avez vu ma nièce. Beau
-brin d'fille, hein ? Ravi de savoir qu'elle va bien. »
+brin d'fille, hein ? Ravi de savoir qu'elle va bien.
 
 Claire ne répondit pas, et espéra que Lise allait toujours bien. De
 toute façon, après les dernières minutes 
@@ -539,41 +531,43 @@ passées en présence de cette fille, elle n'était plus certaine que
 cette dernière serait celle à plaindre si elle venait à croiser une
 meute de morts-vivants. 
 
-« Vous êtes au courant, pour les zombies ? demanda Claire.
+— Vous êtes au courant, pour les zombies ? demanda Claire.
 
 — Évidemment. L'un d'entre eux a essayé de me bouffer. Mais c'est
-à mon Remington qu'il a goûté ! »
+à mon Remington qu'il a goûté !
 
 Il éclata de rire en terminant sa phrase, alors que Claire se mordait
 nerveusement les lèvres. Léonard ne s'annonçait
 pas plus facile à vivre que sa nièce.
 
-« D'où est-ce que vous venez ? demanda-t-il.
+— D'où est-ce que vous venez ? demanda-t-il.
 
 — J'étais perdue, répondit Claire. J'allais à un mariage, et...
 
-— C'est ce qui s'appelle une pleine lune de miel », coupa Léonard,
-avant d'éclater de rire une nouvelle fois. 
+— C'est ce qui s'appelle une pleine lune de miel, coupa Léonard.
 
-Non seulement sa blague était exécrable, mais en plus son rire
+Il éclata de rire une nouvelle fois. Non seulement sa blague était
+exécrable, mais en plus son rire 
 sonnait faux. Claire commençait sérieusement à se 
 demander si ce n'était pas Lise déguisée.
 
-« Et vous êtes venue en voiture ? demanda Léonard, redevenu sérieux.
+— Et vous êtes venue en voiture ? demanda Léonard, redevenu sérieux.
 
 — Oui, répondit Claire. Vous n'avez pas entendu les coups de
 klaxon, tout à l'heure ?
 
 — Non. Faut croire que le garage est bien isolé. Peu importe. Vous
-voulez mon avis ? »
+voulez mon avis ?
 
 Claire ne répondit pas, mais son interlocuteur n'attendait pas de réponse.
 
-« Faudrait repartir en voiture. À cinquante à l'heure, les zombies
+— Faudrait repartir en voiture. À cinquante à l'heure, les zombies
   nous emmerderont pas. Je sortirais bien l'avion, mais j'crois
   pas qu'ils nous laisseraient le temps de décoller.
 
-— D'accord », répondit Claire, sans objecter que, pour elle, il
+— D'accord, répondit Claire.
+
+Elle n'objecta pas que, pour elle, il
 s'agissait plutôt d'un retour au point de départ. Cela dit, elle était
 toujours vivante, le lever de soleil était maintenant un peu plus
 proche et elle n'était plus seule. 
@@ -590,21 +584,22 @@ brusque détour par la cuisine.
 Il ne parut que légèrement surpris lorsqu'il se retrouva nez à nez
 avec les deux morts-vivants. 
 
-« Crénom de Dieu », lâcha-t-il en levant son Remington calibre 12.
+— Crénom de Dieu.
 
-Il y eut une détonation assourdissante et des éclaboussures de sang
+Il leva son Remington calibre 12. Il y eut une détonation
+assourdissante et des éclaboussures de sang 
 lorsqu'il tira en plein ventre du mort-vivant le plus proche, qui
 vacilla sous le choc et reprit immédiatement sa marche.
 
 Nouvelle détonation, cette fois-ci dans les jambes de la créature, qui
 s'écrasa par terre, mais continuait à ramper vers Léonard.
 
-« La tête, bon sang ! hurla Claire, les larmes aux yeux et les
+— La tête, bon sang ! hurla Claire, les larmes aux yeux et les
   mains sur les oreilles. Tout le monde sait qu'il faut viser la
   putain de tête !
 
 — Ah ! répliqua Léonard. C'est la tradition. La tête, c'est pour les
-dernières balles. »
+dernières balles.
 
 Et, comme il ne lui restait plus que deux balles dans son fusil, il
 les utilisa pour faire exploser dans des grande gerbes de sang les
@@ -616,7 +611,7 @@ grandes bottes dans le sang des deux cadavres qui ne se relèveraient
 plus, alluma le gaz au maximum et ressortit, donnant au passage une
 tape dans le dos de Claire pour qu'elle se reprenne.
 
-« Vous avez fait quoi, avec le gaz ? demanda-t-elle nerveusement
+— Vous avez fait quoi, avec le gaz ? demanda-t-elle nerveusement
   en s'essuyant la bouche, et en essayant de suivre Léonard qui se
   dirigeait vers le couloir où avait disparu Lise quelques minutes 
   plus tôt. 
@@ -626,15 +621,15 @@ de zombies !
 
 — Et nous avec, marmonna Claire.
 
-— Pas si on se dépêche, miss. »
+— Pas si on se dépêche, miss.
 
-Et, en effet, le retour vers le hall principal fut plus rapide que
-l'aller. Mais lorsque le trio — le chat, en effet, les suivait
-toujours, même si personne ne lui prêtait vraiment attention — débarqua
+En effet, le retour vers le hall principal fut plus rapide que
+l'aller. Mais lorsque le trio (le chat, en effet, les suivait
+toujours, même si personne ne lui prêtait vraiment attention) débarqua
 dans le hall, il n'y avait trace ni de Lise, ni de
 Ludovic. L'ordinateur portable de ce dernier était maintenant éteint.
 
-« Merde ! fit Claire. Et l'autre con qui a allumé le gaz à fond !
+— Merde ! fit Claire. Et l'autre con qui a allumé le gaz à fond !
 
 — Restez polie, miss, répondit Léonard avec une voix qui
 semblait toujours aussi peu naturelle. Allez donc démarrer la voiture,
@@ -643,10 +638,10 @@ je me charge de mes neveux.
 — Mais..., protesta faiblement Claire.
 
 — Pas d'objections, répliqua-t-il d'une voix
-autoritaire. Allez-y. *Maintenant*. »
+autoritaire. Allez-y. *Maintenant*.
 
-Claire obéit, sans trop savoir pourquoi — peut-être quelque chose
-dans le ton de l'homme —, et se précipita vers la voiture, après un bref coup
+Claire obéit, sans trop savoir pourquoi (peut-être quelque chose
+dans le ton de l'homme), et se précipita vers la voiture, après un bref coup
 d'œil pour vérifier qu'il n'y avait pas de zombies sur le chemin.
 
 Derrière elle, un coup de vent fit claquer la porte.
@@ -659,7 +654,7 @@ en sortit un cigare. Puis il plongea son autre main dans une autre
 poche et en tira une boîte d'allumettes.
 
 Il alluma le cigare. Rangea les allumettes. Caressa distraitement le
-chat qui se frottait à ses pieds.   
+chat qui se frottait à ses pieds.
 
 Puis il tira une longue bouffée, avant de le jeter, d'un
 geste théâtral, vers le couloir.
@@ -683,13 +678,13 @@ Puis il s'assit sur un petit muret en pierres qui se trouvait juste à
 côté et retira sa fausse moustache, avant d'ouvrir son vieux blouson
 d'aviateur et de défaire la bande qui lui comprimait la poitrine.
 
-Lise — ou quel que fût son nom — conserva néanmoins le chapeau de
+Lise (ou quel que fût son nom) conserva néanmoins le chapeau de
 cow-boy. Elle trouvait qu'il lui allait bien.
 
 Le chat sauta à son tour sur le muret et s'allongea à côté de la jeune
 fille.
 
-« Alors ? demanda cette dernière. Tu en penses quoi ? J'ai mon
+— Alors ? demanda cette dernière. Tu en penses quoi ? J'ai mon
   examen ?
 
 — *Je ne sais pas trop quoi penser. D'accord, tu as atteint
@@ -721,7 +716,7 @@ faux, n’est-ce pas ?
 
 — Elle avait besoin d'apprendre à se contrôler, répliqua Lise. Et de
 se décoincer un peu. Je suis sûre que ça lui sera bénéfique, plus
-tard. Elle stressera moins.  
+tard. Elle stressera moins.
 
 — *D'accord*, dut admettre le chat. *Tu es qualifiée pour
   le boulot. C'est indéniable.*
@@ -732,25 +727,25 @@ onirique.
 — *Je t'ai déjà dit de ne pas utiliser ce terme. Ça n'a rien à
   voir avec la police.*
 
-— D'accord, d'accord, admit Lise. Pompier onirique, si tu préfères. »
+— D'accord, d'accord, admit Lise. Pompier onirique, si tu préfères.
 
 Il y eut un silence, pendant lequel le chat comme la jeune fille
 regardèrent le manoir qui brûlait toujours.
 
-« Peut être pas pompier, d'accord, admit-elle. Allez viens, on va voir s'il
-reste des trucs à grailler dans la cuisine. »
+— Peut être pas pompier, d'accord, admit-elle. Allez viens, on va voir s'il
+reste des trucs à grailler dans la cuisine.
 
 Elle observa deux morts-vivants, au loin, qui
 semblaient en train de manger quelque chose. Était-ce un cadavre
 d'humain ? Vu la distance, c'était dur à dire.
 
-« La prochaine fois, je crois que je
+— La prochaine fois, je crois que je
   viendrai en zombie. Eux, au moins, ils mangent.
 
 — *Ce n'est pas un jeu*, objecta le chat.
 
 — Ouais, ben ça ne veut pas dire qu'on doit forcément crever de faim,
-hein ? »
+hein ?
 
 *****
 

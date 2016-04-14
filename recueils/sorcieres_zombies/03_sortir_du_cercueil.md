@@ -71,7 +71,7 @@ Tandis que le cocher expédiait sans ménagement les deux valises du
 jeune homme au sol, la femme continua de parler, avant de faire
 finalement un signe de croix au moment où la diligence repartait.
 
-« Qu'est-ce qu'elle disait ? demanda Angèle pendant que William
+— Qu'est-ce qu'elle disait ? demanda Angèle pendant que William
   s'allumait une cigarette. 
 
 — Oh, rien de bien important. De protéger mon cou, quelque chose
@@ -92,46 +92,46 @@ attendre trop longtemps, on se les gèle.
 
 — Moi, je trouve que ça va.
 
-— Toi tu n'existes... » commença le jeune homme, mais il fut
-interrompu par un hurlement. « Euh... C'était quoi, ça ?
+— Toi tu n'existes... commença le jeune homme, mais il fut
+interrompu par un hurlement. Euh... C'était quoi, ça ?
 
-— Un loup, non ? »
+— Un loup, non ?
 
 Un nouvel hurlement vint confirmer l'hypothèse de l'hallucination. Il
 paraissait plus proche.
 
-« J'espère que le cocher va arriver vite... »
+— J'espère que le cocher va arriver vite...
 
 Le jeune homme aperçut un mouvement à la périphérie de son champ de
 vision. Lorsqu'il tourna la tête, il n'y avait rien.
 
-« J'ai cru voir quelque chose.
+— J'ai cru voir quelque chose.
 
 — Non, il n'y avait rien, rassura Angèle. Tu as rêvé. 
 
 — Ah.
 
-— Par contre, il y en a un derrière toi. »
+— Par contre, il y en a un derrière toi.
 
 William se retourna lentement et aperçut effectivement un animal qui
 le fixait de son regard jaune. Puis il en vit un autre sortir d'un
 fourré voisin.
 
-« Bon sang, combien ils sont ? 
+— Bon sang, combien ils sont ? 
 
 — J'en vois cinq. Tout autour de toi. 
 
 — Hum, fit le peintre en inspirant une bouffée de
-tabac. Heureusement que je sais que les loups ne s'attaquent pas aux hommes. »
+tabac. Heureusement que je sais que les loups ne s'attaquent pas aux hommes.
 
 Il y eut un moment de silence, pendant lequel les animaux
 s'approchèrent lentement.
 
-« Tu crois que les loups le savent, eux ? »
+— Tu crois que les loups le savent, eux ?
 
 William soupira.
 
-« C'est pas un peu déjà vu, ça ?
+— C'est pas un peu déjà vu, ça ?
 
 — Quoi ?
 
@@ -140,13 +140,13 @@ William soupira.
   ne crois pas en machin — mais on dirait que machin croit en toi*. 
 
 
-— Ben, refait ou pas, t'es dans la merde. »
+— Ben, refait ou pas, t'es dans la merde.
 
 William haussa les épaules et essaya de s'approcher doucement d'un
 arbre. Il n'était pas très doué en escalade mais, s'il apprenait vite,
 il avait peut-être une chance de s'en sortir vivant. 
 
-« Quelqu'un approche », annonça Angèle.
+— Quelqu'un approche, annonça Angèle.
 
 Il stoppa net, décidant que si quelqu'un arrivait pour le sauver
 du pétrin il valait mieux pour son prestige qu'il ne soit pas en
@@ -161,16 +161,16 @@ une jeune femme en robe rouge. Elle était grande, avait les cheveux
 noirs, la peau parfaitement blanche et les yeux verts. Globalement,
 elle était irréellement magnifique. 
 
-« Euh..., fit le jeune homme. Je suppose que vous n'êtes pas le cocher ?
+— Euh..., fit le jeune homme. Je suppose que vous n'êtes pas le cocher ?
 
 — Père m'a demandé d'accompagner notre serviteur pour venir vous chercher,
 expliqua la femme d'une voix langoureuse. Excusez-moi du retard, mais
 nous avons perdu une roue sur le chemin. Le cocher est en train de
-réparer. Je m'appelle Carimall
+réparer. Je m'appelle Carimall.
 
 Elle tendit gracieusement sa main à William.
 
-« William, fit le peintre en la lui serrant.
+— William, fit le peintre en la lui serrant.
 
 — Hum, souffla Angèle, je crois que tu étais censé lui faire un
 baise-main. 
@@ -178,9 +178,13 @@ baise-main.
 — Je vais prendre vos bagages, William, fit Carimall en attrapant
 les deux valises.
 
-— Cela risque d'être un peu lourd... » voulut protester le jeune
-homme, mais elle les souleva comme si elles n'avaient rien
-pesé. « Euh, bon, ben, d'accord. Je vous suis. »
+— Cela risque d'être un peu lourd... voulut protester le jeune
+homme.
+
+Elle les souleva comme si elles n'avaient rien
+pesé.
+
+— Euh, bon, ben, d'accord. Je vous suis.
 
 
 *****
@@ -189,14 +193,14 @@ Lorsqu'ils atteignirent le fiacre accidenté, le cocher était en train
 de terminer de réparer et ils ne durent attendre que quelques minutes
 avant de poursuivre leur chemin vers le château d'Ekul.
 
-« Je suis tellement heureuse de voir quelqu'un ! s'exclama
-  Carimall. Nous ne recevons pas beaucoup, vous savez. »
+— Je suis tellement heureuse de voir quelqu'un ! s'exclama
+  Carimall. Nous ne recevons pas beaucoup, vous savez.
 
 William aperçut la silhouette lugubre du château, le
 chemin sinueux bordé de ravins qui menait vers lui et la pleine lune
 en partie masquée par une tour. 
 
-« Je vois vraiment pas pourquoi », marmonna-t-il trop bas pour que la jeune
+— Je vois vraiment pas pourquoi, marmonna-t-il trop bas pour que la jeune
 femme l'entende. 
 
 
@@ -207,7 +211,7 @@ taille moyenne et de forte corpulence, aux cheveux noirs épais et
 broussailleux, qui avait quelque chose d'un peu effrayant dans le
 regard. 
 
-« Bienvenue dans ma demeure ! s'exclama-t-il. Entrez-y librement
+— Bienvenue dans ma demeure ! s'exclama-t-il. Entrez-y librement
   et de votre plein gré !
 
 — Ben, marmonna William trop bas pour que son interlocuteur
@@ -216,22 +220,23 @@ l'entende, vu le chemin que j'ai fait, je ne comptais pas rester dehors.
 — Bienvenue dans ma demeure ! Entrez-y librement, et laissez un peu
 de la joie que vous y apportez !
 
-— Faudrait voir à changer de disque », fit Angèle tandis que William
-s'inclinait respectueusement et serrait la main du comte, ou, plutôt,
-se faisait broyer la main par lui. 
+— Faudrait voir à changer de disque, fit Angèle.
 
-« Ravi de faire votre connaissance, monsieur le comte.
+De son côté, William s'inclinait respectueusement et serrait la main
+du comte, ou, plutôt, se faisait broyer la main par lui. 
 
-— Venez. Vous devez mourir de faim. Je vais prendre vos bagages. »
+— Ravi de faire votre connaissance, monsieur le comte.
+
+— Venez. Vous devez mourir de faim. Je vais prendre vos bagages.
 
 Le jeune homme n'eut pas le temps de protester, car l'homme s'était
 déjà emparé des deux valises. Le cocher était occupé à détacher les
 chevaux, tandis que Carimall avait disparu.
 
-« Et votre fille ?
+— Et votre fille ?
 
 — Oh, elle est repartie. Elle aime se promener la nuit. Venez,
-suivez-moi. »
+suivez-moi.
 
 
 *****
@@ -239,32 +244,32 @@ suivez-moi. »
 Le comte d'Ekul fit s'asseoir son invité à une grande table où avait été
 servi un dîner copieux.
 
-« Excusez-moi de ne pas vous accompagner, mais j'ai déjà mangé. 
+— Excusez-moi de ne pas vous accompagner, mais j'ai déjà mangé. 
 
 — Ce n'est pas grave, répondit le peintre en se servant une aile de
-poulet. Vu l'heure, je comprends. »
+poulet. Vu l'heure, je comprends.
 
 Il mangea en quantité, pendant que le comte lui posait des questions
 sur son voyage. Puis ce dernier l'invita à aller s'asseoir devant la
 cheminée. 
 
-« Oh, fit le jeune homme. Un instant. » 
+— Oh, fit le jeune homme. Un instant.
 
 Il se dirigea vers ses valises et en sortit une bouteille de vin,
 qu'il apporta au comte.
 
-« Tenez, pour vous remercier de m'accueillir.
+— Tenez, pour vous remercier de m'accueillir.
 
 — C'est très aimable à vous, répondit Ekul en attrapant la
 bouteille. Cependant, je ne bois pas... de vin.
 
-— Oh, fit William en s'asseyant. Pardonnez-moi. Je l'ignorais. »
+— Oh, fit William en s'asseyant. Pardonnez-moi. Je l'ignorais.
 
 Le comte s'assit à son tour, fit tourner la bouteille, et écarquilla
 les yeux en lisant l'étiquette.
 
-« Cela dit, fit-il avec une voix enjouée, pour un petit Mondar de
-  1724, je crois que je pourrais faire une exception. »
+— Cela dit, fit-il avec une voix enjouée, pour un petit Mondar de
+  1724, je crois que je pourrais faire une exception.
 
 
 *****
@@ -272,29 +277,30 @@ les yeux en lisant l'étiquette.
 Le comte partagea ce qui restait de la bouteille entre son verre et
 celui de William. Tous deux étaient passablement éméchés. 
 
-« Eh ben, comte, pour   quelqu'un qui ne boit pas... de vin, je
-  trouve que vous êtes un 
-  buveur décent. 
+— Eh ben, Comte, pour   quelqu'un qui ne boit pas... de vin, je
+  trouve que vous êtes un buveur décent. 
 
 — Non, mais quand je dis pas de vin, c'est surtout celui des
 péquenots du coin. Vu le temps qu'on se trimballe, forcément... Je ne
 bois pas... de piquette, quoi. 
 
-
-— Vous faites bien, comte. Faut pas boire n'importe quoi, c'est ma
+— Vous faites bien, Comte. Faut pas boire n'importe quoi, c'est ma
 devise. 
 
 — Mais parfois, fit le comte d'un air grave, nécessité fait loi. 
 
-— 'videmment, admit William. Mais dans ce cas... » Il parut réfléchir
-pendant quelques secondes, puis sortit finalement un piètre : « ça
-  compte pas. Bon. J'crois qu'j'vais aller roupiller.
+— 'videmment, admit William. Mais dans ce cas...
+
+Il parut réfléchir pendant quelques secondes, puis sortit finalement
+un piètre :
+
+— Ça compte pas. Bon. J'crois qu'j'vais aller roupiller.
 
 — Je vais vous montrer votre chambre. Demain, vous pourrez dormir
 aussi tard que vous le voudrez. Je devrai m'absenter jusqu'en fin
 d'après-midi. 
 
-— Boulot, boulot, hein ? »
+— Boulot, boulot, hein ?
 
 
 *****
@@ -303,7 +309,7 @@ William se réveilla en grognant et se demanda où il était. Puis les
 évènements de la veille lui revinrent en mémoire et il comprit
 pourquoi il avait mal à la tête. 
 
-« C'est drôle, lança Angèle. Il n'y a pas grand-monde, dans cette
+— C'est drôle, lança Angèle. Il n'y a pas grand-monde, dans cette
   baraque. 
 
 — Laisse-moi dormir, répliqua William en se retournant dans le lit.
@@ -319,7 +325,7 @@ pourquoi il avait mal à la tête.
 — Ben, il y a peut-être des trucs de mystérieux ?
 
 — Oh, ouais, super. Non, je crois que je vais continuer ma grasse
-mâtinée. »
+mâtinée.
 
 
 *****
@@ -334,7 +340,7 @@ chambre.
 aller la saluer, mais lorsqu'il suivit la jeune femme dans la chambre
 où elle était entrée, il n'y avait plus personne. 
 
-« J'ai vraiment trop bu hier, moi », lâcha-t-il en se préparant à
+— J'ai vraiment trop bu hier, moi, lâcha-t-il en se préparant à
 ressortir de la pièce. 
 
 Lorsqu'il se retourna, il réalisa qu'il n'était plus seul, mais face à
@@ -346,9 +352,9 @@ Les trois dames s'avancèrent vers William, qui recula d'un pas, et
 elles se parlèrent à l'oreille. Puis elles gloussèrent et le
 dévisagèrent. 
 
-« Il est jeune et fort », fit l'une d'entre elles en se léchant la
-lèvre d'un air trop sensuel au goût du jeune homme. « À toutes trois il
-  nous donnera un baiser. »
+— Il est jeune et fort, fit l'une d'entre elles en se léchant la
+lèvre d'un air trop sensuel au goût du jeune homme. À toutes trois il
+  nous donnera un baiser.
 
 Le jeune homme écarquilla les yeux d'un air horrifié, attrapa un
 coussin, l'envoya à la figure de celle qui avait prononcé la phrase
@@ -357,7 +363,7 @@ et se fraya un passage à travers les femmes.
 Alors qu'il sortait de la pièce, il faillit percuter le comte d'Ekul,
 qui, lui, désirait apparemment y entrer. 
 
-« Vous l'avez touché ? demanda-t-il aux femmes, furieux.
+— Vous l'avez touché ? demanda-t-il aux femmes, furieux.
 
 — Non, expliqua William, mais il s'en est fallu de peu. 
 
@@ -378,7 +384,7 @@ des *beaux* gars.
 — Oh, lâcha Ekul d'un air rassuré. Bien. Avez-vous mangé ? 
 
 — Non, d'ailleurs, si vous pouviez me montrer sur un plan où se
-trouve le salon... »
+trouve le salon...
 
 
 *****
@@ -390,7 +396,7 @@ Ensuite, il suivit la jeune femme pour commencer à peindre son
 portrait. Elle posa de manière très conventionnelle, mais eut
 simplement une requête étrange : 
 
-« Je pose à l'intérieur, expliqua-t-elle, mais est-ce que vous
+— Je pose à l'intérieur, expliqua-t-elle, mais est-ce que vous
   pourriez dessiner un ciel bleu derrière moi ? 
 
 — Bien sûr. Ou un coucher de soleil, ce serait plus joli, non ?
@@ -408,8 +414,9 @@ reculé...
 — Il faut voir le bon côté des choses. Les paysages sont
 magnifiques. Je vais vous peindre devant un superbe décor.
 
-— Mouais », lâcha la jeune femme, qui ne paraissait pas très
-convaincue.
+— Mouais, lâcha la jeune femme.
+
+Elle ne paraissait pas très convaincue.
 
 
 
@@ -417,12 +424,13 @@ convaincue.
 
 William termina la première ébauche du tableau à peine avant l'aube.
 
-« C'est magnifique », commenta Carimall en se voyant représentée
-devant un ciel trop bleu pour être vrai. « J'aimerais tellement
+— C'est magnifique, commenta Carimall en se voyant représentée
+devant un ciel trop bleu pour être vrai. J'aimerais tellement
   pouvoir   sortir sous un tel soleil... 
 
-— As-tu essayé ? demanda le peintre, qui s'était mis à la tutoyer
-dans le courant de la nuit.
+— As-tu essayé ? demanda le peintre.
+
+Il s'était mis à la tutoyer dans le courant de la nuit.
 
 — Ne dis pas de bêtise, répliqua sèchement la jeune femme en lui
 tournant le dos. Je... je ne peux pas sortir en plein jour. Ça me
@@ -443,12 +451,12 @@ eux.
 — Tu pleures ? demanda l'artiste en posant sa main sur l'épaule de
   la jeune femme.
 
-— Non », répondit cette dernière en se retournant, ignorant la larme
+— Non, répondit cette dernière en se retournant, ignorant la larme
 de sang qui avait coulé sur sa joue. 
 
-« Écoute, expliqua William en l'essuyant avec son doigt. Je ne
+— Écoute, expliqua William en l'essuyant avec son doigt. Je ne
   connais pas vos voisins, mais le monde est grand. Et il est plus
-  beau à voir le jour. »
+  beau à voir le jour.
 
 Carimall sourit et saisit le poignet du jeune homme, qui fit une moue
 mi-horrifiée, mi-interrogative tandis qu'elle léchait la larme rouge
@@ -462,7 +470,7 @@ plaisait beaucoup à William, surtout vu d'une des tours du château.
 La vue plaisait beaucoup moins à Carimall, qui se tenait à l'abri du
 soleil derrière le renfoncement de la porte. 
 
-« Je... je ne peux pas...
+— Je... je ne peux pas...
 
 — Bien sûr que si, répliqua William en lui attrapant la main. C'est
 dans la tête. Je suis avec toi, d'accord ?
@@ -473,7 +481,7 @@ dans la tête. Je suis avec toi, d'accord ?
 
 — Ce n'est pas une bonne idée. S'il te plaît... 
 
-— Ferme les yeux », répéta le peintre.
+— Ferme les yeux, répéta le peintre.
 
 La jeune femme obéit et abaissa ses paupières, pendant que l'artiste
 la tirait vers la lumière.
@@ -498,7 +506,7 @@ Il réalisa alors que sa fille n'était pas là et en fut contrarié.
 ***** 
 
 
-« C'est... magnifique... »
+— C'est... magnifique...
 
 Carimall était ébahie par le lever de soleil auquel elle n'avait pour
 l'heure jamais eu droit. 
@@ -507,13 +515,14 @@ William la regardait, un peu moins inquiet que quelques minutes plus
 tôt. Elle avait toujours le visage rouge, mais il n'y avait plus de
 fumée et la brûlure n'avait l'air que superficielle. 
 
-« Merci », fit-elle en serrant plus fort la main du jeune homme
-qu'elle tenait toujours. 
+— Merci, fit-elle.
 
-Il y eut alors un moment magique tandis qu'ils restaient silencieux,
+Elle serra plus fort la main du jeune homme
+qu'elle tenait toujours. Il y eut alors un moment magique tandis
+qu'ils restaient silencieux, 
 contemplant le paysage qui s'ensoleillait peu à peu. 
 
-« Tu sais, commença finalement Carimall, j'ai eu pas mal de
+— Tu sais, commença finalement Carimall, j'ai eu pas mal de
   changements dans ma vie ces derniers temps. 
 
 — Je sais, répondit William en se tournant vers elle. Ça ne doit pas
@@ -528,20 +537,21 @@ monstre ?
 
 — Je m'en moque. Ce n'est pas ça qui...
 
-— Bordel de dieu d'artiste débile ! » éructa soudainement le comte,
-derrière eux, protégé du soleil par le battant de la porte.
+— Bordel de dieu d'artiste débile ! éructa soudainement le comte.
 
-« Hum, fit William. Peut-être que tu ferais mieux de rentrer.
+William se retourna et réalisa qu'il se tenait derrière eux, protégé
+du soleil par le battant de la porte. 
 
-— Oui. On poursuivra cette discussion ce soir. »
+— Hum, fit William. Peut-être que tu ferais mieux de rentrer.
+
+— Oui. On poursuivra cette discussion ce soir.
 
 Le peintre regarda la jeune femme rentrer vers l'ombre protectrice du
 château, puis fit de même quelques instants plus tard.
-
 Il fut alors plaqué contre le mur par le comte, qui commença à lui
 serrer la gorge.
 
-« Je devrais vous tuer, espèce de crétin !
+— Je devrais vous tuer, espèce de crétin !
 
 — Vous dites ça sur.... le coup de la colère, comte.
 
@@ -553,20 +563,23 @@ serrer la gorge.
 
 — Vous... réalisez... peux... pas... respirer ?
 
-— Vous n'avez aucune idée de ce qu'elle est », répéta Ekul, plus doucement, en
-relâchant le peintre. Wililam s'écroula par terre. « Si vous lui
-  faites du mal, croyez-moi, je vous le ferai payer cher. »
+— Vous n'avez aucune idée de ce qu'elle est, répéta Ekul, plus
+doucement.
+
+Il relâcha le peintre. William s'écroula par terre.
+
+— Si vous lui faites du mal, reprit Ekul, croyez-moi, je vous le ferai payer cher.
 
 Le jeune homme essaya péniblement de reprendre sa respiration pendant que
 son hôte s'éloignait.
 
-« Il a de la poigne, ce type, remarqua Angèle alors qu'il se
+— Il a de la poigne, ce type, remarqua Angèle alors qu'il se
   relevait.
 
 — Ouais. 
 
 — « Vous n'avez aucune idée ce qu'elle est », répéta
-l'hallucination. Non mais tu l'as entendu ?
+l'hallucination. Non mais, tu l'as entendu ?
 
 — Ouais.
 
@@ -581,26 +594,26 @@ mal vu si je ne faisais pas celui qui ne sait pas.
 voir que tu fais semblant de ne pas voir qu'elle est une vampire.
 
 — Je ne sais pas, répliqua William, mais je crois que je vais aller
-me coucher. Tes raisonnements me filent mal au crâne. »
+me coucher. Tes raisonnements me filent mal au crâne.
 
 
 
 *****
 
-« Will ? » fit Angèle.
+Will ? fit Angèle.
 
 Le jeune homme ouvrit un œil, grimaça, et le referma.
 
-« Will !
+— Will !
 
 — Hmmmpf ? Quoi ?
 
 — Tu devrais te lever et descendre dans le hall d'entrée. 
 
-— Hmmm, hmmm », acquiesça machinalement le jeune homme, avant de demander : « Pourquoi ?
+— Hmmm, hmmm, acquiesça machinalement le jeune homme. Pourquoi ?
 
 — Parce que, si mes calculs sont justes, ça devrait être la guerre
-d'ici approximativement trente secondes. »
+d'ici approximativement trente secondes.
 
 *****
 
@@ -631,7 +644,9 @@ trois assaillants, dont celui qui paraissait être leur chef au vu de
 sa magnifique cape blanche, les habitants du château semblaient
 effrayés. 
 
-« Fuis ! » lança le comte à Carimall, avant de se jeter en hurlant
+— Fuis ! lança le comte à Carimall.
+
+Il se jeta en hurlant
 sur un des hommes. Mais celui-ci parvint à plonger un pieu dans son
 corps et Ekul s'écroula, pendant que sa fille prenait la fuite, suivie
 des trois femmes que William avait croisées la veille.
@@ -640,50 +655,52 @@ Le soldat n'eut cependant pas le temps de se glorifier de son acte,
 puisqu'il reçut un carreau en pleine tête et mourut aussitôt. Les
 regards des deux hommes restants se tournèrent vers le peintre.
 
-« Qu'avez-vous fait, sombre idiot ? hurla le chef pendant que le
-  peintre rechargeait son arme. Nous sommes de l'inquisition, venus
-  vous sauver de ces monstres buveurs de sang !
+— Qu'avez-vous fait, sombre idiot ? hurla le chef pendant que le
+peintre rechargeait son arme. Nous sommes de l'inquisition, venus
+vous sauver de ces monstres buveurs de sang !
 
-  — Vraiment ?
+— Vraiment ?
 
-  — Évidemment ! Ce sont des...
+— Évidemment ! Ce sont des...
 
-  — ...vampires ? », demanda William en envoyant en souriant un
-nouveau carreau dans la tête du soldat le moins gradé. « Il aurait
-  fallu   que je sois aveugle pour ne pas le réaliser plus tôt.
+— ...vampires ?, demanda William.
 
-  — Impie ! Hérétique ! » hurla l'inquisiteur en dégainant son épée
-et en chargeant.
+Il envoya en souriant un
+nouveau carreau dans la tête du soldat le moins gradé.
 
-Le jeune homme lâcha son arbalète devenue inutile et parvint de
+— Il aurait fallu que je sois aveugle pour ne pas le réaliser plus tôt.
+
+— Impie ! Hérétique ! hurla l'inquisiteur.
+
+Il dégaina son épée et chargea. Le jeune homme lâcha son arbalète devenue inutile et parvint de
 justesse à ramasser une épée sur un cadavre pour parer le coup. 
 
-« Je suis l'évêque Cromwey ! hurla l'homme entre deux passes
-  d'armes. Prépare-toi à mourir ! »
+— Je suis l'évêque Cromwey ! hurla l'homme entre deux passes
+  d'armes. Prépare-toi à mourir !
 
 William se baissa juste à temps pour éviter la lame, envoya un
 coup de pied dans les tibias de son adversaire et se précipita dans
 les escaliers en colimaçon. 
 
-« Je crois que tu aurais dû arrêter le tabac », commenta Angèle tandis
-  que le jeune homme s'épuisait en courant dans les escaliers. 
+— Je crois que tu aurais dû arrêter le tabac, commenta Angèle.
 
-Heureusement pour William, l'évêque n'avait pas un meilleur souffle
-que lui et il commença à perdre du terrain à partir du quatrième
+William, en effet, s'épuisait en courant dans les
+escaliers. Heureusement pour lui, l'évêque n'avait pas un meilleur
+souffle que lui et il commença à perdre du terrain à partir du quatrième
 étage.
 
-« Au fait, demanda l'hallucination, tu sais où tu
+— Au fait, demanda l'hallucination, tu sais où tu
   vas ?
 
-— Évidemment... pfff... que... pfff... non... » grommela le jeune
+— Évidemment... pfff... que... pfff... non... grommela le jeune
 homme en continuant à grimper.
 
 Il comprit la remarque perfide d'Angèle lorsqu'il ouvrit la porte qui
 le bloquait d'un coup de pied rageur et réalisa qu'il se trouvait au
 sommet d'une tour. 
 
-« Il faut voir le bon côté des choses, fit la femme imaginaire. Le
-  paysage est magnifique. Il va te tuer devant un superbe décor. »
+— Il faut voir le bon côté des choses, fit la femme imaginaire. Le
+  paysage est magnifique. Il va te tuer devant un superbe décor.
 
 William eut à peine le temps de se retourner et de bloquer
 l'épée de l'évêque, qui paraissait au contraire rasséréné par un tel
@@ -694,7 +711,7 @@ cause de leur épuisement, avant que d'un geste bien placé
 l'inquisiteur ne désarme son adversaire. Le peintre regarda son épée
 tomber dans le ravin que surplombait le château et déglutit.
 
-« Pourquoi t'es tu donc allié avec ces misérables créatures ? 
+— Pourquoi t'es tu donc allié avec ces misérables créatures ? 
 
 — Carimall est sympathique, expliqua William. Qu'est-ce qu'elle a
 fait de mal ? On ne choisit pas ses parents.
@@ -717,7 +734,7 @@ aux ordures de votre espèce.
 — Alors, tu iras en Enfer.
 
 — J'aime autant, répliqua le jeune homme en souriant. Votre Ciel est
-beaucoup trop hétérosexuel pour moi. »
+beaucoup trop hétérosexuel pour moi.
 
 Il se lança alors sur son adversaire et la lame lui transperça le
 cœur. Mais il continua à sourire et bascula par dessus le muret.
@@ -731,13 +748,13 @@ Il allait remonter lorsqu'il réalisa que quelqu'un s'était mis debout
 sur le muret. Levant la tête, il aperçut une femme aux jambes d'autant
 plus impressionnantes qu'il était situé en dessous.
 
-« C'est les chaussures à talon, expliqua Carimall en apercevant
-  son regard. Ça fait de longues jambes. Et ça a un autre intérêt... »
+— C'est les chaussures à talon, expliqua Carimall en apercevant
+son regard. Ça fait de longues jambes. Et ça a un autre intérêt...
 
 Elle le lui démontra en lui enfonçant sa chaussure dans la main. Puis,
 après que l'évêque eut chuté en hurlant, elle ajouta : 
 
-« Ouais, je sais. Avec ça, je suis une tombeuse d'hommes. »
+— Ouais, je sais. Avec ça, je suis une tombeuse d'hommes.
 
 
 *****
@@ -752,15 +769,15 @@ secondes il crut qu'on lui avait injecté de la lave dans la bouche.
 
 Ensuite, il réalisa que ce n'était que du sang. 
 
-« Ah, tu te réveilles, lança Carimall.
+— Ah, tu te réveilles, lança Carimall.
 
-— Aaargl », fit William.
+— Aaargl, fit William.
 
 La jeune femme retira le poignet qu'elle s'était ouvert et
 lança un sourire charmeur au nouveau vampire.
 
-« Je sais, ça fait un peu mal. Mais ce n'est qu'une fois pour
-  l'éternité. 
+— Je sais, ça fait un peu mal. Mais ce n'est qu'une fois pour
+l'éternité. 
 
 — Urgl, lâcha William en essayant de s'assoir. 
 
@@ -784,22 +801,23 @@ compris...
 — Non. Tu parlais de quoi, alors ?
 
 — Je suis née vampire, reprit Carimall. Par contre je n'étais pas
-    une petite fille. »
+une petite fille.
     
 William écarquilla les yeux de surprise.
 
-« Quoi ? s'exclama-t-il. Tu veux dire qu'il y a des bébés vampires ?
+— Quoi ? s'exclama-t-il. Tu veux dire qu'il y a des bébés vampires ?
 Je croyais que c'était, tu sais ? On ne naît pas vampire, on *meurt* vampire.
 
 — Pas tout le temps, répondit Carimall. Ce que te disais ce
- matin... »
+ matin...
  
 Elle approcha son visage de celui du nouveau vampire.
 
-« Quoi ? » demanda William, vaguement dégoûté, en ignorant l'hilarité
-de son amie imaginaire.
+— Quoi ? demanda William, vaguement dégoûté.
 
-« Tu disais que ce que j'étais réellement n'avait pas
+Il ignora l'hilarité de son amie imaginaire.
+
+— Tu disais que ce que j'étais réellement n'avait pas
 d'importance...
 
 — Euh, ouais, répliqua William en repoussant doucement la jeune femme. Je
@@ -812,7 +830,7 @@ les filles.
 cigarette. Mais, de toute façon, sans être très à cheval sur la
 morale, ça n'aurait pas été un peu, euh, incestueux ? Je veux dire,
 t'es comme, genre, ma mère 
-vampirique, non ? » 
+vampirique, non ?
 
 
 
@@ -841,8 +859,10 @@ un voyage.
 Comme quoi, décida le vampire, il ne fallait jamais négliger les
 vertus d'un simple sourire.
 
-« Ça va ? » demanda-t-il à Carimall, qui regardait par la fenêtre la
-  silhouette du château disparaître.
+— Ça va ? demanda-t-il à Carimall.
+
+Celle-ci regardait par la fenêtre la silhouette du château
+disparaître.
 
 Même s'il n'y aurait pas de belle et éternelle histoire d'amour entre
 eux, il l'avait convaincue de l'accompagner, au moins pendant un
@@ -852,7 +872,7 @@ cercueil à fuir les rayons du soleil.
 Enfin, techniquement, elle pouvait. Mais le jeune homme voulait lui
 montrer qu'elle pouvait aussi faire autrement.
 
-« Je crois que ça va aller, répondit-elle en souriant. J'ai juste
+— Je crois que ça va aller, répondit-elle en souriant. J'ai juste
   un peu peur.
 
 — J'imagine. Tu voulais aller quelque part en particulier ?
@@ -868,7 +888,7 @@ tout le monde ne t'accepte pas comme tu es.
 l'intolérance ?
 
 — Oh, non, répliqua Carimall en souriant. Je veux dire que j'ai
-récupéré son arbalète et son épée. »
+récupéré son arbalète et son épée.
 
 William hocha la tête et décida que le comte avait sans doute eu tort
 de s'inquiéter pour l'avenir de sa fille. Elle n'avait peut-être

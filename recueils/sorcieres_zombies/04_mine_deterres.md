@@ -34,12 +34,12 @@ trop. Avec ce genre d'accessoires, il devait venir de la capitale.
 Elle s'avança de deux pas et porta la main à son casque pour saluer
 les deux individus.
 
-« Bonsoir, Messieurs-dames. 
+— Bonsoir, Messieurs-dames. 
 
 — 'soir, lança le grand type. Un problème ?
 
 — La ville est actuellement... en quarantaine. À votre place, je
-passerais mon chemin. »
+passerais mon chemin.
 
 Le gaillard jeta un coup d'œil rapide à la femme qui
 l'accompagnait, puis retira ses lunettes et plongea ses yeux dans ceux
@@ -47,7 +47,7 @@ de Leslie. Ou plus exactement, plongea son œil unique dans ceux de
 Leslie, puisque celui qui se 
 trouvait sur le chemin de la balafre était manifestement mort. 
 
-« En quarantaine ? demanda-t-il finalement. Pourquoi ?
+— En quarantaine ? demanda-t-il finalement. Pourquoi ?
 
 — Morts-vivants. Je veux bien vous laisser rentrer, mais vous
 ne pourrez pas sortir avant que ce soit réglé. Alors, à
@@ -60,13 +60,13 @@ vous le voulez bien.
 
 — Raymond D'Arc, répondit l'homme. 
 
-— Anya Volk, fit la femme. Avec un K. »
+— Anya Volk, fit la femme. Avec un K.
 
 Le sergent Leslie nota scrupuleusement les noms des deux étrangers.
 
-« Et vous venez pour... ?
+— Et vous venez pour... ?
 
-— On prend des vacances. »
+— On prend des vacances.
 
 La garde les laissa entrer, bien qu'elle n'en croyait pas un mot. 
 
@@ -92,7 +92,7 @@ assis seul à une table et avait déjà entamé une bière.
 Raymond se laissa tomber sur une chaise en face de lui et tendit
 une de ses énormes mains en guise de salut. 
 
-« Vous êtes André, je suppose ?
+— Vous êtes André, je suppose ?
 
 — Oui, fit l'homme aux cheveux gris. C'est moi qui vous ai écrit. Je
 vous suis très reconnaissant d'avoir accepté notre offre, monsieur
@@ -102,7 +102,7 @@ D'Arc.
 
 — Hein ?
 
-— Tout le monde m'appelle Ray », expliqua le géant en allumant une
+— Tout le monde m'appelle Ray, expliqua le géant en allumant une
 cigarette. 
 
 Les deux hommes échangèrent des banalités pendant quelques minutes en
@@ -121,24 +121,24 @@ Un des voisins des deux hommes demanda d'une voix assez forte, destinée à se
 faire entendre de l'intéressée tout en ne lui étant pas directement
 destinée :
 
-« Hey, les gars, c'est un homme ou une femme ? »
+— Hey, les gars, c'est un homme ou une femme ?
 
 Ray se tourna vers l'individu, arbora un sourire désagréable et lui
 répondit avec un regard menaçant : 
 
-« Si tu continues comme ça, elle pourrait bien être ton pire
-cauchemar, mon pote. »
+— Si tu continues comme ça, elle pourrait bien être ton pire
+cauchemar, mon pote.
 
 L'homme détourna le regard et le ramena vers sa bière. Face à Ray, le
 niveau d'audace de la plupart des gens diminuait drastiquement.
 
-« Tu sais », lança joyeusement Anya en tirant une chaise et en
-s'asseyant à côté de son collègue, « je suis capable de répondre toute seule.
+— Tu sais, lança joyeusement Anya en tirant une chaise et en
+s'asseyant à côté de son collègue, je suis capable de répondre toute seule.
 
 — Tu n'es jamais contente, de toute façon.
 
-— Je suppose que tu as raison. Enchantée, au fait », ajouta-t-elle en prenant
-conscience de la présence d'André. « Anya Volk.
+— Je suppose que tu as raison. Enchantée, au fait, ajouta-t-elle en prenant
+conscience de la présence d'André. Anya Volk.
 
 — André Léger. Enchanté aussi, quoique ce soit un
 peu... inattendu...
@@ -149,7 +149,7 @@ pas, ça change rien aux tarifs. »
 André ne répondit rien, mais il était clair, vu son expression, que
 les tarifs n'étaient pas ce qui lui posait le plus problème.
 
-« Si vous nous expliquiez la situation ? demanda la jeune femme.
+— Si vous nous expliquiez la situation ? demanda la jeune femme.
 
 — Il y a trois mois, la mine... elle 
   s'est effondrée. Probablement à cause d'un attentat.
@@ -159,22 +159,22 @@ les tarifs n'étaient pas ce qui lui posait le plus problème.
 — Oui. Il faut savoir qu'il y avait eu une grève, un peu avant. Le
 travail venait de reprendre.
 
-— Quelles étaient les raisons de la grève ? » demanda Anya.
+— Quelles étaient les raisons de la grève ? demanda Anya.
 
 André soupira. Il n'aimait pas être interrompu et encore moins par une
 femme qui essayait de tenir son pichet de bière d'un air raffiné mais
 n'arrivait qu'à paraître encore plus vulgaire.
 
-« À cause des conditions de travail. On pensait que
+— À cause des conditions de travail. On pensait que
 c'était dangereux. Quand il y a eu l'explosion, sur les trois cents
 mineurs, une cinquantaine est restée prise au piège. Ils ne sont
-jamais ressortis. » 
+jamais ressortis.
 
 André s'arrêta quelques secondes, ému et au bord des
 larmes. C'était des collègues avec qui il avait
 travaillé. 
 
-« Tenez, fit la jeune femme en lui tendant un mouchoir en
+— Tenez, fit la jeune femme en lui tendant un mouchoir en
   dentelle. 
 
 — Merci.
@@ -196,25 +196,25 @@ aurait été plutôt pour faire sauter Maugeais et Maurice.
 — Les propriétaires de la mine. 
 
 — Ça paraît logique, admit Anya. Pends ton patron, t'auras son
-pognon. »
+pognon.
 
 Ray jeta un regard surpris à sa collaboratrice.
 
-« Je suis pas sûr que j'ai bien fait de te recruter...
+— Je suis pas sûr que j'ai bien fait de te recruter...
 
 — Ne t'en fais pas, répliqua la jeune femme avec un sourire. On est
-partenaires, à niveau égal. C'est pas comme si t'étais vraiment mon patron. »
+partenaires, à niveau égal. C'est pas comme si t'étais vraiment mon patron.
 
 
 *****
 
-« T'en penses quoi ? » demanda Ray lorsqu'ils sortirent de la
+— T'en penses quoi ? demanda Ray lorsqu'ils sortirent de la
   taverne.
 
 Il remit ses lunettes de soleil, malgré le fait qu'il faisait presque
 nuit.
 
-« Pour l'instant ? demanda Anya. Pas grand-chose. 
+— Pour l'instant ? demanda Anya. Pas grand-chose. 
 
 — Ouais. Écoute, commença le colosse avec un air gêné, je me disais,
 pour voir les gars du syndicat, demain...
@@ -222,8 +222,7 @@ pour voir les gars du syndicat, demain...
 — Oui ? 
 
 — Peut-être que ça serait plus pratique si tu venais... enfin, pas
-    avec l'apparence que tu as maintenant, tu vois ce que je veux dire
-    ?
+  avec l'apparence que tu as maintenant, tu vois ce que je veux dire ?
     
 — Quoi ? s'étouffa la jeune femme.
 
@@ -233,7 +232,7 @@ maintenant. Pour l'enquête, tu sais ?
 — Tu sais très bien que je n'aime pas l'autre option. Je ne me
 sens pas moi-même quand je ne suis pas...
 
-— Ouais, ouais, soupira Ray. Comme tu veux. »
+— Ouais, ouais, soupira Ray. Comme tu veux.
 
 Le colosse avait du mal à comprendre sa collègue. Elle disait détester
 cette partie d'elle-même, et pourtant elle ne faisait aucun effort
@@ -243,24 +242,26 @@ comprenait vaguement qu'elle refusait de se laisser imposer ce à quoi
 une femme devait ressembler, mais il trouvait qu'elle aurait parfois
 pu accepter de se simplifier la vie.
 
-« Encore heureux, que ce soit comme je veux. Sinon, cette histoire de
+— Encore heureux, que ce soit comme je veux. Sinon, cette histoire de
 morts-vivants... 
 
 — C'est vrai que c'est... imprévu.
 
 — On demandera des informations à l'auberge, proposa la jeune
-femme. D'ailleurs, on est arrivés. » 
+femme. D'ailleurs, on est arrivés.
 
 Ray examina le bâtiment quelques secondes. Ça ne payait pas de mine,
 mais ça avait l'avantage de ne pas être trop cher. Le détective
 haussa les épaules et entra à la suite de son amie.
 
-« Bonsoir, Mademoiselle ! Bonsoir, Monsieur ! » les salua
-l'aubergiste lorsqu'ils entrèrent. Il s'agissait d'une jeune femme
+— Bonsoir, Mademoiselle ! Bonsoir, Monsieur ! les salua
+l'aubergiste lorsqu'ils entrèrent.
+
+Il s'agissait d'une jeune femme
 plutôt large qui était présentement occupée à passer le balai dans la
 salle à manger.
 
-« Re-bonsoir, Sylvie, répondit Anya.
+— Re-bonsoir, Sylvie, répondit Anya.
 
 — « Sylvie » ? Vous avez déjà fait connaissance ?
 
@@ -270,31 +271,31 @@ salle à manger.
 mieux que tu le sois pour deux, j'suppose. 
 
 — Dis-moi, fit Anya en se tournant vers l'aubergiste, tu es au
-courant de cette histoire de morts-vivants ? »
+courant de cette histoire de morts-vivants ?
 
 Sylvie posa son balai contre un mur, puis haussa les épaules,
 choisissant manifestement ses mots.
 
-« Non... Je veux dire, je sais ce que tout le monde sait. Le
+— Non... Je veux dire, je sais ce que tout le monde sait. Le
   bourgmestre a ordonné qu'on ferme les accès à la ville. Mais...
 
 — Il y a eu des morts étranges ?
 
 — Vous êtes de la garde ? demanda Sylvie en souriant. 
 
-— On en a la gueule ? » répliqua Ray.
+— On en a la gueule ? répliqua Ray.
 
 La jeune femme fut un peu surprise par la remarque du colosse, qu'elle
 trouva agressive ; mais l'homme avait un petit sourire qui semblait
 indiquer qu'il s'agissait plutôt d'une tentative malheureuse d'humour.
 
-« Nous sommes détectives, expliqua Anya sur un ton beaucoup plus
-  doux. On enquête sur l'explosion de la mine. »
+— Nous sommes détectives, expliqua Anya sur un ton beaucoup plus
+  doux. On enquête sur l'explosion de la mine.
 
 L'aubergiste grimaça. Elle n'avait manifestement pas envie de parler
 de ce sujet. 
 
-« C'est un sujet sensible ? demanda l'enquêtrice.
+— C'est un sujet sensible ? demanda l'enquêtrice.
 
 — Mon père... est resté là-dessous.
 
@@ -302,22 +303,22 @@ de ce sujet.
 
 — De toute façon, ils ont déjà décidé des coupables...
 
-— Tu crois que c'est eux ? »
+— Tu crois que c'est eux ?
 
 Sylvie haussa les épaules.
 
-« Je ne sais pas. Écoutez, mademoiselle Volk, à part mon père
+— Je ne sais pas. Écoutez, mademoiselle Volk, à part mon père
   et un ou deux de ses amis, je ne connaissais pas vraiment les
   mineurs. Mais...
 
 — Mais ? l'encouragea Anya.
 
 — Cette mine, c'était tout ce qui leur permettait de vivre. Pourquoi
-ils auraient voulu la faire sauter ? »
+ils auraient voulu la faire sauter ?
 
 *****
 
-« Mademoiselle Volk ? »
+— Mademoiselle Volk ?
 
 Anya sortit de son demi-sommeil et ouvrit les yeux. Elle était dans
 une baignoire à moitié remplie, il était huit
@@ -326,63 +327,63 @@ décida-t-elle, qu'il y ait cette enquête à résoudre et ces histoires
 de morts-vivants. Elle aurait préféré qu'il se soit vraiment agi de
 vacances. 
 
-« Oui, Sylvie ? 
+— Oui, Sylvie ? 
 
 — Je peux entrer ? Je vous apporte plus d'eau chaude.
 
-— Tu peux entrer. »
+— Tu peux entrer.
 
 Sylvie ouvrit la porte et aperçut le dos nu de la détective. Lorsqu'elle se
 retourna, cette dernière vit que l'aubergiste était restée figée, le
 visage blême.
 
-« Oups. J'avais oublié le tatouage. »
+— Oups. J'avais oublié le tatouage.
 
 
 *****
 
-« Alors », commença Sylvie en s'asseyant en face d'Anya dans la salle
-à manger. « Vous êtes une sorcière ? »
+— Alors, commença Sylvie en s'asseyant en face d'Anya dans la salle
+à manger. Vous êtes une sorcière ?
 
 La détective termina de mâcher le morceau de tartine qu'elle avait
 dans la bouche avant de répondre.
 
-« Je ne sais pas. Vous appréciez les sorcières, dans le coin ?
+— Je ne sais pas. Vous appréciez les sorcières, dans le coin ?
 
 — Pas vraiment, Mademoiselle. On dit qu'elles invoquent le diable et
 font... des choses. 
 
 — Des choses ?
 
-— Ben... du genre, sexuelles. Dans les bois, vous savez ? »
+— Ben... du genre, sexuelles. Dans les bois, vous savez ?
 
 Anya se tourna vers l'aubergiste avec un petit sourire.
 
-« À titre personnel, je préfère faire ça dans un lit. »
+— À titre personnel, je préfère faire ça dans un lit.
 
 Sylvie baissa les yeux d'un air timide, pendant que la sorcière
 continuait.
 
-« Le tatouage que j'ai dans le dos est une sorte de protection. Je
+— Le tatouage que j'ai dans le dos est une sorte de protection. Je
   sais que le pentacle a une mauvaise image, mais c'est juste ça. Une
   protection. 
 
-— Alors vous n'invoquez pas de... démon ? »
+— Alors vous n'invoquez pas de... démon ?
 
 Anya secoua la tête et regarda les escaliers qui menaient aux
 chambres.
 
-« Je n'arrive déjà pas à invoquer Ray, fit-elle en écartant les
+— Je n'arrive déjà pas à invoquer Ray, fit-elle en écartant les
   mains en signe d'impuissance.
 
 — Je suis désolée, s'excusa Sylvie en baissant la tête. Je croyais que
 les sorcières étaient maléfiques et... vous savez, ce genre de
-choses. Mais vous avez l'air d'être une fille bien. »
+choses. Mais vous avez l'air d'être une fille bien.
 
 La détective regarda son interlocutrice en terminant sa tartine, puis
 elle haussa les épaules.
 
-« Ça dépend ce que t'appelles « fille bien », je suppose. »
+— Ça dépend ce que t'appelles « fille bien », je suppose.
 
 
 *****
@@ -417,8 +418,8 @@ concentra plutôt sur les archives qu'André avait apportées concernant
 la mine et le syndicat. Les informations lui semblaient plus 
 intéressantes que tous les témoignages expliquant à quel point Grégoire et Maximilien étaient innocents.
 
-« S'ils sont blancs comme neige, demanda-t-elle soudainement,
-  pourquoi est-ce qu'ils ont été arrêtés ? »
+— S'ils sont blancs comme neige, demanda-t-elle soudainement,
+  pourquoi est-ce qu'ils ont été arrêtés ?
 
 C'était peut-être la façon de poser la question, mais les réactions
 qu'elle obtint furent plutôt agressives. Qui était-elle pour poser
@@ -432,18 +433,18 @@ apprendre ce qui s'était passé.
 
 *****
 
-« Monsieur Maugeais ? » demanda la secrétaire en entrant dans le
+— Monsieur Maugeais ? demanda la secrétaire en entrant dans le
   bureau de son chef.
 
 Celui-ci était un homme d'une soixantaine d'années qui
 portait une moustache blanche élégante. 
 
-« Qu'y a-t-il, Isabelle ? J'avais demandé qu'on ne me dérange
-  pas. »
+— Qu'y a-t-il, Isabelle ? J'avais demandé qu'on ne me dérange
+  pas.
 
 La secrétaire grimaça, manifestement embarrassée. 
 
-« Il y a cette femme... enfin... 
+— Il y a cette femme... enfin... 
 
 — Je crois qu'elle parle de moi, expliqua Anya en entrant dans la
 pièce. Ça vous gêne si je m'assoie ?
@@ -451,56 +452,56 @@ pièce. Ça vous gêne si je m'assoie ?
 — Qui êtes vous ? demanda monsieur Maugeais d'un air furieux. Sortez
 d'ici immédiatement !
 
-— Je m'appelle Volk », répondit la détective en tirant une chaise et
-en s'asseyant. « Anya Volk. Avec un K. Je mène une enquête sur
+— Je m'appelle Volk, répondit la détective en tirant une chaise et
+en s'asseyant. Anya Volk. Avec un K. Je mène une enquête sur
   l'effondrement de votre mine.
 
-— Une enquête ? » demanda le propriétaire avec un air
+— Une enquête ? demanda le propriétaire avec un air
 dédaigneux, pendant que la secrétaire sortait du
-bureau. « Voyez-vous ça...
+bureau. Voyez-vous ça...
 
 — J'ai deux questions pour vous.
 
 — *Moi*, j'ai une question pour vous. Vous préférez partir seule ou
 vous faire mettre dehors par la sécurité ?
 
-— S'il vous plaît ? » demanda Anya sur un ton doux, avec un regard
-enjôleur. « Les 
+— S'il vous plaît ? demanda Anya sur un ton doux, avec un regard
+enjôleur. Les 
 mineurs n'ont pas voulu répondre à celle-là. Pourquoi Maximilien et
 Grégoire auraient fait sauter la mine ? C'était leur
-gagne-pain. C'était leurs collègues. »  
+gagne-pain. C'était leurs collègues.
 
 Le propriétaire soupira, puis s'assit en face de la jeune femme en
 secouant la tête.
 
-« Je vais vous le dire. C'était les meneurs de la grève. Ils
+— Je vais vous le dire. C'était les meneurs de la grève. Ils
   voulaient empêcher les « jaunes » de reprendre le
   travail. C'était une question de principe. Pour ne pas perdre la face.
 
-— Oh, fit Anya. Je vois. Des anarchistes. »
+— Oh, fit Anya. Je vois. Des anarchistes.
 
 Maugeais esquissa un sourire. L'arrivée de la jeune femme avait été
 quelque peu intrusive, mais l'enquêtrice ne partait peut-être pas sur
 de trop mauvaises bases, finalement. 
 
-« J'ai une autre question. Après, je vous laisse tranquille.
+— J'ai une autre question. Après, je vous laisse tranquille.
 
 — Allez-y.
 
 — Dans combien de temps la mine aurait fermé ?
 
-— Pardon ? » 
+— Pardon ?
 
 Anya sortit la feuille où elle avait pris quelques notes et la regarda
 quelques secondes. 
 
-« Les gisements les plus accessibles commençaient à s'épuiser, monsieur
+— Les gisements les plus accessibles commençaient à s'épuiser, monsieur
   Maugeais. La mine n'était plus très rentable. Et avec les
-  conventions de travail que le syndicat avait réussi à négocier... »
+  conventions de travail que le syndicat avait réussi à négocier...
 
 Elle regarda ses notes quelques instants et siffla, admirative.
 
-« Les mineurs ont dû sacrément se mobiliser. J'aimerais bien
+— Les mineurs ont dû sacrément se mobiliser. J'aimerais bien
   avoir le même contrat. Surtout la partie sur le licenciement...
 
 — Où voulez-vous en venir ? aboya le propriétaire.
@@ -512,7 +513,7 @@ bien, non ?
 écouter les insinuations d'une dégénérée !
 
 — Ce ne sont pas des insinuations. Vous avez pu mettre fin à tous
-les contrats grâce à la clause sur le cas d'accident majeur. »
+les contrats grâce à la clause sur le cas d'accident majeur.
 
 La porte du bureau s'ouvrit sur un homme approximativement du même âge que
 Maugeais, peut-être un peu plus jeune. Il s'appuyait sur une canne,
@@ -520,13 +521,13 @@ mais Anya se demanda si c'était par besoin ou pour l'esthétique. En
 tout cas, elle
 devina qu'il devait s'agir de monsieur Maurice, son associé.
 
-« Isabelle m'a dit qu'il y avait un problème, Antoine ?
+— Isabelle m'a dit qu'il y avait un problème, Antoine ?
 
 — Cette... personne... allait s'en aller.
 
 — Mademoiselle », fit l'associé avec un sourire charmant en plongeant
 son regard dans celui d'Anya. « Nous sommes ravis de votre
-  visite. La sortie est la deuxième porte à droite. »
+  visite. La sortie est la deuxième porte à droite.
 
 La jeune femme se leva immédiatement, baissa légèrement la tête devant
 Maurice, puis obéit à son injonction implicite et quitta les lieux.
@@ -561,7 +562,7 @@ avait repris.
 
 Enfin, seulement quelques heures. Ensuite, il y avait eu l'explosion.
 
-« Y'a un truc que je pige pas, demanda Ray en fixant son verre de
+— Y'a un truc que je pige pas, demanda Ray en fixant son verre de
   bière. On peut vraiment faire sauter toute une mine comme ça ?
   Je veux dire, d'après ce que vous m'avez dit, elle est pas
   franchement petite... 
@@ -573,13 +574,13 @@ l'enquête. Elle dit que ça pourrait nuire à son bon déroulement.
 
 — Hum. 
 
-— Moi j'dis », fit un type plutôt petit qui avait beaucoup pris la
-parole pendant les discussions collectives, « la vérité c'est que
-  cette mine tourne toujours. »
+— Moi j'dis, fit un type plutôt petit qui avait beaucoup pris la
+parole pendant les discussions collectives, la vérité c'est que
+  cette mine tourne toujours.
 
 Ray lui jeta un regard interrogateur.
 
-« Tu veux dire quoi ?
+— Tu veux dire quoi ?
 
 — Les nains. Ils ont fait venir des nains. Ces types travaillent
 pour rien. Ça leur coûte moins cher. 
@@ -590,22 +591,22 @@ pour rien. Ça leur coûte moins cher.
 n'est pas le cas. Comment ils feraient sortir le minerai ? Et les
 hommes ?
 
-— Pas des hommes », répliqua Marc, toujours convaincu de sa
-théorie. « Des nains. Ils sortent pas, ces gars. »
+— Pas des hommes, répliqua Marc, toujours convaincu de sa
+théorie. Des nains. Ils sortent pas, ces gars.
 
 Ray secoua la tête en signe de dénégation.
 
-« T'as jamais vu de nains, mec. Si y'en avait
+— T'as jamais vu de nains, mec. Si y'en avait
 dans votre mine, y'en aurait un paquet en train de vider des pintes
-au comptoir.  
+au comptoir.
 
 — Les nains vivent sous la montagne, protesta Marc qui n'en
 démordait pas. Et pour faire sortir le minerai, ils les mettent dans
-des bateaux. Il y a une rivière souterraine. »
+des bateaux. Il y a une rivière souterraine.
 
 André leva les yeux au ciel.
 
-« C'est ridicule. »
+— C'est ridicule.
 
 Ray hocha très légèrement la tête. Il était plutôt d'accord avec
 l'avis du syndicaliste.
@@ -617,7 +618,7 @@ Après son entretien avec Maugeais, lorsqu'elle sortit dans la rue, la
 première réaction d'Anya fut de donner un coup de poing dans un mur en
 briques. 
 
-« Merde ! » lâcha-t-elle. 
+— Merde ! lâcha-t-elle. 
 
 Elle soupira en réalisant que ses longs ongles vernis avaient pénétré
 dans la paume de sa main et qu'elle saignait, mais la douleur la calma
@@ -633,42 +634,43 @@ Cela n'avait pas fonctionné, encore heureux, mais Anya avait dû faire
 semblant d'être sous l'effet du sort pour ne pas révéler qu'elle
 avait elle-même quelques capacités dans le domaine.
 
-« Putain de trouduc', râla-t-elle en s'allumant une cigarette. Je
+— Putain de trouduc', râla-t-elle en s'allumant une cigarette. Je
   lui ferai bouffer son sourire, à ce connard...
 
-— Monsieur Volk ? » fit une voix sur sa droite.
+— Monsieur Volk ? fit une voix sur sa droite.
 
 Anya se tourna et aperçut le sergent Leslie, accompagnée d'un autre
 garde plus grand qu'elle. 
 
-« *Mademoiselle* Volk, rectifia-t-elle sur un ton glacial.
+— *Mademoiselle* Volk, rectifia-t-elle sur un ton glacial.
 
 — Techniquement, je ne crois pas, non. Et la loi interdit à un homme
 de porter des vêtements de femme. Je vais vous demander de nous
-accompagner au poste, *monsieur* Volk. »
+accompagner au poste, *monsieur* Volk.
 
 Anya regarda le sergent Leslie d'un air
 incrédule.
 
-« Vous vous foutez de moi, hein ? »
+— Vous vous foutez de moi, hein ?
 
 
 *****
 
-« Alors, c'est ça, votre rivière souterraine ? » demanda Ray alors
-qu'André et lui arrivaient devant ce qui ressemblait à un cours d'eau
+— Alors, c'est ça, votre rivière souterraine ? demanda Ray.
+
+André et lui arrivaient devant ce qui ressemblait à un cours d'eau
 ordinaire. 
 
-« C'est la Nela. Là, elle n'est plus sous terre, évidemment, mais
+— C'est la Nela. Là, elle n'est plus sous terre, évidemment, mais
   elle prend sa source dans la montagne.
 
-— Et elle passe vraiment dans la mine ? » demanda l'enquêteur en
-retirant ses lourdes bottes.
+— Et elle passe vraiment dans la mine ? demanda l'enquêteur.
 
+Il retira ses lourdes bottes. 
 André le regarda mettre ses pieds dans l'eau, un peu incrédule devant la
 vision du géant patibulaire qui barbotait joyeusement.
 
-« *Sous* la mine, plus exactement. C'est pour ça qu'on ne
+— *Sous* la mine, plus exactement. C'est pour ça qu'on ne
   voulait pas creuser plus profondément. Une percée au mauvais endroit
   et ça aurait été une inondation catastrophique. 
 
@@ -686,11 +688,11 @@ histoire de nains ?
 — Non, admit Ray en esquissant un sourire. Mais la rivière n'a pas
 rejeté de cadavres ou d'autres choses ?
 
-— D'autres choses ? »
+— D'autres choses ?
 
 Le géant se tourna vers lui, le regard caché par les lunettes.
 
-« Ouais. Dans le milieu, on appelle ça des indices.
+— Ouais. Dans le milieu, on appelle ça des indices.
 
 — Pas que je sache. 
 
@@ -703,12 +705,12 @@ en apnée pendant Dieu sait combien de temps.
 — Pas une brillante idée, alors. D'autres moyens de rentrer dans la
 mine ?
 
-— N'y pensez pas. Tout a été bouché après l'effondrement. »
+— N'y pensez pas. Tout a été bouché après l'effondrement.
 
 Ray grimaça, manifestement mécontent. 
 
-« Comment je suis censé trouver ce qui a bien pu se passer dedans,
-  alors ? »
+— Comment je suis censé trouver ce qui a bien pu se passer dedans,
+  alors ?
 
 *****
 
@@ -724,7 +726,7 @@ dormir dans la même journée.
 Finalement, après une éternité, le garde qui avait participé à son
 arrestation la fit entrer dans une pièce pour prendre sa déposition.
 
-« Nom ?, commença-t-il.
+— Nom ?, commença-t-il.
 
 — Volk. Avec un K. 
 
@@ -732,11 +734,11 @@ arrestation la fit entrer dans une pièce pour prendre sa déposition.
 
 — Anya. Avec un Y.
 
-— Non, je veux dire, votre *vrai* prénom. »
+— Non, je veux dire, votre *vrai* prénom.
 
 La jeune femme laissa échapper un long soupir.
 
-« C'*est* mon vrai prénom.
+— C'*est* mon vrai prénom.
 
 — Ne vous moquez pas de moi.
 
@@ -744,11 +746,11 @@ La jeune femme laissa échapper un long soupir.
 de mieux connaître mon prénom que moi.
 
 — Si vous continuez sur ce ton, vous allez aussi recevoir une amende
-pour outrage, *Monsieur* »
+pour outrage, *Monsieur*.
 
 La sorcière se tourna vers le garde et lui jeta un regard mauvais.
 
-« Nom de Dieu, mais c'est quoi votre problème ? Je suis une putain de
+— Nom de Dieu, mais c'est quoi votre problème ? Je suis une putain de
 femme, andouille ! Merde, j'étais déjà tombée sur des policiers
 crétins et des péquenots débiles, mais vous, en tant que crétin de
 péquenot de policier débile, vous battez tout le monde !
@@ -756,78 +758,78 @@ péquenot de policier débile, vous battez tout le monde !
 — Monsieur, calmez-vous. 
 
 — Et voilà, vous recommencez. C'est parce que j'ai plus de poils aux
-    jambes et au visage que la moyenne des femmes ? Ou alors vous êtes
-    juste jaloux parce que je suis 
-    plus grande que vous ? »
+jambes et au visage que la moyenne des femmes ? Ou alors vous êtes
+juste jaloux parce que je suis
+plus grande que vous ?
     
 Le garde soupira.
 
-« Peut-être que vous voulez être une femme, concéda-t-il, mais si je
-retirais votre culotte, qu'est-ce que je verrais ? »
+— Peut-être que vous voulez être une femme, concéda-t-il, mais si je
+retirais votre culotte, qu'est-ce que je verrais ?
 
 Anya prit une grande inspiration et parvint à se calmer.
 
-« Rien, répondit-t-elle finalement.
+— Rien, répondit-t-elle finalement.
 
 — Pardon ?
 
 — Parce qu'avant que votre main n'atteigne ma culotte, je vous
-    aurais arraché les deux yeux et les aurais mangés. »
+aurais arraché les deux yeux et les aurais mangés.
     
 Le garde resta coi, estomaqué.
 
-« Je plaisante, évidemment, tempéra Anya avec un grand sourire. Je ne
+— Je plaisante, évidemment, tempéra Anya avec un grand sourire. Je ne
 mange pas les yeux, c'est trop gélatineux. Je me contenterais de vous
 les...
 
-— Ça suffit ! » coupa Leslie en entrant dans le
-bureau. « Richard, je vais m'occuper de ça.
+— Ça suffit ! coupa Leslie en entrant dans le
+bureau. Richard, je vais m'occuper de ça.
 
-— Bien, sergent », lâcha le garde en se levant et en quittant la pièce,
-jetant au passage un regard mauvais à Anya.
+— Bien, sergent, lâcha le garde.
 
-Leslie soupira et se laissa tomber sur le siège en face de la jeune
+Il se leva et quitta la pièce, jetant au passage un regard mauvais à
+Anya. Leslie soupira et se laissa tomber sur le siège en face de la jeune
 femme.
 
-« Écoutez, ne rendez pas les choses difficiles, d'accord ? Je
-  préférerais aussi passer mon temps à faire autre chose. »
+— Écoutez, ne rendez pas les choses difficiles, d'accord ? Je
+  préférerais aussi passer mon temps à faire autre chose.
 
 La détective leva les yeux au ciel. Son interlocutrice n'avait pas
 passé l'après-midi en cellule, elle.
 
-« J'imagine que c'est rassurant, lança-t-elle finalement. Si votre
+— J'imagine que c'est rassurant, lança-t-elle finalement. Si votre
   priorité est de m'emmerder, ça veut dire que vos 
-morts-vivants ne sont pas une si grande menace, pas vrai ? »
+morts-vivants ne sont pas une si grande menace, pas vrai ?
 
 Le sergent fit un petit sourire et reprit le formulaire qu'avait
 commencé à remplir l'autre garde.
 
-« Écoutez, je vais être conciliante. Je note « Anya »
+— Écoutez, je vais être conciliante. Je note « Anya »
   comme prénom. Et je peux remplir aussi la profession moi-même,
   *détective* Volk. En vacances, bien sûr. Il ne
-  reste plus qu'une question délicate : votre âge ? »
+  reste plus qu'une question délicate : votre âge ?
 
 La jeune femme haussa les épaules et répondit à la question. En
 mentant légèrement : elle faisait plus jeune qu'elle ne l'était.
 
-« Bien, fit Leslie en continuant à remplir le procès-verbal. On va
+— Bien, fit Leslie en continuant à remplir le procès-verbal. On va
   y arriver.
 
-— Et pour les morts-vivants ? » demanda Anya.
+— Et pour les morts-vivants ? demanda Anya.
 
 Leslie leva les yeux vers elle, étonnée.
 
-« Pardon ?
+— Pardon ?
 
 — Si je les mentionnais dans la conversation, c'est que j'espérais
 que vous attraperiez la perche et me donneriez un peu d'informations,
 expliqua la détective en se passant la main dans les cheveux.
 
-— Ce n'est pas à vous de poser les questions, Volk. »
+— Ce n'est pas à vous de poser les questions, Volk.
 
 Anya baissa la tête, un petit sourire aux lèvres. 
 
-« J'aurais dû m'attendre à celle-là. Écoutez, sergent, je veux
+— J'aurais dû m'attendre à celle-là. Écoutez, sergent, je veux
   juste savoir, en tant que simple citoyenne, si je dois m'inquiéter
   ou pas. 
 
@@ -839,60 +841,60 @@ traces de morsures humaines. Plus rien depuis. Satisfaite ?
 — C'est tout ?
 
 — Nous avons un bourgmestre un peu... disons qu'il aime prendre ses
-précautions. Tenez, signez ça. »
+précautions. Tenez, signez ça.
 
 Anya attrapa la feuille que lui tendait le sergent et la parcourut du
 regard. Elle grimaça.
 
-« Je ne vais pas signer *ça*. C'est au masculin.
+— Je ne vais pas signer *ça*. C'est au masculin.
 
 — Eh bien, si je dis que j'ai arrêtée une femme parce
 qu'elle portait une robe, c'est un peu ridicule, non ?
 
 — Mon Dieu, soupira Anya. Est-ce que les morts-vivants ont déjà
-    mangé le cerveau de tout le monde sans que personne ne s'en rende
-    compte ? »
+  mangé le cerveau de tout le monde sans que personne ne s'en rende
+  compte ?
 
 *****
 
-« Vous cherchez toujours des indices ? » demanda André, quelque peu
-essoufflé.
+— Vous cherchez toujours des indices ? demanda André.
 
-Ray avait mis un point d'honneur à parcourir les bois qui se situaient
-le long de la rivière, afin de chercher des éventuels cadavres. 
+Il était quelque peu essoufflé. Ray avait mis un point d'honneur à
+parcourir les bois qui se situaient le long de la rivière, afin de
+chercher des éventuels cadavres.
 
-« Vous savez, Marc n'a vraiment pas...
+— Vous savez, Marc n'a vraiment pas...
 
-— Chut ! » coupa Ray, tout en le stoppant en plaçant une
-main énorme sur son torse. 
+— Chut ! coupa Ray.
 
-André fronça les sourcils, ne comprenant pas pourquoi ils
+Il le stoppa en plaçant une main énorme sur son torse. André fronça
+les sourcils, ne comprenant pas pourquoi ils 
 s'arrêtaient. Il allait poser la question, mais s'arrêta en voyant le
 loup qui sortait de derrière un buisson.
 
-« Oh, fit-il d'un air calme. On a souvent des loups, dans le
+— Oh, fit-il d'un air calme. On a souvent des loups, dans le
   coin. Ne vous en faites pas, ils n'attaquent pas les humains. 
 
 — Ouais ? demanda Ray en jetant un regard autour d'eux. Alors
-pourquoi ils nous encerclent, hein ? »
+pourquoi ils nous encerclent, hein ?
 
 André déglutit. Il voyait effectivement des loups dépasser tout autour
 d'eux. Ce n'était pas un comportement normal. 
 
-« Mon Dieu », lâcha-t-il alors qu'ils commençaient à se rapprocher
+— Mon Dieu, lâcha-t-il alors qu'ils commençaient à se rapprocher
 avec un grondement sourd. 
 
 Pendant ce temps, le colosse avait sorti un gros cigare de son manteau
 et était en train de l'allumer tranquillement.
 
-« Vous faites quoi ? 
+— Vous faites quoi ? 
 
 — Avec les loups, ça se joue à l'intimidation.
 
-— Je... » protesta André, mais c'était déjà trop tard. La meute
-chargeait.
+— Je... protesta André.
 
-Le syndicaliste ferma les yeux, s'attendant à mourir déchiqueté d'un
+C'était déjà trop tard. La meute chargeait. Le syndicaliste ferma les
+yeux, s'attendant à mourir déchiqueté d'un 
 instant à l'autre. À sa grande surprise, rien ne se passa. Lorsqu'il
 les rouvrit, Ray faisait face à un gros loup, qui devait être le chef
 de meute, et semblait l'affronter du regard. 
@@ -909,7 +911,7 @@ loup lui ouvre la gorge d'une seconde à l'autre. Pourtant, il se
 contenta de gronder, puis partit la queue basse, bientôt suivi par le
 reste de la meute.
 
-« Qu'est-ce qu'il s'est passé ? demanda le syndicaliste en reprenant sa
+— Qu'est-ce qu'il s'est passé ? demanda le syndicaliste en reprenant sa
   respiration.
 
 — J'dirais qu'on s'en sort bien, fit Ray en remettant ses lunettes
@@ -920,51 +922,51 @@ sombres. Par contre, vous avez raison. Les loups normaux font pas
 
 — Non, je sais reconnaître un loup-garou quand j'en vois
 un. Peut-être bien qu'ils étaient possédés, ou quelque chose comme 
-ça. Un truc magique. »
+ça. Un truc magique.
 
 André lui jeta un regard surpris. Il avait du mal à comprendre tout ce
 qui se passait, mis à part qu'il venait de peu d'échapper à la mort.
 
-« Attendez une seconde. Vous pensez que quelqu'un aurait
+— Attendez une seconde. Vous pensez que quelqu'un aurait
   ensorcelés ces loups pour nous tuer ?
 
 — Juste une hypothèse que j'émets.
 
-— Et vous les avez fait fuir avec un simple regard ? »
+— Et vous les avez fait fuir avec un simple regard ?
 
 Le colosse haussa les épaules, puis arbora un petit sourire.
 
-« Franchement, comparé à se coltiner ma pote quand elle
-  est dans un de ses mauvais jours, un loup ensorcelé, c'est du gâteau. »
+— Franchement, comparé à se coltiner ma pote quand elle
+  est dans un de ses mauvais jours, un loup ensorcelé, c'est du gâteau.
 
 *****
 
 
-« Écoutez », soupira le sergent Leslie, qui commençait à être
-fatiguée de sa détenue récalcitrante. « Vous signez ça et vous êtes
+— Écoutez , soupira le sergent Leslie, qui commençait à être
+fatiguée de sa détenue récalcitrante. Vous signez ça et vous êtes
 libre. Bien sûr, vous êtes 
 censée payer une amende dans les trente jours, mais j'imagine que
 vous aurez quitté la ville d'ici-là, alors...
 
 — C'est juste que je ne comprends pas. Selon la même loi quelque peu
 datée qui m'a valu d'être arrêtée, il faudrait aussi interpeller les
-femmes qui portent des pantalons. Vous voyez ce que je veux dire ? »
+femmes qui portent des pantalons. Vous voyez ce que je veux dire ?
 
 Leslie jeta un coup d'œil à sa tenue de garde qui n'était pas
 exactement un modèle de féminité et haussa les épaules.
 
-« Je peux deviner.
+— Je peux deviner.
 
 — Je suppose que c'est un supérieur qui vous a demandé de le faire ?
 
 — Comment ça ?
 
 — Si j'étais un peu paranoïaque, je dirais que quelqu'un  n'a pas
-envie que je continue à enquêter. »
+envie que je continue à enquêter.
 
 Le sergent secoua la tête, manifestement peu convaincue.
 
-« Je pense plutôt qu'un de mes supérieurs a une certaine vision de
+— Je pense plutôt qu'un de mes supérieurs a une certaine vision de
   ce qui se fait et de ce qui ne se fait pas. N'allez pas chercher
   midi à quatorze heures. Vous êtes dans une petite ville...
 
@@ -978,12 +980,12 @@ peux vous poser une dernière question ?
 — Je ne peux pas vous dévoiler d'informations sur une enquête en
 cours.
 
-— Je vois, fit la détective en se levant. Merci quand même. »
+— Je vois, fit la détective en se levant. Merci quand même.
 
 Elle se dirigea vers la porte et s'apprêtait à sortir de la pièce
 lorsque Leslie l'arrêta : 
 
-« Volk !
+— Volk !
 
 — Hum ?
 
@@ -991,12 +993,12 @@ lorsque Leslie l'arrêta :
 avaient des explosifs chez eux et des traces de 
 poudre sur les mains. Ils ont fait sauter la mine. Vous ne les
 innocenterez pas, parce qu'ils ne sont pas innocents. Tout ce que vous
-ferez, c'est perdre votre temps. »
+ferez, c'est perdre votre temps.
 
 Anya inclina la tête en signe de remerciement, puis fit un petit
 sourire à la garde.
 
-« Plus personne n'est innocent, de nos jours, de toute façon. »
+—Plus personne n'est innocent, de nos jours, de toute façon.
 
 
 *****
@@ -1004,20 +1006,20 @@ sourire à la garde.
 Lorsqu'Anya arriva à l'auberge, Ray était déjà attablé, en train de
 manger un plat plutôt copieux à base de poulet et de riz.
 
-« Je me demandais ce que tu faisais.
+— Je me demandais ce que tu faisais.
 
-— Ça n'avait pas l'air de te préoccuper beaucoup », répliqua la jeune
+— Ça n'avait pas l'air de te préoccuper beaucoup, répliqua la jeune
 femme. 
 
 Elle salua Sylvie, occupée à servir deux autres clients, et s'assit en
 face de son coéquipier.
 
-« J'ai eu une journée de merde. »
+— J'ai eu une journée de merde.
 
 Elle lui expliqua rapidement ce qu'il lui était arrivé, puis Ray fit
 de même.
 
-« Hum, lâcha pensivement Anya quand il eut terminé. Tu crois
+— Hum, lâcha pensivement Anya quand il eut terminé. Tu crois
   vraiment que ces loups étaient ensorcelés ?
 
 — Peux pas dire avec certitude. J'ai pas tes talents. J'sais juste
@@ -1057,12 +1059,12 @@ pas sentir Maugeais. Et Maurice est encore pire.
 — Le fait que t'aimes pas des gens ne veut pas dire
 qu'ils sont coupables.
 
-— Pourquoi pas ? Au pire, on pourrait fabriquer des preuves. »
+— Pourquoi pas ? Au pire, on pourrait fabriquer des preuves.
 
 Ray lui jeta un regard mauvais mais ne dit rien, se contentant de
 finir son assiette.
 
-« Ces types se sont battus pendant trois semaines pour essayer
+— Ces types se sont battus pendant trois semaines pour essayer
   d'avoir des conditions de sécurité correctes, reprit Anya. C'est la
   garde qui a fait dégager le piquet de grève pour que le travail
   reprenne. 
@@ -1071,11 +1073,11 @@ finir son assiette.
 de personnes. 
 
 — Je n'ai pas dit ça ! protesta la jeune femme. Ce que je veux dire
-c'est que... »
+c'est que...
 
 Elle soupira, ayant du mal à trouver ses mots.
 
-« Écoute, interrompit Ray. On est détectives. On cherche la
+— Écoute, interrompit Ray. On est détectives. On cherche la
   vérité. Même si c'est pas celle que voudrait voir notre client.
 
 — La vérité, c'est que Maugeais est coupable *en général*. Il
@@ -1083,9 +1085,9 @@ vit dans ses bureaux, il a plein de fric qu'il gagne en exploitant les
 autres qui sont dans la misère. Alors à un moment, si quelqu'un pète les plombs, c'est
 de sa faute, aussi, non ?
 
-— Ouais. D'acc' », lâcha le géant en levant les yeux au ciel. « Sauf
+— Ouais. D'acc', lâcha le géant en levant les yeux au ciel. Sauf
 que là, on cherche à savoir qui a fait sauter cette mine. Point. Pas
-qui est coupable « en général ». Sinon, on n'a pas fini. »
+qui est coupable « en général ». Sinon, on n'a pas fini.
 
 *****
 
@@ -1093,13 +1095,13 @@ Lorsque Sylvie se leva à six heures du matin et descendit dans la
 salle à manger de l'auberge, elle eut la surprise d'y trouver Anya,
 plongée dans les archives et notes qu'André avait fournies.
 
-« Bonjour, lança l'aubergiste.
+— Bonjour, lança l'aubergiste.
 
 — Salut.
 
 — Vous voulez déjeuner ?
 
-— Du café. Je veux bien du café. »
+— Du café. Je veux bien du café.
 
 
 Anya continua à plancher sur les documents concernant la mine pendant
@@ -1111,9 +1113,9 @@ certifié à Ray que tous les puits avaient été fermés. D'après les
 rapports qu'elle voyait, la mine avait effectivement été entièrement
 condamnée après l'explosion.
 
-« Voilà, fit Sylvie en lui apportant sa tasse de café.
+— Voilà, fit Sylvie en lui apportant sa tasse de café.
 
-— Merci. »
+— Merci.
 
 Anya avala une gorgée en regardant la liste des différents puits. Elle
 réalisa alors que le puits numéro 2 avait été fermé cinq ans plus tôt. Il
@@ -1129,39 +1131,39 @@ une table et semblait lugubre.
 Anya se leva, tira sa chaise et se laissa tomber en face de
 l'aubergiste.
 
-« Ça n'a pas l'air d'aller. »
+— Ça n'a pas l'air d'aller.
 
 La jeune femme haussa les épaules. 
 
-« Tu veux en parler ?
+— Tu veux en parler ?
 
 — C'est juste... cette enquête. Ça remue des choses, vous savez ?
 
 — Je suis désolée.
 
 — Oh, non, mademoiselle Volk. J'espère que vous trouverez la
-vérité. »
+vérité.
 
 Anya hocha la tête.
 
-« On va essayer. 
+—  On va essayer. 
 
 — Et je me demandais... vu que vous êtes une sorcière, vous n'avez
-    pas une potion magique contre le chagrin ? 
+  pas une potion magique contre le chagrin ? 
     
 — J'aimerais bien. J'ai peur de ne pas avoir aussi souvent recours
-    aux potions magiques et aux boules de feu que ce que les gens
-    imaginent. »
+  aux potions magiques et aux boules de feu que ce que les gens
+  imaginent.
 
 Sylvie eut un petit sourire,
 
-« Pas non plus de potion pour être plus courageuse ?
+— Pas non plus de potion pour être plus courageuse ?
 
 — Comment ça ?
 
 — J'aimerais oser quitter cette ville, expliqua
-    l'aubergiste. Seulement, c'est tout ce que je connais. J'aimerais
-    être aussi courageuse que vous ?
+  l'aubergiste. Seulement, c'est tout ce que je connais. J'aimerais
+  être aussi courageuse que vous ?
    
 — Que moi ? s'étonna Anya.
 
@@ -1170,13 +1172,13 @@ peur de ce que les gens disent sur vous. J'aimerais avoir votre
 courage.
 
 — C'est parce que tu ne m'as jamais vu face à une araignée,
-plaisanta la sorcière. Non, je n'ai pas de potion, mais... » 
+plaisanta la sorcière. Non, je n'ai pas de potion, mais...
 
 Anya se maudit intérieurement pour le côté gnan-gnan de ce qu'elle
 s'apprêtait à dire, mais la fin justifiait les moyens.
 
-« ... je suis sûre que tu trouveras tout le courage dont tu as besoin
-dans ton cœur. »
+— ... je suis sûre que tu trouveras tout le courage dont tu as besoin
+dans ton cœur.
 
 *****
 
@@ -1185,7 +1187,7 @@ l'auberge. Ils étaient les uniques clients à rester pour le
 déjeuner. Anya se sentait un peu désolée pour Sylvie qu'il n'y ait pas
 plus de monde.
 
-« Donc, fit André en se découpant un morceau de viande, vous
+— Donc, fit André en se découpant un morceau de viande, vous
   voulez vraiment aller dans cette mine ?
 
 — On pourrait passer par le puits 2, expliqua la jeune femme. Il n'a
@@ -1202,12 +1204,12 @@ tout moment...
 
 — Anya pense qu'il n'y a pas que des risques d'effondrements.
 
-— Vous pensez à quoi ? »
+— Vous pensez à quoi ?
 
 La jeune femme parut soudainement passionnée par ses ongles. Elle n'avait
 manifestement aucune envie de répondre.
 
-« Bon sang, soupira André, soyez clairs !
+— Bon sang, soupira André, soyez clairs !
 
 — Des morts-vivants, lâcha Ray.
 
@@ -1219,37 +1221,37 @@ mine, qui est actuellement remplie de cadavres.
 
 — Je suis pas convaincu, tempéra son équipier. Enfin, on va prendre nos
 précautions. On aurait besoin d'un coup de main. La mine, c'est
-votre truc. »
+votre truc.
 
 André se passa la main dans la barbiche d'un air songeur, puis haussa
 les épaules.
 
-« D'accord. S'il faut ça pour découvrir la vérité...
+— D'accord. S'il faut ça pour découvrir la vérité...
 
-— Je viens aussi. »
+— Je viens aussi.
 
 Les regards se tournèrent vers Sylvie, debout à côté de la table, une
 corbeille de pain à la main.
 
-« C'est pas une bonne idée, protesta Ray.
+— C'est pas une bonne idée, protesta Ray.
 
 — Mon père est là-bas. Si c'est un mort-vivant...
 
 — Tu feras quoi ? Il te reconnaîtra pas.
 
-— Je veux au moins connaître la vérité. »
+— Je veux au moins connaître la vérité.
 
 Le colosse interrogea sa coéquipière du regard. Celle-ci eut un petit
 sourire. 
 
-« Tu sais couper la viande, nota-t-elle à destination de
-  l'aubergiste. Tu devrais pouvoir te débrouiller face à un zombie. »
+— Tu sais couper la viande, nota-t-elle à destination de
+  l'aubergiste. Tu devrais pouvoir te débrouiller face à un zombie.
 
 
 *****
 
 
-« Putain, râla Anya tandis qu'ils parcouraient le chemin qui
+— Putain, râla Anya tandis qu'ils parcouraient le chemin qui
   montaient à la mine. Ça grimpe.
 
 — Toi, au moins, répliqua Ray, t'as pas à trimballer de pioche. Et puis,
@@ -1258,7 +1260,7 @@ t'étais pas obligée de mettre des talons.
 — Va te faire foutre. 
 
 — C'est vrai que c'est loin, admit le colosse. Les mineurs se
-    tapaient ça tous les jours ?  
+  tapaient ça tous les jours ?
 
 — Non, expliqua André. Il y a des entrées plus bas, la plupart pour
 des conduits horizontaux. La mine est en dessous de nous. 
@@ -1266,7 +1268,7 @@ des conduits horizontaux. La mine est en dessous de nous.
 — On marche sur du gruyère, ajouta Anya en grimaçant. Pas rassurant.
 
 — Vous verrez vite que vous préférez avoir la terre sous vous plutôt
-qu'au-dessus. L'entrée du puits 2 est là. »
+qu'au-dessus. L'entrée du puits 2 est là.
 
 André montra du doigt un trou sombre dans la façade de la montagne et
 s'avança vers l'entrée. Sylvie et Ray le suivirent tandis qu'Anya
@@ -1275,29 +1277,30 @@ restait un moment dehors.
 Elle resta deux minutes seule avant que son ami ne finisse par
 ressortir, une lampe de mineur à la main.
 
-« Qu'est-ce que tu fais ? demanda-t-il.
+— Qu'est-ce que tu fais ? demanda-t-il.
 
 — J'ai... mal aux pieds ?
 
-— Juste ça ? Qu'est-ce qu'il y a ? T'as peur de descendre ? » 
+— Juste ça ? Qu'est-ce qu'il y a ? T'as peur de descendre ?
 
 Anya se tourna vers lui et acquiesça, un peu honteuse.
 
-« Je ne m'étais pas rendue compte que ça serait... comme ça. En voyant l'entrée... l'obscurité, l'enfermement...
+— Je ne m'étais pas rendue compte que ça serait... comme ça. En voyant l'entrée... l'obscurité, l'enfermement...
 
 — Tu peux rester là.
 
-— Non. Donne-moi juste un peu de temps, d'accord ? »
+— Non. Donne-moi juste un peu de temps, d'accord ?
 
 
 *****
 
-« Elle arrive », annonça Ray à André et Sylvie, qui s'étaient tous
-les deux équipés de casques et de lampes. 
+— Elle arrive, annonça Ray à André et Sylvie.
 
-Ils s'étaient arrêtés devant une grille métallique qui barrait le chemin.
 
-« Ça devait pas être un mur ? demanda le colosse.
+Ceux-ci s'étaient tous les deux équipés de casques et de lampes. Ils
+s'étaient arrêtés devant une grille métallique qui barrait le chemin. 
+
+— Ça devait pas être un mur ? demanda le colosse.
 
 — Il s'agissait au départ d'un puits d'aération, expliqua
 André. Plus tard, un ascenseur a été ajouté pour permettre de
@@ -1307,7 +1310,7 @@ transporter des hommes, mais l'entrée a été fermée après un accident.
 
 — Pour condamner l'entrée tout en assurant une ventilation. 
 
-— Ça va pas me faciliter le boulot, ça. »
+— Ça va pas me faciliter le boulot, ça.
 
 Il regarda quelques instants la grille et constata que le maillage et
 les barreaux étaient assez fins et plutôt rouillés. Il ne serait
@@ -1325,47 +1328,47 @@ Il fut le premier à se lancer, et râla tandis que les barreaux
 déchiraient sa chemise et l'égratignaient. C'était l'inconvénient
 d'avoir un gabarit imposant.
 
-« Bon, allons voir si cet ascenseur fonctionne. »
+— Bon, allons voir si cet ascenseur fonctionne.
 
 Il s'avança un peu dans le couloir et découvrit une salle de petite taille. Au
 fond de celle-ci, il remarqua une petite cage.
 
-« Je vais vérifier les cordes, expliqua André en le rejoignant. Il
-  ne faudrait pas   qu'elles lâchent au milieu de la descente.
+— Je vais vérifier les cordes, expliqua André en le rejoignant. Il
+  ne faudrait pas qu'elles lâchent au milieu de la descente.
 
 — D'accord.
 
 — Votre amie ne vient pas, au fait ?
 
-— J'ai dit qu'elle arrivait », râla Ray. 
+— J'ai dit qu'elle arrivait, râla Ray. 
 
 Sylvie regarda, curieuse, le colosse hausser les épaules et faire
 quelques pas dans la salle, visiblement nerveux. 
 
-« Elle a peur de descendre ? demanda-t-elle.
+— Elle a peur de descendre ? demanda-t-elle.
 
 — Elle va venir, répéta le géant. 
 
 — Écoutez, fit André, elle devrait peut-être rester là. Je ne sais
 pas si elle est vraiment faite pour...
 
-— Vous voulez dire quoi ? » demanda Ray un peu agressivement, ce qui
-fit légèrement reculer l'ancien mineur.
+— Vous voulez dire quoi ? demanda Ray un peu agressivement.
 
-Celui-ci lâcha un soupir. Apparemment, le détective n'aimait pas qu'on
-critique sa collègue.
+Son ton fit légèrement reculer l'ancien mineur, qui lâcha un
+soupir. Apparemment, le détective n'aimait pas qu'on critique sa
+collègue. 
 
-« Je veux dire, persista néanmoins André, qu'on ne vient pas dans
+— Je veux dire, persista néanmoins André, qu'on ne vient pas dans
   une mine avec des chaussures à talon, une petite jupe et du
   maquillage. Surtout quand on a peur du noir.
 
-— Qui c'est, qu'a peur du noir ? » demanda Anya.
+— Qui c'est, qu'a peur du noir ? demanda Anya.
 
 Les regards se tournèrent vers elle tandis qu'elle passait à travers
 l'ouverture de la grille et rejoignait ses trois compagnons, dorénavant
 silencieux.
 
-« Bon, fit-elle joyeusement, on y va, ou vous attendez quelqu'un ? »
+— Bon, fit-elle joyeusement, on y va, ou vous attendez quelqu'un ?
 
 
 *****
@@ -1376,27 +1379,27 @@ manivelle qui contrôlait la descente. André montrait l'évolution des
 roches tandis qu'ils s'enfonçaient, pendant qu'Anya se cramponnait à
 une des rambardes de l'ascenseur.
 
-« Ça va ? chuchota Sylvie.
+— Ça va ? chuchota Sylvie.
 
-— Ça ira mieux quand on sera à nouveau dehors. »
+— Ça ira mieux quand on sera à nouveau dehors.
 
 L'aubergiste posa timidement une main sur l'épaule de la sorcière,
 pour la rassurer.
 
-« L'exemple de courage fait un peu pitié à voir, hein ? » railla
+— L'exemple de courage fait un peu pitié à voir, hein ? railla
   cette dernière. 
 
 
 *****
 
-« D'accord, fit André alors qu'ils arrivaient en bas. Je propose
+— D'accord, fit André alors qu'ils arrivaient en bas. Je propose
   qu'on reste groupés, maintenant. Si vous vous perdez dans les
   tunnels...
 
 — Chier, coupa Ray. C'est bas de plafond, ici.
 
 — Marchez au milieu des couloirs, reprit l'ancien mineur. Et évitez de
-toucher aux étais. Si vous respectez ça, je pense que tout ira bien. »
+toucher aux étais. Si vous respectez ça, je pense que tout ira bien.
 
 
 Le petit groupe suivit André à travers les tunnels. Sylvie semblait
@@ -1408,22 +1411,22 @@ suivait.
 Au bout d'une dizaine de minutes, le géant réalisa que son amie était
 restée un peu en arrière.
 
-« Bon sang, râla André. Surveillez votre copine. Si elle panique
+— Bon sang, râla André. Surveillez votre copine. Si elle panique
   ici, elle peut tous nous faire tuer.
 
-— Elle n'est pas du genre à... »
+— Elle n'est pas du genre à...
 
 Derrière eux, un cri aigu résonna dans les tunnels et interrompit Ray,
 qui soupira.
 
-« ... paniquer. Bon, on y va. »
+— ... paniquer. Bon, on y va.
 
 Ils firent demi-tour et se dirigèrent aussi vite que possible vers
 l'origine du cri. Au bout d'une vingtaine de mètres, ils aperçurent
 la jeune femme, à genoux au milieu du couloir. Elle leur tournait le
 dos.
 
-« Anya ? fit doucement Ray. Ça va ? »
+— Anya ? fit doucement Ray. Ça va ?
 
 La détective se releva doucement et se tourna vers son ami. Ce dernier
 réalisa alors à la lumière blafarde de la lampe qu'elle avait l'épaule gauche
@@ -1433,7 +1436,7 @@ droite.
 Anya pointa du pouce un cadavre
 dont le crâne venait manifestement d'être démoli avec la roche en question.
 
-« On dirait que j'avais raison, sur les morts-vivants. »
+— On dirait que j'avais raison, sur les morts-vivants.
 
 
 *****
@@ -1441,19 +1444,19 @@ dont le crâne venait manifestement d'être démoli avec la roche en question.
 Le petit groupe se dirigea d'un pas rapide vers l'ascenseur. En voyant
 le cadavre, ils avaient unanimement décidé de remonter à la surface.
 
-« J'aurais peut-être dû prendre le corps ? suggéra Ray. Comme
+— J'aurais peut-être dû prendre le corps ? suggéra Ray. Comme
   preuve ?
 
 — C'est juste un cadavre, maintenant, répliqua Anya. J'irai voir
 Leslie. J'espère qu'elle me croira. Mais j'aimerais qu'on sorte d'ici
 rapidement.
 
-— Un instant », protesta André tandis qu'ils arrivaient vers la cage
+— Un instant, protesta André tandis qu'ils arrivaient vers la cage
 de bois.
 
 Il jeta un coup d'œil à l'ascenseur et grimaça.
 
-« Quoi ? demanda Anya. On ne va pas rester coincés là, quand même
+— Quoi ? demanda Anya. On ne va pas rester coincés là, quand même
   ?
 
 — Je ne pense pas. Mais ce serait plus prudent d'éviter de mettre
@@ -1466,7 +1469,7 @@ en dire autant du bois.
 et vous suivez tous les deux. Les charges seront à peu près équilibrées.
 
 — D'accord, fit le colosse. Mais grouillez-vous. J'ai pas envie de
-moisir ici. » 
+moisir ici.
 
 L'ascenseur commença à remonter, actionné par Anya, manifestement
 pressée de ressortir. 
@@ -1475,17 +1478,17 @@ Aussitôt, Sylvie s'élança dans un tunnel, à la surprise de Ray. Ce dernier s
 mit à lui courir après, mais vu la hauteur de plafond, il était désavantagé
 par sa taille. 
 
-« Bon sang ! hurla-t-il. Qu'est-ce que tu fous ?
+— Bon sang ! hurla-t-il. Qu'est-ce que tu fous ?
 
 — Mon père est là-dedans ! répliqua la jeune femme. 
 
-— Il est mort ! protesta-t-il. C'est un putain de zombie ! »
+— Il est mort ! protesta-t-il. C'est un putain de zombie !
 
 Devant lui, Sylvie s'immobilisa face à un mort-vivant, réalisa qu'il
 ne s'agissait pas de son père, fit quelques pas en arrière et
 s'engagea dans un embranchement.
 
-« Chier », râla Ray en sortant un couteau de son manteau.
+— Chier, râla Ray en sortant un couteau de son manteau.
 
 Il regarda le mort-vivant un instant. Celui-ci s'élança vers lui d'un
 pas lent et mal assuré. 
@@ -1506,7 +1509,7 @@ Ensuite, elle vit que le sergent Leslie se trouvait devant
 l'ouverture, lui tournant le dos. La détective fronça les
 sourcils. C'était étrange. 
 
-« Leslie ! lança-t-elle. Je suis heureuse de vous voir. »
+— Leslie ! lança-t-elle. Je suis heureuse de vous voir.
 
 Le plaisir n'était manifestement pas réciproque, puisque le sergent
 pointa une arbalète en direction de la détective, qui s'immobilisa en
@@ -1516,18 +1519,18 @@ Elle eut alors la surprise de voir trois autres gardes s'avancer dans
 l'entrée de la mine, accompagnés de monsieur Maurice, qui tenait
 toujours sa canne à la main.
 
-« Qu'est-ce qui se passe, bon sang ?
+— Qu'est-ce qui se passe, bon sang ?
 
 — Il se passe, répondit Leslie, que vous êtes en état d'arrestation,
 mademoiselle Volk.
 
-— Qu'est-ce qu'il fait là ? » demanda Anya en pointant Maurice du
+— Qu'est-ce qu'il fait là ? demanda Anya en pointant Maurice du
 doigt.
 
 Ce dernier arbora un sourire et joignit ses deux mains au dessus du
 pommeau de sa canne.
 
-« Un de mes travailleurs, expliqua-t-il, m'a rapporté que des
+— Un de mes travailleurs, expliqua-t-il, m'a rapporté que des
   intrus semblaient se diriger vers la mine dont je suis
   co-propriétaire. Le périmètre étant 
   interdit, j'ai prévenu la garde. Je lui ai aussi fait part de votre
@@ -1542,30 +1545,32 @@ pommeau de sa canne.
 morts-vivants !
 
 — De morts-vivants ? D'accord. Vous me raconterez ça au poste. Vous
-aurez tout le temps de réfléchir à la façon de présenter ça, hein ? »
+aurez tout le temps de réfléchir à la façon de présenter ça, hein ?
 
 
 *****
 
 
-« Papa ! » hurla Sylvie en se précipitant vers un mineur aux
-  vêtements déchirés et à la peau pleine de terre. Il était occupé à
-  effectuer le même travail qu'il avait fait durant toute sa vie.
+— Papa ! hurla Sylvie.
 
-« Papa ? répéta la jeune femme en s'approchant de lui. C'est moi. »
+Elle se précipita vers un mineur aux vêtements déchirés et à la peau
+  pleine de terre. Il était occupé à effectuer le même travail qu'il
+  avait fait durant toute sa vie. 
+
+— Papa ? répéta la jeune femme en s'approchant de lui. C'est moi.
 
 Le mort-vivant se retourna vers elle, le regard vide.
 
-« Tra... vaa... iill... eerr... »
+— Tra... vaa... iill... eerr...
 
 Sylvie soupira. Une larme coula le long de sa joue. 
 
-« Papa... »
+— Papa...
 
 Ce fut à ce moment là que le zombie tendit la main vers elle et
 l'agrippa.
 
-« Faaiimm... » 
+— Faaiimm...
 
 
 *****
@@ -1573,7 +1578,7 @@ l'agrippa.
 À l'extérieur, Anya et André étaient sous la menace des arbalètes des
 membres de la garde.
 
-« Bon sang, vous pouvez descendre ! protestait l'enquêtrice. Vous
+— Bon sang, vous pouvez descendre ! protestait l'enquêtrice. Vous
   le verrez, qu'il y a des morts-vivants ! 
 
 — Madame, ajouta André. Ce qu'elle dit est vrai.
@@ -1586,8 +1591,8 @@ morsures près de la rivière. La rivière passe sous la mine...
 — Volk... soupira Leslie. D'accord, supposons. Pourquoi ces cadavres
 de mineurs se seraient-ils relevés ? 
 
-— À cause de lui ! » répliqua la jeune femme en pointant le
-co-propriétaire de la mine du doigt. « Il sait se servir de
+— À cause de lui ! répliqua la jeune femme en pointant le
+co-propriétaire de la mine du doigt. Il sait se servir de
 magie. C'est un putain de nécromant !
 
 — Cela devient ridicule, protesta l'accusé. 
@@ -1597,7 +1602,7 @@ feu ?
 
 — J'ai senti la magie.
 
-— Et comment l'auriez-vous *sentie » ?*
+— Et comment l'auriez-vous *sentie* ?
 
 Anya soupira, et se décida à tenter le tout pour le tout.
 
@@ -1609,20 +1614,20 @@ Elle enleva sa chemise.
 Alors que le mort-vivant s'apprêtait  à mordre Sylvie, Ray l'attrapa
 par le col et l'envoya rouler par terre.
 
-« Dégage, saleté !
+— Dégage, saleté !
 
 — Arrêtez ! C'est mon père !
 
-— C'est *plus* ton père ! » protesta le géant en se tournant
+— C'est *plus* ton père ! protesta le géant en se tournant
 vers elle, furieux.
 
-« Ne le tuez pas, je vous en supplie.
+— Ne le tuez pas, je vous en supplie.
 
-— Plus facile à dire qu'à faire », répliqua le colosse.
+— Plus facile à dire qu'à faire, répliqua le colosse.
 
 Puis il entendit un bruit derrière lui et se retourna.
 
-« Oh, merde. »
+— Oh, merde.
 
 À l'autre extrémité du tunnel, lentement mais sûrement, un groupe
 entier de cadavres se dirigeait vers eux.
@@ -1634,10 +1639,9 @@ Anya montrait son dos nu face aux gardes et Maurice. Tout
 le monde pouvait voir le pentacle qui s'étalait sur une bonne partie
 de la surface de sa peau.
 
-« Et en quoi cela joue en votre faveur ? » demanda Leslie tandis
+— Et en quoi cela joue en votre faveur ? demanda Leslie tandis
 que la détective se retournait, les bras croisés sur la poitrine pour
-la masquer aux regards. « En plus de tout, vous êtes une sorcière
-  ? 
+la masquer aux regards. En plus de tout, vous êtes une sorcière ? 
 
 — Ça prouve que j'ai pu sentir sa magie, répondit Anya aussi
 calmement qu'elle le pouvait.
@@ -1648,7 +1652,7 @@ preuves. Rhabillez-vous, je vous emmène au poste. On discutera de ça
 là-bas.
 
 — Attendez ! protesta l'enquêtrice. Et ça, vous pensez que je me le
-suis fait moi-même ? »
+suis fait moi-même ?
 
 Elle montra la blessure qu'elle avait à l'épaule. Leslie s'approcha
 un peu, intriguée, et examina la plaie. Elle pouvait voir
@@ -1657,7 +1661,7 @@ distinctement les traces de dents, qui semblaient humaines.
 Leslie grimaça. Elle trouvait qu'elle avait du mal à réfléchir et ne
 savait pas quoi faire.
 
-« Ces traces... constata-t-elle. Ça pourrait être n'importe qui...
+— Ces traces... constata-t-elle. Ça pourrait être n'importe qui...
 
 — Mais quel humain m'aurait *mordue* ? Ce n'est pas courant,
 quand même ! 
@@ -1670,8 +1674,8 @@ travaillent tout le temps et se ne plaignent pas.
 
 — Ridicule !
 
-— Bon », soupira le sergent, avant de se tourner vers ses hommes,
-pensive. « On arrête les trois. On réglera tout
+— Bon, soupira le sergent, avant de se tourner vers ses hommes,
+pensive. On arrête les trois. On réglera tout
   ça au poste, après être descendus faire un tour dans cette
   mine. Journée de merde.
 
@@ -1684,18 +1688,17 @@ ferme, d'accord ? »
 
 Le propriétaire de la mine soupira et grommela quelques mots.
 
-« Qu'est-ce que vous... » commença Leslie, mais elle n'eut pas le
-temps de terminer sa phrase. Elle s'écroula, endormie. 
+— Qu'est-ce que vous... commença Leslie.
 
-Les trois autres gardes l'imitèrent dans la seconde, ainsi qu'André.
-
+Elle n'eut pas le temps de terminer sa phrase. Elle s'écroula,
+endormie. Les trois autres gardes l'imitèrent dans la seconde, ainsi qu'André.
 Seule Anya se tenait encore debout, quoique chancelant légèrement.
 
 Maurice eut un sourire malsain et  se saisit de sa canne, avant
 d'en sortir une épée.
 
-« Tu ne crains pas la magie, constata-t-il, mais on verra si tu
-  résistes aussi bien à cette lame. »
+— Tu ne crains pas la magie, constata-t-il, mais on verra si tu
+  résistes aussi bien à cette lame.
 
 
 *****
@@ -1716,12 +1719,12 @@ Le mort-vivant ouvrit la bouche pour mordre.
 Et puis son comportement changea. Il se figea, avant de se mettre à
 hurler de douleur, en harmonie avec les autres zombies.
 
-« Papa ! » fit Sylvie.
+— Papa ! fit Sylvie.
 
 À sa surprise, les yeux de son père se tournèrent vers elle. Ils ne
 semblaient plus aussi vides que quelques minutes plus tôt.
 
-« Sylvie », souffla le mort-vivant.
+— Sylvie, souffla le mort-vivant.
 
 La jeune femme se mit à pleurer et le serra dans ses bras.
 
@@ -1733,7 +1736,7 @@ son tour, apparemment mort pour de bon.
 Le détective s'approcha lentement de la jeune femme et posa une main
 sur son épaule. 
 
-« C'est fini. On devrait remonter, maintenant. »
+— C'est fini. On devrait remonter, maintenant.
 
 
 *****
@@ -1743,57 +1746,57 @@ découvrir une demi-douzaine de corps allongés à côté d'un loup noir
 qui était occupé à dévorer ce qui restait de monsieur Maurice.  À coté
 de la bête, les vêtements d'Anya traînaient, éparpillés.
 
-« Oh, merde, fit Ray.
+— Oh, merde, fit Ray.
 
-— Mon Dieu », lâcha Sylvie, effrayée.
+— Mon Dieu, lâcha Sylvie, effrayée.
 
 Le colosse soupira et décida de s'allumer un cigare.
 
-« *Oh non*, railla-t-il en imitant la voix d'Anya. *Je déteste cette
+— *Oh non*, railla-t-il en imitant la voix d'Anya. *Je déteste cette
 partie de moi.* Sauf quand il y a un repas gratuit à la clé,
-évidemment, hein ? »
+évidemment, hein ?
 
 La louve s'arrêta de manger pour tourner la tête vers lui et retroussa
 ses babines, menaçante.
 
-« Je ne comprends pas, fit Sylvie. 
+— Je ne comprends pas, fit Sylvie. 
 
 — Moi non plus, répliqua Ray. Pas moyen qu'elle se transforme
-    lorsqu'il s'agit d'enquêter, Mademoiselle ne va quand même pas
-    s'abaisser à utiliser son odorat de loup pour trouver le
-    coupable. Par contre, lorsqu'il s'agit d'utiliser ses mâchoires de
-    loup pour le déguster, là, plus de problème.
+  lorsqu'il s'agit d'enquêter, Mademoiselle ne va quand même pas
+  s'abaisser à utiliser son odorat de loup pour trouver le
+  coupable. Par contre, lorsqu'il s'agit d'utiliser ses mâchoires de
+  loup pour le déguster, là, plus de problème.
     
 — Vous voulez dire, demanda l'aubergiste, que ce loup, c'est
-    mademoiselle Volk ?
+  mademoiselle Volk ?
     
 — Ouais, répondit Ray. Je pense qu'on ferait mieux de se
 retourner.
 
 — Donc, demanda Sylvie en tournant le dos à Anya, c'est une
-    louve-garou ?
+  louve-garou ?
     
-— On peut dire ça, je suppose. »
+— On peut dire ça, je suppose.
 
 Ray inspira une bouffée de tabac, attendant que son amie ait fini de
 se transformer.
 
-« C'est bon ? demanda-t-il. On peut se retourner ?
+— C'est bon ? demanda-t-il. On peut se retourner ?
 
 — Oui et non, répondit Anya. Merde, je n'aurais pas dû remettre ma
-    chemise. Hum, Sylvie ? Je pourrais vous emprunter votre veste ? »
+  chemise. Hum, Sylvie ? Je pourrais vous emprunter votre veste ?
     
 L'aubergiste la retira et la lui tendit, en prenant toujours soin de
 ne pas se retourner. 
 
-« Oh, et pour ta gouverne, Ray, non pas que ça te regarde, parce que
+— Oh, et pour ta gouverne, Ray, non pas que ça te regarde, parce que
 je fais ce que je veux, mais ce connard avait une canne-épée. J'ai
 été *obligée* de me transformer. C'était une question de vie ou de
 mort. 
 
 — Une canne-épée ? cracha le colosse. C'est tellement *ringard*. Ces
   ploucs ne savent pas que maintenant on fait des arbalètes miniatures
-  qui peuvent se cacher dans une manche ? »
+  qui peuvent se cacher dans une manche ?
 
 *****
 
@@ -1838,17 +1841,17 @@ cela de loin, seule.
 Elle se leva et se dirigea vers André, profitant d'un moment où il
 n'était pas en train de parler avec des « camarades ».
 
-« Je vais y aller, expliqua-t-elle. 
+— Je vais y aller, expliqua-t-elle. 
 
 — Déjà ? s'étonna le syndicaliste.
 
 — Je suis un peu fatiguée.
 
-— D'accord, très bien. Merci pour ce que vous avez fait. »
+— D'accord, très bien. Merci pour ce que vous avez fait.
 
 Anya haussa les épaules.
 
-« Ça changera quoi ? demanda-t-elle. D'accord, ils sont libérés,
+— Ça changera quoi ? demanda-t-elle. D'accord, ils sont libérés,
   mais...
 
 — Je pense que ce n'est pas rien. Ils auraient été exécutés.
@@ -1856,8 +1859,8 @@ Anya haussa les épaules.
 — Je sais, mais pour vous... la mine va rester fermée.
 
 — Au moins, nous avons obtenu la vérité. Sans compter une
-    indemnisation non négligeable. Nous vous devons beaucoup, nous
-    en avons conscience. »
+  indemnisation non négligeable. Nous vous devons beaucoup, nous
+  en avons conscience.
 
 Anya ne répondit pas qu'elle trouvait qu'elle avait plutôt
 l'impression que les gens avaient conscience de devoir beaucoup à Ray,
@@ -1869,7 +1872,7 @@ Le lendemain, Ray et Anya se dirigeaient vers la porte Sud de Sénéla, leurs ba
 à la main. Ils devaient prendre la diligence qui passait à six heures
 du matin.
 
-« Tu boudes ? demanda le colosse en bâillant.
+— Tu boudes ? demanda le colosse en bâillant.
 
 — Pourquoi ?
 
@@ -1893,17 +1896,17 @@ m'ont même pas remerciée. Je ne sais pas pourquoi je continue à faire
 ce boulot, tu sais ?
 
 — Parce que tu te débrouilles toujours pour bouffer le sale type ?
-    plaisanta Ray.
+  plaisanta Ray.
     
 — N'empêche, plus de contrats au rabais chez des bouseux qui n'ont
-    jamais vu de louve-garou, c'est trop...
+  jamais vu de louve-garou, c'est trop...
 
-— Mademoiselle Volk ! »
+— Mademoiselle Volk !
 
 La jeune femme se retourna, surprise, et aperçut Sylvie qui courait
 vers elle.
 
-« J'ai cru que j'allais vous manquer, annonça-t-elle à bout de
+— J'ai cru que j'allais vous manquer, annonça-t-elle à bout de
   souffle lorsqu'elle les eut rejoints. Vous êtes partis tôt.
 
 — La diligence est à six heures, expliqua Ray.
@@ -1911,25 +1914,25 @@ vers elle.
 — Je sais, fit l'aubergiste. Mademoiselle Volk, je voulais vous
 remercier. 
 
-— Tu sais, je crois que tu pourrais m'appeler Anya, maintenant. »
+— Tu sais, je crois que tu pourrais m'appeler Anya, maintenant.
 
 Sylvie eut un petit sourire embarrassé, puis elle baissa la tête et
 chercha dans une de ses poches. Elle en sortit quelque chose d'argenté
 qu'elle plaça dans la main de la détective.
 
-« C'est un collier, expliqua-t-elle. C'est un cadeau, pour vous
+— C'est un collier, expliqua-t-elle. C'est un cadeau, pour vous
   remercier. Je me suis décidée à vendre l'auberge et à quitter cette
   ville. Bien sûr, je sais que ça ne vaut sans doute pas toutes les
   protections magiques que vous avez, mais...
 
 — Oh, si, ça les vaut largement, fit Anya en serrant l'aubergiste
-dans ses bras. Merci, Sylvie. »
+dans ses bras. Merci, Sylvie.
 
 Les deux femmes échangèrent encore quelques mots, puis la détective
 rattrapa son ami, tandis que la serveuse lui faisait au revoir de la
 main.
 
-« *Personne ne m'aime !* railla Ray en imitant la voix de
+— *Personne ne m'aime !* railla Ray en imitant la voix de
 son amie. *Personne ne vient me parler !*
 
 — Oh, ça va.
@@ -1938,6 +1941,8 @@ son amie. *Personne ne vient me parler !*
 mettant ses lunettes de soleil. Tu parles. C'est juste que t'es jamais
 contente.
 
-— Ce n'est pas vrai », répliqua Anya, un sourire aux lèvres, alors
-qu'elle attachait le collier autour de son
-cou. « *Là*, je le suis. »
+— Ce n'est pas vrai, répliqua Anya.
+
+Un sourire aux lèvres, elle attacha le collier autour de son cou.
+
+— *Là*, je le suis.

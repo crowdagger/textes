@@ -2,6 +2,8 @@ author: Lizzie Crowdagger
 title: Sorcières & Zombies
 lang: fr
 
+cover: couv/cover.png
+
 output.pdf: sorcieres_zombies.pdf
 output.html: sorcieres_zombies.html
 output.epub: sorcieres_zombies.epub
