@@ -7,6 +7,7 @@ cover: couv.png
 output.html: pulmonaire.html
 output.epub: pulmonaire.epub
 output.pdf: pulmonaire.pdf
+output.odt: pulmonaire.odt
 
 ! pulmonaire.md
 - about.md
