@@ -15,6 +15,7 @@ output.epub: endr.epub
 output.html: endr.html
 output.pdf: endr.pdf
 output.odt: endr.odt
+output.html_dir: html
 
 - chapitre_01.md
 - chapitre_02.md
