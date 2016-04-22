@@ -144,7 +144,7 @@ conscience de la présence d'André. Anya Volk.
 peu... inattendu...
 
 — Anya est ma collaboratrice, expliqua Ray. Mais vous en faites
-pas, ça change rien aux tarifs. »
+pas, ça change rien aux tarifs.
 
 André ne répondit rien, mais il était clair, vu son expression, que
 les tarifs n'étaient pas ce qui lui posait le plus problème.
@@ -452,13 +452,17 @@ pièce. Ça vous gêne si je m'assoie ?
 — Qui êtes vous ? demanda monsieur Maugeais d'un air furieux. Sortez
 d'ici immédiatement !
 
-— Je m'appelle Volk, répondit la détective en tirant une chaise et
-en s'asseyant. Anya Volk. Avec un K. Je mène une enquête sur
-  l'effondrement de votre mine.
+— Je m'appelle Volk, répondit la détective.
 
-— Une enquête ? demanda le propriétaire avec un air
-dédaigneux, pendant que la secrétaire sortait du
-bureau. Voyez-vous ça...
+Elle tira une chaise et s'assit dessus.
+
+— Anya Volk, reprit-elle. Avec un K. Je mène une enquête sur
+l'effondrement de votre mine.
+
+Monsieur Maugeais fit un signe de tête à sa secrétaire, qui sortit du
+bureau. 
+
+— Une enquête ? demanda-t-il avec un air dédaigneux. Voyez-vous ça...
 
 — J'ai deux questions pour vous.
 
@@ -525,8 +529,10 @@ devina qu'il devait s'agir de monsieur Maurice, son associé.
 
 — Cette... personne... allait s'en aller.
 
-— Mademoiselle », fit l'associé avec un sourire charmant en plongeant
-son regard dans celui d'Anya. « Nous sommes ravis de votre
+L'associé fit un sourire charmant en plongeant son regard dans celui
+d'Anya. 
+
+— Mademoiselle, nous sommes ravis de votre
   visite. La sortie est la deuxième porte à droite.
 
 La jeune femme se leva immédiatement, baissa légèrement la tête devant
@@ -540,7 +546,7 @@ que prévu.
 
 Même si ça l'embarrassait, le détective devait admettre que le départ
 de sa collaboratrice avait facilité les choses : les langues s'étaient
-déliées et la défiance qu'avaient certains des hommes s'étaient
+déliées et la défiance qu'avaient certains des travailleurs s'étaient
 envolée. 
 
 Les discussions avaient beaucoup porté sur la personnalité
@@ -556,7 +562,7 @@ avait demandé de creuser plus profondément. Les mineurs craignaient
 pour leur sécurité et s'étaient mis en grève ; mais, contrairement à
 ce qui s'était passé des années plus tôt, Maugeais n'avait pas
 cédé. Certains liaient ce changement d'attitude à son association avec
-Maurice, réputé pour être implacable, mais toujours est-il qu'après
+Maurice, réputé implacable, mais toujours est-il qu'après
 plus d'un mois pendant lequel la mine avait été bloquée, le travail
 avait repris. 
 
@@ -634,8 +640,11 @@ Cela n'avait pas fonctionné, encore heureux, mais Anya avait dû faire
 semblant d'être sous l'effet du sort pour ne pas révéler qu'elle
 avait elle-même quelques capacités dans le domaine.
 
-— Putain de trouduc', râla-t-elle en s'allumant une cigarette. Je
-  lui ferai bouffer son sourire, à ce connard...
+— Putain de trouduc', râla-t-elle.
+
+Elle s'alluma une cigarette.
+
+— Je lui ferai bouffer son sourire, à ce connard...
 
 — Monsieur Volk ? fit une voix sur sa droite.
 
@@ -881,9 +890,9 @@ pourquoi ils nous encerclent, hein ?
 André déglutit. Il voyait effectivement des loups dépasser tout autour
 d'eux. Ce n'était pas un comportement normal. 
 
-— Mon Dieu, lâcha-t-il alors qu'ils commençaient à se rapprocher
-avec un grondement sourd. 
+— Mon Dieu, lâcha-t-il.
 
+Les loups commençaient à se rapprocher avec un grondement sourd.
 Pendant ce temps, le colosse avait sorti un gros cigare de son manteau
 et était en train de l'allumer tranquillement.
 
@@ -1113,7 +1122,7 @@ certifié à Ray que tous les puits avaient été fermés. D'après les
 rapports qu'elle voyait, la mine avait effectivement été entièrement
 condamnée après l'explosion.
 
-— Voilà, fit Sylvie en lui apportant sa tasse de café.
+Sylvie lui apporta sa tasse de café.
 
 — Merci.
 
@@ -1163,7 +1172,7 @@ Sylvie eut un petit sourire,
 
 — J'aimerais oser quitter cette ville, expliqua
   l'aubergiste. Seulement, c'est tout ce que je connais. J'aimerais
-  être aussi courageuse que vous ?
+  être aussi courageuse que vous.
    
 — Que moi ? s'étonna Anya.
 
@@ -1639,9 +1648,12 @@ Anya montrait son dos nu face aux gardes et Maurice. Tout
 le monde pouvait voir le pentacle qui s'étalait sur une bonne partie
 de la surface de sa peau.
 
-— Et en quoi cela joue en votre faveur ? demanda Leslie tandis
-que la détective se retournait, les bras croisés sur la poitrine pour
-la masquer aux regards. En plus de tout, vous êtes une sorcière ? 
+— Et en quoi cela joue en votre faveur ? demanda Leslie.
+
+La détective se retourna, les bras croisés sur la poitrine pour
+la masquer aux regards.
+
+— En plus de tout, vous êtes une sorcière ? 
 
 — Ça prouve que j'ai pu sentir sa magie, répondit Anya aussi
 calmement qu'elle le pouvait.
@@ -1658,13 +1670,12 @@ Elle montra la blessure qu'elle avait à l'épaule. Leslie s'approcha
 un peu, intriguée, et examina la plaie. Elle pouvait voir
 distinctement les traces de dents, qui semblaient humaines.
 
-Leslie grimaça. Elle trouvait qu'elle avait du mal à réfléchir et ne
-savait pas quoi faire.
+Leslie grimaça. 
 
 — Ces traces... constata-t-elle. Ça pourrait être n'importe qui...
 
-— Mais quel humain m'aurait *mordue* ? Ce n'est pas courant,
-quand même ! 
+— Mais quel humain m'aurait *mordue* ? demanda Anya en remettant sa chemise. Ce n'est pas courant,
+quand même !
 
 — D'accord, mais pourquoi monsieur Maurice aurait-il intérêt à faire
 de ses travailleurs des morts-vivants ?
@@ -1684,7 +1695,7 @@ pensive. On arrête les trois. On réglera tout
 — Oui, je compte. Je réalise que je n'ai pas franchement les
 idées claires, et peut-être bien que c'est à cause de vous. À moins
 que ça ne soit *elle*. Alors pour l'instant, tout le monde la
-ferme, d'accord ? » 
+ferme, d'accord ?
 
 Le propriétaire de la mine soupira et grommela quelques mots.
 
@@ -1784,7 +1795,7 @@ se transformer.
 — C'est bon ? demanda-t-il. On peut se retourner ?
 
 — Oui et non, répondit Anya. Merde, je n'aurais pas dû remettre ma
-  chemise. Hum, Sylvie ? Je pourrais vous emprunter votre veste ?
+  chemise. Hum, Sylvie ? Je pourrais t'emprunter ta veste ?
     
 L'aubergiste la retira et la lui tendit, en prenant toujours soin de
 ne pas se retourner. 

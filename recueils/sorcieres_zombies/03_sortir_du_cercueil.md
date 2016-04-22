@@ -135,9 +135,9 @@ William soupira.
 
 — Quoi ?
 
-— Ta phrase. « *Je sais qu'ils ne font pas un truc — tu crois
-  qu'ils le savent, eux ?*, c'est aussi refait que le coup du « *je
-  ne crois pas en machin — mais on dirait que machin croit en toi*. 
+— Ta phrase. « Je sais qu'ils ne font pas un truc — tu crois
+  qu'ils le savent, eux ? », c'est aussi refait que le coup du « je
+  ne crois pas en machin — mais on dirait que machin croit en toi ». 
 
 
 — Ben, refait ou pas, t'es dans la merde.
@@ -225,7 +225,7 @@ de la joie que vous y apportez !
 De son côté, William s'inclinait respectueusement et serrait la main
 du comte, ou, plutôt, se faisait broyer la main par lui. 
 
-— Ravi de faire votre connaissance, monsieur le comte.
+— Ravi de faire votre connaissance, Monsieur le comte.
 
 — Venez. Vous devez mourir de faim. Je vais prendre vos bagages.
 
@@ -378,7 +378,7 @@ non... mais là, des femmes...
 — Vous voulez dire que... ? demanda le comte, avant de reculer d'un
 pas.
 
-— Euh, ça va, répliqua William. Sans vouloir vous vexer, comte, j'ai dit
+— Euh, ça va, répliqua William. Sans vouloir vous vexer, Comte, j'ai dit
 des *beaux* gars. 
 
 — Oh, lâcha Ekul d'un air rassuré. Bien. Avez-vous mangé ? 
@@ -553,7 +553,7 @@ serrer la gorge.
 
 — Je devrais vous tuer, espèce de crétin !
 
-— Vous dites ça sur.... le coup de la colère, comte.
+— Vous dites ça sur.... le coup de la colère, Comte.
 
 — Vous auriez pu la tuer, espèce de taré !
 
@@ -625,10 +625,10 @@ cigarette pour s'éclaircir les idées.
 Au bout de quelques instants, les conclusions qu'il tira furent les
 suivantes : 
 
-* une demi-douzaine d'hommes armés étaient entrés dans le château ;
-* leurs tenues semblaient indiquer qu'ils faisaient partie de
+1. une demi-douzaine d'hommes armés étaient entrés dans le château ;
+2. leurs tenues semblaient indiquer qu'ils faisaient partie de
   l'église ;
-* en face d'eux, le comte, sa fille et les trois femmes
+3. en face d'eux, le comte, sa fille et les trois femmes
   paraissaient bien démunis. 
 
 Pas étonnant, nota William. Il faisait encore jour. Le cocher, en
@@ -663,7 +663,7 @@ vous sauver de ces monstres buveurs de sang !
 
 — Évidemment ! Ce sont des...
 
-— ...vampires ?, demanda William.
+— ...vampires ? demanda William.
 
 Il envoya en souriant un
 nouveau carreau dans la tête du soldat le moins gradé.

@@ -298,7 +298,7 @@ Niveau tee-shirt, c'était le même genre : « I see fragged people »
 Revolution ». Claire se demanda d'ailleurs furtivement pourquoi une
 fille qui portait un tel tee-shirt vivait dans une gigantesque
 maison. En 
-revanche, Claire nota que Lise était vêtue d'un pantalon. Il y avait
+revanche, Claire nota que Lise portait un pantalon. Il y avait
 donc du progrès. 
 
 — Mais qui êtes vous ? demanda Lise en levant un sourcil.
@@ -342,9 +342,8 @@ Claire.
 — Qu'est-ce que j'en sais ? La baraque est plutôt grande, si vous
 n'avez pas remarqué.
 
-Claire soupira. Malgré la gravité de la situation, cette fille
-commençait à lui taper sur les nerfs avec sa façon de tout prendre à
-la légère.
+Claire soupira. Malgré la gravité de la situation, cette fille prenait
+tout à la légère, ce qui commençait à lui taper sur les nerfs.
 
 — Bon, fit-elle. Il n'est apparemment pas au premier. On va voir
   au rez-de-chaussée.
@@ -464,8 +463,10 @@ annonça :
 Claire, horrifiée. C'est la meilleure manière d'y passer
 toutes les deux.
 
-— Mais non, répondit Lise en commençant à avancer dans le
-couloir, sans prendre la peine d'allumer la lumière. Ils font
+Lise commença à avancer dans le couloir, sans prendre la peine
+d'allumer la lumière.
+
+— Mais non, répondit-elle. Ils font
   toujours ça dans les films d'horreur, et ils ont de l'expérience
   dans le domaine.
 
@@ -611,10 +612,11 @@ grandes bottes dans le sang des deux cadavres qui ne se relèveraient
 plus, alluma le gaz au maximum et ressortit, donnant au passage une
 tape dans le dos de Claire pour qu'elle se reprenne.
 
-— Vous avez fait quoi, avec le gaz ? demanda-t-elle nerveusement
-  en s'essuyant la bouche, et en essayant de suivre Léonard qui se
-  dirigeait vers le couloir où avait disparu Lise quelques minutes 
-  plus tôt. 
+Celle-ci s'essuya la bouche, et essaya de suivre Léonard,
+qui se dirigeait vers le couloir où avait disparu Lise quelques minutes 
+plus tôt. 
+
+— Vous avez fait quoi, avec le gaz ? demanda-t-elle.
 
 — Ah ! fit joyeusement Léonard. Tout va sauter ! Finis, ces putain
 de zombies !

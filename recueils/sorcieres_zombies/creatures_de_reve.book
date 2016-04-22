@@ -7,7 +7,7 @@ cover: couv/creatures_de_reve.png
 output.pdf: creatures_de_reve.pdf
 output.epub: creatures_de_reve.epub
 output.html: creatures_de_reve.html
-html.display_chapter: true
+html.display_chapter: false
 
 ! 02_creatures_de_reve.md
 - livres.md

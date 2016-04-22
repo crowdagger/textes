@@ -1105,7 +1105,7 @@ Elle planta alors le couteau dans la gorge de l'homme. Le sang coula,
 beaucoup. Cela ne suffit pas à Alys, qui s'acharna à essayer de le
 décapiter.
 
-— La prochaine fois, râla-t-elle, je prendrais une putain de tronçonneuse.
+— La prochaine fois, râla-t-elle, je prendrai une putain de tronçonneuse.
 
 — Tu fais quoi ? protesta Stéphane. C'était ton père, tout de même !
 
@@ -1148,7 +1148,7 @@ mineur qui avait parlé. Il le reconnaissait. C'était son frère.
 
 — Antoine ? demanda-t-il, incrédule.
 
-Alys, qui avait commencé à s'approcher du cadavre de Vermont se tourna
+Alys, qui avait mis un pied sur Vermont pour l'immobiliser, se tourna
 vers lui et fronça les sourcils.
 
 — Quoi ? demanda-t-elle.
@@ -1175,7 +1175,8 @@ Alys eut une petite grimace d'incompréhension.
 Stéphane mit un doigt sur la détente mais sentit ses mains commencer à
 trembler. Est-ce que c'était vraiment Antoine ? Est-ce qu'il pouvait
 lui faire confiance ? Mais c'était son frère. Il était sans doute plus
-digne de confiance qu'une fille qui avait une tronçonneuse à la main.
+digne de confiance qu'une fille qui avait une propension à vouloir
+décapiter les gens à la tronçonneuse. 
 
 Alys le regarda d'un air songeur, puis elle se mit à sourire.
 
@@ -1225,7 +1226,7 @@ Alys haussa les épaules.
 
 — En tout cas, le fusil et le couteau n'étaient pas suffisants.
 
-Il y eut un grondement sourd Stéphane sentit la terre vibrer. 
+Il y eut un grondement sourd. Stéphane sentit la terre vibrer. 
 
 — Il faut vraiment qu'on y aille, fit Alys.
 
