@@ -1,0 +1,14 @@
+author: Lizzie Crowdagger
+title: La mémoire de l'eau
+lang: fr
+
+output.html: memoire.html
+output.pdf: memoire.pdf
+output.epub: memoire.epub
+
+html.display_chapter: false
+
+- chapitre_1.md
+- chapitre_2.md
+- chapitre_3.md
+- chapitre_4.md
