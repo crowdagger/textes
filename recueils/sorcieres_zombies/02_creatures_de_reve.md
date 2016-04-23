@@ -3,8 +3,6 @@ author: Lizzie Crowdagger
 title: Créatures de rêve
 lang: fr
 
-cover: couv/creatures_de_reve.png
-
 output.pdf: creatures_de_reve.pdf
 output.epub: creatures_de_reve.epub
 output.html: creatures_de_reve.html
