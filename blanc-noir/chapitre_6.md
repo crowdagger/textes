@@ -36,7 +36,6 @@ Mais, disons, quatre-vingt-dix pourcent ? »
 
 J’ai fini par raccrocher, le cœur encore plus lourd qu’avant. J’étais
 maintenant persuadée que Laura était innocente.
-
 Et elle était sûrement au quartier général de *Lumière Blanche*, en
 train de se faire torturer.
 
@@ -45,7 +44,7 @@ jeunesse. Quand ils capturaient un démon ou qu’ils interrogeaient un
 type, ils n’allaient pas au QG. Soit ils le descendaient directement,
 soit ils ramenaient le boulot à la maison.
 
-Il va sans dire que la plupart des agents de *Lumière Blanche *ont des
+Il va sans dire que la plupart des agents de *Lumière Blanche* ont des
 maisons bien isolées.
 
 *****
@@ -106,14 +105,12 @@ bleue ? »
 
 J’ai réfléchi un long moment avant de sonner à la maison de Elm.
 J’allais essayer de libérer un démon. C’était insensé.
-
 Mais elle était innocente et c’était mon amie. Plus ou moins mon amie,
 en tout cas.
 
 Et puis, j’avais passé toute ma vie à faire plus ou moins ce qu’on
 attendait de moi. Quitte à se mettre à ne plus être une citoyenne
 modèle, autant ne pas le faire à moitié.
-
 J’ai essayé de cacher le Uzi derrière mon dos et j’ai sonné.
 
 Au bout d’un long et pénible moment d’attente, Elm a ouvert la porte.
@@ -172,7 +169,7 @@ avait les mains libres, et tenait son sac à dos avec la gauche.
 Laura lui a lancé un regard mauvais et est passée derrière moi. Je suis
 partie à reculons, le Uzi toujours pointé sur Elm.
 
-Et puis on est monté dans ma twingo.
+Et puis on est montées dans ma twingo.
 
 « Merci, a-t-elle dit quand j’ai démarré. Je ne sais pas quoi dire,
 je... »
@@ -266,7 +263,7 @@ Elle a haussé les épaules.
 
 « Au départ, c’était quand j’avais peur du noir. Alors, contre des
 ombres ou des fantômes, un revolver qui ne peut pas tirer, ce n’est pas
-*si *ridicule.
+*si* ridicule.
 
 — Tu as peur du noir ?
 
@@ -348,8 +345,8 @@ réfléchir et que ça me paraissait être une question purement rhétorique.
 
 « Voilà. C’est ce qu’on en a conclu.
 
-— Ce n’est pas un peu rapide ? Ce n’est pas parce que *Lumière Blanche
-*est devenu ce que c’est actuellement que la cause à l’origine n’est pas
+— Ce n’est pas un peu rapide ? Ce n’est pas parce que *Lumière
+Blanche* est devenu ce que c’est actuellement que la cause à l’origine n’est pas
 bonne pour autant.
 
 — Et le but de Lucifer, au départ, c’était la liberté. Sauf que

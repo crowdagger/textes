@@ -26,13 +26,12 @@ ciel, ou techniquement, peut-être pas du ciel, mais peu importe.
 
 Le type — un gars bien habillé, plutôt jeune par rapport à la moyenne
 d’âge des propriétaires de ce genre de voitures — a fermé la portière et
-l’a verrouillée avec un « bip-bip » qui a fait clignoter les phares,
-avant de ranger les clés dans sa veste.
+l’a verrouillée avec un « bip-bip » qui a fait clignoter les
+phares. Il a ensuite rangé les clés dans sa veste.
 
 Laura a mis ses lunettes de soleil, ouvert la porte, et est sortie juste
-à temps pour croiser le propriétaire du bel engin.
-
-Elle a trébuché, manqué de tomber, et a dû se rattraper au riche
+à temps pour croiser le propriétaire du bel engin. Elle a trébuché,
+manqué de tomber, et a dû se rattraper au riche 
 monsieur.
 
 En arborant son sourire le plus charmant alors qu’il plongeait son
@@ -60,14 +59,14 @@ sang. Et, s’il l’avait fait, ça aurait sans doute un peu accéléré
 l’enquête qui allait être menée.
 
 Mais il ne s’agissait pas d’un film et il n’a pas laissé d’indices. Je
-ne pense pas qu’on puisse lui en vouloir. Il pensait sans doute à autre
+ne crois pas qu’on puisse lui en vouloir. Il pensait sans doute à autre
 chose.
 
 Quoiqu’il en soit, la Mort est venue le faucher quelques minutes après,
 au moment même où Laura appuyait sur l’accélérateur et lâchait les cinq
 cents chevaux de son nouveau jouet sur l’autoroute.
 
-Bon, peut-être pas *exactement *au même moment, je n’en sais rien, et,
+Bon, peut-être pas *exactement* au même moment, je n’en sais rien, et,
 finalement, ça n’a pas une grande importance.
 
 *****
@@ -78,7 +77,7 @@ Celui de mon oncle, je veux dire, pas de Laura. À ce moment là, elle
 existence tranquille.
 
 J’aurais probablement dû laisser couler une larme. Être bouleversée.
-Mais, en vérité, on n’était plus très proche. On ne l’avait même jamais
+Mais, en vérité, on n’était plus très proches. On ne l’avait même jamais
 vraiment été.
 
 « Mademoiselle Delaur ? » a demandé quelqu’un alors que je m’apprêtais à
@@ -119,7 +118,7 @@ Le flic s’est arrêté, hésitant manifestement à continuer.
 
 « Mais quoi ? ai-je demandé.
 
-— Apparemment, *Lumière Blanche *enquêterait aussi », a-t-il lâché.
+— Apparemment, *Lumière Blanche* enquêterait aussi », a-t-il lâché.
 
 Je suis restée silencieuse un moment, à digérer l’information. *Lumière
 Blanche*, comme vous le savez sans doute, est une organisation plus ou
@@ -135,13 +134,13 @@ front.
 
 Enfin, chez nous, évidemment. C’est très différent dans les pays où
 c’est le Mal qui est au pouvoir. Je ne sais pas trop comment ça se passe
-là-bas. Ils ont peut-être une *Obscurité noire *qui traque les curés, je
+là-bas. Ils ont peut-être une *Obscurité noire* qui traque les curés, je
 n’en sais rien.
 
-En tout cas, si *Lumière Blanche *se mêlait de ça, c’était probablement
+En tout cas, si *Lumière Blanche* se mêlait de ça, c’était probablement
 qu’ils supposaient que l’assassin de mon oncle n’était pas un humain.
 
-Bon, et alors, me suis-je demandée, qu’est-ce que ça changeait ?
+Bon, et alors, me suis-je demandée, qu’est-ce que ça changeait ?
 Johnatan Delaur, quand il était plus jeune, avait éliminé plus d’une
 créature infernale. Que ce soit un voleur qui l’ait tué pour éliminer un
 témoin, ou un démon par vengeance ou parce qu’il portait la soutane, le
@@ -176,15 +175,10 @@ sur le monde.
 
 Alors que le yacht n’était presque plus visible, son téléphone a vibré
 doucement à côté d’elle. Elle y a jeté un coup d’œil rapide avant de
-ranger ses affaires dans son sac à dos et de passer un tee-shirt noir où
-il était écrit en rouge « 100% silicone » au niveau de la poitrine. Elle
+ranger ses affaires dans son sac à dos et de passer un tee-shirt noir. Elle
 est ensuite entrée dans un bar et s’est assise en face d’un homme en
 chemise hawaïenne qui portait des petites lunettes rouges et qui se
-faisait appeler Bob.
-
-« Joli tee-shirt, a-t-il dit en avalant une gorgée de pastis.
-
-— Merci. »
+faisait appeler Bob. Il était présentement en train de siroter un pastis.
 
 Une serveuse s’est approchée de Laura, et lui a demandé ce qu’elle
 voulait boire. Elle s’est contentée de prendre une grenadine. Bob a
@@ -193,10 +187,10 @@ enveloppe marron de son sac.
 
 « Voilà votre nouvelle mission.
 
-— Je dois faire quoi ? a demandé Laura, repoussant une mèche de ses
+— Je dois faire quoi ? » a demandé Laura, repoussant une mèche de ses
 longs cheveux noirs pour éviter qu’ils ne trempent dans sa boisson.
 
-— Toutes les infos sont là-dedans. Pour résumer, vous avez juste à nous
+« Toutes les infos sont là-dedans. Pour résumer, vous avez juste à nous
 donner des renseignements sur un type. L’idéal serait qu’il tombe
 amoureux de vous, ou quelque chose dans le genre. Vous voyez ce que je
 veux dire ? »
@@ -227,7 +221,7 @@ curiosité est satisfaite ?
 
 — Je ne savais pas qu’on pouvait changer de camp.
 
-— Pourquoi ? T’en as envie ?
+— Pourquoi ? Vous en avez envie ?
 
 — Non, a répondu Laura en souriant. À moins qu’ils aient plus de congés
 que nous, évidemment. »
@@ -242,9 +236,8 @@ des films américains à gros budget, un moniteur d’auto-école aurait
 trouvé pas mal de choses à redire sur la façon de faire le créneau. Les
 bagnoles, ce n’est pas trop mon truc non plus.
 
-Max est sorti de la voiture, et je l’ai suivi.
-
-Maximilien Ulster était lieutenant, et c’était aussi mon coéquipier
+Max est sorti de la voiture, et je l’ai suivi. Maximilien Ulster était
+lieutenant, et c’était aussi mon coéquipier  
 temporaire, malgré le fait que j’avais un grade nettement inférieur :
 j’étais une nouvelle recrue. Il était assez grand, plutôt costaud, la
 trentaine, et, à vrai dire, plutôt mignon.
@@ -356,7 +349,7 @@ faisait trop de coïncidences.
 
 — Ça aurait peut-être pu. Mais ce type avait des atouts pour lui : des
 alibis en béton, et un très bon avocat. Il a réussi à disqualifier nos
-témoins et à trouver de bons alibis. En général dans des soirées
+témoins et à trouver d'autres. En général dans des soirées
 huppées, ce qui pouvait rendre notre travail problématique.
 
 — Pourquoi ? La loi n’est pas la même pour tous ?
@@ -391,9 +384,8 @@ de son œil gauche et appuyé d’un coup sec dessus, avant de faire la même
 opération pour l’œil droit.
 
 Ni le gauche, ni le droit n’ont réagi très positivement à tout cela, et
-ils se sont mis à rougir et à pleurer.
-
-Laura a jeté le citron, qui est allé rouler à quelques mètres de la
+ils se sont mis à rougir et à pleurer. Laura a jeté le citron, qui est
+allé rouler à quelques mètres de la 
 moto, et s’est nettoyé le visage avec une petite bouteille d’eau. Elle
 entendait maintenant le bruit d’une voiture qui approchait. Elle a rangé
 la bouteille dans son sac, s’est essuyée, et s’est avancée pratiquement
@@ -408,9 +400,8 @@ musique et ses derniers moments de week-end lorsqu’il a dû piler pour ne
 pas écraser la jeune fille qui se trouvait au milieu de la route.
 
 Elle avait de longs cheveux, noirs et lisses, des yeux verts pleins de
-larmes, une poitrine généreuse estampillée « 100% silicone », une mini
-jupe et des bottes noires montant jusqu’à mi-mollet.
-
+larmes, une mini
+jupe et des bottes noires montant jusqu’à mi-mollet. 
 Un peu vulgaire, s’est dit Bertrand. Vulgaire, mais attirante, il
 fallait bien l’admettre.
 

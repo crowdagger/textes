@@ -93,24 +93,24 @@ prudente. »
 Je n’avais pas besoin qu’il me le dise. Contrairement à lui, j’avais un
 mauvais pressentiment. Je sentais que le tueur n’était pas loin.
 
-« Il s’est fait refaire le cœur à coup de couteau de cuisine, a observé
-Max, mais je me serais bien passée de ce détail.
+« Il s’est fait refaire le cœur à coup de couteau de cuisine », a observé
+Max.
 
-— Il est là, ai-je dit. Je le sens.
+Je me serais bien passée de ce détail.
 
-— Calme toi, a répondu Max. Il est sûrement reparti. Ce serait stupide
+« Il est là, ai-je dit. Je le sens.
+
+— Calme-toi, a répondu Max. Il est sûrement reparti. Ce serait stupide
 de rester, non ? »
 
-Mais il ne m’a pas convaincue. Ce n’était peut-être pas très rationnel,
+Il ne m’a pas convaincue. Ce n’était peut-être pas très rationnel,
 mais je me suis contentée de secouer la tête, ouvrant les placards les
 uns après les autre.
-
 Au bout du troisième, je suis tombée nez à nez avec une fille
 entièrement nue, manifestement aussi surprise que moi.
 
-On est resté à se dévisager une fraction de seconde en silence, sans que
+On est restées à se dévisager une fraction de seconde en silence, sans que
 ni l’une ni l’autre ne parvienne à bouger.
-
 Elle avait les cheveux longs et sombres, mais c’est en fait à peu près
 tout ce que j’ai vu sur le coup. Ça, et qu’elle n’avait pas d’arme.
 
@@ -119,7 +119,6 @@ tout ce que j’ai vu sur le coup. Ça, et qu’elle n’avait pas d’arme.
 Entendre cette inconnue, cette meurtrière, prononcer mon nom a été la
 goutte d’eau qui a fait déborder le vase. Pendant un moment, je n’ai
 plus été capable de réfléchir.
-
 Je me suis écartée d’un pas et ai levé mon arme.
 
 « Lève les mains ! » ai-je hurlé, à la limite de l’hystérie. Je me
@@ -165,9 +164,9 @@ une évolution assez naturelle des choses, finalement.
 « Alors, t’es rentrée chez les poulets ? » m’a-t-elle demandé.
 
 Elle était maintenant assise sur une chaise. Elle avait pu passer un
-tee-shirt, et on lui avait aussi passée des menottes, « au cas où ».
+tee-shirt, et on lui avait aussi passé des menottes, « au cas où ».
 
-Derrière elle, un certain nombre de policiers s’affairaient, et étaient
+Derrière elle, un certain nombre de policiers s’affairaient et étaient
 en train d’emporter le cadavre, dont le contour avait préalablement été
 marqué à la craie. Bref, tout le déballage habituel pour un meurtre.
 
@@ -190,10 +189,9 @@ fois que je l’avais vue, elle n’avait rien d’un enfant de chœur, et le
 fait qu’elle ait changé de coiffure ne voulait pas dire qu’elle soit
 devenue une citoyenne modèle.
 
-Mais malgré tout ses défauts, je doutais qu’elle ait été assez stupide
-pour rester dans le coin après avoir tué un type.
-
-Stupide, peut-être pas, mais camée ? me suis-je demandé. Je savais
+Malgré tout ses défauts, je doutais qu’elle ait été assez stupide
+pour rester dans le coin après avoir tué un type. Stupide, peut-être
+pas, mais camée ? me suis-je demandé. Je savais 
 qu’elle se droguait, à l’époque où on était au lycée.
 
 « Vous n’avez pas l’air très émue de sa mort », a remarqué Max, qui
@@ -253,8 +251,7 @@ Il m’a tendu son sac à dos, qui avait été récupéré sur le lieu du crime.
 J’ai mis des gants en plastique pour le fouiller, au cas où il aurait pu
 être nécessaire de faire un relevé d’empreintes digitales, ce qui était
 à vrai dire peu probable vu qu’on savait très bien à qui tout ça
-appartenait.
-
+appartenait. 
 Il y avait un véritable bric à brac à l’intérieur : quelques vêtements,
 surtout des tee-shirts aux inscriptions ridicules, du maquillage, une
 casquette « FBI », une carte routière, des gants en cuir, des
@@ -265,7 +262,6 @@ Et un vieux revolver gris.
 
 Il m’a rappelé des vieux souvenirs. C’était la première arme à feu que
 j’avais vue.
-
 Ça s’était passé un soir, alors que je rentrais du lycée. Laura était
 derrière moi, me suivant à une dizaine de mètres de distance, et j’avais
 accéléré le pas parce que je n’avais pas envie de lui filer une nouvelle
@@ -292,11 +288,9 @@ pressé le pas.
 
 Et j’étais tombée sur un sale type qui m’avait plaquée contre un mur et
 avait commencé à me tripoter les seins.
-
 Ce n’était quand même pas de bol. On était dans un bled, c’était loin
 d’être un quartier chaud, et il fallait que ça tombe sur moi. À la
-réflexion, je crois que j’attire les malades. Ou peut-être que c’est
-juste que je suis trop jolie ?
+réflexion, je crois que j’attire les malades. 
 
 Le type était en train d’essayer de m’embrasser quand Laura s’est
 glissée derrière lui, a posé le revolver sur sa nuque, l’a armé et a
@@ -318,6 +312,8 @@ bon.
 
 — Pas ce soir. Après t’avoir protégée, ça ferait limite garde du corps.
 Ça craint. »
+
+*****
 
 « On dirait que ta copine est plus malhonnête qu’elle n’en a l’air, a
 fait remarquer Max en voyant le revolver. On peut déjà l’arrêter pour
@@ -446,17 +442,14 @@ drogué, et je l’ai tué.
 
 — Je n’ai pas dit ça.
 
-— Tu l’as pensé fort. Alors maintenant, écoute moi bien. Je n’ai *pas
-*tué ce type. C’est lui qui m’a fait prendre des substances illicites.
-
-— Il t’a forcée ?
-
-— Il y a des choses auxquelles j’ai du mal à dire non, a-t-elle répliqué
-avec un léger sourire. En tout cas, je ne l’ai pas descendu. Et je suis
+— Tu l’as pensé fort. Alors maintenant, écoute moi bien. Je n’ai *pas*
+tué ce type. On a pris certaines substances, oui, mais c'était son
+idée, d'abord. En tout cas, je
+ne l’ai pas descendu. Et je suis 
 honorée de toute la confiance que tu me portes.
 
-— Confiance ? ai-je craché. La dernière fois qu’on s’est vu, tu m’as
-volé mon fric pour te payer de quoi avoir une overdose. Comment je
+— Confiance ? ai-je craché. Tu me volais mon fric pour te payer de
+quoi avoir une overdose. Comment je 
 pourrais te faire confiance ? »
 
 Elle a baissé la tête, a soupiré, et a finalement souri.
@@ -479,7 +472,7 @@ ouverte ?
 — Excellente question, ai-je admis. Je crois que ce sera tout pour le
 moment. À moins que tu ais autre chose à ajouter ?
 
-— Je suis contente de t’avoir revue, » a simplement dit Laura.
+— Je suis contente de t’avoir revue » a simplement dit Laura.
 
 Je l’ai regardée, en essayant de voir si c’était ironique ou pas, mais,
 curieusement, elle avait l’air sincère.
@@ -555,7 +548,7 @@ vraiment amies.
 J’ai soupiré. Je n’avais vraiment aucune envie d’aller boire un verre
 avec elle, à échanger les souvenirs de lycée.
 
-« Bon, va déjà lui annoncer qu’elle est libre. Mais dis lui de rester
+« Bon, va déjà lui annoncer qu’elle est libre. Mais dis-lui de rester
 dans le coin. »
 
 *****
@@ -592,14 +585,13 @@ raconterait la façon dont elle avait tué ce type ?
 
 Après qu’elle soit partie, je suis retournée dans le bureau de Max.
 
-« Il y a un truc que je ne pige pas, ai-je dit. Le lien entre ça et le
-vol de bijoux.
+« Il y a un truc dont on n'a pas parlé, ai-je dit. Tu penses qu'il y a
+un lien entre ça et le vol de bijoux ? Ça paraît une grosse
+coïncidence, non ? »
 
-— S’il y a un lien, a-t-il répliqué en haussant les épaules.
+Max a haussé les épaules, l'air songeur.
 
-— Grosse coïncidence, non ?
-
-— Ça arrive, des fois. En tout cas, je vois deux possibilités. Première
+« Ça arrive, des fois. En tout cas, je vois deux possibilités. Première
 possibilité, le hasard. Un autre type a volé les bijoux, ou Fergusson a
 voulu arnaquer son assurance. Pendant ce temps, un type descend Bertrand
 Yvain. Pas de lien entre les deux.
@@ -784,9 +776,9 @@ avaient dit. L’affaire prenait des proportions inattendues.
 souriant.
 
 Je suis restée stupéfaite. Bien sûr, beaucoup de gens pensaient que
-*Lumière Blanche *n’était qu’un tas de fanatiques religieux, mais en
+*Lumière Blanche* n’était qu’un tas de fanatiques religieux, mais en
 général ils évitaient d’exprimer cette opinion trop fort. En particulier
-dans la police, où faire partie de *Lumière Blanche *était vu comme un
+dans la police, où faire partie de cette organisation était vu comme un
 honneur, une garantie de se retrouver au Ciel après la mort.
 
 « Oh, excuse moi, a dit Max. C’est vrai que ton oncle était... Je ne
@@ -794,7 +786,7 @@ voulais pas dire que...
 
 — Non, pas de problème. Je n’aime pas non plus leurs méthodes. »
 
-Bien sûr, *Lumière Blanche *ne se dérangeait normalement pas pour les
+Bien sûr, *Lumière Blanche* ne se dérangeait normalement pas pour les
 humains, alors ce n’était pas pareil. Les démons ne méritaient pas de
 pitié. On pouvait leur loger une balle dans la tête sans autre forme de
 procès. Quand aux vampires, ce n’était jamais que de foutus suceurs de
@@ -810,7 +802,7 @@ Cela dit, il fallait reconnaître qu’ils étaient efficaces.
 
 — Pas encore. Mais je suis certaine qu’elle est trafiquée.
 
-— Envoie la aux experts. Ils verront bien s’il y a une coupure. »
+— Envoie-la aux experts. Ils verront bien s’il y a une coupure. »
 
 J’ai été gênée. Ça devait se voir, parce que Max m’a dévisagée, un peu
 surpris.
@@ -831,7 +823,7 @@ quelque chose.
 
 « Tu n’essayes pas de couvrir ton amie, au moins ? a-t-il demandé.
 
-— Ce n’est *pas *mon amie.
+— Ce n’est *pas* mon amie.
 
 — Ouais.
 

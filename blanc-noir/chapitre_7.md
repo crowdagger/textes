@@ -16,7 +16,9 @@ Et je ne suis peut-être pas la seule à avoir pensé ça.
 
 Elle a avalé quelques gorgées de jus de pommes avant de me répondre.
 
-« Bertrand Yvain était un coureur de jupons. Et bisexuel. En plus de ça,
+« Bertrand Yvain était un coureur de jupons. Pas seulement de jupons,
+vu qu'il était bisexuel, mais je ne vois pas d'expression équivalente
+pour les mecs. En plus de ça,
 il ne lui aurait pas manqué grand chose pour changer de camp.
 
 — Changer de camp ? Devenir un démon ?
@@ -42,7 +44,7 @@ voir le lien avec moi.
 — Tu l’as dit toi-même, je connaissais les trois victimes. Ça fait trop
 de coïncidences.
 
-— Ouais, ai-je admis en finissant mon croissant. Bon. De toutes façons,
+— Ouais, ai-je admis en finissant mon croissant. Bon. De toute façon,
 notre problème principal, c’est plus vraiment ça, hein ? »
 
 Laura m’a fait un sourire triste, et a baissé la tête.
@@ -75,9 +77,9 @@ pas.
 « Si ça ne te plaît pas, on peut laisser tomber. Dans ce cas, il faut
 trouver un coin où se planquer.
 
-— Ça ne me plaît pas. Mais je ne vois pas d’autres moyen. Je doute qu’on
+— Ça ne me plaît pas. Mais je ne vois pas d’autre moyen. Je doute qu’on
 puisse trouver beaucoup de coins où on peut éviter efficacement
-*Lumière* *Blanche*.
+*Lumière Blanche*.
 
 — J’appelle, alors. »
 
@@ -89,7 +91,7 @@ rappelle. »
 
 Elle a raccroché, et a regardé son téléphone un moment.
 
-« Il faut se débarrasser de nos portables, a-t-elle dit. Passe moi le
+« Il faut se débarrasser de nos portables, a-t-elle dit. Passe-moi le
 tien. »
 
 J’ai obéi, et lui ai tendu mon téléphone.
@@ -97,7 +99,7 @@ J’ai obéi, et lui ai tendu mon téléphone.
 « On ne pourrait pas se contenter de l’éteindre ?
 
 — C’est moins drôle que de les envoyer sur une fausse piste, a-t-elle
-répliqué. Arrête toi là. »
+répliqué. Arrête-toi là. »
 
 On était dans un petit village de campagne. Je me suis garée sur un
 parking. Il était maintenant huit heures trente, mais il n’y avait
@@ -123,7 +125,7 @@ démarrer.
 — En même temps, ai-je soupiré, ça ne sert pas à grand chose d’avoir une
 voiture si on doit la pousser.
 
-— Il suffit de voler les clés. Arrête toi là. »
+— Il suffit de voler les clés. Arrête-toi là. »
 
 J’ai obéi sans comprendre. Il n’y avait aucun village, aucune habitation
 autour de nous. On était au bord d’un lac, certes fort joli, mais je ne
@@ -149,9 +151,9 @@ une demi-heure pour atteindre la prochaine habitation. C’était un grand
 chalet. En ce qui nous concernait, il y avait surtout deux voitures à
 l’extérieur : une Peugeot récente et une belle Mercedes.
 
-« Attends moi là, a dit Laura.
+« Attends-moi ici, a dit Laura.
 
-— Attends, tu ne vas pas...
+— Tu ne vas pas...
 
 — Je récupère les clés et je m’en vais.
 
@@ -190,7 +192,7 @@ et on est parti.
 
 Laura a levé les yeux au ciel.
 
-« Et bien, je n’avais pas le temps de leur chanter une berceuse, hein ?
+« Eh bien, je n’avais pas le temps de leur chanter une berceuse, hein ?
 
 — Tu n’as pas frappé trop fort, au moins ?
 
@@ -213,8 +215,8 @@ que je m’étais endormie. On était à une station service.
 en souriant. Et il faut remettre de l’essence. Et puis, il est presque
 midi. »
 
-J’ai grimacé. Je ne pensais pas avoir *autant *dormi. J’ai fini de me
-réveiller alors que Laura remettait de l’essence, puis on est allé au
+J’ai grimacé. Je ne pensais pas avoir *autant* dormi. J’ai fini de me
+réveiller alors que Laura remettait de l’essence, puis on est allées au
 magasin.
 
 Après un tour aux toilettes, elle a pris deux boîtes de deux sandwiches
@@ -271,7 +273,7 @@ pas un pervers ? »
 Le policier a sorti son arme de service. Laura a sursauté et levé les
 mains, mais elle n’était pas autant paniquée que moi. Heureusement.
 
-« Calmez vous, a-t-elle dit. Tout va bien. J’ai juste payé en espèces.
+« Calmez-vous, a-t-elle dit. Tout va bien. J’ai juste payé en espèces.
 Je vais vous montrer ma carte, d’accord ?
 
 — Allez-y. »
@@ -290,7 +292,7 @@ Laura a lentement sorti sa carte et l’a regardée un moment.
 
 « Non, c’est pas moi, a-t-elle dit.
 
-— Montrez moi ça », a dit le flic.
+— Montrez-moi ça », a dit le flic.
 
 Laura lui a tendu sa carte. Le policier l’a examinée, puis a baissé son
 arme et la lui a rendue.
@@ -300,12 +302,13 @@ démon...
 
 — J’ai vraiment une tête de démon ? » s’est offensée Laura.
 
-« Explique moi, ai-je fait en remontant dans la voiture. Quelle carte tu
+*****
+
+« Explique-moi, ai-je fait en remontant dans la voiture. Quelle carte tu
 lui as montrée ? »
 
 Laura a fouillé dans sa poche et en a sorti un morceau de carton,
 qu’elle m’a montré.
-
 Il était entièrement blanc.
 
 « Quoi ? ai-je fait. Tu lui as vraiment montré ça ?
@@ -331,7 +334,7 @@ s’arrêtant à un feu rouge dans un énième patelin qu’on traversait.
 
 — Je veux bien. Il faut que j’aille téléphoner aussi. »
 
-On s’est arrêté au bord de la route, près d’une cabine, et je l’ai
+On s’est arrêtées au bord de la route, près d’une cabine, et je l’ai
 regardée téléphoner à son « contact ».
 
 « Alors ? ai-je demandé quand elle est remontée dans la voiture.
@@ -391,8 +394,7 @@ de nous aider si facilement.
 Elle avait repris le volant depuis une heure, et elle nous dirigeait sur
 les chemins sinueux au-dessus de Cannes, à la recherche de la villa de
 son chef.
-
-Elle a fini par trouver, et on s’est garé à l’intérieur. C’était très
+Elle a fini par trouver, et on s’est garées à l’intérieur. C’était très
 beau et très cher. Il y avait une vue magnifique, une pelouse bien
 tondue et une piscine énorme.
 
@@ -436,8 +438,12 @@ difficile de vous fournir une nouvelle identité.
 
 — Merci, a dit Laura.
 
-— Cependant », a fait Bob. Je m’attendais à ce qu’il y ait un « mais »,
-mais je me suis quand même raidie quand il a commencé. « Il y a quelque
+— Cependant », a fait Bob.
+
+Je m’attendais à ce qu’il y ait un « mais »,
+mais je me suis quand même raidie quand il a commencé.
+
+« Il y a quelque
 chose qui me pose un problème. »
 
 Il y a eu un court moment de silence. Puis Bob a lentement pointé son
@@ -456,7 +462,7 @@ se passer.
 — C’est absurde, a protesté Laura. C’est elle qui m’a sortie de leurs
 griffes.
 
-— Ou alors », a dit Bob avec les yeux injectés de sang, « ils t’ont
+— Ou alors », a dit Bob avec les yeux injectés de sang, « ils vous ont
 laissée partir pour pouvoir remonter jusqu’à moi ! »
 
 Il a plongé son bras dans sa veste et a sorti un pistolet, qu’il a lancé
@@ -506,11 +512,10 @@ Il s’est écroulé au fond du canapé, un trou rouge au milieu du front.
 
 J’ai levé mon arme vers le garde du corps, prête à tirer, mais il
 n’avait pas bougé.
-
 Les bras toujours croisés, il a souri en voyant que je n’allais pas
 l’abattre.
 
-« De toutes façons, c’était un sale con, a-t-il lâché.
+« De toute façon, c’était un sale con, a-t-il lâché.
 
 — Je confirme, a lancé Laura en se relevant.
 

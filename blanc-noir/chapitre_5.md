@@ -88,7 +88,7 @@ Trop, peut-être.
 — Tiens, tiens, ai-je dit en souriant. Serait-ce une critique du
 fonctionnement de votre organisation ?
 
-— Non. *Lumière Blanche *est à l’image de Dieu, parfaite. »
+— Non. *Lumière Blanche* est à l’image de Dieu, parfaite. »
 
 J’ai souri une nouvelle fois, et je suis rentrée chez moi.
 
@@ -106,7 +106,6 @@ dans la cuisine.
 J’ai enlevé ma veste, et ai attrapé mon pistolet pour le poser. J’ai
 hésité à le laisser en me rappelant ce que m’avait appris Elm à
 l’instant.
-
 Laura avait été vue avec la première victime. Elle allait devoir me
 fournir une sacré explication pour ça.
 
@@ -123,8 +122,8 @@ arme à côté de moi et j’ai décroché.
 
 La dernière fois que je lui avais parlé, je n’avais rien à faire de la
 façon dont mon oncle était mort. Mais maintenant, ça m’intéressait au
-plus haut point, parce que je suspectais que le coupable était celle qui
-était en train de me faire à manger.
+plus haut point, parce que je voulais être sûre que le ou la coupable
+n'était pas la nana qui était en train de me faire à manger.
 
 « Allez-y.
 
@@ -167,8 +166,11 @@ J’ai raccroché le téléphone et attrapé mon arme. Heureusement, Laura
 — Un collègue », ai-je répondu en m’approchant, le pistolet pointé vers
 elle. Elle avait le dos tourné.
 
-« Et il voulait quoi ? » a-t-elle demandé en se retournant. Et elle a vu
-mon arme. « À quoi tu joues ?
+« Et il voulait quoi ? » a-t-elle demandé en se retournant.
+
+Elle a vu mon arme.
+
+« À quoi tu joues ?
 
 — Lève les mains.
 
@@ -223,7 +225,7 @@ Elle a secoué la tête, incrédule.
 « Il était anar, a-t-elle protesté. Il y a tout de même une certaine
 différence.
 
-— Il *infiltrait *un groupuscule anarchiste. Pour *Lumière Blanche*. »
+— Il *infiltrait* un groupuscule anarchiste. Pour *Lumière Blanche*. »
 
 Elle a soupiré. Puis elle m’a regardée avec tristesse. Je n’ai pas su
 déterminer si c’était simulé ou réel.
@@ -253,7 +255,7 @@ J’ai soupiré, et ai fermé le téléphone.
 
 « Tu préférerais des coups de couteau dans le cœur ?
 
-— Je n’ai *pas *tué ces types !
+— Je n’ai *pas* tué ces types !
 
 — Ta gueule ! » ai-je hurlé en me levant et en pointant le pistolet vers
 sa tête. « Tu me mens depuis le début ! »
@@ -263,7 +265,7 @@ arme.
 
 « Tu as raison », a-t-elle dit en se tournant à nouveau vers moi. «
 J’aurais dû te dire que j’étais un démon. J’aurais dû le dire dès le
-début. J’aurais duûle dire au lycée. On m’aurait logé une balle dans le
+début. J’aurais dû le dire au lycée. On m’aurait logé une balle dans le
 crâne. Ça aurait évité toute cette existence de merde. »
 
 Elle a soupiré, et a fermé les yeux.
@@ -314,11 +316,11 @@ toujours au bout du fil et s’était époumoné tout le long du court
 combat.
 
 « Ici Laura Vogier, a-t-elle dit. Si vous essayez de me localiser, je
-loge une balle dans le crâne de la jolie Mélanie. Je veux un million
-d’euros en espèces d’ici douze heures. Sinon, elle est morte. Compris ?
-»
+loge une balle dans le crâne de Mélanie. Je veux un million
+d’euros en espèces d’ici douze heures. Sinon, elle est
+morte. Compris ? »
 
-Et elle a raccroché.
+Elle a raccroché.
 
 Elle est ensuite allée dans la cuisine et en est revenue avec une
 gamelle et une bouteille d’eau, qu’elle a posées devant moi.
@@ -356,11 +358,11 @@ J’ai appelé Lachon.
 
 — Où est elle ?
 
-— Je n’en sais rien. Écoutez, c’est bon. *Lumière* *Blanche *va se
+— Je n’en sais rien. Écoutez, c’est bon. *Lumière Blanche* va se
 charger d’elle. »
 
-J’ai raccroché avec un serrement au cœur à l’idée que *Lumière Blanche
-*allait effectivement se « charger » d’elle. Mais, vu la situation, je
+J’ai raccroché avec un serrement au cœur à l’idée que *Lumière
+Blanche* allait effectivement se « charger » d’elle. Mais, vu la situation, je
 ne voyais pas quoi faire d’autre sans m’attirer de sérieuses emmerdes.
 
 J’ai appelé Christine Elm.
@@ -374,7 +376,6 @@ j’ai finalement pu l’avoir, elle m’a lancé un « j’arrive tout de suite
 Heureusement que Laura m’avait laissé des spaghetti.
 
 Du coup, j’ai eu tout le temps de réfléchir.
-
 Je continuais à trouver qu’il y avait beaucoup de coïncidences. Mais
 Laura avait insisté sur le fait qu’elle était innocente, même quand elle
 s’était crue perdue.
@@ -392,8 +393,7 @@ J’ai haussé les épaules.
 
 « Ça pourrait être pire.
 
-— Ouais, a-t-elle dit en me détachant. Mais la prochaine fois, tenez
-nous au courant. Elle aurait pu vous tuer. »
+— Ouais, a-t-elle dit en me détachant. Mais la prochaine fois, tenez-nous au courant. Elle aurait pu vous tuer. »
 
 J’ai hoché la tête.
 

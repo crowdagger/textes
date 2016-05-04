@@ -4,14 +4,14 @@ lang: fr
 
 cover: couv/blanc-noir.png
 
-numbering_template: Chapitre {{number}} : {{title}}
+numbering_template: "Chapitre {{number}} : {{title}}"
 
 output.epub: blanc-noir.epub
 output.pdf: blanc-noir.pdf
 output.html: blanc-noir.html
 output.odt: blanc-noir.odt
 
-! copyright.md
+#! copyright.md
 + chapitre_1.md
 + chapitre_2.md
 + chapitre_3.md
@@ -21,5 +21,5 @@ output.odt: blanc-noir.odt
 + chapitre_7.md
 + chapitre_8.md
 - epilogue.md
-#- livres.md
+
 

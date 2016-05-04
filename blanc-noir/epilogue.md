@@ -24,7 +24,7 @@ comme au Mal, parce je crois qu’elle avait raison : les deux ne sont que
 les deux côtés d’une même pièce.
 
 J’ai déjà commencé. En échange de ma libération, en échange de la
-promesse que *Lumière Blanche *ne me ferait pas disparaître, Elm m’avait
+promesse que *Lumière Blanche* ne me ferait pas disparaître, Elm m’avait
 fait jurer de garder le silence sur les événements qui avaient conduit à
 la mort de Laura.
 

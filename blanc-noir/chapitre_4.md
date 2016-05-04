@@ -42,15 +42,12 @@ et elle était assurément beaucoup plus gentille que quelques années
 avant, mais j’avais du mal à croire qu’elle n’avait rien à voir avec
 cette histoire. Sans compter qu’elle prétendait être amoureuse de moi.
 
-En fait, son petit jeu m’amusait plus qu’autre chose. Je me disais même
-que, si elle insistait, je finirais peut-être par essayer. Je n’étais
-pas attirée par les femmes, mais.... peut-être que je pourrais y prendre
-du plaisir quand même ?
-
-Et puis, rien que pour la tête que feraient mes parents en sachant que
-je sortais avec une fille, ça vaudrait le coup. Ça serait ma vengeance
-pour tous les dimanches passés à la messe alors que j’aurais pu faire la
-grasse matinée.
+En fait, son petit jeu m’amusait plus qu’autre chose, même si une partie de
+moi se disait que ça aurait dû me mettre mal à l'aise. En même temps,
+devoir héberger une fille qu'on avait mise en garde à vue dans la même
+journée était déjà une situation assez inconfortable pour que je n'ai pas
+besoin d'y ajouter de l'embarras par égard pour mon éducation
+traditionnelle.
 
 Finalement, à la fin de ma douche, je m’étais persuadée que tout
 n’allait pas si mal, et qu’en tout cas tout allait très bien se
@@ -94,6 +91,8 @@ justice nulle part » et a paru surprise.
 
 « Pourquoi ? J’ai fait une tache ? »
 
+*****
+
 Laura s’est installée à droite de moi dans la twingo.
 
 « C’est pas très grand, a-t-elle remarqué.
@@ -110,7 +109,7 @@ tu sais.
 
 — Tu vas me trouver coincée, mais j’aime bien respecter les lois.
 
-— Si je te l’offre et que tu ignores qu’elle est volée, tu ne violes pas
+— Si je te l’offre et que tu ignores qu’elle est volée, tu ne transgresses pas
 la loi.
 
 — Tu viens de me le dire, je ne vois pas comment je pourrais l’ignorer,
@@ -119,14 +118,14 @@ garer.
 
 — Mais c’est moins bien pour les courses-poursuites.
 
-— Tu sais, ai-je expliqué, le métier de flic ce n’est pas *forcément
-*comme à Hollywood. »
+— Tu sais, ai-je expliqué, le métier de flic ce n’est pas *forcément* comme à Hollywood. »
 
 *****
 
 Monsieur Fergusson s’est étonné de me voir revenir sans Max, et n’était
 manifestement pas très heureux de voir deux jeunes femmes s’occuper de
-l’affaire — je lui avais dit que Laura était flic aussi, et j’espérais
+l’affaire. Sans lui mentir ouvertement, je lui avais laissé croire que
+Laura était flic aussi. J’espérais 
 qu’elle ne s’amuserait pas à ouvrir son blouson en présence du vieux,
 parce qu’elle avait finalement refusé de changer de tee-shirt.
 
@@ -209,7 +208,7 @@ Puis elle m’a rendu le téléphone.
 
 « Tu as une idée ? ai-je demandé.
 
-— Ouais. Il a dû « pirater » la ligne téléphonique. En regardant à quoi
+— Ouais. Il a dû pirater la ligne téléphonique. En regardant à quoi
 ressemble le signal, puis en envoyant la même image, fixe, au lieu de
 celle vraiment filmée par la caméra.
 
@@ -226,7 +225,6 @@ l’appartement.
 
 J’ai lancé un « au revoir » rapide à Fergusson avant de rejoindre ma
 nouvelle coéquipière.
-
 Je devais admettre que je n’arrivais plus à la suivre.
 
 « Tu comptes faire quoi ? lui ai-je demandé.
@@ -247,7 +245,7 @@ s’est penchée au dessus du muret.
 Elle avait en effet plus de la moitié du corps au dessus du vide. J’ai
 préféré lui tenir les jambes pour éviter un accident.
 
-« Ah ha !, a fait Laura, triomphante, en enlevant un morceau de
+« Ah ha ! a fait Laura, triomphante, en enlevant un morceau de
 chatterton.
 
 — Quoi ?
@@ -316,7 +314,7 @@ J’ai souri, mais Laura fronçait les sourcils.
 « Quoique, a-t-elle finalement ajouté. Je fais le coup, et ensuite je te
 montre comment j’ai fait pour t’impressionner.
 
-— Ouais. Enfin, de toutes façons c’est l’assassin qu’on veut attraper.
+— Ouais. Enfin, de toute façon c’est l’assassin qu’on veut attraper.
 Bon, je suppose que tu n’as pas spécialement envie de m’accompagner au
 commissariat.
 

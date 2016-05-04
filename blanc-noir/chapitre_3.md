@@ -34,9 +34,8 @@ Laura a soupiré.
 « Je l’ai crochetée », a-t-elle finalement répondu.
 
 Je n’ai rien dit. La réponse ne me surprenait pas. Je suis revenue avec
-deux bières, et j’en ai tendue une à Laura.
-
-Laura a hésité quelques secondes, puis a attrapé la bouteille que je lui
+deux bières, et j’en ai tendue une à Laura. Elle a hésité quelques
+secondes, puis a attrapé la bouteille que je lui 
 tendais.
 
 « Tu fais quoi, maintenant ? ai-je demandé.
@@ -96,11 +95,11 @@ plutôt à ce qui est environ cinquante centimètres en dessous du cœur.
 
 — T’es bien flic, hein.
 
-— Désolée, ai-je dit, un peu gênée. Tu as raison, ça ne me regarde pas.
-»
+— Désolée, ai-je dit, un peu gênée. Tu as raison, ça ne me regarde
+pas. »
 
 Je ne savais pas trop quoi dire, alors j’ai allumé la télé. Il n’y avait
-rien de bien intéressant, mais ça meublait le vide. On est resté un
+rien de bien intéressant, mais ça meublait le vide. On est restées un
 certain temps à la regarder, en silence.
 
 « J’ai fait quelques cambriolages, a finalement dit Laura. Des
@@ -167,7 +166,7 @@ oublié le nom. Et mon oncle a été tué vendredi.
 — Quoi ? » a demandé Laura.
 
 J’ai cru voir une lueur bizarre dans son regard. Mais peut-être était-ce
-une impression. Et puis, son regard avait *toujours *l’air un peu
+une impression. Et puis, son regard avait *toujours* l’air un peu
 bizarre.
 
 « Le curé ? a-t-elle demandé.
@@ -204,7 +203,6 @@ tout noter ?
 carnet.
 
 Laura a reposé son assiette, vide, et a poussé un long bâillement.
-
 On est resté silencieuses un moment, sans savoir vraiment quoi dire.
 
 « C’est fou, quand même, ai-je dit pour rompre le silence. Il y a
@@ -224,7 +222,7 @@ Elle a baissé la tête, manifestement gênée.
 
 « Je ne sais pas. Je ne savais pas comment te parler. Et j’étais conne.
 J’avais besoin de fric, tu en avais. Je te rembourserai, d’accord ?
-Promis. Ce n’était pas *vraiment *du racket.
+Promis. Ce n’était pas *vraiment* du racket.
 
 — Ce n’est pas le problème, ai-je répondu en souriant.
 
@@ -263,7 +261,7 @@ d’être flic. Ou pire, je serais devenue flic au lieu d’être une voleuse.
 — J’en sais rien, a-t-elle répondu en haussant les épaules. Je ne
 m’étais pas vraiment posé la question. Et puis, c’est compliqué. J’ai
 plus de facilité avec la haine. Mais je crois que oui. Maintenant, c’est
-peut-être pas le *vrai *amour. »
+peut-être pas le *vrai* amour. »
 
 Je n’ai pas pu m’empêcher de rougir.
 
@@ -277,13 +275,9 @@ filles, ai-je dit.
 — Bah. De toutes façons, l’amour et le sexe, c’est pas vraiment pareil.
 Si je devais aimer tous les types avec qui j’ai couché...
 
-— De toutes façons, je suis contre le sexe avant le mariage, ai-je
-répliqué en souriant. Alors tu devras attendre un moment.
-
-— Il me semble que Clinton a dit que les rapports oraux, ce n’était pas
-vraiment du sexe.
-
-— Peut-être. Mais tu oublies que mon but dans la vie est de faire ce que
+— De toute façon, je suis contre le sexe avant le mariage, donc il
+faudrait attender un moment. Et puis, tu oublies que mon but dans la
+vie est de faire ce que 
 mes parents attendent de moi. Si je leur disais que je suis avec une
 fille, je serais reniée. »
 
@@ -298,7 +292,6 @@ catholique et cultivé, pour lui faire des enfants et le ménage.
 J’aurais été prête à avoir une moitié de SMIC en bossant 50 heures par
 semaines dans un fast-food. J’aurais été prête à mendier. J’avais
 finalement accepté de devenir flic.
-
 Mais devenir soumise à un mari pour élever ses gosses et lui apporter sa
 bière devant son match de foot ? Plutôt mourir.
 
@@ -340,16 +333,9 @@ J’ai souri.
 trop fait la différence entre les deux. Sauf qu’il y en a un dans lequel
 on baise pas, et c’est un peu dommage.
 
-— L’amitié, ce n’est *pas *racketter quelqu’un, ai-je répliqué en
+— L’amitié, ce n’est *pas* racketter quelqu’un, ai-je répliqué en
 souriant. Et l’amour non plus, d’ailleurs.
 
 — Oh, d’accord. Mais tu admettras que si je t’avais invitée à une soirée
 « cocktail molotov », tu aurais refusé. »
 
-*****
-
-Après, on a encore discuté un peu. Et puis j’ai déplié mon canapé pour
-qu’on se couche. Je lui ai expliqué que, comme je n’avais pas d’autre
-lit, on dormirait là toutes les deux, à condition qu’elle promette
-d’oublier pour la nuit ses fantasmes sexuels, quoiqu’en dise Bill
-Clinton. Elle a accepté à contrecœur.

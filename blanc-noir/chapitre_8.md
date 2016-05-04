@@ -55,7 +55,7 @@ volant. À côté de moi, Laura était silencieuse, le visage sombre.
 « Ne t’en fais pas, ai-je dit. Ça va s’arranger. »
 
 Mais je n’y croyais pas trop. On n’avait plus personne pour nous aider,
-et les flics ou *Lumière* *Blanche *finiraient bien par nous rattraper,
+et les flics ou *Lumière Blanche* finiraient bien par nous rattraper,
 tôt ou tard.
 
 « Tu sais, ai-je dit, je ne sais pas ce qui va se passer, mais je
@@ -105,18 +105,17 @@ besoin de se croiser « en vrai » pour s’échanger des objets. Quels
 genres d’objets ? Là non plus, on n’en avait aucune idée.
 
 En tout cas, une chose était sûre, il y avait des démons et des types de
-*Lumière Blanche *qui se voyaient de temps en temps autour d’un café.
+*Lumière Blanche* qui se voyaient de temps en temps autour d’un café.
 Des diplomates, en quelque sorte.
 
 Le démon qui jouait ce rôle en France avait pété un câble, s’était
 énervé, et avait essayé de descendre son homologue de l’autre camp. Il
-l’avait blessé avant de se faire abattre. Le type de *Lumière* *Blanche
-*s’était mis en colère et les relations s’étaient tendues.
+l’avait blessé avant de se faire abattre. Le type de *Lumière Blanche*
+s’était mis en colère et les relations s’étaient tendues.
 
 Il fallait quelqu’un pour remplacer le « diplomate » pas très diplomate,
 et Laura avait été choisie à cause de ses nombreuses qualités, la
 principale étant qu’elle ne pouvait pas refuser.
-
 Elle devait remettre une boîte scellée au type en face. Le rendez-vous
 était à minuit, dans une église.
 
@@ -178,7 +177,7 @@ dit qu’Il est cul-serré. »
 
 J’ai hoché la tête.
 
-« Je ne savais pas que *Lumière Blanche *discutait avec les démons.
+« Je ne savais pas que *Lumière Blanche* discutait avec les démons.
 
 — Certains.
 
@@ -189,7 +188,7 @@ Elle a haussé les épaules.
 « Et alors ? Ce sont des cathos. Ils ont promis de ne pas se servir de
 ça, et je pense qu’ils tiendront parole. »
 
-Je n’en étais pas autant persuadée qu’elle. *Lumière Blanche *estimait
+Je n’en étais pas autant persuadée qu’elle. *Lumière Blanche* estimait
 aussi que la fin justifiait les moyens.
 
 « Et si ces types t’avaient suivi ? ai-je demandé.
@@ -252,7 +251,7 @@ pourrait peut-être aller manger ? »
 
 *****
 
-Je me suis arrêtée dans un *drive-in *et on a mangé au bord de la route,
+Je me suis arrêtée dans un *drive-in* et on a mangé au bord de la route,
 assises sur le capot.
 
 Laura n’a pas dit un mot pendant le repas. Elle avait encore son air
@@ -304,7 +303,7 @@ numéro de Christine Elm.
 
 Il y a eu un léger silence sur la ligne, puis un léger rire.
 
-« Et ben, c’est un coup de fil... inattendu. Tu veux quoi ?
+« Eh ben, c’est un coup de fil... inattendu. Tu veux quoi ?
 
 — La vie sauve. Qu’on arrête de me rechercher. »
 
@@ -337,7 +336,7 @@ par Laura.
 
 — Quoi ?
 
-— C’est la version que j’ai donné. La police ne vous recherche pas. Vous
+— C’est la version que j’ai donnée. La police ne vous recherche pas. Vous
 pouvez revenir en arrière.
 
 — Je ne vais pas la laisser tomber. »
@@ -396,12 +395,12 @@ Il y a eu un court silence.
 Ils nous ont donné rendez-vous sur une aire d’autoroute. Elm nous a
 donné un itinéraire où il n’y avait pas trop de flics.
 
-On est arrivé à destination un peu avant deux heures du matin. J’ai garé
+On est arrivées à destination un peu avant deux heures du matin. J’ai garé
 la voiture et on est descendu. On s’était donné rendez-vous vers la
 machine à café.
 
 À l’intérieur, il n’y avait encore personne. On a pris un gobelet
-chacune et on est sorti les boire dehors.
+chacune et on est sorties les boire dehors.
 
 « J’espère qu’ils vont venir, ai-je dit.
 
@@ -411,7 +410,7 @@ J’ai hoché la tête. J’espérais aussi qu’ils viendraient, mais j’étai
 moins optimiste que Laura. J’avais surtout peur que ce soit la police
 qui arrive.
 
-J’étais en train de boire une gorgée de café quand Laura m’a sautée
+J’étais en train de boire une gorgée de café quand Laura m’a sauté
 dessus et m’a plaquée au sol. Une fraction de seconde plus tard, on
 entendait une rafale de coups de feu et le bruit des vitres qui se
 brisaient.
@@ -423,7 +422,7 @@ volé en éclats et certains pneus ont éclaté.
 J’ai attrapé le Desert Eagle à l’arrière de mon pantalon et tiré
 quelques coups de feu sans vraiment prendre le temps de viser.
 
-« Couvre moi, a dit Laura. Je vais chercher la caisse. »
+« Couvre-moi, a dit Laura. Je vais chercher la caisse. »
 
 Avant que je n’ai pu l’en empêcher, elle s’est précipitée vers la
 voiture. Il y a eu des nouvelles rafales de coups de feu, mais elle
@@ -541,7 +540,7 @@ s’élançait à travers la campagne.
 On a marché une bonne heure. On n’avançait pas vite, parce qu’on
 trébuchait tout le temps. Laura se débrouillait mieux que moi, parce
 que, d’une part, elle était plus agile et, d’autre part, elle ne se
-trimballait pas près de dix kilogrammes d’arme à feu. Je lui en voulais,
+trimballait pas près de dix kilogrammes d’armes à feu. Je lui en voulais,
 et je crois que je lui en veux toujours, parce que je n’avais pas envie
 qu’elle meurt et que je ne pense pas que le moment était adapté pour de
 telles préoccupations morales.
@@ -550,7 +549,7 @@ C’est ironique que ça soit une catho qui fasse à un démon le reproche
 d’avoir trop de morale, non ?
 
 Enfin, on a réussi à atteindre une petite maison de campagne, et on n’y
-est pas allé en finesse : j’ai réveillé le couple qui vivait là en les
+est pas allées en finesse : j’ai réveillé le couple qui vivait là en les
 braquant avec mon Uzi et Laura s’est occupée de les ligoter.
 
 Après, on s’est installées dans le salon et on a essayé de décider ce
@@ -577,7 +576,6 @@ guidaient. Les ordures nous avaient bel et bien trahies.
 
 Je n’en pensais pas un mot. Ils commenceraient par l’abattre, et
 m’élimineraient probablement à mon tour parce que j’en savais trop.
-
 J’ai attrapé le pistolet mitrailleur, l’ai glissé par la fente et ai
 tiré une rafale.
 
@@ -607,7 +605,7 @@ cernées !
 — Sans blague ? » ai-je répliqué, mais je ne pense pas qu’il m’ait
 entendue.
 
-Dans le garage, il y avait une berline de Mercedes. Je n’ai pas pris le
+Dans le garage, il y avait une berline Mercedes. Je n’ai pas pris le
 temps de la regarder plus en détail et ai grimpé à la place du passager,
 Laura s’étant déjà installée au volant. Prévoyante, elle avait récupéré
 les clés, probablement pendant que je dormais.
@@ -716,7 +714,7 @@ ta hiérarchie trouvait que tu avais de « mauvaises » fréquentations.
 
 — Quoi ? ai-je demandé. Mais pourquoi ? »
 
-Que *Lumière Blanche *élimine ses propres membres, ça me surprenait
+Que *Lumière Blanche* élimine ses propres membres, ça me surprenait
 déjà, mais pourquoi pas, après tout. Mais qu’elle le fasse sur les
 conseils des forces du Mal, je n’arrivais pas à comprendre.
 
