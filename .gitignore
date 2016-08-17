@@ -1,1 +1,7 @@
 endr/
+html/
+*.epub
+*.html
+*.odt
+*.pdf
+deploy.sh
