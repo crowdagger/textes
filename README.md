@@ -18,7 +18,7 @@ Pas tout à fait des hommes
 Avertissement 
 -------------
 
-Ceci est le *repository* du roman *Pas tout à fait des hommes*. Vous y
+Ceci est le *repository* public du roman *Pas tout à fait des hommes*. Vous y
 trouverez les fichiers sources au format *Markdown*. Si vous voulez
 juste lire le roman, vous pouvez plus simplement :
 
