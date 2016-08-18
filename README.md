@@ -34,6 +34,12 @@ Ce dépôt contient les textes suivants :
 [Hell butches](hell_butches/) ;
 * d'autres [nouvelles](nouvelles/) situées dans des univers divers.
 
+Générer les formats de sortie
+-----------------------------
+
+Pour transformer les fichiers *Markdown* en documents plus lisibles,
+que ce soit au format HTML, PDF ou EPUB, le plus simple est d'utiliser
+[crowbook](https://github.com/lise-henry/crowbook).
 
 Licence 
 -------
