@@ -1,5 +1,13 @@
-% Vraie vampire
-% Lizzie Crowdagger
+---
+title: Vraie vampire
+author: Lizzie Crowdagger
+lang: fr
+
+output.pdf: vraie_vampire.pdf
+output.epub: vraie_vampire.epub
+output.html: vraie_vampire.html
+html.display_chapter: false
+---
 
 Je m'appelle Morgue, et je suis une vampire.
 

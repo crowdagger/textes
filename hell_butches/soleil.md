@@ -1,5 +1,16 @@
-% Bain de soleil
-% Lizzie Crowdagger
+---
+title: Bain de soleil
+author: Lizzie Crowdagger
+lang: fr
+
+output.epub: soleil.epub
+output.html: soleil.html
+output.pdf: soleil.pdf
+html.display_chapter: false
+---
+
+Bain de soleil
+==============
 
 Il est aux alentours de six heures du soir, et Morgue prend un
 bain de soleil, allongée dans l'herbe. 
