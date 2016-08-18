@@ -1,5 +1,14 @@
-% Rock'n troll
-% Lizzie Crowdagger
+---
+title: "Rock'n troll"
+author: "Lizzie Crowdagger"
+lang: fr
+
+output.html: troll.html
+output.pdf: troll.pdf
+output.epub: troll.epub
+
+html.display_chapter: false
+---
 
 Thomas décapsula sa canette de bière et fit craquer ses doigts. Il
 s'apprêtait à passer à l'attaque. Pas physiquement, non, puisqu'il
