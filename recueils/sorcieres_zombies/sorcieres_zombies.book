@@ -9,7 +9,7 @@ output.html: sorcieres_zombies.html
 output.html_dir: html
 output.epub: sorcieres_zombies.epub
 
-+ 01_route_de_nuit.md
-+ 02_creatures_de_reve.md
-+ 03_sortir_du_cercueil.md
-+ 04_mine_deterres.md
+- 01_route_de_nuit.md
+- 02_creatures_de_reve.md
+- 03_sortir_du_cercueil.md
+- 04_mine_deterres.md

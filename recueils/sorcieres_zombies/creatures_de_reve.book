@@ -10,4 +10,4 @@ output.html: creatures_de_reve.html
 html.display_chapter: false
 
 ! 02_creatures_de_reve.md
-- livres.md
+- ../../backmatter.md
