@@ -6,3 +6,4 @@ html/
 *.pdf
 deploy.sh
 *~
+couv/

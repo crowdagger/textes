@@ -3,7 +3,9 @@ title: Pas tout à fait des hommes
 lang: fr
 subject: fantasy
 
-cover: couv/cover.png
+# Décommenter pour mettre une couverture
+# (La couverture utilisée n'est pas libre de droits)
+# cover: couv/cover.png
 
 temp_dir: /tmp/
 
