@@ -1,0 +1,13 @@
+author: Lizzie Crowdagger
+title: From Rust Till Dawn
+
+lang: fr
+
+epub.version: 3
+use_initials: true
+
+output.html: rust_till_dawn.html
+output.pdf: rust_till_dawn.pdf
+output.epub: rust_till_dawn.epub
+
+- chapitre_00.md
