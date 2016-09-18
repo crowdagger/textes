@@ -1,10 +1,10 @@
 ---
-author: Lizzie Crowdagger
+import_config: ../common.book
 title: Pirate !
-lang: fr
 
 output.html: pirate.html
-html.display_chapter: false
+output.epub: pirate.epub
+output.pdf: pirate.pdf
 ---
 
 Pirate !
