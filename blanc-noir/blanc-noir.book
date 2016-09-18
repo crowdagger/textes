@@ -1,6 +1,5 @@
-author: Lizzie Crowdagger
+import_config: ../common.book
 title: Noir & Blanc
-lang: fr
 
 cover: couv/blanc-noir.png
 
@@ -21,5 +20,5 @@ output.odt: blanc-noir.odt
 + chapitre_7.md
 + chapitre_8.md
 - epilogue.md
-
+- ../Note.md
 
