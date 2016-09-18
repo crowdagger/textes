@@ -4,5 +4,9 @@ lang: fr
 epub.version: 3
 use_initials: true
 
-html.footer: "Ce texte est disponible gratuitement, mais si vous l'avez apprécié, vous pouvez faire un paiement à prix libre."
+html.footer: >-
+ Ce texte est diffusé à prix libre : il est téléchargeable librement, mais si vous l'avez
+ apprécié, vous pouvez faire un don <a href = "http://crowdagger.fr/index.php?pages/Libre-ou-gratuit">via Paypal</a>,
+ ou <a href = "https://www.tipeee.com/lizzie-crowdagger">me soutenir sur Tipeee</a>.
+ 
 html.top: "<a href = 'http://crowdagger.fr'>Site web de Lizzie Crowdagger</a>"

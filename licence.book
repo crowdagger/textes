@@ -1,6 +1,8 @@
 import_config: common.book
 title: Licence
 
+html.footer: ""
+
 output.html: docs/Licence.html
 
 ! Note.md
