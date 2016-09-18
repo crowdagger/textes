@@ -39,9 +39,9 @@ $ crowbook blanc-noir.book
 Licence 
 -------
 
-''Noir & Blanc'' est publié sous la licence libre *Creative Commons
+*Noir & Blanc* est publié sous la licence libre *Creative Commons
 BY-SA 4.0 International*. Pour plus d'information, voir
-[ma note d'intention](../Note.md) et la [licence](../Licence.md).
+[ma notice](../Note.md) et la [licence complète](../Licence.md).
 
 ChangeLog 
 ---------
