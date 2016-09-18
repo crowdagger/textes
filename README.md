@@ -11,7 +11,7 @@ simple reste de consulter le site:
 [http://crowdagger.fr](http://crowdagger.fr) où ils sont disponibles
 aux formats HTML, EPUB et PDF.
 
-Le but de ce *repository* est de fournir un accès aux sources de ces
+Le but de ce dépôt est de fournir un accès aux sources de ces
 textes, afin de permettre aux gens qui souhaitent les modifier
 (pour avoir une mise en page différente, changer la fin si elle ne
 vous plaît pas, entamer une traduction ou que sais-je encore) de
