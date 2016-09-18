@@ -1,0 +1,8 @@
+author: Lizzie Crowdagger
+lang: fr
+
+epub.version: 3
+use_initials: true
+
+html.footer: "Ce texte est disponible gratuitement, mais si vous l'avez apprécié, vous pouvez faire un paiement à prix libre."
+html.top: "<a href = 'http://crowdagger.fr'>Site web de Lizzie Crowdagger</a>"
