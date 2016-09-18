@@ -1,6 +1,5 @@
-author: Lizzie Crowdagger
+import_config: ../../common.book
 title: Créatures de rêve
-lang: fr
 
 cover: couv/creatures_de_reve.png
 
@@ -10,4 +9,4 @@ output.html: creatures_de_reve.html
 html.display_chapter: false
 
 ! 02_creatures_de_reve.md
-- ../../backmatter.md
+- ../../About.md

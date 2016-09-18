@@ -1,13 +1,11 @@
-author: Lizzie Crowdagger
+import_config: ../../common.book
 title: Route de nuit
-lang: fr
 
 cover: couv/route-de-nuit.png
 
 output.pdf: route_de_nuit.pdf
 output.epub: route_de_nuit.epub
 output.html: route_de_nuit.html
-html.display_chapter: false
 
 ! 01_route_de_nuit.md
-- ../../backmatter.md
+- ../../About.md
