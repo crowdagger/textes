@@ -1,6 +1,5 @@
-author: Lizzie Crowdagger
+import_config: ../../common.book
 title: Blonde à forte capacité pulmonaire
-lang: fr
 
 cover: couv.png
 
@@ -11,4 +10,4 @@ output.odt: pulmonaire.odt
 
 ! pulmonaire.md
 - about.md
-- livres.md
+- ../../Note.md
