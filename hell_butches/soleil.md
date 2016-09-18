@@ -1,12 +1,10 @@
 ---
+import_config: ../common.book
 title: Bain de soleil
-author: Lizzie Crowdagger
-lang: fr
 
 output.epub: soleil.epub
 output.html: soleil.html
 output.pdf: soleil.pdf
-html.display_chapter: false
 ---
 
 Bain de soleil

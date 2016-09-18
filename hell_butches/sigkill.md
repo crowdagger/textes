@@ -1,12 +1,10 @@
 ---
+import_config: ../common.book
 title: Réagir sans violence
-author: Lizzie Crowdagger
-lang: fr
 
 output.epub: sigkill.epub
 output.html: sigkill.html
 output.pdf: sigkill.pdf
-html.display_chapter: false
 ---
 
 Réagir sans violence 

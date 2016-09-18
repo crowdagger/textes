@@ -1,12 +1,10 @@
 ---
+import_config: ../common.book
 title: Une histoire pour enfants
-author: Lizzie Crowdagger
-lang: fr
 
 output.epub: morgue.epub
 output.html: morgue.html
 output.pdf: morgue.pdf
-html.display_chapter: false
 ---
 
 *Transylvanie, 6 novembre 1897*
