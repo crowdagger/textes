@@ -1,0 +1,114 @@
+{{=<< >>=}}
+\documentclass{<<#short>>article<</short>><<^short>>book<</short>>}
+\usepackage[T1]{fontenc}
+\usepackage[<<&tex_lang>>]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{spverbatim}
+\usepackage{booktabs}
+\usepackage{graphicx}
+<<#initials>> % only if use_initials is set to true
+\usepackage{lettrine}
+\setlength{\DefaultNindent}{0em}
+\setcounter{DefaultLines}{3}
+\input RoyalIn.fd
+\newcommand*\initfamily{\usefont{U}{RoyalIn}{xl}{n}}
+\renewcommand{\LettrineFontHook}{\initfamily}
+<</initials>>
+\usepackage[colorlinks=true,breaklinks=true]{hyperref}
+\usepackage[anythingbreaks]{breakurl}
+
+
+% TODO: provide a way to configure
+\usepackage[a5paper, top=2cm,
+  left=2.5cm,bottom=1.5cm,right=1.5cm]{geometry}%A5 by default
+
+% Even with inputenc, not all unicode chars are recognized. This a
+% listof some I stumbled upon and manually added to fix
+\usepackage{newunicodechar}
+\newunicodechar{ }{ } % thin non breaking space
+
+% Force LaTeX not to overflow page e.g. when there is long words
+% (e.g. filenames, urls, ...). The result is not necesarily very
+% beautiful, though, but at least it's readable.
+\setlength\emergencystretch{.5\textwidth}
+
+\makeatletter
+
+\newcommand{\HRule}{
+  \paragraph{}
+  \begin{center}
+    *****
+  \end{center}
+  \paragraph{}
+}
+
+
+% Title
+<<^short>>
+\renewcommand{\maketitle}{
+  \thispagestyle{empty}
+  \vspace*{\stretch{1}}
+  
+  \begin{center}
+    {\Huge \@title   \\[5mm]}
+  \end{center}
+  \vspace*{\stretch{2}}
+  
+  \newpage
+  \thispagestyle{empty}
+  
+  \pagebreak
+  \newpage
+  
+  \thispagestyle{empty}
+  \chapter*{}
+  \vspace*{\stretch{1}}
+  \begin{center}
+    %    {\Huge \@author \\[5mm]}
+    {\Huge \@title   \\[5mm]}
+    %    {\huge \today   \\[5mm]}    
+  \end{center}
+  
+  %  \HRule
+  
+  \vspace*{\stretch{2}}
+  
+  \begin{center}
+    {\large \@author}
+  \end{center}
+  
+  
+  \vspace*{\stretch{1}}
+  
+  \vspace*{\stretch{1}}
+  
+  \pagebreak
+  \newpage
+  \thispagestyle{empty}
+  \pagebreak
+  \newpage
+}
+<</short>>
+
+% Headers
+\pagestyle{fancyplain} 
+\lhead[\fancyplain{}{}]{\fancyplain{}{}}
+% Right header
+\rhead[\fancyplain{}{}]{\fancyplain{}{}}
+% Center header
+\chead[\fancyplain{}{\rm\thepage}]{\fancyplain{}{\rm\thepage}}
+% Footer
+\cfoot{\fancyplain{}{}}
+\makeatother
+
+\title{<<&title>>}
+\author{<<&author>>}
+
+\begin{document}
+
+\maketitle
+
+<<&content>>
+
+\end{document}

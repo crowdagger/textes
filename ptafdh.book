@@ -5,13 +5,12 @@ subject: fantasy
 
 # Décommenter pour mettre une couverture
 # (La couverture utilisée n'est pas libre de droits)
-# cover: couv/cover.png
+cover: couv/cover.png
 
-temp_dir: /tmp/
-
-autoclean: true
-tex.command: pdflatex
 epub.version: 3
+
+use_initials: true
+tex.template: template.tex
 
 output.epub: endr.epub
 output.html: endr.html
