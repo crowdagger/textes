@@ -1,5 +1,5 @@
 ---
-import_config: ../common.book
+import_config: hell_butches.book
 title: Réagir sans violence
 
 output.epub: sigkill.epub
