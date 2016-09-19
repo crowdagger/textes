@@ -43,7 +43,8 @@ Autres livres de Lizzie Crowdagger
 polar fantastique, à paraître aux éditions [Dans nos histoires](http://dansnoshistoires.org).
 * [*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29), roman de
 fantasy urbaine / bitlit paru aux éditions [Dans nos histoires](http://dansnoshistoires.org).
-* [*Pas tout à fait des hommes*](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes),roman de fantasy publié en
+* [*Pas tout à fait des hommes*](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes),
+roman de fantasy publié en
 auto-édition.
 
 Pour une liste plus exhaustive et mise à jour, consultez le site [http://crowdagger.fr](http://crowdagger.fr).
