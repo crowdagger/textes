@@ -6,6 +6,7 @@ cover: couv/cover.png
 output.pdf: sorcieres_zombies.pdf
 output.html: sorcieres_zombies.html
 output.epub: sorcieres_zombies.epub
+output.html_dir: html
 
 - 01_route_de_nuit.md
 - 02_creatures_de_reve.md
