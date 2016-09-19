@@ -2,7 +2,8 @@ author: Lizzie Crowdagger
 lang: fr
 
 epub.version: 3
-use_initials: true
+
+use_initials: false
 
 html.footer: >-
  Ce texte est diffusé à prix libre : il est téléchargeable librement, mais si vous l'avez
