@@ -2,7 +2,7 @@
 import_config: hell_butches.book
 title: Dykes VS Bastards
 license: CC BY-SA 4.0
-version: "1.0"
+version: 1.0.1
 
 output.pdf: acab.pdf
 output.epub: acab.epub
