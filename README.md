@@ -44,7 +44,7 @@ d'[Une autobiographie transsexuelle (avec des vampires)](http://crowdagger.fr/in
   * *Réagir sans violence*
 * d'autres [nouvelles](nouvelles/) situées dans des univers divers :
   * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/)
-  * [*La mémoire de l'eau](nouvelles/memoire/)
+  * [*La mémoire de l'eau*](nouvelles/memoire/)
   * *Rock'n troll*
   * *Pirate !*
 
