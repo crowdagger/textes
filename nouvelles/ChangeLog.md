@@ -17,3 +17,12 @@ Pirate !
 
 ### 1.0.0 (23 avril 2016) ###
 * Première publication sur [crowdagger.fr](http://crowdagger.fr)
+
+
+Une leçon d'humanité 
+--------------------
+### 1.0.1 (20 septembre 2016) ###
+* Publication sous licence CC BY-SA 4.0
+
+### 1.0.0 (17 février 2013) ###
+* Première publication sur [crowdagger.fr](http://crowdagger.fr)
