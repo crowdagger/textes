@@ -1,7 +1,7 @@
 import_config: ../../common.book
 title: La mémoire de l'eau
 license: CC BY-SA 4.0
-version: "1.0"
+version: 1.0.1
 
 output.html: memoire.html
 output.pdf: memoire.pdf
