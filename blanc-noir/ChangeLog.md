@@ -1,18 +1,23 @@
 ChangeLog 
 ---------
 
-Version 1.0 (18 septembre 2016):
+Version 1.0.1 (18 septembre 2016):
 --------------------------------
 * Passage sous licence CC BY-SA 4.0
+
+
+Version 1.0.0 (4 mai 2016)
+-------------------------------
 * Passage au format Markdown pour la mise en page
 * Énormément de modifications non notées pour cause de ChangeLog
-  abandonné pendant des années.
+abandonné pendant des années.
 
 Version 0.4 (30 novembre 2010):
 -------------------------------
 * Corrections
 * Passage en Licence Art Libre
 * Corrections de quelques fautes par un Gentil Relecteur d'ILV.
+* Première publication sur [crowdagger.fr](http://crowdagger.fr)
 
 Version 0.3.1 (9 février 2007) :
 --------------------------------
