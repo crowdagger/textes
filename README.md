@@ -47,6 +47,8 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/
   * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/), de
     la fantasy policière ;
   * [*La mémoire de l'eau*](nouvelles/memoire/), du polar fantastique ;
+  * *Une leçon d'humanité*, une courte nouvelle qui devait à la base
+    être le début d'un *space-opéra* avec des vampires ;
   * *Rock'n troll*, une courte nouvelle féministe ;
   * *Pirate !*, une courte nouvelle anti-DRM.
 
