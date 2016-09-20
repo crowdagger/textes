@@ -2,7 +2,7 @@
 ========
 
 Ce texte est publié sous la licence [*Creative Commons
-Attribution-ShareAlike 4.0 International*](https://creativecommons.org/licenses/by-sa/4.0/)*. Vous
+Attribution-ShareAlike 4.0 International*](https://creativecommons.org/licenses/by-sa/4.0/). Vous
 avez le droit de le partager et le modifier selon les conditions de
 cette licence. Il est également demandé, mais pas requis, de : 
 
