@@ -1,8 +1,8 @@
 À propos
 ========
 
-Ce texte est publié sous la licence *[Creative Commons
-Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)*. Vous
+Ce texte est publié sous la licence [*Creative Commons
+Attribution-ShareAlike 4.0 International*](https://creativecommons.org/licenses/by-sa/4.0/)*. Vous
 avez le droit de le partager et le modifier selon les conditions de
 cette licence. Il est également demandé, mais pas requis, de : 
 
@@ -15,7 +15,8 @@ cette licence. Il est également demandé, mais pas requis, de :
 * dans le cas où l'œuvre (ou une adaptation de celle-ci) serait
   incluse dans une collection (telle que définie par la licence), que
   la collection dans son ensemble soit diffusée sous licence
-  *Creative Commons Attribution-ShareAlike 4.0 International* ou compatible. 
+  *Creative Commons Attribution-ShareAlike 4.0 International* ou une
+  licence compatible. 
 
 Ces trois demandes additionnelles n'ont pas de valeur légale ; d'un
 point de vue juridique, seul le texte de la licence mentionnée
