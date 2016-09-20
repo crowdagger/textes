@@ -1,6 +1,8 @@
 ---
 import_config: hell_butches.book
 title: Bain de soleil
+version: "1.0"
+license: CC BY-SA 4.0
 
 output.epub: soleil.epub
 output.html: soleil.html

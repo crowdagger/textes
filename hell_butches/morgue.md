@@ -1,6 +1,8 @@
 ---
 import_config: hell_butches.book
 title: Une histoire pour enfants
+version: "1.0"
+license: CC BY-SA 4.0
 
 output.epub: morgue.epub
 output.html: morgue.html
