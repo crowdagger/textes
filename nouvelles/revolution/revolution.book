@@ -1,0 +1,11 @@
+import_config: ../../common.book
+title: Révolution avec un vampire
+license: CC BY-SA 4.0
+version: "1.1.0"
+
+output.html: revolution.html
+output.pdf: revolution.pdf
+output.epub: revolution.epub
+
+! revolution.md
+- ../../About.md

@@ -1,16 +1,5 @@
----
-import_config: ../../common.book
-title: Révolution avec un vampire
-license: CC BY-SA 4.0
-version: "1.1.0"
-
-tex.short: true
-
-output.html: revolution.html
-output.pdf: revolution.pdf
-output.epub: revolution.epub
----
-
+Révolution avec un vampire
+==========================
 
 — Alors, vous voulez que je vous raconte l'histoire de ma vie ?
 
