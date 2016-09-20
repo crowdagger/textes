@@ -9,5 +9,7 @@ output.pdf: route_de_nuit.pdf
 output.epub: route_de_nuit.epub
 output.html: route_de_nuit.html
 
+tex.short: true
+
 ! 01_route_de_nuit.md
 - ../../About.md

@@ -4,6 +4,7 @@ version: 2.0.1
 license: CC-BY-SA 4.0
 
 cover: couv/creatures_de_reve.png
+tex.short: true
 
 output.pdf: creatures_de_reve.pdf
 output.epub: creatures_de_reve.epub
