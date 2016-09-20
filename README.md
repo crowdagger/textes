@@ -90,12 +90,13 @@ orthographiques/de répétition/etc., soit en faisant directement une
 [*pull request*](https://github.com/Crowdagger/textes/pulls), soit en
 créant une [*issue*](https://github.com/Crowdagger/textes/issues). Si
 tout cela est du klingon pour vous, pas de souci, vous pouvez toujours
-m'envoyer un mail à <lizzie at crowdagger point fr>.
+m'envoyer un mail à lizzie at crowdagger point fr.
 
 Vous pouvez également cliquer sur le bouton *Fork* en haut à droite et
 partir sur votre propre adaptation d'un de mes textes. Le seul truc
 que je demande dans ce genre de cas, c'est que vous changiez le titre
-(et l'autrice, évidemment), pour qu'il n'y ait pas de confusion.
+(et l'autrice, évidemment), pour qu'il n'y ait pas de confusion (et de
+respecter la licence, évidemment).
 
 Je serais aussi très heureuse si des gens se lançaient dans le projet
 de faire des traductions (ou autres adaptations) d'un de ces
