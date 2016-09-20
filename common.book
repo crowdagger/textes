@@ -6,6 +6,9 @@ epub.version: 3
 use_initials: false
 
 html.footer: >-
+ <em>{{{title}}}</em>
+ {{#has_version}}, version {{{version}}}{{/has_version}}
+ {{#has_license}} (licence : {{{license}}}){{/has_license}} <br />
  Ce texte est diffusé à prix libre : il est téléchargeable librement, mais si vous l'avez
  apprécié, vous pouvez faire un don <a href = "http://crowdagger.fr/index.php?pages/Libre-ou-gratuit">via Paypal</a>,
  ou <a href = "https://www.tipeee.com/lizzie-crowdagger">me soutenir sur Tipeee</a>.
