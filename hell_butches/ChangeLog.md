@@ -1,6 +1,15 @@
 ChangeLog 
 =========
 
+Dykes VS Bastards
+-----------------
+
+### Version 1.0 (20 septembre 2016) ###
+
+* Publication sous licence CC BY-SA 4.0
+
+
+
 Réagir sans violence 
 --------------------
 
