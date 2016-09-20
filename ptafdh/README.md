@@ -80,12 +80,10 @@ les chapitres en ligne.
 Licence 
 -------
 
-*Pas tout à fait des hommes* est diffusé sous une licence libre, vous
- êtes libre de le redistribuer et/ou le modifier sous réserve de
- respecter les conditions, au choix, de la
- [Licence Art Libre, version 1.3](http://artlibre.org/) ou ultérieure 
- (selon votre convenance) ou de la [GNU General Public License](gpl.md),
- version 2 ou ultérieure (selon votre convenance).
+*Pas tout à fait des hommes* est diffusé sous la licence *Creative
+ Commons Attribution-ShareAlike 4.0 International*. Pour plus
+ d'information sur les conditions, voir le fichier
+ [À propos](about.md), ou la [licence complète](../Licence.md).
 
 ChangeLog
 ---------
