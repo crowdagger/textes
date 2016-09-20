@@ -2,7 +2,7 @@
 import_config: ../common.book
 title: "Rock'n troll"
 license: CC BY-SA 4.0
-version: "1.0"
+version: 1.0.1
 
 output.html: troll.html
 output.pdf: troll.pdf
