@@ -4,6 +4,7 @@ lang: fr
 epub.version: 3
 
 use_initials: false
+tex.links_as_footnotes: false
 
 html.footer: >-
  <em>{{{title}}}</em>
@@ -12,5 +13,4 @@ html.footer: >-
  Ce texte est diffusé à prix libre : il est téléchargeable librement, mais si vous l'avez
  apprécié, vous pouvez faire un don <a href = "http://crowdagger.fr/index.php?pages/Libre-ou-gratuit">via Paypal</a>,
  ou <a href = "https://www.tipeee.com/lizzie-crowdagger">me soutenir sur Tipeee</a>.
- 
 html.top: "<a href = 'http://crowdagger.fr'>Site web de Lizzie Crowdagger</a>"
