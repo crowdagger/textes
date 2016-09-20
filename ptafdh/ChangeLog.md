@@ -1,7 +1,11 @@
 ChangeLog 
 =========
 
-1.1 (18 août 2016):
+1.1.1 (20 septembre 2016):
+--------------------------
+* Passage sous licence CC BY-SA 4.0
+
+1.1.0 (18 août 2016):
 -------------------
 * Nettoyage des fichiers pour les metre dans un *repository* public
 * Reprise d'un *ChangeLog*. Par conséquent, il y a dans celui-ci un
