@@ -1,4 +1,4 @@
-ç---
+---
 import_config: ../../common.book
 title: Sortir du cercueil
 version: 1.1.1
