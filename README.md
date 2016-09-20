@@ -40,11 +40,15 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/
   * *Une histoire pour enfants*
   * *Bain de soleil*
   * *Réagir sans violence*
-* d'autres [nouvelles](nouvelles/) situées dans des univers divers :
-  * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/)
-  * [*La mémoire de l'eau*](nouvelles/memoire/)
-  * *Rock'n troll*
-  * *Pirate !*
+  * d'autres [nouvelles](nouvelles/) situées dans des univers divers :
+  * [*Révolution avec un vampire*](nouvelles/revolution/), un mélange
+    de science-fiction/fantasy avec de la lutte des classes et des
+    vampires et des thématiques trans ;
+  * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/), de
+    la fantasy policière ;
+  * [*La mémoire de l'eau*](nouvelles/memoire/), du polar fantastique ;
+  * *Rock'n troll*, une courte nouvelle féministe ;
+  * *Pirate !*, une courte nouvelle anti-DRM.
 
 Générer les formats de sortie
 -----------------------------
