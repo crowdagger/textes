@@ -1,5 +1,7 @@
 import_config: ../../common.book
 title: Sorcières & Zombies
+license: CC BY-SA 4.0
+version: "1.0"
 
 cover: couv/cover.png
 

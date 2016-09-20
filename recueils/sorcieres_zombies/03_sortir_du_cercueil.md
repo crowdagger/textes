@@ -1,6 +1,8 @@
 ---
 import_config: ../../common.book
 title: Sortir du cercueil
+version: "1.0"
+license: CC-BY-SA 4.0
 
 output.pdf: sortir_du_cercueil.pdf
 output.epub: sortir_du_cercueil.epub

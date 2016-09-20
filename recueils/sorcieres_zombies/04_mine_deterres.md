@@ -1,6 +1,10 @@
 ---
 import_config: ../../common.book
 title: Une mine de déterrés
+license: CC BY-SA 4.0
+version: "1.0"
+
+tex.short: true
 
 output.pdf: mine_de_deterres.pdf
 output.epub: mine_de_deterres.epub

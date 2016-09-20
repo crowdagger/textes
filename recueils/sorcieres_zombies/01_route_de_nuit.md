@@ -1,14 +1,3 @@
----
-author: Lizzie Crowdagger
-title: Route de nuit
-lang: fr
-
-output.pdf: route_de_nuit.pdf
-output.epub: route_de_nuit.epub
-output.html: route_de_nuit.html
-html.display_chapter: false
----
-
 Route de nuit
 ============= 
 
