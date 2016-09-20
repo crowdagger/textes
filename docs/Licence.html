@@ -183,6 +183,7 @@ p.first-para:first-letter {
 /* The nav element corresponding to the navigation menu */
 nav {
     position: fixed;
+    border-right: solid thin black;
     left: 0;
     top: 0;
     bottom: 0;
@@ -357,8 +358,10 @@ blockquote {
 footer {
     background-color: #252525;
     margin-top: 2em;
+    margin-left: 0;
     text-align: center;
     color: white;
+    transition: margin-left 1s;
 }
 
 footer a, #top a {
@@ -371,8 +374,11 @@ footer a:hover, #top a:hover  {
 }
 
 footer p {
+    text-indent: 0;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
     width: 70%;
 }
 
@@ -513,6 +519,9 @@ function toggle() {
         if(document.getElementById("top")) {
             document.getElementById("top").style.left = "0";
         }
+        if(document.getElementById("footer")) {
+            document.getElementById("footer").style.marginLeft = "0%";
+        }
     } else {
         display_menu = true;
         document.getElementById("nav").style.left = "0";
@@ -520,6 +529,9 @@ function toggle() {
         document.getElementById("menu").style.left = "20%";
         if(document.getElementById("top")) {
             document.getElementById("top").style.left = "20%";
+        }
+        if(document.getElementById("footer")) {
+            document.getElementById("footer").style.marginLeft = "20%";
         }
     }
 }
@@ -556,7 +568,7 @@ function toggle() {
           <h2 class="author">Lizzie Crowdagger</h2>
         </header>
         <div id = "chapter-0" class = "chapter">
-  <h1 id = "link-1"></h1><p id = "para-1" class = "first-para"><span class = "initial">C</span>e texte est publié sous la licence <em><a href = "https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a></em>. Vous avez le droit de le partager et le modifier selon les conditions de cette licence. Il est également demandé, mais pas requis, de :</p>
+  <h1 id = "link-1"></h1><p id = "para-1">Ce texte est publié sous la licence <em><a href = "https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a></em>. Vous avez le droit de le partager et le modifier selon les conditions de cette licence. Il est également demandé, mais pas requis, de :</p>
 <ul>
 <li>publier les fichiers sources (les documents utilisés pour éditer l'œuvre, qu'il s'agisse de fichiers Markdown, LibreOffice, Word, InDesign, etc.) si vous publiez une adaptation de l'œuvre, y compris de sa mise en page ;</li>
 <li>rémunérer correctement les autrices et auteurs de l'œuvre si vous tirez un profit de la diffusion de celle-ci ;</li>
@@ -566,7 +578,7 @@ function toggle() {
 
 </div><div id = "chapter-1" class = "chapter">
   <h2 id = "link-2">Creative Commons Attribution-ShareAlike 4.0 International Public License</h2>
-<p id = "para-3" class = "first-para"><span class = "initial">B</span>y exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.</p>
+<p id = "para-3">By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.</p>
 <h3 id = "link-3">Section 1 – Definitions.</h3>
 <p id = "para-4">a. <b>Adapted Material</b> means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.</p>
 <p id = "para-5">b. <b>Adapter's License</b> means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.</p>
