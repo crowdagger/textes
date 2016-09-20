@@ -2,7 +2,7 @@
 import_config: ../../common.book
 title: Une mine de déterrés
 license: CC BY-SA 4.0
-version: "1.0"
+version: 1.1.1
 
 tex.short: true
 
