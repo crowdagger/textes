@@ -52,7 +52,7 @@ suivante :
 * Incrémenter la *major* indique un *breaking change* (changement qui
   casse la compatibilité).
 
-Tout cela marche « bien » pour du logiciel (quoiqu'en pratique ce
+Tout cela marche « bien » pour du logiciel (quoi qu'en pratique ce
 n'est pas non plus sans poser des problèmes dans les détails), mais
 pour de la fiction, ça donne quoi ?
 
