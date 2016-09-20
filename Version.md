@@ -53,7 +53,7 @@ suivante :
   casse la compatibilité).
 
 Tout cela marche « bien » pour du logiciel (quoiqu'en pratique ce
-n'est pas sans poser de problèmes non plus dans les détails), mais
+n'est pas non plus sans poser des problèmes dans les détails), mais
 pour de la fiction, ça donne quoi ?
 
 * Pour ce qui est de la révision, c'est facile : des petites
