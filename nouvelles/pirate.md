@@ -1,6 +1,8 @@
 ---
 import_config: ../common.book
 title: Pirate !
+version: "1.0"
+license: CC BY-SA 4.0
 
 output.html: pirate.html
 output.epub: pirate.epub
@@ -73,8 +75,3 @@ Par contre, arborer un drapeau noir et aller massacrer au canon les
 types qui avaient eu cette idée de loi, ça commençait à la tenter 
 sérieusement.
 
-Copyleft
---------
-
-Ce texte est libre : vous pouvez le copier, le diffuser et le modifier
-selon les termes de la [Licence Art Libre](http://www.artlibre.org), version 1.3 ou ultérieure.
