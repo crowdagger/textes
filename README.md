@@ -5,7 +5,7 @@ Remarques
 ---------
 
 Ceci est le dépôt Github contenant les *fichiers sources* d'un
-certain nombre de textes de Lizzie Crowdagger, au format
+certain nombre de mes textes, au format
 *Markdown*. Si vous souhaitez simplement *lire* ces textes, le plus
 simple reste de consulter le site:
 [http://crowdagger.fr](http://crowdagger.fr) où ils sont disponibles
@@ -19,25 +19,23 @@ pouvoir le faire plus facilement, ou encore pour garder une trace des
 modifications que je peux y apporter. Ce n'est, en revanche, pas le
 format le plus lisible pour découvrir ces fictions.
 
-Ce dépôt ne contient pas *Pas tout à fait des hommes*, qui en a un
-pour lui [ici](https://github.com/Crowdagger/ptafdh).
-
 Contenu 
 -------
 
 Ce dépôt contient les textes suivants :
 
-* [Noir & Blanc](blanc-noir/), polar surnaturel ;
+* [*Pas tout à fait des hommes*](ptafdh/), roman de fantasy ;
+* [*Noir & Blanc*](blanc-noir/), polar surnaturel ;
 * le recueils de nouvelles
-  [Sorcières & Zombies](recueils/sorcieres_zombies/), qui contient les
+  [*Sorcières & Zombies*](recueils/sorcieres_zombies/), qui contient les
   textes suivant :
   * *Route de nuit*
   * *Créatures de rêve*
   * *Sortir du cercueil*
   * *Une mine de déterrés*
 * quelques nouvelles de fantasy urbaine impliquant des membres des
-[Hell butches](hell_butches/) et situées dans l'univers
-d'[Une autobiographie transsexuelle (avec des vampires)](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29) :
+[*Hell b☠tches*](hell_butches/) et situées dans l'univers
+d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29) :
   * *Dykes VS Bastards*
   * *Une histoire pour enfants*
   * *Bain de soleil*
@@ -58,7 +56,7 @@ que ce soit au format HTML, PDF ou EPUB, le plus simple est d'utiliser
 Licence 
 -------
 
-Tous ces textes sont maintenant publiés sous licence [*Creative Commons
+Les textes sur ce dépôt sont maintenant publiés sous licence [*Creative Commons
 Attribution-ShareAlike 4.0 International*](https://creativecommons.org/licenses/by-sa/4.0/). Vous
 avez le droit de les partager et les modifier selon les conditions de cette licence. Il est également demandé, mais pas requis, de : 
 
