@@ -1,13 +1,12 @@
-author: Lizzie Crowdagger
+import_config: ../common.book
 title: Pas tout à fait des hommes
-lang: fr
 subject: fantasy
+license: CC BY-SA 4.0
+version: "1.1"
 
 # Décommenter pour mettre une couverture
 # (La couverture utilisée n'est pas libre de droits)
 cover: couv/cover.png
-
-epub.version: 3
 
 use_initials: true
 tex.template: template.tex
@@ -33,3 +32,4 @@ output.html_dir: html
 - chapitre_13.md
 - chapitre_14.md
 - chapitre_15.md
+! about.md
