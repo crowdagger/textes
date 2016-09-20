@@ -29,10 +29,24 @@ Ce dépôt contient les textes suivants :
 
 * [Noir & Blanc](blanc-noir/), polar surnaturel ;
 * le recueils de nouvelles
-  [Sorcières & Zombies](recueils/sorcieres_zombies/) ;
+  [Sorcières & Zombies](recueils/sorcieres_zombies/), qui contient les
+  textes suivant :
+  * *Route de nuit*
+  * *Créatures de rêve*
+  * *Sortir du cercueil*
+  * *Une mine de déterrés*
 * quelques nouvelles de fantasy urbaine impliquant des membres des
-[Hell butches](hell_butches/) ;
-* d'autres [nouvelles](nouvelles/) situées dans des univers divers.
+[Hell butches](hell_butches/) et situées dans l'univers
+d'[Une autobiographie transsexuelle (avec des vampires)](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29) :
+  * *Dykes VS Bastards*
+  * *Une histoire pour enfants*
+  * *Bain de soleil*
+  * *Réagir sans violence*
+* d'autres [nouvelles](nouvelles/) situées dans des univers divers :
+  * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/)
+  * [*La mémoire de l'eau](nouvelles/memoire/)
+  * *Rock'n troll*
+  * *Pirate !*
 
 Générer les formats de sortie
 -----------------------------
@@ -44,25 +58,53 @@ que ce soit au format HTML, PDF ou EPUB, le plus simple est d'utiliser
 Licence 
 -------
 
-Si tous ces textes sont mis à disposition gratuitement, cela ne veut
-pas dire pour autant qu'ils sont tous sous des licences libres ou
-Creative Commons. Lorsqu'il n'y a pas plus de précision, c'est le
-droit d'auteur « classique » qui s'applique, ce qui veut dire que vous
-n'avez *pas* le droit de reproduire ou modifier ces
-écrits sans autorisation.
+Tous ces textes sont maintenant publiés sous licence [*Creative Commons
+Attribution-ShareAlike 4.0 International*](https://creativecommons.org/licenses/by-sa/4.0/). Vous
+avez le droit de les partager et les modifier selon les conditions de cette licence. Il est également demandé, mais pas requis, de : 
 
-Pour être un peu plus claire : le fait que ce dépôt soit public vous
-autorise à le *forker* sur Github. Vous pouvez, bien évidemment, faire
-toutes les modifications que vous voulez sur une copie locale. En
-revanche, mis à part pour les textes où cela est explicitement
-autorisé, vous ne pouvez pas :
+* publier les fichiers sources (les documents utilisés pour éditer
+  l'œuvre, qu'il s'agisse de fichiers Markdown, LibreOffice, Word,
+  InDesign, etc.) si vous publiez une adaptation de l'œuvre, y compris
+  de sa mise en page ; 
+* rémunérer correctement les autrices et auteurs de l'œuvre si vous
+  tirez un profit de la diffusion de celle-ci ; 
+* dans le cas où l'œuvre (ou une adaptation de celle-ci) serait
+  incluse dans une collection (telle que définie par la licence), que
+  la collection dans son ensemble soit diffusée sous licence
+  *Creative Commons Attribution-ShareAlike 4.0 International* ou une
+  licence compatible. 
 
-* publier de versions modifiées de ces textes ;
-* publier ces textes ailleurs, y compris s'il n'y a pas de modification.
+Ces trois demandes additionnelles n'ont pas de valeur légale ; d'un
+point de vue juridique, seul le texte de la licence mentionnée
+ci-dessus fait foi. Cependant, d'un point de vue non-juridique, si
+vous ne respectez pas ces demandes, c'est un peu comme si vous tuiez
+des petits chatons adorables. Ne le faites pas.
 
-(En revanche, vous pouvez, bien sûr, me demander l'autorisation de le
-faire, et il y a de fortes chances pour que je vous la donne. Mon but
-n'est pas d'empêcher des usages mais que les choses soient un mininum
-claires d'un point de vue juridiques pour éviter les problèmes ou les incompréhensions.)
+Contribuer 
+==========
 
-En cas de doute, n'hésitez pas à me contacter.
+Maintenant que ces textes sont sous licence libre et sur un dépôt
+Github, cela veut dire que vous pouvez contribuer plus
+facilement. Vous pouvez notamment me suggérer des corrections
+orthographiques/de répétition/etc., soit en faisant directement une
+[*pull request*](https://github.com/Crowdagger/textes/pulls), soit en
+créant une [*issue*](https://github.com/Crowdagger/textes/issues). Si
+tout cela est du klingon pour vous, pas de souci, vous pouvez toujours
+m'envoyer un mail à <lizzie at crowdagger point fr>.
+
+Vous pouvez également cliquer sur le bouton *Fork* en haut à droite et
+partir sur votre propre adaptation d'un de mes textes. Le seul truc
+que je demande dans ce genre de cas, c'est que vous changiez le titre
+(et l'autrice, évidemment), pour qu'il n'y ait pas de confusion.
+
+Je serais aussi très heureuse si des gens se lançaient dans le projet
+de faire des traductions (ou autres adaptations) d'un de ces
+textes. Pour ça, je pense aussi que le plus facile est de *forker* le
+projet. Évidemment, si vous êtes motivé·e par ça, je vous
+conseillerais plutôt de commencer par un texte un peu court.
+
+
+
+
+
+
