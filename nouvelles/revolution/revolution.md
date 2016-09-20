@@ -2,7 +2,7 @@
 import_config: ../../common.book
 title: Révolution avec un vampire
 license: CC BY-SA 4.0
-version: "1.0.0"
+version: "1.1.0"
 
 tex.short: true
 
