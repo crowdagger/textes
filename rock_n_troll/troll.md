@@ -1,13 +1,12 @@
 ---
+import_config: ../common.book
 title: "Rock'n troll"
-author: "Lizzie Crowdagger"
-lang: fr
+license: CC BY-SA 4.0
+version: "1.0"
 
 output.html: troll.html
 output.pdf: troll.pdf
 output.epub: troll.epub
-
-html.display_chapter: false
 ---
 
 Thomas décapsula sa canette de bière et fit craquer ses doigts. Il
