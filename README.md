@@ -40,7 +40,7 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/
   * *Une histoire pour enfants*
   * *Bain de soleil*
   * *Réagir sans violence*
-  * d'autres [nouvelles](nouvelles/) situées dans des univers divers :
+* d'autres [nouvelles](nouvelles/) situées dans des univers divers :
   * [*Révolution avec un vampire*](nouvelles/revolution/), un mélange
     de science-fiction/fantasy avec de la lutte des classes et des
     vampires et des thématiques trans ;
