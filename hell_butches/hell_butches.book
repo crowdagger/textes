@@ -1,8 +1,0 @@
-import_config: ../common.book
-html.footer: >
- {{{title}}}, version {{{version}}}<br />
- Publié sous licence {{{license}}}<br />
- Ce texte est situé dans l'univers et reprend des
- personnages d'<a href = "http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29">
- <em>Une autobiographie transsexuelle (avec des vampires)</em></a>, édité par <a href = "http://dansnoshistoires.org/spip.php?article1">Dans
- nos histoires</a>.

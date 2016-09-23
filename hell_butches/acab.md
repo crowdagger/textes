@@ -1,5 +1,5 @@
 ---
-import_config: hell_butches.book
+import_config: ../common.book
 title: Dykes VS Bastards
 license: CC BY-SA 4.0
 version: 1.0.1
