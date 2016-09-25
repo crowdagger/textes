@@ -58,7 +58,7 @@ théorie. C'était la pratique qui posait problème.
 
 Le capitaine regardait nerveusement l'attroupement. Lui non plus ne
 s'était pas attendu à ce qu'il y ait autant de monde. Il avait beau
-avoir demandé des renfort aux gardes des quartiers voisins, notamment
+avoir demandé des renforts aux gardes des quartiers voisins, notamment
 ceux du centre et du quartier Nain, le rapport de force n'était
 pas véritablement en leur faveur. Surtout qu'il y avait un troll au
 milieu. Heureusement, il avait un atout caché dans sa manche. 
