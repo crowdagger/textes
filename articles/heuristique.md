@@ -4,12 +4,16 @@ title: "Utiliser correctement les espaces insécables (c'est pas si
 facile)"
 lang: fr
 
+proofread.nb_spaces: true
+
 html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr)"
 html.footer: "Si vous aimez ce que j'écris (ou ce que je programme),
 vous pouvez me soutenir en vous abonnant sur
 [Tipeee](https://www.tipeee.com/lizzie-crowdagger) à partir d'1 € par mois, ce qui vous donnera accès à mes prochains textes de fiction en avant-première."
 
 output.html: heuristique.html
+output.epub: heuristique.epub
+output.pdf: heuristique.pdf
 ---
 
 Utiliser correctement les espaces insécables (c'est pas si facile) 
@@ -132,9 +136,12 @@ fond légèrement bleuté.
 ### Cadratin ###
 
 Vu qu'on va parler des tailles, introduisons la notion de cadratin. Le
-mot anglais est *em*, car il fait la taille de la lettre M. Le mot est
-aussi désigné pour parler des tirets cadratins '—' et des tirets
-semi-cadratins '–'.
+mot anglais est *em*, car il fait la taille de la lettre M. Ce mot
+vous dit peut-être déjà quelque chose si vous connaissez les tirets
+cadratins '—' et semi-cadratins '–' ; à la base, le terme désigne
+pourtant une espace (« cadratin » vient du latin *quadratus*, « carré
+», et désignait à l'origine le lingot de métal plus bas que les autres
+que les typographes mettaient pour insérer un blanc).
 
 Un cadratin est donc une espace insécable qui fait la taille d'un
 M (c'est assez large). Un demi-cadratin est deux fois plus petite. 
