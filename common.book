@@ -6,8 +6,7 @@ epub.version: 3
 rendering.initials: false
 tex.links_as_footnotes: false
 
-html.footer: "*{{{title}}}*
- {{#has_version}}, version {{{version}}}{{/has_version}}
+html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version}}
  {{#has_license}} (licence : {{{license}}}){{/has_license}}
 
 
