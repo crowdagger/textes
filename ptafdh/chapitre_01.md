@@ -616,7 +616,7 @@ peut parfois vous sauver la vie.
 
 « Alors, il se passe quoi ? 
 
-— C'est Grimmel. Il l'ont
+— C'est Grimmel. Ils l'ont
 arrêté. »
 
 Kalia se souvenait vaguement de Grimmel. Elle aurait bien aimé pouvoir
