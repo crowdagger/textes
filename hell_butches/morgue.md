@@ -1,8 +1,10 @@
 ---
 import_config: ../common.book
 title: Une histoire pour enfants
-version: 1.0.1
+version: 1.0.2
 license: CC BY-SA 4.0
+
+html.escape_nb_spaces: false
 
 output.epub: morgue.epub
 output.html: morgue.html
@@ -123,8 +125,8 @@ réaliste qu'elle en train de dézinguer Dracula.
 
 Morgue devait l'admettre, elle avait longtemps été mal à l'aise face
 aux enfants. Elle l'était encore un peu, mais elle avait compris que
-montrer quelques unes de ses capacités vampiriques, comme les dents
-allongés ou ses griffes noires rétractiles, rendait les choses plus
+montrer quelques-unes de ses capacités vampiriques, comme les dents
+allongées ou ses griffes noires rétractiles, rendait les choses plus
 faciles. Les gamins trouvaient ça *cool*, et elle pouvait alors leur
 raconter ses plus beaux exploits authentiques.
 

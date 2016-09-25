@@ -23,6 +23,9 @@ Réagir sans violence
 
 Une histoire pour enfants
 --------------------------
+### Version 1.0.2 (25 septembre 2016) ###
+* Quelques fautes trouvées en jouant avec *LanguageTool*
+
 ### Version 1.0.1 (20 septembre 2016) ###
 * Publication sous licence CC BY SA 4.0
 
