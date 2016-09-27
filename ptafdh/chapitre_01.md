@@ -382,7 +382,7 @@ fonctionner si elle s'était tue.
 
 Ça aurait pu être pire, ou du moins c'était ce qu'il n'arrêtait
 pas de se répéter. Il aurait pu entendre des voix n'arrêtant pas de
-lui dire de tuer des gens, par exemple. Là dessus, il fallait le
+lui dire de tuer des gens, par exemple. Là-dessus, il fallait le
 reconnaître, Angèle était plutôt raisonnable. 
 
 Des bruits de pas interrompirent sa réflexion
