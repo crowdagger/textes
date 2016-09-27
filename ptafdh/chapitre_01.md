@@ -684,7 +684,7 @@ cause de lui ? demanda-t-elle en montrant le nain du doigt.
 
 — Vous lui reprochez quoi, exactement ? 
 
-— Outrage à agent dans l'exercice de ses fonctions, rebellion, usage
+— Outrage à agent dans l'exercice de ses fonctions, rébellion, usage
 de violence... »
 
 L'elfe grimaça. Ce n'était pas des accusations légères. Empêcher
