@@ -4,8 +4,7 @@ subject: fantasy
 license: CC BY-SA 4.0
 version: 1.1.1
 
-# proofread.repetitions: true
-# proofread.nb_spaces: true
+# html.escape_nb_spaces: false
 
 # Décommenter pour mettre une couverture
 # (La couverture utilisée n'est pas libre de droits)
@@ -14,11 +13,14 @@ cover: couv/cover.png
 rendering.initials: true
 tex.template: template.tex
 
-output.epub: endr.epub
+output.epub: endr.epub 
 output.html: endr.html
 output.pdf: endr.pdf
 output.odt: endr.odt
 output.html_dir: html
+output.proofread.html: endr.proof.html
+output.proofread.html_dir: proof_html
+output.proofread.pdf: endr.proof.pdf
 
 - chapitre_01.md
 - chapitre_02.md

@@ -15,3 +15,6 @@ html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version
  ou [me soutenir sur Tipeee](https://www.tipeee.com/lizzie-crowdagger)."
 
 html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr)"
+
+proofread.repetitions: true
+proofread.languagetool: true
