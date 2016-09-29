@@ -2,7 +2,7 @@
 import_config: ../common.book
 title: Dykes VS Bastards
 license: CC BY-SA 4.0
-version: 1.0.1
+version: 1.0.2
 
 output.pdf: acab.pdf
 output.epub: acab.epub
@@ -121,7 +121,7 @@ toujours en
 train de fouiller. Il était donc tout à fait vrai
 qu'elle n'avait rien fait.
 
-Du moins, ce jour là. Si Cassandra faisait bien attention à rester
+Du moins, ce jour-là. Si Cassandra faisait bien attention à rester
 dans les clous de la loi depuis quelques temps, c'était en bonne
 partie parce qu'elle était toujours soupçonnée d'être impliquée dans
 les meurtres, entre autres, d'un commissaire de police et d'un
@@ -188,7 +188,7 @@ loups-garous peinait à contrôler leur transformation, mais Shade
 n'était plus vraiment jeune. Si son apparence 
 physique était, la plupart du temps, celle d'une femme noire aux
 cheveux longs d'une
-cinquantaine années, elle avait entre trois et quatre fois plus
+cinquantaine d'années, elle avait entre trois et quatre fois plus
 d'expérience au compteur. Ce qui lui permettait, présentement, d'avoir
 fait sortir ses poils lupins uniquement sur le bas du visage, donnant
 l'apparence d'une barbe, tandis que ceux sur le haut de sa tête (qui
@@ -202,7 +202,7 @@ de lui tendre son ticket, que Shade attrapa avec un grognement censé
 faire office de remerciement. Après quoi, elle attrapa ses achats et
 se dirigea vers la sortie.
 
-Jusque là, tout s'était bien déroulé. Malheureusement, ce n'était que
+Jusque-là, tout s'était bien déroulé. Malheureusement, ce n'était que
 la partie la plus facile du plan. 
 
 *****
@@ -274,7 +274,7 @@ lorsque le fourgon démarra, sirènes hurlantes.
 *****
 
 Shade attendait, anxieuse, sur le parking de Brico Dépôt. Elle avait
-repris son apparence normal : celle qu'elle avait montrée dans le
+repris son apparence normale : celle qu'elle avait montrée dans le
 magasin lui demandait trop d'efforts et se révélait vite
 douloureuse. Elle avait aussi renfilé le blouson en jean qu'elle avait
 retiré en entrant faire ses courses. Elle craignait cependant que quelqu'un ne
@@ -450,7 +450,7 @@ Dans le fourgon de police, les policiers s'étaient mis à raconter
 leurs exploits virils. Cela avait un peu soulagé Cassandra : au moins,
 pendant ce temps là, ils lui avaient foutu la paix.
 
-Ensuite, à sa grande suprise, elle avait entendu la voix de Sigkill
+Ensuite, à sa grande surprise, elle avait entendu la voix de Sigkill
 dans la radio à l'avant. Ce qui ne pouvait vouloir dire qu'une chose :
 que ses amies avaient l'intention de l'extraire de là. Cela paraissait
 un peu farfelu, vu qu'elle n'avait rien fait qui permettait la moindre
@@ -520,7 +520,7 @@ par terre, face contre sol.
 
 Elle reçut un violent coup à l'arrière de la tête et répliqua d'un
 coup de coude. Elle parvint à se retourner et bloqua un coup de
-matraque avec son avant bras, puis réussit avec un geste agile de sa
+matraque avec son avant-bras, puis réussit avec un geste agile de sa
 jambe à faire chuter le grand chauve qui lui tapait dessus.
 
 Elle réussit à se mettre à genoux au-dessus de lui, et passa ses mains

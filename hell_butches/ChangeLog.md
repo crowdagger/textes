@@ -3,6 +3,9 @@ ChangeLog
 
 Dykes VS Bastards
 -----------------
+### 1.0.2 (29 septembre 2016 ###
+* Correction de quelques fautes grâce à LanguageTool.
+
 ### 1.0.1 (20 septembre 2016) ###
 * Passage sous licence CC BY-SA 4.0
 
