@@ -29,6 +29,9 @@ Réagir sans violence
 
 Une histoire pour enfants
 --------------------------
+### 1.0.3 (29 septembre 2016) ###
+* Corrections de quelques fautes de traits d'union
+
 ### 1.0.2 (25 septembre 2016) ###
 * Quelques fautes trouvées en jouant avec *LanguageTool*
 

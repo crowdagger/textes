@@ -1,7 +1,7 @@
 ---
 import_config: ../common.book
 title: Une histoire pour enfants
-version: 1.0.2
+version: 1.0.3
 license: CC BY-SA 4.0
 
 output.epub: morgue.epub
@@ -152,7 +152,7 @@ signe d'être silencieuse avant de décrocher.
 
 — C'est moi. Je suis avec notre cible.
 
-— Passe-le moi. »
+— Passe-le-moi. »
 
 Il y eut quelques grésillements pendant qu'à l'autre bout de la ligne
 le téléphone changeait de main, puis elle put entendre le père de
@@ -196,7 +196,7 @@ fichus de répondre par oui ou par non ?
 
 — Oui, je ferai ce que vous voudrez, mais...
 
-— Repassez-la moi. »
+— Repassez-la-moi. »
 
 Nouveaux grésillements dans le téléphone.
 
