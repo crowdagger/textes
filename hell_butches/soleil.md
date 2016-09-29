@@ -1,12 +1,13 @@
 ---
 import_config: ../common.book
 title: Bain de soleil
-version: 1.0.1
+version: 1.0.2
 license: CC BY-SA 4.0
 
 output.epub: soleil.epub
 output.html: soleil.html
 output.pdf: soleil.pdf
+output.proofread.html: soleil.proof.html
 ---
 
 Bain de soleil
@@ -21,7 +22,7 @@ proclame « *Mess with the best, die like the rest* ». Aux pieds, elle
 a des *rangers* qu'elle n'a pas eu le courage de retirer,
 contrairement à son tee-shirt et à son soutien-gorge. Elle porte des
 lunettes de soleil et elle a un
-baladeur MP3 branchée sur les oreilles ; elle écoute du Wagner. À côté
+baladeur MP3 branché sur les oreilles ; elle écoute du Wagner. À côté
 d'elle traîne une bouteille de vodka à moitié vide qui semble indiquer
 qu'elle est là  depuis un moment.
 
@@ -48,8 +49,8 @@ se laisser tuer par son créateur en espérant faire partie des chanceux
 qui reviennent à la non-vie. Ce n'est pas ce qui s'est passé pour
 Morgue : c'est juste qu'elle est morte il y a bien longtemps, alors
 qu'elle avait encore en elle le sang d'un vampire qu'elle avait tué
-deux jours plus tôt. Elle détestait les morts-vivants, en ce temps là,
-et elle en avait déjà éliminé quelques uns. Elle n'avait pas prévu que
+deux jours plus tôt. Elle détestait les morts-vivants, en ce temps-là,
+et elle en avait déjà éliminé quelques-uns. Elle n'avait pas prévu que
 le fait d'avoir bu de son sang — censé, selon les légendes, donner
 force et vitalité — la conduirait à devenir l'une d'entre eux
 quarante-huit heures plus tard.
@@ -108,7 +109,7 @@ magnifique de défier la faucheuse.
 
 Même le meurtre n'est qu'un palliatif à son manque. Avant, lorsqu'elle
 était encore humaine, voir un ennemi agoniser lentement pouvait, à lui
-seul, lui procurer des orgasmes. Elle se rappelle toujours de cette
+seul, lui procurer des orgasmes. Elle se rappelle toujours cette
 sensation d'extase lorsqu'elle a tué un homme pour la première fois,
 alors qu'elle n'avait que treize ans. Maintenant, si elle veut prendre un 
 peu de plaisir ainsi, elle est obligée d'en rajouter des

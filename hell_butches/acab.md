@@ -7,6 +7,7 @@ version: 1.0.1
 output.pdf: acab.pdf
 output.epub: acab.epub
 output.html: acab.html
+output.proofread.html: acab.proof.html
 ---
 
 Dykes VS Bastards

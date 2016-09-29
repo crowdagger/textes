@@ -2,11 +2,12 @@
 import_config: ../common.book
 title: Réagir sans violence
 license: CC BY-SA 4.0
-version: 1.0.1
+version: 1.0.2
 
 output.epub: sigkill.epub
 output.html: sigkill.html
 output.pdf: sigkill.pdf
+output.proofread.html: sigkill.proof.html
 ---
 
 Réagir sans violence 
@@ -31,7 +32,7 @@ mais là, malheureusement, elle ne comprenait que trop bien.
 
 Elle ne pouvait pas ne pas les voir, mais elle pouvait faire comme
 si. Et elle pouvait occuper son esprit à des choses intéressantes pour
-ne pas penser à ce que eux pouvaient bien penser. Elle était donc
+ne pas penser à ce que, eux, pouvaient bien penser. Elle était donc
 plongée dans ses réflexions, à se demander comment elle pourrait bien
 améliorer les performances du morceau de code qu'elle avait écrit
 aujourd'hui et qui était un peu poussif. Peut-être pourrait-elle faire
@@ -45,7 +46,7 @@ occasion, lorsque deux hommes, décidés à interagir avec elle malgré
 ses barrières sonores et mentales, lui bloquèrent le chemin.
 
 L'un d'entre eux dit quelque chose, qu'elle n'entendit pas à cause de
-son baladeur. Ou grâce à son baladeur, tout est une question de point
+son baladeur. Ou *grâce* à son baladeur, tout est une question de point
 de vue. 
 
 Sigkill s'apprêtait à essayer de les contourner, mais le second type
