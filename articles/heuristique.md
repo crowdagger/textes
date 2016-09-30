@@ -412,3 +412,44 @@ paraissent erronées dans les règles que j'ai présentées, n'hésitez pas
 
 Et si vous avez envie de jouer avec [Crowbook, c'est
 ici](https://github.com/lise-henry/crowbook).
+
+
+## Post-scriptum : avoir un rendu portable des espaces fines insécables ##
+
+Après avoir publié cet article, quelqu'un m'a fait remarquer que les
+espaces fines insécables ne s'affichait pas correctement chez
+lui. *Oups*. Après avoir enquêté un peu, j'ai réalisé que ce problème
+semblait partagé par l'ensemble des navigateurs sous Mac, et
+j'imagine que c'est une histoire de polices qui n'incluent pas ce
+caractère.
+
+Donc, que faire ? Virer purement et simplement ces espaces trop
+compliquées à gérer ? Un peu triste, tout de même. J'ai fini par
+trouver une alternative, en utilisant l'entité HTML `&thinsp;`, qui
+est une espace fine et qui a priori est mieux reconnue. Seul souci,
+elle n'est pas insécable, ce qui perd un peu l'intérêt de la chose (on
+se rappelle que le but était d'éviter des `?` ou `!` orphelins en
+début de ligne). Heureusement, il suffit d'ajouter un peu de CSS pour
+dire qu'en fait, si, là c'est insécable :
+
+```html
+<span style = "white-space: nowrap;">&thinsp;</span>
+```
+
+Et voilà, ça marche, fabuleux. Sauf que, il vaudrait quand même mieux
+mettre le code unicode :
+
+```html
+<span style = "white-space: nowrap;">&#8201;</span>
+```
+
+parce que, sinon, la version EPUB ne va plus être valide (l'entité
+`&thinsp;` n'est pas valide en XHTML). Et en plus de ne pas être
+valide, en tout cas sur ma Kobo, ça fait planter l'affichage assez
+sévèrement. Donc, à éviter.
+
+(Une alternative à ce remplacement des espaces fines insécables pourrait être d'inclure des polices
+dont on est sûre qu'elle inclut bien tous ces caractères, avec la
+directive CSS `font-face`. Cela dit, pour un fichier EPUB (qui doit
+intégrer ces polices dans le fichier et pas pointer vers un lien
+externe), ça veut dire l'alourdir considérablement, donc autant éviter.)

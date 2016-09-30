@@ -606,7 +606,7 @@ function toggle() {
     <div id = "content">
       <div id = "page">
         <header>
-          <div id = "top"><p id = "para-54"><a href = "http://crowdagger.fr">Site web de Lizzie Crowdagger</a></p>
+          <div id = "top"><p id = "para-59"><a href = "http://crowdagger.fr">Site web de Lizzie Crowdagger</a></p>
 </div>
           <div id = "menu">
             <img id = "menu-button" onclick="toggle();"
@@ -723,11 +723,21 @@ function toggle() {
 <p id = "para-50">—<span class = "ensp">&#8194;</span>Allez, j'ai qu'à coder un truc vite fait, ça me prendra pas longtemps...<span class = "nbsp">&#160;</span>»</p>
 <p id = "para-51">Donc voilà, tout ça pour dire que s'il y a des choses qui vous paraissent erronées dans les règles que j'ai présentées, n'hésitez pas à me le signaler.</p>
 <p id = "para-52">Et si vous avez envie de jouer avec <a href = "https://github.com/lise-henry/crowbook">Crowbook, c'est ici</a>.</p>
+<h2 id = "link-16">Post-scriptum<span class = "nbsp">&#160;</span>: avoir un rendu portable des espaces fines insécables</h2>
+<p id = "para-53">Après avoir publié cet article, quelqu'un m'a fait remarquer que les espaces fines insécables ne s'affichait pas correctement chez lui. <em>Oups</em>. Après avoir enquêté un peu, j'ai réalisé que ce problème semblait partagé par l'ensemble des navigateurs sous Mac, et j'imagine que c'est une histoire de polices qui n'incluent pas ce caractère.</p>
+<p id = "para-54">Donc, que faire<span class = "nnbsp">&#8201;</span>? Virer purement et simplement ces espaces trop compliquées à gérer<span class = "nnbsp">&#8201;</span>? Un peu triste, tout de même. J'ai fini par trouver une alternative, en utilisant l'entité HTML <code>&amp;thinsp;</code>, qui est une espace fine et qui a priori est mieux reconnue. Seul souci, elle n'est pas insécable, ce qui perd un peu l'intérêt de la chose (on se rappelle que le but était d'éviter des <code>?</code> ou <code>!</code> orphelins en début de ligne). Heureusement, il suffit d'ajouter un peu de CSS pour dire qu'en fait, si, là c'est insécable<span class = "nbsp">&#160;</span>:</p>
+<pre><code class = "language-html">&lt;span style = "white-space: nowrap;"&gt;&amp;thinsp;&lt;/span&gt;
+</code></pre>
+<p id = "para-55">Et voilà, ça marche, fabuleux. Sauf que, il vaudrait quand même mieux mettre le code unicode<span class = "nbsp">&#160;</span>:</p>
+<pre><code class = "language-html">&lt;span style = "white-space: nowrap;"&gt;&amp;#8201;&lt;/span&gt;
+</code></pre>
+<p id = "para-56">parce que, sinon, la version EPUB ne va plus être valide (l'entité <code>&amp;thinsp;</code> n'est pas valide en XHTML). Et en plus de ne pas être valide, en tout cas sur ma Kobo, ça fait planter l'affichage assez sévèrement. Donc, à éviter.</p>
+<p id = "para-57">(Une alternative à ce remplacement des espaces fines insécables pourrait être d'inclure des polices dont on est sûre qu'elle inclut bien tous ces caractères, avec la directive CSS <code>font-face</code>. Cela dit, pour un fichier EPUB (qui doit intégrer ces polices dans le fichier et pas pointer vers un lien externe), ça veut dire l'alourdir considérablement, donc autant éviter.)</p>
 
 </div>
       </div>
     </div>
-    <footer id = "footer"><p id = "para-53">Si vous aimez ce que j'écris (ou ce que je programme), vous pouvez me soutenir en vous abonnant sur <a href = "https://www.tipeee.com/lizzie-crowdagger">Tipeee</a> à partir d'1<span class = "nnbsp">&#8201;</span>€ par mois, ce qui vous donnera accès à mes prochains textes de fiction en avant-première.</p>
+    <footer id = "footer"><p id = "para-58">Si vous aimez ce que j'écris (ou ce que je programme), vous pouvez me soutenir en vous abonnant sur <a href = "https://www.tipeee.com/lizzie-crowdagger">Tipeee</a> à partir d'1<span class = "nnbsp">&#8201;</span>€ par mois, ce qui vous donnera accès à mes prochains textes de fiction en avant-première.</p>
 </footer>
   </body>
 </html>
