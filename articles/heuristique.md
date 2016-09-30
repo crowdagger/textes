@@ -4,6 +4,7 @@ title: "Utiliser correctement les espaces insécables (c'est pas si
 facile)"
 lang: fr
 
+proofread: true
 proofread.nb_spaces: true
 
 html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr)"
@@ -11,7 +12,7 @@ html.footer: "Si vous aimez ce que j'écris (ou ce que je programme),
 vous pouvez me soutenir en vous abonnant sur
 [Tipeee](https://www.tipeee.com/lizzie-crowdagger) à partir d'1 € par mois, ce qui vous donnera accès à mes prochains textes de fiction en avant-première."
 
-output.html: heuristique.html
+output.proofread.html: heuristique.html
 output.epub: heuristique.epub
 output.pdf: heuristique.pdf
 ---
