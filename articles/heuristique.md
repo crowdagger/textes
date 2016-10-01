@@ -373,7 +373,7 @@ fermante pour une ouvrante, et où en plus (et ça c'est ce que je
 préfère avec les parenthèses (si c'est votre cas aussi, je vous invite
 à découvrir [Lisp](https://fr.wikipedia.org/wiki/Lisp)) on peut les *imbriquer*. Mais bon, il y a des gens
 qui utilisent toujours des tirets demi-cadratins à la place, alors il
-faut bien le gérer.)_
+faut bien le gérer.))_
 
 ## Conclusion ##
 
