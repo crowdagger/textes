@@ -569,7 +569,7 @@ mythologie grecque, on nous appelait les *Oneiroi*.
 
 — Sans blague ?
 
-— Le problème, continua la jeune femme onirique, c'est que que des
+— Le problème, continua la jeune femme onirique, c'est que des
   gens se retrouvent, ni morts, ni vivants, coincés dans ce cauchemar.
 
 Il y eut un moment de silence. Laura paraissait réfléchir et Alys ne
@@ -1175,7 +1175,7 @@ pas, hein ? Laisse-moi deviner. Ton frangin ?
 — Tais-toi ! hurla Stéphane.
 
 — Tu réalises qu'il est mort, hein ? reprit Alys. Ce n'est pas
-lui. C'est juste ce putain de cauchemar qui essaie de te servir de
+lui. C'est juste ce putain de cauchemar qui essaie de se servir de
 toi.
 
 — Sauve-moi ! hurla Antoine. Tue-la !

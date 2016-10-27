@@ -21,6 +21,9 @@ Sorcières & Zombies
 Créatures de rêve 
 ------------------
 
+### 2.0.2 (27 octobre 2016) ###
+* Correction de deux fautes.
+	
 ### 2.0.1 (20 septembre 2016) ###
 * Publication sous licence CC BY-SA 4.0
 
