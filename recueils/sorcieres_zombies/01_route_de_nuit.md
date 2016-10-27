@@ -342,7 +342,7 @@ Claire avançant prudemment en tête, poursuivant sa quête
 obsessionnelle pour allumer toutes les lumières, Lise fermant la marche, criant
 régulièrement « Tonton ? Tonton ! ». 
 
-Elles finirent pas arriver au bout du couloir où se trouvaient
+Elles finirent par arriver au bout du couloir où se trouvaient
 d'autres escaliers, et redescendirent au 
 rez-de-chaussée avec précaution, le chat
 noir toujours à côté d'elles.
