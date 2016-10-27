@@ -290,7 +290,7 @@ maison. En
 revanche, Claire nota que Lise portait un pantalon. Il y avait
 donc du progrès. 
 
-— Mais qui êtes vous ? demanda Lise en levant un sourcil.
+— Mais qui êtes-vous ? demanda Lise en levant un sourcil.
 
 — Je me suis perdue, répondit Claire. J'allais à un mariage... je me
 suis endormie dans la voiture, et j'ai été attaquée par des
