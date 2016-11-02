@@ -1,8 +1,9 @@
+
 ---
 import_config: ../common.book
 title: Dykes VS Bastards
 license: CC BY-SA 4.0
-version: 1.0.2
+version: 1.0.3
 
 output.pdf: acab.pdf
 output.epub: acab.epub
@@ -17,8 +18,8 @@ Dykes VS Bastards
 
 Les mains menottées derrière le dos, ses pieds traînaient sur le sol
 tandis que deux policiers de la Brigade Anti Criminalité la tiraient
-vers une camionnette. Autour d'elle se trouvaient d'autres policiers
-en tenue émeute. CRS ? Gardes Mobiles ? se demanda-t-elle. Elle ne se
+vers une camionnette. Autour d'elle se trouvaient d'autres flics 
+en tenue anti-émeute. CRS ? Gardes Mobiles ? se demanda-t-elle. Elle ne se
 rappelait jamais comment les distinguer. Il y avait une histoire de
 couleurs différentes sur leur casque, non ?
 
@@ -42,8 +43,8 @@ Un baqueux au crâne luisant lui jeta un regard mauvais.
 
 — Si t'es pacifiste, pourquoi t'as le visage masqué ?
 
-Cassandra chercha un moment, mais ne trouva pas de réponse qui
-pourrait convenir au policier. Celui-ci ne lui avait pas lu ses
+Cassandra chercha un moment, mais ne trouva pas de réponse susceptible
+de convenir au policier. Celui-ci ne lui avait pas lu ses
 droits, mais elle avait vu suffisamment de séries américaines pour
 avoir intégré que tout ce qu'elle dirait pourrait et serait retenu
 contre elle. Elle décida donc de garder le silence.
@@ -75,7 +76,7 @@ demander :
 La jeune femme fouilla un instant dans le sac qu'elle avait en
 bandoulière.
 
-— Ben, j'ai été *first* à la revendiquer, non ? demanda-t-elle
+— Ben, j'ai été *preums* à la revendiquer, non ? demanda-t-elle
 finalement.
 
 Après quoi, elle sortit une clé à molette de son sac et explosa la
@@ -93,8 +94,8 @@ Cassandra ne comprenait pas cette obsession sur le bandana panthère
 violet qu'elle avait mis sur son nez pour se protéger un peu des
 gaz lacrymogènes. Après tout, elle avait aussi des gants en dentelle
 noire qui lui permettaient de ne pas laisser d'empreintes
-digitales, et ça n'avait l'air de choquer personne. Elle laissa
-néanmoins le policier lui arracher le bandana. 
+digitales, et ça n'avait l'air de choquer personne. Néanmoins, elle ne
+broncha pas lorsque le policier lui arracha le bandana. 
 
 Celui-ci dévisagea la jeune femme, et
 eut un air lubrique en regardant sa jupe courte et ses chaussures
@@ -122,7 +123,7 @@ train de fouiller. Il était donc tout à fait vrai
 qu'elle n'avait rien fait.
 
 Du moins, ce jour-là. Si Cassandra faisait bien attention à rester
-dans les clous de la loi depuis quelques temps, c'était en bonne
+dans les clous de la loi depuis quelque temps, c'était en bonne
 partie parce qu'elle était toujours soupçonnée d'être impliquée dans
 les meurtres, entre autres, d'un commissaire de police et d'un
 secrétaire du conseil vampirique. Elle n'arrivait pas vraiment à en
@@ -199,7 +200,7 @@ vidéosurveillance mais rendait l'articulation humaine délicate.
 
 Heureusement, la caissière ne lui posa pas de question et se contenta
 de lui tendre son ticket, que Shade attrapa avec un grognement censé
-faire office de remerciement. Après quoi, elle attrapa ses achats et
+faire office de remerciement. Après quoi, elle récupéra ses achats et
 se dirigea vers la sortie.
 
 Jusque-là, tout s'était bien déroulé. Malheureusement, ce n'était que
@@ -212,7 +213,7 @@ ordinateur portable qu'elle tenait sur ses genoux, et sur lequel elle
 avait branché un émetteur infrarouge USB. Elle trouvait qu'elle aurait
 *dû* pianoter sur le clavier pendant que des messages cryptiques
 s'affichaient à l'écran, mais elle s'était contentée d'exécuter un des
-programmes qu'elle avait récupéré sur son disque dur au cas où il lui
+programmes qu'elle avait récupérés sur son disque dur au cas où il lui
 servirait un jour. Maintenant, elle attendait juste que ça
 fonctionne. Ça ne lui semblait pas très approprié.
 
@@ -245,7 +246,7 @@ Cassandra entendit des coups sur la carrosserie de la fourgonnette,
 puis de nouvelles détonations. Pétards ? Grenades ? De l'intérieur,
 c'était dur à dire. La diversion était néanmoins bienvenue. Depuis
 qu'ils avaient compris qu'elle était transsexuelle, les deux policiers
-s'étaient montrés plus que pénibles, faisant tout leur possible pour
+s'étaient révélés plus que pénibles, faisant tout leur possible pour
 se montrer à la hauteur du slogan *All Cops Are Bastards*.
 
 Il y eut ensuite des cris, de nouveaux coups sur la carrosserie, puis
@@ -312,13 +313,13 @@ policiers qui détenaient Cassandra.
 
 *****
 
-Le camion citerne avançait doucement au sud de Lille. Perchée sur le siège
+Au sud de Lille, le camion citerne avançait doucement. Perchée sur le siège
 passager, Morgue éprouvait un certain plaisir à regarder les voitures
 de haut. Elle avait le visage masqué par une capuche, des lunettes de
 soleil, et un foulard qui ne couvrait présentement pas sa bouche
 car elle l'avait baissé pour pouvoir fumer. 
 
-Le lecteur CD passait « Motivés» de Zebda. Morgue n'appréciait pas
+Le lecteur CD passait « Motivés » de Zebda. Morgue n'appréciait pas
 véritablement les choix musicaux de sa conductrice, mais elle était
 trop heureuse d'avoir réussi à trouver un poids lourd dans un délai
 aussi court pour se permettre de la critiquer.
@@ -394,7 +395,7 @@ peut-être pas comme prévu.
 
 — Presque en position.
 
-— Bien. Ouf. Ils ont bougé plus vite que prévu.
+— Bien. Ouf. Ils ont bougé plus vite qu'on s'y attendait.
 
 Sigkill raccrocha, et Morgue rangea son téléphone.
 
@@ -448,7 +449,7 @@ avait plus qu'à espérer que Fabienne ne se dégonfle pas.
 
 Dans le fourgon de police, les policiers s'étaient mis à raconter
 leurs exploits virils. Cela avait un peu soulagé Cassandra : au moins,
-pendant ce temps là, ils lui avaient foutu la paix.
+pendant ce temps-là, ils lui avaient foutu la paix.
 
 Ensuite, à sa grande surprise, elle avait entendu la voix de Sigkill
 dans la radio à l'avant. Ce qui ne pouvait vouloir dire qu'une chose :
@@ -482,14 +483,14 @@ puis il y eut un choc brutal et le fourgon partit en tonneaux.
 Morgue regarda le fourgon rouler et n'attendit pas que Fabienne ait
 immobilisé son poids lourd pour en sauter. Elle se réceptionna
 sur ses pieds d'un geste gracile, puis prit quelques instants pour
-analyser la situation. Le fourgon gisait sur le côté, ce qui donnait
+analyser la situation. Le fourgon gisait sur le côté, ce qui lui donnait
 un peu de temps avant que les policiers ne reprennent leurs
 esprits. Il y avait juste à espérer que Cassandra n'ait pas trop
 morflé pendant le *crash*.
 
-Le souci, c'est que Morgue n'avait pas d'armes : le plan de Shade
+Le souci était que Morgue n'avait pas d'armes : le plan de Shade
 impliquait d'utiliser d'autres méthodes pour se débarrasser de la
-flicaille. Mais où était celle-ci ?
+flicaille. Mais où était la louve-garou ?
 
 Morgue fut soulagée en entendant la Porsche approcher, puis
 s'immobiliser dans un dérapage. Morgue s'approcha du côté droit du
@@ -523,7 +524,7 @@ coup de coude. Elle parvint à se retourner et bloqua un coup de
 matraque avec son avant-bras, puis réussit avec un geste agile de sa
 jambe à faire chuter le grand chauve qui lui tapait dessus.
 
-Elle réussit à se mettre à genoux au-dessus de lui, et passa ses mains
+Elle réussit à se mettre à genoux sur lui, et passa ses mains
 menottées au-dessus de sa tête, puis tira en arrière. La chaîne des
 menottes étrangla le policier, qui émit un gargouillement grotesque.
 
@@ -533,7 +534,7 @@ l'heure, seule à l'arrière avec cinq hommes, et les quatre autres
 cependant pas avec une grande intelligence, puisque deux d'entre eux
 la tirèrent en arrière, ce qui ne fit qu'empêcher encore plus leur
 collègue de respirer. Un troisième homme lui envoya un violent coup de
-matraque sur l'épaule, qui lui aurait fait lâcher prise si elle
+matraque sur l'épaule, qui aurait pu lui faire lâcher prise si elle
 n'avait pas été tirée en arrière. Le quatrième, quant à lui, s'écroula
 au sol, une hache plantée dans la tête.
 
@@ -544,7 +545,7 @@ face aux policiers.
 
 Le conducteur du fourgon parvint à s'extraire du véhicule en grimpant
 par la porte conducteur, et fit face à Shade en sortant un
-pistolet semi-automatique. Celle-ci avait espéré que les policiers
+pistolet semi-automatique. Celle-ci avait espéré que les flics
 n'auraient eu à leur disposition que du matériel anti-émeute, mais
 cela ne changea pas grand-chose. Le policier n'eut en effet pas le
 temps de tirer, car Shade, plus rapide, avait visé avec le pistolet à
@@ -583,7 +584,7 @@ et le policier s'écroula, mort.
 À l'avant du camion, Cassandra entendit un bruit métallique strident
 et des hurlements. Elle ne s'en préoccupa pas et regarda plutôt le
 dernier policier qui se tenait toujours debout. Celui-ci avait sorti
-un pistolet et braquait Morgue.
+un pistolet qu'il braquait sur Morgue.
 
 — Ne bougez plus ! ordonna-t-il.
 
@@ -617,7 +618,7 @@ Morgue le regarda, étonnée.
 — Si je comptais laisser des témoins, répliqua-t-elle, pourquoi
 j'aurais montré mon visage ?
 
-— Laisse-le moi, fit Cassandra.
+— Laisse-le-moi, fit Cassandra.
 
 Elle ramassa le *flashball*, puis décrocha la main coupée qui le
 tenait toujours. Elle s'approcha du policier survivant. C'était celui
@@ -665,7 +666,7 @@ modifiant son apparence pour qu'on ne puisse pas les identifier. Les
 policiers chercheraient un homme, ou un groupe d'hommes. Leur petit
 groupe de lesbiennes ne seraient donc pas inquiétées. Elle avait
 craint à un moment que les policiers aient eu le temps de communiquer
-l'identité de Cassandra, mais ils avaient préféré faire des blagues
+l'identité de Cassandra, mais heureusement ils avaient préféré faire des blagues
 misogynes et transphobes. 
 
 Shade s'approcha de Fabienne, qui avait ouvert les vannes de sa
@@ -697,7 +698,7 @@ participer au mouvement.
 — D'accord. Tu devrais y aller. On s'occupe du reste. 
 
 Fabienne lui fit un petit signe de tête, puis s'écarta à travers un
-terrain vague. Elle reviendrait dans quelques minutes, expliquer aux
+terrain vague. Elle reviendrait dans quelques minutes expliquer aux
 pompiers qu'on lui avait volé son camion.
 
 Pendant que Shade voyait les derniers détails avec Fabienne, ses trois
@@ -739,12 +740,12 @@ avais un revolver.
 
 — Non.
 
-— Tu n'aimes pas le revolver que je t'ai offert ? demanda Morgue.
+— Tu n'aimes pas celui que je t'ai offert ? demanda Morgue.
 
 Elle semblait blessée par la révélation.
 
-— Je ne pensais pas que venir avec un revolver en manifestation
-rentrait dans la définition de « faire profil bas », répliqua
+— Je ne pensais pas que venir avec un flingue en manifestation
+rentrait dans la définition de « faire profil bas », répliqua
 Cassandra.
 
 Morgue s'alluma une nouvelle cigarette, boudeuse.

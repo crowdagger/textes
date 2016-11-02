@@ -1,8 +1,13 @@
+
+
 ChangeLog 
 =========
 
 Dykes VS Bastards
 -----------------
+### 1.0.3 (2 novembre 2016) ###
+* Relecture.
+
 ### 1.0.2 (29 septembre 2016 ###
 * Correction de quelques fautes grâce à LanguageTool.
 
