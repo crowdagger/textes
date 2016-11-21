@@ -8,7 +8,7 @@ version: 1.0.3
 output.pdf: acab.pdf
 output.epub: acab.epub
 output.html: acab.html
-output.odt: acabo.odt
+output.odt: acab.odt
 output.proofread.html: acab.proof.html
 ---
 
