@@ -2,11 +2,12 @@
 import_config: ../../common.book
 title: Une mine de déterrés
 license: CC BY-SA 4.0
-version: 1.1.1
+version: 1.1.2
 
 output.pdf: mine_de_deterres.pdf
 output.epub: mine_de_deterres.epub
 output.html: mine_de_deterres.html
+output.proofread.html: mine_de_deterres.proof.html
 ---
 
 Une mine de déterrés
@@ -70,11 +71,11 @@ Le sergent Leslie nota scrupuleusement les noms des deux étrangers.
 
 La garde les laissa entrer, bien qu'elle n'en croyait pas un mot. 
 
-Elle fronça les sourcils lorsqu'Anya Volk
-passa devant elle, trouvant qu'il y avait quelque chose qui n'allait
+Elle fronça les sourcils lorsque Anya Volk
+passa devant elle. Elle trouvait qu'il y avait quelque chose qui n'allait
 pas.
 
-Pour commencer, elle était beaucoup trop poilue. Et puis, il y avait
+Pour commencer, la femme était beaucoup trop poilue. Et puis, il y avait
 sa voix. Leslie comprit alors : la femme n'en était pas *réellement*
 une. Leslie sourit. Les deux étrangers venaient bien de la
 capitale, pas de doute là-dessus.
@@ -117,9 +118,8 @@ déposer leurs affaires, venait d'entrer dans l'établissement.
 Anya, à cause de son physique et de ses tenues, déclenchait toujours des
 réactions lorsqu'elle entrait dans ce genre d'endroits. 
 
-Un des voisins des deux hommes demanda d'une voix assez forte, destinée à se
-faire entendre de l'intéressée tout en ne lui étant pas directement
-destinée :
+Un des voisins des deux hommes demanda d'une voix assez forte, de manière à se
+faire entendre de l'intéressée tout en ne s'adressant pas directement à elle :
 
 — Hey, les gars, c'est un homme ou une femme ?
 
@@ -130,7 +130,7 @@ répondit avec un regard menaçant :
 cauchemar, mon pote.
 
 L'homme détourna le regard et le ramena vers sa bière. Face à Ray, le
-niveau d'audace de la plupart des gens diminuait drastiquement.
+niveau d'audace de la plupart des gens diminuait radicalement.
 
 — Tu sais, lança joyeusement Anya en tirant une chaise et en
 s'asseyant à côté de son collègue, je suis capable de répondre toute seule.
@@ -449,7 +449,7 @@ La secrétaire grimaça, manifestement embarrassée.
 — Je crois qu'elle parle de moi, expliqua Anya en entrant dans la
 pièce. Ça vous gêne si je m'assoie ?
 
-— Qui êtes vous ? demanda monsieur Maugeais d'un air furieux. Sortez
+— Qui êtes-vous ? demanda monsieur Maugeais d'un air furieux. Sortez
 d'ici immédiatement !
 
 — Je m'appelle Volk, répondit la détective.
@@ -496,7 +496,7 @@ de trop mauvaises bases, finalement.
 
 — Pardon ?
 
-Anya sortit la feuille où elle avait pris quelques notes et la regarda
+Anya sortit la feuille où elle avait pris des notes et la regarda
 quelques secondes. 
 
 — Les gisements les plus accessibles commençaient à s'épuiser, monsieur
@@ -573,7 +573,7 @@ Enfin, seulement quelques heures. Ensuite, il y avait eu l'explosion.
   Je veux dire, d'après ce que vous m'avez dit, elle est pas
   franchement petite... 
 
-— Tous les puits ont été condamnées après l'explosion, expliqua
+— Tous les puits ont été condamnés après l'explosion, expliqua
 André, mais on ne connaît pas vraiment l'état de la mine. Seule la
 garde y a eu accès, et elle refuse de nous donner des informations sur
 l'enquête. Elle dit que ça pourrait nuire à son bon déroulement. 
@@ -778,7 +778,7 @@ retirais votre culotte, qu'est-ce que je verrais ?
 
 Anya prit une grande inspiration et parvint à se calmer.
 
-— Rien, répondit-t-elle finalement.
+— Rien, répondit-elle finalement.
 
 — Pardon ?
 
@@ -878,13 +878,13 @@ chercher des éventuels cadavres.
 
 Il le stoppa en plaçant une main énorme sur son torse. André fronça
 les sourcils, ne comprenant pas pourquoi ils 
-s'arrêtaient. Il allait poser la question, mais s'arrêta en voyant le
+s'arrêtaient. Il allait poser la question, mais s'interrompit en voyant le
 loup qui sortait de derrière un buisson.
 
 — Oh, fit-il d'un air calme. On a souvent des loups, dans le
   coin. Ne vous en faites pas, ils n'attaquent pas les humains. 
 
-— Ouais ? demanda Ray en jetant un regard autour d'eux. Alors
+— Ouais ? demanda Ray en jetant un regard aux alentours. Alors
 pourquoi ils nous encerclent, hein ?
 
 André déglutit. Il voyait effectivement des loups dépasser tout autour
@@ -1012,7 +1012,7 @@ sourire à la garde.
 
 *****
 
-Lorsqu'Anya arriva à l'auberge, Ray était déjà attablé, en train de
+Lorsque Anya arriva à l'auberge, Ray était déjà attablé, en train de
 manger un plat plutôt copieux à base de poulet et de riz.
 
 — Je me demandais ce que tu faisais.
@@ -1543,7 +1543,7 @@ pommeau de sa canne.
   intrus semblaient se diriger vers la mine dont je suis
   co-propriétaire. Le périmètre étant 
   interdit, j'ai prévenu la garde. Je lui ai aussi fait part de votre
-  intrusion dans notre bureau et de ma crainte que vous ayiez été
+  intrusion dans notre bureau et de ma crainte que vous ayez été
   engagée par le syndicat pour effacer les preuves.
 
 — Quoi ? Vous ne croyez pas ce type, quand même ?
@@ -1681,7 +1681,7 @@ quand même !
 de ses travailleurs des morts-vivants ?
 
 — C'est évident, répliqua André. Il ne faut pas les payer. Ils
-travaillent tout le temps et se ne plaignent pas.
+travaillent tout le temps et ne se plaignent pas.
 
 — Ridicule !
 
@@ -1752,7 +1752,7 @@ sur son épaule.
 
 *****
 
-Lorsque Ray et Sylvie sortirent à la lumière du jour, il eurent la surprise de
+Lorsque Ray et Sylvie sortirent à la lumière du jour, ils eurent la surprise de
 découvrir une demi-douzaine de corps allongés à côté d'un loup noir
 qui était occupé à dévorer ce qui restait de monsieur Maurice.  À coté
 de la bête, les vêtements d'Anya traînaient, éparpillés.

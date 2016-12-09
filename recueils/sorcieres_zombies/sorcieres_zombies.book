@@ -1,14 +1,17 @@
 import_config: ../../common.book
 title: Sorcières & Zombies
 license: CC BY-SA 4.0
-version: 1.1.1
+version: 1.1.2
 
 cover: couv/cover.png
 
 output.pdf: sorcieres_zombies.pdf
 output.html: sorcieres_zombies.html
 output.epub: sorcieres_zombies.epub
+output.proofread.html: sorcieres_zombies.proof.html
 output.html_dir: html
+
+proofread.languagetool: true
 
 - 01_route_de_nuit.md
 - 02_creatures_de_reve.md

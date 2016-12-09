@@ -4,6 +4,9 @@ ChangeLog
 Sorcières & Zombies 
 -------------------
 
+### 1.1.2 (9 décembre 2016) ###
+* Corrections légères sur *Créatures de rêve* et *Une mine de déterrés*.
+
 ### 1.1.1 (20 septembre 2016) ###
 * Publication sous licence CC BY-SA 4.0
 
@@ -30,7 +33,7 @@ Créatures de rêve
 ### 2.0.0 (23 avril 2016) ###
 * Relecture qui s'est transformée en changements plus radicaux. En
 conséquence, la fin a largement été réécrite.
-* Changement de la manière dont les dialogues sont mis en pages
+* Changement de la manière dont les dialogues sont mis en page
   (suppression des guillemets)
 
 
@@ -49,7 +52,7 @@ Route de nuit
 
 ### 1.1.0 (23 avril 2016) ###
 * Relecture substantielle à l'occasion du passage à *Crowbook*,
-* Changement de la manière dont les dialogues sont mis en pages
+* Changement de la manière dont les dialogues sont mis en page
   (suppression des guillemets)
 
 ### 1.0.0 (10 mai 2012) ###
@@ -67,11 +70,11 @@ Sortir du cercueil
 
 ### 1.1.0 (23 avril 2016) ###
 * Relecture substantielle à l'occasion du passage à *Crowbook*,
-* Changement de la manière dont les dialogues sont mis en pages
+* Changement de la manière dont les dialogues sont mis en page
 (suppression des guillemets)
 
 
-### 1.0 (11 juin 2011) ###
+### 1.0.0 (11 juin 2011) ###
 * Première publication sur [http://crowdagger.fr](http://crowdagger.fr)
 
 
@@ -79,12 +82,15 @@ Sortir du cercueil
 Une mine de déterrés
 --------------------
 
+### 1.1.2 (9 décembre 2016) ###
+* Corrections de fautes d'orthographe et de répétitions.
+
 ### 1.1.1 (20 septembre 2016) ###
 * Publication sous licence CC BY-SA 4.0
 
 ### 1.1.0 (23 avril 2016) ###
 * Relecture substantielle à l'occasion du passage à *Crowbook*,
-* Changement de la manière dont les dialogues sont mis en pages
+* Changement de la manière dont les dialogues sont mis en page
   (suppression des guillemets)
 
 ### 1.0.0 (25 novembre 2013) ###
