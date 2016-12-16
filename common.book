@@ -6,6 +6,7 @@ epub.version: 3
 rendering.initials: false
 tex.links_as_footnotes: false
 
+html.icon: img/crowdagger.svg
 html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version}}
  {{#has_license}} (licence : {{{license}}}){{/has_license}}
 
