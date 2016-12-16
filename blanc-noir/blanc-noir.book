@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 
 cover: couv/blanc-noir.png
 
-numbering_template: "Chapitre {{number}} : {{title}}"
+numbering_template: "Chapitre {{{number}}} : {{{title}}}"
 
 output.epub: blanc-noir.epub
 output.pdf: blanc-noir.pdf
