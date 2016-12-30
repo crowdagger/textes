@@ -1,0 +1,39 @@
+author: Lizzie Crowdagger
+title: "L'énième prophétie"
+lang: fr
+
+# Uncomment and fill to generate files
+output.html: enieme_prophetie.html
+output.epub: enieme_prohetie.epub
+output.pdf: enieme_prophetie.pdf
+
+rendering.chapter.template: "Chapitre {{{number}}}"
+
+# Uncomment and fill to set cover image (for Epub)
+# cover: some_cover.png
+
+# List of chapters
+@ Sympathie pour le Démon
+- intro.md
++ chapitre_1.md
++ chapitre_2.md
++ chapitre_3.md
++ chapitre_4.md
++ chapitre_5.md
++ chapitre_6.md
+@ La reine des ténèbres
++ 2chapitre_0.md
++ 2chapitre_1.md
++ 2chapitre_2.md
++ 2chapitre_3.md
++ 2chapitre_4.md
++ 2chapitre_5.md
+@ Rêves de Silice
++ 3chapitre_1.md
++ 3chapitre_2.md
++ 3chapitre_3.md
++ 3chapitre_4.md
++ 3chapitre_5.md
++ 3chapitre_6.md
+- epilogue.md
+
