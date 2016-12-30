@@ -1,3 +1,6 @@
+Prologue
+===========
+
 C'était le noir total. Non pas parce qu'il n'y avait pas de lumière,
 mais parce qu'il n'y avait pas de matière. C'était aussi le silence
 absolu. Non pas parce qu'il n'y avait pas de son, mais parce qu'il n'y

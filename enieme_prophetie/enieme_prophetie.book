@@ -4,10 +4,11 @@ import: ../common.book
 
 license: CC-BY-SA 4.0
 version: 1.2.0
+cover: enieme_prophetie.png
 
 # Uncomment and fill to generate files
 output.html: enieme_prophetie.html
-output.epub: enieme_prohetie.epub
+output.epub: enieme_prophetie.epub
 output.pdf: enieme_prophetie.pdf
 
 rendering.chapter.template: "Chapitre {{{number}}}"
@@ -17,7 +18,7 @@ rendering.chapter.template: "Chapitre {{{number}}}"
 
 # List of chapters
 @ Sympathie pour le Démon
-- intro.md
+! intro.md
 + chapitre_1.md
 + chapitre_2.md
 + chapitre_3.md
