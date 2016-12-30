@@ -6,16 +6,12 @@ license: CC-BY-SA 4.0
 version: 1.2.0
 cover: enieme_prophetie.png
 
-# Uncomment and fill to generate files
 output.html: enieme_prophetie.html
 output.epub: enieme_prophetie.epub
 output.pdf: enieme_prophetie.pdf
 output.html.dir: html/
 
 rendering.chapter.template: "Chapitre {{{number}}}"
-
-# Uncomment and fill to set cover image (for Epub)
-# cover: some_cover.png
 
 # List of chapters
 @ Sympathie pour le Démon
