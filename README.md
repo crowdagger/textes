@@ -26,7 +26,8 @@ Ce dépôt contient les textes suivants :
 
 * [*Pas tout à fait des hommes*](ptafdh/), roman de fantasy ;
 * [*Noir & Blanc*](blanc-noir/), polar surnaturel ;
-* le recueils de nouvelles
+* [*L'énième prophétie*](enieme_prophetie/), roman de fantasy ;
+* le recueil de nouvelles
   [*Sorcières & Zombies*](recueils/sorcieres_zombies/), qui contient les
   textes suivant :
   * *Route de nuit*
@@ -61,7 +62,7 @@ que ce soit au format HTML, PDF ou EPUB, le plus simple est d'utiliser
 [crowbook](https://github.com/lise-henry/crowbook).
 
 Licence 
--------
+--------
 
 Les textes sur ce dépôt sont maintenant publiés sous licence [*Creative Commons
 Attribution-ShareAlike 4.0 International*](https://creativecommons.org/licenses/by-sa/4.0/). Vous

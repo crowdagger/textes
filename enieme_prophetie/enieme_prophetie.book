@@ -10,6 +10,7 @@ cover: enieme_prophetie.png
 output.html: enieme_prophetie.html
 output.epub: enieme_prophetie.epub
 output.pdf: enieme_prophetie.pdf
+output.html.dir: html/
 
 rendering.chapter.template: "Chapitre {{{number}}}"
 
