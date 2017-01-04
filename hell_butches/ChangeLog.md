@@ -5,6 +5,12 @@ ChangeLog
 
 Dykes VS Bastards
 -----------------
+### 1.1.0 (4 janvier 2017) ###
+* Réécriture d'une partie de la scène finale car on m'a signalé qu'une
+  cigarette jetée dans l'essence ne suffisait pas à l'incendier. Après
+  avoir vérifié cela, et afin d'avoir une nouvelle 100% réaliste, la
+  scène de fin a été légèrement modifié.
+
 ### 1.0.3 (2 novembre 2016) ###
 * Relecture.
 

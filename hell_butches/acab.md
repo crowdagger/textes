@@ -3,7 +3,7 @@
 import_config: ../common.book
 title: Dykes VS Bastards
 license: CC BY-SA 4.0
-version: 1.0.3
+version: 1.1.0
 
 output.pdf: acab.pdf
 output.epub: acab.epub
@@ -714,11 +714,21 @@ s'était déjà rallumée une cigarette.
 — Passe-moi ta clope.
 
 Morgue tira une dernière fois dessus, puis la lui tendit. Shade la jeta en
-direction du fourgon, vérifia que le feu prenait, puis démarra la
-Porsche. Elle donna un grand coup d'accélérateur pour s'écarter au
-plus vite de l'incendie 
+direction du fourgon. Elle estimait que cela aurait *dû* allumer la
+tonne d'essence répandue par terre : cela aurait été *juste*, cela
+aurait été *beau*. Malheureusement, le monde réel se révélant souvent
+tristement plus qu'imparfait, le mégot se contenta de s'éteindre
+misérablement lorsqu'il plongea dans l'essence.
 
-— Je dirais que ça s'est bien passé.
+Shade poussa un soupir d'exaspération. Elle sortit de la voiture en
+proférant quelques jurons en américain, puis sortit un briquet d'une
+poche de son blouson. Elle s'agenouilla à côté de 
+l'essence et dut reculer précipitamment lorsque les flammes partirent.
+
+Shade se précipita à nouveau au volant de la Porsche, puis donna un
+grand coup d'accélérateur pour s'écarter au plus vite de l'incendie.
+
+— Malgré ce petit couac, je dirais que ça s'est bien passé.
 
 Derrière elle, le fourgon de police se mit à brûler.
 
