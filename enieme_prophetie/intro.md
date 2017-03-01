@@ -123,7 +123,7 @@ nous demande de l'aide.
 — Une secte ? Sans vouloir vous offenser, Monsieur, ce n'est pas
 vraiment mon domaine...
 
-— Je sais que vous n'aimez pas les affaires... *humaines »,
+— Je sais que vous n'aimez pas les affaires... *humaines*,
 Mikaël, mais c'est un cas un peu spécial. D'après notre homme,
 cela ressemblerait à un rassemblement d'adorateurs du Malin.
 
@@ -136,7 +136,7 @@ maléfiques en jeu. Et vous êtes l'homme de la situation.
 village ?
 
 — Il s'appelle Alsted, et se trouve à l'est ; tenez, je crois que
-j'ai une carte sur moi...*
+j'ai une carte sur moi... »
 
 L'évêque chercha dans une poche de sa robe, puis en sortit un papier
 froissé et le lui tendit.
@@ -170,7 +170,7 @@ réglée.
 guise. Mais soyez prudent. »
 
 
-
+***** 
 
 
 Le voyage nocturne se déroula sans encombres, et Mikaël parvint à
@@ -275,8 +275,8 @@ renforts de votre ordre. Un seul homme ?
 
 — Il y a eu... Différentes choses. Beaucoup de gens disent que...
 
-— Les gens *disent » ? coupa à nouveau Mikaël. Des rumeurs ?
-Vous m'avez fait venir pour des *rumeurs* ?*
+— Les gens *disent* ? coupa à nouveau Mikaël. Des rumeurs ?
+Vous m'avez fait venir pour des *rumeurs* ? »
 
 Le bourgmestre recula d'un pas devant le regard que lui jetait Mikaël.
 
@@ -348,8 +348,8 @@ garde. Où sont vos hommes ? »
 
 Mikaël eut un léger sourire.
 
-« Je crois que vous n'avez pas compris. C'est *moi », les
-renforts.*
+« Je crois que vous n'avez pas compris. C'est *moi*, les
+renforts. »
 
 Le capitaine resta silencieux un instant.
 
@@ -369,13 +369,13 @@ incapables, monsieur Veyran ?
 — Je n'ai pas dit...
 
 — J'ai, coupa le capitaine, personnellement vu l'un d'entre
-*eux » se relever après avoir reçu un carreau de mon arbalète
+*eux* se relever après avoir reçu un carreau de mon arbalète
 en pleine tête. Vous croyez peut-être que j'ai rêvé ?
 
 — Je crois, monsieur Bohr, que la plupart des hommes ne savent pas
 réagir face à ce genre de situation.
 
-— Et vous, vous savez tout mieux que tout le monde ?*
+— Et vous, vous savez tout mieux que tout le monde ? »
 
 Mikaël eut un léger sourire.
 

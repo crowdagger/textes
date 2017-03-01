@@ -1,10 +1,12 @@
-title: "L'énième prophétie"
+title: "L'énième prophétie" 
 
 import: ../common.book
 
 license: CC-BY-SA 4.0
 version: 1.2.0
 cover: enieme_prophetie.png
+
+epub.version: 3
 
 output.html: enieme_prophetie.html
 output.epub: enieme_prophetie.epub
