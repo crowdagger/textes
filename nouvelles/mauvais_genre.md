@@ -1,7 +1,6 @@
 ---
-author: Lizzie Crowdagger
+import: ../common.book
 title: Le mauvais genre des anges
-lang: fr
 version: 1.1.0
 license: CC-BY-SA 4.0
 
