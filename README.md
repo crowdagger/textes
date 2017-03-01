@@ -53,6 +53,7 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/
     être le début d'un *space-opéra* avec des vampires ;
   * *Rock'n troll*, une courte nouvelle féministe ;
   * *Pirate !*, une courte nouvelle anti-DRM.
+  * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy. 
 
 Générer les formats de sortie
 -----------------------------
