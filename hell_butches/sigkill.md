@@ -1,5 +1,5 @@
 ---
-import_config: ../common.book
+import: ../common.book
 title: Réagir sans violence
 license: CC BY-SA 4.0
 version: 1.0.2

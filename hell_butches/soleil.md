@@ -1,5 +1,5 @@
 ---
-import_config: ../common.book
+import: ../common.book
 title: Bain de soleil
 version: 1.0.2
 license: CC BY-SA 4.0

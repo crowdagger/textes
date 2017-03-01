@@ -1,5 +1,5 @@
 ---
-import_config: ../common.book
+import: ../common.book
 title: Une histoire pour enfants
 version: 1.0.3
 license: CC BY-SA 4.0

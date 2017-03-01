@@ -1,6 +1,6 @@
 
 ---
-import_config: ../common.book
+import: ../common.book
 title: Dykes VS Bastards
 license: CC BY-SA 4.0
 version: 1.1.0
