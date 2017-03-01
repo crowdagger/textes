@@ -3,6 +3,11 @@ lang: fr
 
 epub.version: 3
 
+resources.base_path.files: fonts/
+resources.files: .
+
+epub.css: templates/epub.css
+
 rendering.initials: false
 tex.links_as_footnotes: false
 
