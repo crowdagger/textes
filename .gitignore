@@ -5,6 +5,7 @@
 *.doc
 *.toc
 *.epub
+*.kepub
 *.pdf
 *.tex
 *.html
