@@ -17,9 +17,9 @@ output.epub: endr.epub
 output.html: endr.html
 output.pdf: endr.pdf
 output.odt: endr.odt
-output.html_dir: html
+output.html.dir: html
 output.proofread.html: endr.proof.html
-output.proofread.html_dir: proof_html
+output.proofread.html.dir: proof_html
 output.proofread.pdf: endr.proof.pdf
 
 - chapitre_01.md
