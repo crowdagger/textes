@@ -37,4 +37,4 @@ output.proofread.pdf: endr.proof.pdf
 - chapitre_13.md
 - chapitre_14.md
 - chapitre_15.md
-! about.md
+- ../About.md

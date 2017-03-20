@@ -1,5 +1,5 @@
 {{=<< >>=}}
-\documentclass{<<&class>>}
+\documentclass<<#has_tex_size>>[<<&tex_size>>pt]<</has_tex_size>>{<<&class>>}
 <<#xelatex>>
 \usepackage{fontspec}
 \usepackage{xunicode}
@@ -11,9 +11,32 @@
 \usepackage[<<&tex_lang>>]{babel}
 
 \usepackage{fancyhdr}
+<<#use_tables>>
+% Only included if document contains tables
+\usepackage{tabularx}
+<</use_tables>>
+<<#use_codeblocks>>
+% Only included if document contains code blocks
+\usepackage{color}
+\usepackage[
+  topline=false,
+  rightline=false,
+  bottomline=false]{mdframed}
 \usepackage{spverbatim}
-\usepackage{booktabs}
+<</use_codeblocks>>
+<<#use_images>>
+% Only included if document contains images
 \usepackage{graphicx}
+<</use_images>>
+<<#use_url>>
+% Only included if URLs are used in the document
+\usepackage[colorlinks=true,breaklinks=true,hypertexnames=false]{hyperref}
+
+<<^xelatex>>
+\usepackage[anythingbreaks]{breakurl}
+<</xelatex>>
+<</use_url>>
+
 <<#initials>> % only if use_initials is set to true
 \usepackage{lettrine}
 \setlength{\DefaultNindent}{0em}
@@ -23,15 +46,13 @@
 \renewcommand{\LettrineFontHook}{\initfamily}
 <</initials>>
 
-\usepackage[colorlinks=true,breaklinks=true]{hyperref}
-
-<<^xelatex>>
-\usepackage[anythingbreaks]{breakurl}
-<</xelatex>>
-
-% TODO: provide a way to configure
-\usepackage[a5paper, top=2cm, bottom=1.5cm,
+<<#stdpage>>
+\usepackage[<<&papersize>>]{geometry}
+<</stdpage>>
+<<^stdpage>>
+\usepackage[<<&papersize>>, top=2cm, bottom=1.5cm,
   <<#book>> left=2.5cm,right=1.5cm<</book>><<^book>> left=2cm,right=2cm<</book>>]{geometry}%A5 by default
+<</stdpage>>
 
 <<^xelatex>>
 % Even with inputenc, not all unicode chars are recognized. This a
@@ -45,18 +66,27 @@
 \setlength\emergencystretch{.5\textwidth}
 <</xelatex>>
 
+<<#stdpage>>
+\usepackage[hyphen=false, parskip]{stdpage}
+<</stdpage>>
+
 \makeatletter
 
 \newcommand{\HRule}{
-  \paragraph{}
+  \nopagebreak
+  {\vskip 1em}
+  \nopagebreak
   \begin{center}
-    *****
+    ***
   \end{center}
-  \paragraph{}
+  \nopagebreak
+ {\vskip 1em}
+ \nopagebreak
 }
 
 \date{<<&date>>}
 
+<<^stdpage>>
 % Title
 <<#book>>
 \renewcommand{\maketitle}{
@@ -98,9 +128,8 @@
   \vspace*{\stretch{1}}
 
   \begin{center}
-    {Version <<&version>>\\[5mm]}
-    {Texte publié sous licence <<&license>>\\[5mm]}
-    \@date
+    <<#has_version>>{<<&version>>\\[5mm]}<</has_version>>
+    <<#has_date>>\@date<</has_date>>
   \end{center}
 
   
@@ -122,6 +151,11 @@
 \chead[\fancyplain{}{\rm\thepage}]{\fancyplain{}{\rm\thepage}}
 % Footer
 \cfoot{\fancyplain{}{}}
+
+<</stdpage>>
+
+<<&additional_code>>
+
 \makeatother
 
 \title{<<&title>>}
@@ -129,7 +163,9 @@
 
 \begin{document}
 
+<<#tex_title>>
 \maketitle
+<</tex_title>>
 
 <<&content>>
 
