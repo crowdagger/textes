@@ -1,4 +1,4 @@
-import_config: ../common.book
+import: ../common.book
 title: Noir & Blanc
 
 version: 1.0.1
@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 
 cover: couv/blanc-noir.png
 
-rendering.chapter_template: "Chapitre {{{number}}} : {{{title}}}"
+rendering.chapter.template: "Chapitre {{{number}}} : {{{title}}}"
 
 output.epub: blanc-noir.epub
 output.pdf: blanc-noir.pdf
@@ -23,5 +23,5 @@ output.odt: blanc-noir.odt
 + chapitre_7.md
 + chapitre_8.md
 - epilogue.md
-- ../Note.md
+- ../About.md
 
