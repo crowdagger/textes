@@ -21,12 +21,6 @@ cette licence. Il est également demandé, mais pas requis, de :
   *Creative Commons Attribution-ShareAlike 4.0 International* ou une
   licence compatible. 
 
-Ces trois demandes additionnelles n'ont pas de valeur légale ; d'un
-point de vue juridique, seul le texte de la licence mentionnée
-ci-dessus fait foi. Cependant, d'un point de vue non-juridique, le
-non-respect de ces demandes met le salut de votre âme immortelle en
-péril.
-
 À propos de Lizzie Crowdagger 
 -----------------------------
 

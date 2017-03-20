@@ -21,4 +21,5 @@ cette licence. Il est également demandé, mais pas requis, de :
 Ces trois demandes additionnelles n'ont pas de valeur légale ; d'un
 point de vue juridique, seul le texte de la licence mentionnée
 ci-dessus fait foi. Cependant, d'un point de vue non-juridique, le
-non-respect de ces demandes sera géré avec un extrême préjudice. 
+non-respect de ces demandes met le salut de votre âme immortelle en
+péril.
