@@ -1,4 +1,4 @@
-import_config: ../../common.book
+import: ../../common.book
 title: Sorcières & Zombies
 license: CC BY-SA 4.0
 version: 1.1.2
@@ -9,7 +9,7 @@ output.pdf: sorcieres_zombies.pdf
 output.html: sorcieres_zombies.html
 output.epub: sorcieres_zombies.epub
 output.proofread.html: sorcieres_zombies.proof.html
-output.html_dir: html
+output.html.dir: html
 
 proofread.languagetool: true
 
