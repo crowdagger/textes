@@ -53,23 +53,23 @@ Sigkill s'apprêtait à essayer de les contourner, mais le second type
 approcha sa main et lui retira un de ses écouteurs. Elle déglutit et
 sentit la panique remonter. 
 
-« On se demandait, reprit le premier type, t'es quoi exactement ? C'est quoi, cette tenue ? »
+— On se demandait, reprit le premier type, t'es quoi exactement ? C'est quoi, cette tenue ?
 
 Sigkill ne répondit rien. Elle en était incapable. D'ailleurs, à quoi
 bon ? On voyait bien ce que c'était, sa tenue, et elle doutait que les
 deux hommes voulussent connaître les références exactes pour parler
 mode en face de leurs amis. 
 
-« T'es une gouine ? demanda le second homme. Un pédé ? »
+— T'es une gouine ? demanda le second homme. Un pédé ?
 
 Sigkill restait silencieuse et figée. Elle se disait que dans son sac
 en bandoulière, elle avait un pistolet électrique qu'elle avait fait
 elle-même, mais elle n'osait pas l'utiliser. Et puis, elle n'aimait
 pas avoir recours à la violence.
 
-« Ben quoi, tu réponds pas ? demanda le second type en posant sa
+— Ben quoi, tu réponds pas ? demanda le second type en posant sa
   main sur l'épaule de Sigkill. Tu as perdu ta langue ? C'est un minou
-  qui te l'a bouffé ? »
+  qui te l'a bouffé ?
 
 Les deux hommes se mirent à rire. Puis celui qui avait posé la main
 sur son épaule posa la seconde sur celle de son ami. Sigkill, toujours
@@ -79,7 +79,7 @@ d'accord, c'était violent, mais là il ne s'agissait jamais que de
 gentils petits électrons. C'était de la *science*, quelque
 part. Cela relevait plutôt de l'expérience, en fin de compte.
 
-« Hey, on pourrait faire un plan à trois, ça te dirait pas ? »
+— Hey, on pourrait faire un plan à trois, ça te dirait pas ?
 
 Sigkill finit par se décider, uniquement pour des raisons
 scientifiques, à tester l'appareil qu'elle avait construit elle-même
