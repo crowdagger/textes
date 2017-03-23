@@ -28,6 +28,8 @@ Pour avoir les dernières informations sur les parutions de Lizzie
 Crowdagger, vous pouvez :
 
 * consulter le site web [http://crowdagger.fr](http://crowdagger.fr) ;
+* la soutenir [sur Tipeee](https://www.tipeee.com/lizzie-crowdagger) à
+  partir d'un euro par mois et avoir un accès à des textes inédits ;
 * vous abonner à la
 [liste de diffusion](http://lists.crowdagger.fr/wws/info/crowdagger)
 (faible trafic, pas plus d'un e-mail par mois) ;
