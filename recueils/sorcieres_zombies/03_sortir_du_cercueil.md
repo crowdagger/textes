@@ -1,5 +1,5 @@
 ---
-import_config: ../../common.book
+import: ../../common.book
 title: Sortir du cercueil
 version: 1.1.1
 license: CC-BY-SA 4.0

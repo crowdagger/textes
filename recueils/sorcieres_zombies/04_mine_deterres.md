@@ -1,5 +1,5 @@
 ---
-import_config: ../../common.book
+import: ../../common.book
 title: Une mine de déterrés
 license: CC BY-SA 4.0
 version: 1.1.2

@@ -1,4 +1,4 @@
-import_config: ../../common.book
+import: ../../common.book
 title: Créatures de rêve
 version: 2.0.1
 license: CC-BY-SA 4.0

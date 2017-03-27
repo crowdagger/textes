@@ -4,7 +4,7 @@ title: From Rust Till Dawn
 lang: fr
 
 epub.version: 3
-use_initials: true
+rendering.initials: true
 
 output.html: rust_till_dawn.html
 output.pdf: rust_till_dawn.pdf

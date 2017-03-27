@@ -1,5 +1,5 @@
 ---
-import_config: ../common.book
+import: ../common.book
 title: Une leçon d'humanité
 version: 1.0.1
 license: CC BY-SA 4.0
