@@ -11,7 +11,11 @@ version: 1.1.1
 # cover: couv/cover.png
 
 rendering.initials: true
-tex.template: template.tex
+tex.template.add: '\setlength{\DefaultNindent}{0em}
+\setcounter{DefaultLines}{3}
+\input RoyalIn.fd
+\newcommand*\initfamily{\usefont{U}{RoyalIn}{xl}{n}}
+\renewcommand{\LettrineFontHook}{\initfamily}'
 
 output.epub: endr.epub 
 output.html: endr.html
