@@ -1,7 +1,4 @@
 
-Chapitre 4
-===========
-
 Armand déposa avec révérence l'épée de Lumina sur le bureau de la
 reine, en la tenant par le fourreau.
 

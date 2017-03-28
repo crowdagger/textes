@@ -1,8 +1,4 @@
 
-
-Chapitre 9
-==========
-
 Kalia passa quelques jours de plus dans la petite cellule à la cave du
 poste de garde. À part celles des rats, elle reçut peu de
 visites. Louis lui apportait régulièrement de l'eau et de la

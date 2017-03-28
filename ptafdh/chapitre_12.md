@@ -1,7 +1,4 @@
 
-Chapitre 12
-===========
-
 Les jours qui suivirent la fin des émeutes et le retour de la reine au
 pouvoir furent plus calmes que les précédents. Axelle et Kalia en
 profitèrent pour se reposer et récupérer de leurs blessures. 

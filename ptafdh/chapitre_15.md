@@ -1,5 +1,3 @@
-Chapitre 15
-===========
 
 « Tu sais quoi ? demanda Angèle quand William se réveilla.
 

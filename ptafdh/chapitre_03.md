@@ -1,5 +1,3 @@
-Chapitre 3
-===========
 
 Tous les gardes volontaires pour la mission spéciale royale, venant
 des différents quartiers de la capitale, étaient alignés et au

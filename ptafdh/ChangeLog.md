@@ -1,6 +1,10 @@
 ChangeLog 
 =========
 
+1.1.2 (28 mars 2017):
+--------------------------
+* Changements minimes de formatage.
+
 1.1.1 (20 septembre 2016):
 --------------------------
 * Passage sous licence CC BY-SA 4.0

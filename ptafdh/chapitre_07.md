@@ -1,5 +1,3 @@
-Chapitre 7
-==========
 
 Kalia entra en grelottant dans le poste de garde. Elle avait encore
 passé une nuit pénible à faire le guet sous la pluie. Cela faisait

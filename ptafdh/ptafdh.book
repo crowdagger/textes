@@ -2,7 +2,7 @@ import: ../common.book
 title: Pas tout à fait des hommes
 subject: fantasy
 license: CC BY-SA 4.0
-version: 1.1.1
+version: 1.1.2
 
 # html.escape_nb_spaces: false
 
@@ -10,12 +10,15 @@ version: 1.1.1
 # (La couverture utilisée n'est pas libre de droits)
 # cover: couv/cover.png
 
-rendering.initials: true
-tex.template.add: '\setlength{\DefaultNindent}{0em}
-\setcounter{DefaultLines}{3}
-\input RoyalIn.fd
-\newcommand*\initfamily{\usefont{U}{RoyalIn}{xl}{n}}
-\renewcommand{\LettrineFontHook}{\initfamily}'
+rendering.chapter.template: "Chapitre {{{number}}}"
+rendering.initials: false
+tex.template.add: '
+\usepackage{quotchap}
+% \setlength{\DefaultNindent}{0em}
+% \setcounter{DefaultLines}{3}
+% \input RoyalIn.fd
+% \newcommand*\initfamily{\usefont{U}{RoyalIn}{xl}{n}}
+% \renewcommand{\LettrineFontHook}{\initfamily}'
 
 output.epub: endr.epub 
 output.html: endr.html
@@ -26,19 +29,19 @@ output.proofread.html: endr.proof.html
 output.proofread.html.dir: proof_html
 output.proofread.pdf: endr.proof.pdf
 
-- chapitre_01.md
-- chapitre_02.md
-- chapitre_03.md
-- chapitre_04.md
-- chapitre_05.md
-- chapitre_06.md
-- chapitre_07.md
-- chapitre_08.md
-- chapitre_09.md
-- chapitre_10.md
-- chapitre_11.md
-- chapitre_12.md
-- chapitre_13.md
-- chapitre_14.md
-- chapitre_15.md
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
++ chapitre_08.md
++ chapitre_09.md
++ chapitre_10.md
++ chapitre_11.md
++ chapitre_12.md
++ chapitre_13.md
++ chapitre_14.md
++ chapitre_15.md
 - ../About.md

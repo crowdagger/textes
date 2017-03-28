@@ -1,7 +1,4 @@
 
-Chapitre 11
-===========
-
 Kalia se trouvait dans un jardin luxuriant. Elle n'avait plus mal,
 elle n'était plus blessée, elle se sentait bien et même, pour la
 première fois depuis longtemps, heureuse.

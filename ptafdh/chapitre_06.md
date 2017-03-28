@@ -1,7 +1,4 @@
 
-Chapitre 6
-==========
-
 Kalia ouvrit timidement la porte du bureau du capitaine et entra en
 regardant ses pieds. 
 

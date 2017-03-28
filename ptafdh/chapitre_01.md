@@ -1,6 +1,3 @@
-Chapitre 1
-==========
-
 Kalia avait le couteau sous la gorge, et ce au sens propre. Enfin, « propre » n'était pas véritablement le mot le plus
 approprié, étant donné que la lame qu'on tenait devant elle 
 était maculée de sang séché, ce qui n'était d'ailleurs pas pour la

@@ -1,7 +1,4 @@
 
-Chapitre 14
-===========
-
 William attendait, assis sur le rebord du toit du palais, à côté des
 cadavres des deux gardes. Il fumait une cigarette qu'il avait récupérée
 dans la poche d'un des hommes. 

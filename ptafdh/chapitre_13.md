@@ -1,7 +1,4 @@
 
-Chapitre 13
-===========
-
 Le départ eut lieu le lendemain et le voyage se déroula sans
 encombre. La petite troupe, constituée d'Axelle, Kalia, William, Edine
 et Armand, atteignit le Darnolc en quarante-huit heures

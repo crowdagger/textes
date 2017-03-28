@@ -1,5 +1,3 @@
-Chapitre 5
-==========
 
 « Tu es prête ? » demanda Ly.
 

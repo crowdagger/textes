@@ -1,7 +1,4 @@
 
-Chapitre 10
-===========
-
 « On devrait atteindre Nonry avant la tombée de la nuit, annonça
   Axelle à Edine.
 

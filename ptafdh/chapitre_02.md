@@ -1,6 +1,3 @@
-Chapitre 2
-==========
-
 À l'ombre de la Porte Est de Nonry, Kalia, qui faisait équipe avec
 Louis, scrutait l'horizon.  Ou, plus exactement, adossée contre le
 mur, elle essayait de garder les yeux ouverts et, si possible,

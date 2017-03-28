@@ -1,5 +1,3 @@
-Chapitre 8
-==========
 
 « Y'en a assez ! Des délits de faciès ! Les gardes au-dessus des
   lois ! On ne veut plus de ça ! » essaya de scander Kalia.
