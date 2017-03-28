@@ -3,6 +3,8 @@ lang: fr
 
 epub.version: 3
 
+tex.template.add: '\usepackage{quotchap}'
+
 # resources.base_path.files: fonts/
 # resources.files: .
 
