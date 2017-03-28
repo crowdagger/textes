@@ -19,7 +19,7 @@ html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version
  apprécié, vous pouvez (si vous ne l'avez pas déjà fait) faire un don [via Paypal](http://crowdagger.fr/index.php?pages/Libre-ou-gratuit),
  ou [me soutenir sur Tipeee](https://www.tipeee.com/lizzie-crowdagger)."
 
-html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr) | [Sources sur Github](https://github.com/crowdagger/textes)"
+html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr) | [Blog](http://crowdagger.fr/blog) | [Dépôt Github](https://github.com/crowdagger/textes)"
 
 proofread.repetitions: true
 proofread.languagetool: true
