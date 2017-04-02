@@ -3,7 +3,14 @@ lang: fr
 
 epub.version: 3
 
-tex.template.add: '\usepackage{quotchap}'
+tex.template.add: '
+\usepackage{libertineotf}
+\makeatletter
+\@ifclassloaded{book}
+  {\usepackage{quotchap}}
+  {}
+\makeatother
+'
 
 # resources.base_path.files: fonts/
 # resources.files: .
