@@ -4,6 +4,8 @@ title: Une mine de déterrés
 license: CC BY-SA 4.0
 version: 1.1.2
 
+cover: couv/mine_deterres.png
+
 output.pdf: mine_de_deterres.pdf
 output.epub: mine_de_deterres.epub
 output.html: mine_de_deterres.html
