@@ -4,6 +4,8 @@ title: Le mauvais genre des anges
 version: 1.1.0
 license: CC-BY-SA 4.0
 
+cover: couv/mauvais_genre.png
+
 output.html: mauvais_genre.html
 output.pdf: mauvais_genre.pdf
 output.epub: mauvais_genre.epub
