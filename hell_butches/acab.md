@@ -5,6 +5,8 @@ title: Dykes VS Bastards
 license: CC BY-SA 4.0
 version: 1.1.0
 
+cover: couv/dykes_vs_bastards.png
+
 output.pdf: acab.pdf
 output.epub: acab.epub
 output.html: acab.html
