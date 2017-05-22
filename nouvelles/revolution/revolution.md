@@ -178,7 +178,7 @@ léchait ce qui coulait.
 
 Une femme s'est approchée de moi par le côté et m'a pris le poignet
 gauche. Elle m'a mordue à son tour et a commencé à avaler le flux qui
-sortait de la coupure. À ce moment là, celui qui me tenait a planté
+sortait de la coupure. À ce moment-là, celui qui me tenait a planté
 ses dents dans mon cou. C'est là que j'ai réalisé que j'allais
 mourir. Avant, je pouvais encore me persuader qu'ils se contenteraient
 de me prélever un peu de sang, mais le cou, c'était fini.
@@ -282,7 +282,7 @@ c'est selon. Les zombies sont les prolétaires.
 La mort-vivante sourit et secoue la tête.
 
 — Je m'en fiche. Pour moi, c'est juste deux mots pour dire la même
-  chose. Mais à ce moment là, je craignais d'être devenue une
+  chose. Mais à ce moment-là, je craignais d'être devenue une
   caricature de zombie sans cerveau, incapable de marcher
   correctement. En réalité, c'était juste une conséquence de
   l'adaptation à mon nouveau corps. Il ne faut que quelques minutes
@@ -327,7 +327,7 @@ par dessus mais j'ai foiré mon
 coup et les types ont commencé à me canarder.
 
 Le mauvais côté, c'est que ça a achevé de me démolir. Le
-bon coté, c'est que le recul a suffi à finir de me faire basculer et
+bon côté, c'est que le recul a suffi à finir de me faire basculer et
 que j'ai pu m'enfuir comme ça. Plus ou moins.
 
 La suite, sur le coup, je ne l'ai pas trop comprise, parce que j'ai
@@ -513,7 +513,7 @@ Les camarades d'Éléonore sont revenus rapidement. Ils couraient et se
 sont précipités vers le train avant de monter dedans.
 
 Ils étaient quatre, cagoulés, dans des tenues noires qui n'étaient pas pour
-autant des uniformes ; c'était juste des vêtement sombres, choisis
+autant des uniformes ; c'était juste des vêtements sombres, choisis
 pour ne pas être trop visibles dans la nuit.
 
 L'un d'eux m'a pointée du doigt et a demandé :
@@ -634,7 +634,7 @@ qu'elle et je ne vois pas pourquoi je vous le révélerais.
 
 *****
 
-Je me suis alors rendue compte que la personne qui m'avait passé sa
+Je me suis alors rendu compte que la personne qui m'avait passé sa
 veste était une femme, mais c'est à peu  près tout ce dont je me
 souviens d'eux, parce qu'immédiatement après Éléonore leur a demandé si elle pouvait me parler seule.
 
@@ -653,7 +653,7 @@ de tabac.
 
 Elle a repris la cigarette et a soupiré.
 
-— À moins que tu ais vraiment besoin de fumer maintenant, je crois
+— À moins que tu aies vraiment besoin de fumer maintenant, je crois
   qu'il vaudrait en fait mieux attendre un peu, d'accord ?
 
 — On est où ? ai-je répété.
@@ -693,7 +693,7 @@ même. Je lui ai fait la remarque et elle a hoché la tête.
 — Non, a-t-elle répondu en se mettant un bandeau sur l'\oe il qui
 était de l'autre côté. — Rien à voir. Les vampires restent dans le monde des
 vivants. Là, c'est plus... les spectres, je pense. Je n'ai jamais
-trop mis le pieds dehors mais certaines choses... enfin, il vaut
+trop mis les pieds dehors mais certaines choses... enfin, il vaut
 mieux que le train soit blindé.
 
 — C'est quoi, ce train ? ai-je demandé. Vous êtes qui ? Pourquoi
@@ -812,7 +812,7 @@ parenthèse sur l'état de mes vêtements. — Comme véritable alternative ?
 
 — Une seconde, demande Lénina. Quelle heure il est, maintenant ?
 
-— Un peu moins de la demi.
+— Un peu moins de la demie.
 
 — Il ne faut vraiment pas que je tarde. On a rendez-vous à minuit
 trente.
@@ -935,7 +935,7 @@ pourquoi. Je lui ai expliqué :
 John sourit et éteint le magnétophone. Puis il regarde à nouveau la
 jeune femme avec un air complice.
 
-— Vous pouvez me le dire. Vous avez rejoints la CS5I parce
+— Vous pouvez me le dire. Vous avez rejoint la CS5I parce
   que... Trotsky et vous...
 
 Lénina hausse les épaules, manifestement un peu gênée.
@@ -975,7 +975,7 @@ dénégation.
 
 — Du calme. Je suis sérieuse quand je dis que ça va bien se
 passer. La plupart des dirigeants se sont tirés quand le vent a
-commencer à tourner. Vous ne voulez pas venir ? Au niveau
+commencé à tourner. Vous ne voulez pas venir ? Au niveau
 journalistique, ce serait intéressant. Plus que de savoir ce que je
 pense d'Éléonore.
 
@@ -993,7 +993,7 @@ sortir à son tour. Il est satisfait : la soirée a été riche en informations.
 
 *****
 
-John déverouille la porte de chez lui et entre. Il enlève ses
+John déverrouille la porte de chez lui et entre. Il enlève ses
 chaussures, puis ouvre un
 placard et pose son manteau sur un cintre ; mais au lieu de refermer
 la porte, il pousse la cloison du fond, qui pivote et mène vers un
@@ -1011,7 +1011,7 @@ de décrocher le combiné. Le petit écran indique « connexion
 
 — ...
 
-— Elle a mordue à l'hameçon. Ma couverture de journaliste était parfaite.
+— Elle a mordu à l'hameçon. Ma couverture de journaliste était parfaite.
 
 — ...
 
