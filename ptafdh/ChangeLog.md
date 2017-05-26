@@ -1,6 +1,10 @@
 ChangeLog 
 =========
 
+unreleased
+------------
+* Correction orthographique.
+
 1.1.2 (28 mars 2017):
 --------------------------
 * Changements minimes de formatage.

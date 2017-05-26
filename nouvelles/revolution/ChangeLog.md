@@ -1,6 +1,10 @@
 ChangeLog 
 =========
 
+Version 1.1.1 (26 mai 2016)
+----------------------------------
+* Corrections de faute par goofy-bz
+
 Version 1.1.0 (20 septembre 2016) 
 ---------------------------------
 * Passage semi-automatisé au format Markdown (et UTF-8!)
