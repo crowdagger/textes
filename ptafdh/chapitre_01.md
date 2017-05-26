@@ -913,7 +913,7 @@ lâchait un soupir.
 « Je voulais juste te rendre ça », expliqua cette dernière, un brin
 vexée, en sortant une bourse en cuir de son manteau. 
 
-Kalia l'avait perdue lors de la rencontre et s'était demandée si elle
+Kalia l'avait perdue lors de la rencontre et s'était demandé si elle
 était tombée pendant que le troll la malmenait ou si elle lui avait
 été dérobée. Étant donné qu'Axelle voulait lui rendre, c'était
 probablement la première hypothèse. 
