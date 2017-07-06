@@ -1,6 +1,17 @@
 ChangeLog 
 =========
 
+Tromperies sur la marchandise
+------------------------------------
+### 1.0.0 (10 décembre 2016)
+* Passage au format Markdown et à Crowbook.
+* Changement de la façon de mettre en page les dialogues.
+* Modifications substantielles, plus de descriptions, plus de dialogues
+* Correction orthographique.
+
+### 0.1.0 (25 novembre 2011)
+* Version initiale.
+
 Le mauvais genre des anges
 --------------------------------
 ### 1.1.0 (8 novembre 2016) 
