@@ -52,7 +52,8 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/
   * *Une leçon d'humanité*, une courte nouvelle qui devait à la base
     être le début d'un *space-opéra* avec des vampires ;
   * *Rock'n troll*, une courte nouvelle féministe ;
-  * *Pirate !*, une courte nouvelle anti-DRM.
+  * *Pirate !*, une courte nouvelle anti-DRM ;
+  * *Tromperies sur la marchandise*, une nouvelle de fantasy urbaine ;
   * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy. 
 
 Générer les formats de sortie

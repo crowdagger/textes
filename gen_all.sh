@@ -24,6 +24,7 @@ crowbook -s pirate.md
 crowbook -s troll.md
 crowbook -s space_labrys.md
 crowbook -s mauvais_genre.md
+crowbook -s imposture.md
 crowbook pulmonaire/pulmonaire.book
 crowbook revolution/revolution.book
 cd ..

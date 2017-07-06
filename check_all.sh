@@ -24,6 +24,7 @@ epubcheck pirate.epub
 epubcheck troll.epub
 epubcheck space_labrys.epub
 epubcheck mauvais_genre.epub
+epubcheck imposture.epub
 epubcheck pulmonaire/pulmonaire.epub
 epubcheck revolution/revolution.epub
 cd ..
