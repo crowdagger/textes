@@ -12,6 +12,7 @@
 *.log
 *.aux
 *.txt
+*.zip
 deploy.sh
 */*/images/
 */images/
