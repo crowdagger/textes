@@ -1,0 +1,17 @@
+import: ../../common.book
+title: Blonde à forte capacité pulmonaire
+version: 1.0.1
+license: CC BY-SA 4.0
+date: 20 septembre 2016
+
+cover: couv.png
+tex.class: article
+
+output.html: blonde_a_forte_capacite_pulmonaire.html
+output.epub: blonde_a_forte_capacite_pulmonaire.epub
+output.pdf: blonde_a_forte_capacite_pulmonaire.pdf
+output.odt: blonde_a_forte_capacite_pulmonaire.odt
+
+! blonde_a_forte_capacite_pulmonaire.md
+- about.md
+- ../../Note.md
