@@ -120,6 +120,9 @@ conseillerais plutôt de commencer par un texte un peu court.
 
 
 
+Soutenir
+==========
 
+Si vous appréciez que ces textes de fiction soient publiés sous licence libre, vous pouvez me soutenir en faisant un [don sur Paypal](https://www.paypal.me/crowdagger) ou en vous [abonnant sur Tipeee](https://www.tipeee.com/lizzie-crowdagger).
 
 
