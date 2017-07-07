@@ -4,10 +4,10 @@ title: Bain de soleil
 version: 1.0.2
 license: CC BY-SA 4.0
 
-output.epub: soleil.epub
-output.html: soleil.html
-output.pdf: soleil.pdf
-output.proofread.html: soleil.proof.html
+output.epub: bain_de_soleil.epub
+output.html: bain_de_soleil.html
+output.pdf: bain_de_soleil.pdf
+output.proofread.html: bain_de_soleil.proof.html
 ---
 
 Bain de soleil

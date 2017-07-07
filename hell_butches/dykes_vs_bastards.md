@@ -7,11 +7,11 @@ version: 1.1.0
 
 cover: couv/dykes_vs_bastards.png
 
-output.pdf: acab.pdf
-output.epub: acab.epub
-output.html: acab.html
-output.odt: acab.odt
-output.proofread.html: acab.proof.html
+output.pdf: dykes_vs_bastards.pdf
+output.epub: dykes_vs_bastards.epub
+output.html: dykes_vs_bastards.html
+output.odt: dykes_vs_bastards.odt
+output.proofread.html: dykes_vs_bastards.proof.html
 ---
 
 Dykes VS Bastards

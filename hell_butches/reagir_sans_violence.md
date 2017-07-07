@@ -4,10 +4,10 @@ title: Réagir sans violence
 license: CC BY-SA 4.0
 version: 1.0.2
 
-output.epub: sigkill.epub
-output.html: sigkill.html
-output.pdf: sigkill.pdf
-output.proofread.html: sigkill.proof.html
+output.epub: reagir_sans_violence.epub
+output.html: reagir_sans_violence.html
+output.pdf: reagir_sans_violence.pdf
+output.proofread.html: reagir_sans_violence.proof.html
 ---
 
 Réagir sans violence 

@@ -4,10 +4,10 @@ title: Une histoire pour enfants
 version: 1.0.3
 license: CC BY-SA 4.0
 
-output.epub: morgue.epub
-output.html: morgue.html
-output.pdf: morgue.pdf
-output.proofread.html: morgue.proof.html
+output.epub: une_histoire_pour_enfants.epub
+output.html: une_histoire_pour_enfants.html
+output.pdf: une_histoire_pour_enfants.pdf
+output.proofread.html: une_histoire_pour_enfants.proof.html
 ---
 
 *Transylvanie, 6 novembre 1897*
