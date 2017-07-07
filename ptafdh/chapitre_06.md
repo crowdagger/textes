@@ -421,7 +421,7 @@ destination de la jeune femme.
 dernière fois, ils m'ont amené deux jours au poste parce que,
 soi-disant, j'avais jeté un « regard narquois » à un garde. »
 
-Les autres nains hochèrent la tête. La plupart avait vécu des
+Les autres nains hochèrent la tête. La plupart avaient vécu des
 expériences similaires.
 
 « Merde, je ne sais même pas ce que ça veut dire, *narquois* ! »
@@ -443,7 +443,7 @@ l'aurait ignoré. Mais là, c'était différent : elle avait bu et elle
 Les nains la regardèrent sans trop comprendre. 
 
 « J'veux dire, continua-t-elle, tous les nains, toutes les
-  danseuses et tout ceux qu'les gardes font chier, 'faudrait qu'on se
+  danseuses et tous ceux qu'les gardes font chier, 'faudrait qu'on se
   mette ensemble et ils nous emmer'raient plus. »
 
 Il y eut une discussion agitée dans la salle alors que les nains
@@ -598,7 +598,7 @@ Globalement, l'alliance avec les nains ne déclenchait pas un
 enthousiasme fou.
 
 « Je refuse qu'on fasse quelque chose avec ces types, déclara
-  catégoriquement l'une des danseuse. Ils passent leur temps à boire
+  catégoriquement l'une des danseuses. Ils passent leur temps à boire
   de la bière. Et puis, il n'y a que des hommes.
 
 — Techniquement, objecta Kalia, la moitié d'entre eux sont des

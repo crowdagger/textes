@@ -398,7 +398,7 @@ de Nytelovers t'en voudraient pour ça.
 — Et alors ? Je ne vois pas en quoi ça les regarde. 
 
 — C'est bien le problème. À tes yeux, on dirait qu'il n'y a pas
-grand chose qui regarde les autres.
+grand-chose qui regarde les autres.
 
 — D'ailleurs, interrompit Kalia, tu as à nouveau deux yeux ?
 
@@ -493,7 +493,7 @@ Kalia sans trop y croire.
 
 — Je crois que c'est trop tard. Comme on dit, le sort en est jeté.
 
-— J'espère que tu en as prévu quelques uns en réserve, si ça tourne
+— J'espère que tu en as prévu quelques-uns en réserve, si ça tourne
 mal.
 
 — Non. La magie, ce n'est pas mon truc. Rien ne vaut un morceau de
@@ -575,7 +575,7 @@ utile. Contre le démon...
 
 — Ou contre n'importe qui. Sois gentille, évite de trop parler de
 ça, d'accord ? Je pense que les gens ont suffisamment tendance à
-s'entre-tuer pour qu'on leur donne des idée sur des moyens plus
+s'entre-tuer pour qu'on leur donne des idées sur des moyens plus
 efficaces de le faire. 
 
 — Et c'est un démon qui me dit ça.
@@ -635,7 +635,7 @@ seras en arrière, avec ton engin, au cas où ça tourne mal.
 
 — D'accord. 
 
-— Voilà, je crois que tu sais tout ce qu'il faut. À moins que tu ais
+— Voilà, je crois que tu sais tout ce qu'il faut. À moins que tu aies
 des questions ? 
 
 — Non, ça va. Je suppose que ce n'est pas la peine que je dise que

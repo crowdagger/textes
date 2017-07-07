@@ -295,7 +295,7 @@ très portée sur le rangement.
 
 L'elfe laissa tomber son sac et s'assit sur une vieille chaise en bois.
 
-« Pourquoi tu veux que je les vois ? 
+« Pourquoi tu veux que je les voie ? 
 
 — Elles te le diront elles-mêmes. En attendant, je vais faire du
 thé. »
@@ -645,7 +645,7 @@ sont pas humains.
 
 Ly soupira nerveusement. Elle détestait être interrompue. Elle
 détestait devoir passer des heures à expliquer toujours les mêmes
-choses. Elle détestait par dessus tout aider les gens, surtout les
+choses. Elle détestait par-dessus tout aider les gens, surtout les
 gens qu'elle détestait, c'est-à-dire plus ou moins tous. Elle
 détestait aussi tout un tas d'autres choses, évidemment, mais la liste
 serait un peu trop longue pour pouvoir être citée ici dans son intégralité. 
@@ -971,7 +971,7 @@ relever la tête et regarda timidement Annabelle.
 pratiquez. 
 
 — Ça ne me surprend pas, fit Annabelle. Les démons ne s'intéressent
-pas beaucoup à tout ça. Quand aux elfes, ils préfèrent la magie,
+pas beaucoup à tout ça. Quant aux elfes, ils préfèrent la magie,
 ajouta-t-elle en se tournant vers Kalia. En général.
 
 — C'est quoi, la différence ? demanda Axelle.
@@ -1076,9 +1076,9 @@ compris, ça consistait à envoyer à la mort une gamine.
 
 Il essaya de relativiser. Tout cela n'était pas bien reluisant, mais il ne
 connaissait pas cette fille. Il l'avait à peine aperçue après avoir
-été arrêté. Par ailleurs, il n'était pas sûr qu'elle courre un
+été arrêté. Par ailleurs, il n'était pas sûr qu'elle coure un
 danger. Peut-être que la reine était paranoïaque et qu'aucun ennemi
-ne tenait à mettre la main su ce genre d'arme avant elle. 
+ne tenait à mettre la main sur ce genre d'arme avant elle. 
 Seulement, il n'y croyait pas trop ; et, même s'il l'avait juste croisée, il
 avait bien aimé cette Kiala. Ou Lakia. Quelque chose comme ça, en tout cas. 
 
@@ -1613,7 +1613,7 @@ dis. Bon, comment on ouvre ce truc ?
 — Je ne sais pas si Miya prenait des bains dans du sang de vierges
 ou si c'était quelqu'un de bien, mais ce que je sais, c'est
 qu'à l'heure actuelle, il me semble qu'on a plus besoin de l'épée
-qu'elle. En plus, ce serait dommage que tu ais convaincu ton nouvel ami de
+qu'elle. En plus, ce serait dommage que tu aies convaincu ton nouvel ami de
 nous laisser faire si on abandonne maintenant.
 
 — Bon, d'accord.
@@ -1733,7 +1733,7 @@ parce qu'il était chaud, de meilleure qualité que ce qu'elle pourrait
 jamais se payer et que ce n'était pas *vraiment* du vol.  
 
 Il n'en restait pas moins que le trajet était long et
-qu'elle commençait à en avoir par dessus la tête de ces journées de
+qu'elle commençait à en avoir par-dessus la tête de ces journées de
 marche dans la neige qui n'en finissaient pas. Heureusement que le
 château de Miya n'était pas au plus profond de la Transye Vanille :
 elle n'aurait pas supporté deux semaines à ce régime.
@@ -2015,7 +2015,7 @@ dont parlait la prophétie.
 d'accomplir cette mission. Alors elle t'a envoyée ici très
 officiellement, avec une sélection et tout le tintouin, pour
 faire diversion. Un leurre, pendant que son vrai héros récupérerait la
-véritable épée. Comme ça, ces types là », elle fit un geste vague pour
+véritable épée. Comme ça, ces types-là », elle fit un geste vague pour
 montrer les quatre hommes qui étaient par terre et que William était en
 train d'attacher, « s'en prendraient
   à toi et pas à lui.
@@ -2171,7 +2171,7 @@ Angèle lui jeta un regard mauvais, mais Kalia sourit.
   ça, on était amies et, à cette époque, tout allait bien.
 
 » Ensuite, on est devenu plus qu'amies, et les choses se sont
-corsées. Ses parents se sont arrangés pour qu'on ne se voit plus, en
+corsées. Ses parents se sont arrangés pour qu'on ne se voie plus, en
 espérant que ça nous passerait. Pour elle, c'est allé. Elle a fini par
 trouver quelqu'un d'autre, qui était du bon genre.
 
@@ -2202,7 +2202,7 @@ c'est-à-dire qu'il s'agissait de petites frappes payées par un homme
 qu'ils ne connaissaient pas, après être restée un certain temps à ne
 rien faire, Axelle alla rejoindre William et Kalia.
 
-À ce moment là, cette dernière avait fini de parler depuis un certain
+À ce moment-là, cette dernière avait fini de parler depuis un certain
 temps. Elle avait posé la tête sur l'épaule du vampire et s'était
 arrêtée de pleurer. Avoir tout raconté avait l'air de lui avoir fait
 un peu de bien.

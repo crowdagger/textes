@@ -641,7 +641,7 @@ l'honneur, tout ça, ce n'était pas mon truc.
 
 — Hmmm.
 
-— Et puis je me suis rendue compte qu'il n'était pas vraiment mon
+— Et puis je me suis rendu compte qu'il n'était pas vraiment mon
 genre, de toute façon.
 
 — Hmmm.

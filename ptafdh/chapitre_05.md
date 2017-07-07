@@ -224,7 +224,7 @@ quelque chose, mais il lui semblait avoir au moins entendu un chien
 japper après qu'elle ait tiré. Ça en ferait toujours un de moins
 derrière Edine. 
 
-Axelle venait d'arriver à cours de munitions lorsqu'un chien lui sauta
+Axelle venait d'arriver à court de munitions lorsqu'un chien lui sauta
 dessus. Il était imposant et le choc fut rude, mais la jeune femme
 tint bon et parvint à envoyer l'animal rouler dans la boue. Elle
 attrapa un bâton et s'en servit pour réceptionner en l'air une autre

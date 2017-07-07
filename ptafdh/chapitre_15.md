@@ -278,7 +278,7 @@ tâche jusqu'au bout, même s'il n'aimait plus les règles du jeu.
 
 « Quelques jours, pas plus. Et bien traités. 
 
-— Bien sûr. Nous ne sommes pas des barbares. Quand aux restes de nos
+— Bien sûr. Nous ne sommes pas des barbares. Quant aux restes de nos
 accords avec Erekh...
 
 — Je ne suis pas là pour parler de ça, répliqua Armand.
@@ -363,7 +363,7 @@ as pu faire ça.
 *****
 
 Axelle avait pris la place de son cadavre sur la table, remis ses vieux
-vêtements et placé un drap sur elle pour qu'on ne voit pas l'absence
+vêtements et placé un drap sur elle pour qu'on ne voie pas l'absence
 de blessures. Comme elle n'avait pas grand-chose à faire, elle décida
 de dormir encore un peu en attendant le retour d'Armand. Son
 invocation l'avait vidée de toute énergie.

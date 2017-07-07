@@ -5,7 +5,7 @@
 Le slogan ne fut pas énormément repris. Elle avait trouvé qu'il
 sonnait bien à l'écrit, mais, à l'oral, elle devait admettre qu'il
 n'était pas terrible. Le rythme n'était pas bon. Et puis, la plupart
-des manifestants ne devait même pas connaître la signification du mot
+des manifestants ne devaient même pas connaître la signification du mot
 « faciès ». 
 
 Il y avait une large proportion de nains parmi la foule. Ils s'étaient
@@ -33,7 +33,7 @@ conséquences de ce rassemblement si les choses venaient à mal
 tourner. 
 
 Bien sûr, il s'agissait au départ d'une action pacifique et qui
-l'était plutôt restée jusque là, mais elle le serait certainement
+l'était plutôt restée jusque-là, mais elle le serait certainement
 beaucoup moins si les gardes devenaient un peu trop agressifs. Il y
 avait déjà eu quelques tensions lorsqu'ils avaient voulu retirer une
 banderole « Gardes partout, justice nulle part ». Il n'y avait pas
@@ -95,13 +95,13 @@ aussi elle s'approcha de lui.
 — Ce qui explique les nouveaux vêtements. »
 
 L'elfe eut un petit sourire. Elle avait effectivement un peu modifié
-sa garde robe depuis qu'elle avait démissionné. William avait insisté
+sa garde-robe depuis qu'elle avait démissionné. William avait insisté
 pour lui payer quelques pantalons qu'il jugeait plus élégants et des
 bottes neuves pour remplacer sa vieille paire trouée. Elle portait
 aussi un bandana noir pour se cacher les oreilles, ses cheveux étant
 maintenant trop courts pour le faire. 
 
-Le tout lui donnai une allure... eh bien, une allure tout court, pour
+Le tout lui donnait une allure... eh bien, une allure tout court, pour
 commencer. Elle n'y était pas franchement habituée.
 
 « Tu n'es pas venu parler chiffons, hein ? demanda-t-elle.
@@ -190,7 +190,7 @@ son tour, poursuivie par deux gardes.
 
 Elle allait s'engager dans une ruelle lorsqu'un mur de flammes se
 dressa devant elle. Elle stoppa net et hésita quelques instants. Elle
-pouvait essayer de passer en se convaincant que ce n'était au final
+pouvait essayer de passer en se convainquant que ce n'était au final
 qu'une illusion ; mais si elle n'y croyait pas assez fort, elle
 finirait brûlée, ce dont elle ne mourait pas d'envie.
 
@@ -282,7 +282,7 @@ qui était occupé à mettre à jour des informations sur sa carte.
 avoir des informations assez complètes. En tout cas, pour ce qu'on
 peut connaître depuis un dragon.
 
-— Si tu en as l'occasion, demande lui de revenir en un seul morceau.
+— Si tu en as l'occasion, demande-lui de revenir en un seul morceau.
 
 — J'y penserai. À propos, si ce n'est pas indiscret, Ly et toi, vous
 êtes...
@@ -503,7 +503,7 @@ nouvelle. La tentative de Léhen pour hâter la guerre a fait chou
 blanc. En plus de ça, la reine l'a suspendu du conseil. »
 
 Kalia hocha la tête, satisfaite. Avec un peu de chance, le duc rebelle
-serait un peu calmé pendant quelques temps.
+serait un peu calmé pendant quelque temps.
 
 « Il faut que tu me fasses sortir. Je n'en peux plus.
 
@@ -526,7 +526,7 @@ effet principal de lui faire mal aux orteils.
 
 — Non, admit William.
 
-— J'ai fait tous les effort pour m'intégrer ! Je vis en ville. Je
+— J'ai fait tous les efforts pour m'intégrer ! Je vis en ville. Je
 connais les lois de ce pays, ses différents rois depuis trois siècles,
 je...
 
@@ -579,7 +579,7 @@ Kalia expliqua rapidement à William les inquiétudes dont Louis lui
 avait fait part.
 
 « Hmmm, fit le vampire. J'ai bien peur de ne pas pouvoir faire
-  grand chose. Je m'occupe seulement du Darnolc et ça me prend déjà
+  grand-chose. Je m'occupe seulement du Darnolc et ça me prend déjà
   beaucoup de temps. Évidemment, il y a d'autres espions, mais...
 
 — Tu ne leur fais pas confiance ?
@@ -685,7 +685,7 @@ cet « avantage tactique » de notre côté, vous êtes sûrs de gagner
 la guerre. » 
 
 Axelle fronça les sourcils. Elle n'avait pas vu les choses sous cet
-angle. L'avantage qu'avait les orcs n'en aurait donc pas été un ?
+angle. L'avantage qu'avaient les orcs n'en aurait donc pas été un ?
 Voilà qui changeait certaines choses.
 
 « À propos. Votre roi, ce n'est pas un orc, n'est-ce pas ?
@@ -698,7 +698,7 @@ roi du Darnolc cherchait vraiment à détruire : Erekh, ou son propre
 pays ?
 À moins que ça n'ait été les deux.
 
-« Avez vous des liens avec des groupes rebelles ? En-dehors de cet
+« Avez vous des liens avec des groupes rebelles ? En dehors de cet
   accord ?
 
 — Pas que je sache. Mais je ne suis pas la conseillère politique de
@@ -753,7 +753,7 @@ béquille, mais c'était loin d'être une solution idéale.
 Elle eut tout de même le courage de parcourir le camp à la
 recherche de l'arbalète de Kalia. Il était hors de question de la leur
 laisser. Elle finit par la trouver dans le chariot qui l'avait amenée
-jusque là, dans son sac de vêtements laissé à l'abandon.
+jusque-là, dans son sac de vêtements laissé à l'abandon.
 
 Une fois qu'elle l'eut récupérée et passée dans son dos, elle boita
 jusqu'en dehors du campement et commença à se diriger vers le sommet
@@ -831,7 +831,7 @@ suite.
 grotte.
 
 Edine se tourna vers Ogar, un type immense et costaud, qui était
-resté silencieux jusque là.
+resté silencieux jusque-là.
 
 « Tu peux aller l'aider ? Et essayer de ramener quelque chose à
   manger ? »»
@@ -839,11 +839,11 @@ resté silencieux jusque là.
 Ogar hocha la tête et sortit sans un mot. Edine alluma une torche et
 commença à déshabiller Axelle. 
 Sa blessure à la jambe n'était pas belle à voir. Il se demanda comment
-elle avait bien pu marcher jusque là. Elle n'aurait même pas dû
+elle avait bien pu marcher jusque-là. Elle n'aurait même pas dû
 pouvoir poser le pied par terre.
 
 Il désinfecta la plaie et lui posa un bandage propre, mais il ne
-pouvait pas faire grand chose de plus. À part peut-être l'amputer,
+pouvait pas faire grand-chose de plus. À part peut-être l'amputer,
 mais il espérait qu'il n'aurait pas à en arriver là.
 Il examina ensuite l'œil, ou plutôt son orbite, et jura entre ses
 dents. Elle avait été soignée par un véritable boucher. Il savait que
@@ -892,7 +892,7 @@ dire, avec les types qui nous suivent ?
 le faire.
 
 — Sauf que, tu l'as dit, il va falloir la transporter. Il fait froid,
-là haut. Tu es sûr qu'elle tiendra le coup ?
+là-haut. Tu es sûr qu'elle tiendra le coup ?
 
 — Ce serait difficile si on passait à pied, admit Edine. Mais
 j'espère bien qu'on n'aura pas à le faire. »

@@ -14,7 +14,7 @@ alors, tais-toi un peu.
 — D'accord, admit l'hallucination. Sauf que rien ne dit que ça ne va pas
 mal tourner pour autant. C'est peut-être ta dernière clope, tu sais ?
 
-— Ouais. Et si je meure, tu meures aussi, alors boucle-la, d'accord ? »
+— Ouais. Et si je meurs, tu meures aussi, alors boucle-la, d'accord ? »
 
 Le vampire écrasa sa cigarette et fit un geste au dragon afin de
 guider comme il le pouvait son atterrissage. 
@@ -103,7 +103,7 @@ le roi dans les yeux.
 Le démon bomba le torse, leva les bras et fit sortir des immenses
 griffes de ses doigts. 
 
-« Je suis Elyareleth, commença-t-il, emphatique, fils de Annetloch,
+« Je suis Elyareleth, commença-t-il, emphatique, fils d'Annetloch,
   seigneur de la cité infernale de Shy et roi du Darnolc. » Puis il
 baissa un peu le ton, leva une griffe dans un geste théâtral et
 demanda : « Et toi ?  
@@ -266,7 +266,7 @@ terre, le couteau que William avait laissé tomber.
 Du pied, Okyst la retourna sur le dos et s'agenouilla une nouvelle
 fois à côté d'elle.
 
-« Je veux que tu me regardes. Je veux que tu me vois en mourant. »
+« Je veux que tu me regardes. Je veux que tu me voies en mourant. »
 
 La pression sur le cou de l'elfe s'accrut. Elle tendit le bras vers le
 couteau, mais eut à peine le temps de le saisir avant de sentir une
@@ -295,7 +295,7 @@ ennemi qui fondait vers son ventre.
 griffes vers la poitrine de son ennemie. La jeune femme hurla. Puis il retira
 ses griffes et la laissa s'écrouler sur ses genoux. 
 
-« Tss. Tu ne vaux pas grand chose, comme démon.
+« Tss. Tu ne vaux pas grand-chose, comme démon.
 
 — Non », admit Axelle en gémissant, le ventre dévasté.
 
@@ -324,7 +324,7 @@ secondes à Kalia pour comprendre qu'elle était en train de mourir.
 « Je... voulais... juste... » lâcha l'orque dans un dernier râle,
 mais elle ne parvint pas à terminer sa phrase.
 
-L'elfe n'avait pas grand chose dans l'estomac, mais elle se mit tout de
+L'elfe n'avait pas grand-chose dans l'estomac, mais elle se mit tout de
 même à vomir.
 
 
@@ -382,8 +382,7 @@ plus trop de résistance dans le dernier bâtiment dont l'issue était indéterm
 « On en est où ? demanda-t-il à un des orcs présents dans
   le hall.
 
-— On contrôle le rez-de-chaussée et le premier étage. Au
-  dessus, c'est plus compliqué.
+— On contrôle le rez-de-chaussée et le premier étage. Au-dessus, c'est plus compliqué.
 
 — Vous savez où est le roi ?
 

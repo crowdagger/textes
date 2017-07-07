@@ -43,7 +43,7 @@ le firent de manière relativement calme à cause de la présence de la
 reine ; en revanche ils ne prirent pas autant de précaution envers
 toutes les races qui n'étaient pas considérées comme
 humaines. Certains membres des insurgés expliquèrent en détail
-qu'eux-même étaient tout à fait pour que tout le monde soit considéré
+qu'eux-mêmes étaient tout à fait pour que tout le monde soit considéré
 de manière complètement égale, mais que c'était aller trop vite et que
 le peuple ne l'accepterait jamais.
 
@@ -141,7 +141,7 @@ j'ai fait prendre au pays ces dernières années et qui a été, disons,
 accéléré par les événements récents, ne plaît pas vraiment à tout le
 monde. Les royaumes du Nord ne voient pas d'un très bon œil tout
 cela. La Transye Vanille non plus. Et avec la haine subite qu'a votre
-roi à notre égard depuis quelques temps... Si nos ennemis s'alliaient,
+roi à notre égard depuis quelque temps... Si nos ennemis s'alliaient,
 nous serions dans une fâcheuse posture. 
 
 — J'ai du mal à comprendre, admit l'orc. Elyareleth a été votre
@@ -229,7 +229,7 @@ complètement.
   type. Jouer au commando, pourquoi pas ? Le problème, c'est que je
   n'aime pas franchement servir de  pion.
 
-— De pion ? s'étonna la reine. Il ne me semble pas que tu ais
+— De pion ? s'étonna la reine. Il ne me semble pas que tu aies
 attendu mes ordres pour « jouer au commando », comme tu dis. Il
 s'agit juste d'avoir les moyens pour une mission un peu plus importante. 
 
@@ -308,7 +308,7 @@ n'a pas d'autre choix. »
 William, du bras, poussa par terre les mégots, tasses vides et autres
 objets pas forcément identifiables qui encombraient sa carte du
 Darnolc.
-Les autres — c'est à dire Axelle, Kalia et Édine, auxquels s'étaient
+Les autres — c'est-à-dire Axelle, Kalia et Édine, auxquels s'étaient
 ajoutés temporairement Eryna, Armand et Gérald — s'assirent autour de la table.
 
 « Bon, commença le vampire. Est-ce que quelqu'un a le commencement
@@ -368,7 +368,7 @@ quelqu'un a des infos ? Eryna ?
 — Et toi, Edine, tu as une idée ?
 
 — Le palais du roi se trouve à Antrek, la capitale », expliqua l'orc
-en montrant où se situait la ville sur la carte, c'est à dire à
+en montrant où se situait la ville sur la carte, c'est-à-dire à
 quelques centaines de kilomètres à l'est de la
 frontière. « Jusqu'à peu, il n'y était que pour les occasions importantes. Il se déplaçait
   beaucoup. 
@@ -398,7 +398,7 @@ message.
 
 — Hein ? » fit William.
 
-Angèle, qui était jusque là tout à fait désintéressée par la discussion,
+Angèle, qui était jusque-là tout à fait désintéressée par la discussion,
 tourna la tête, peu habituée à ce que quelqu'un parle d'elle. 
 
 « Elle peut voir ce que tu ne peux pas, non ? demanda l'elfe. Si
@@ -536,7 +536,7 @@ William à travers sa lucarne.
 
 « Excuse-moi de t'espionner », expliqua le vampire en passant à travers
   l'ouverture, bien qu'il n'y ait pas été invité. « Il se trouve
-    qu'il fallait que je te vois.
+    qu'il fallait que je te voie.
 
 — Et tu ne peux pas entrer normalement ?
 
@@ -559,7 +559,7 @@ oignons.
 — Tu as failli mourir récemment et je t'ai donné de mon sang. Si tu
 commences à te transformer, ce serait bien de le savoir.
 
-— Oh. Euh, non. À ce niveau là, ça va. Je n'ai eu aucune envie de
+— Oh. Euh, non. À ce niveau-là, ça va. Je n'ai eu aucune envie de
 rentrer chez moi par la fenêtre.
 
 — Pas de problème avec le soleil ?
@@ -635,7 +635,7 @@ rationnel.
 — Justement, protesta l'elfe. Ce n'est pas juste personnel. Ça
 touchera tout le pays, voire le monde entier. 
 
-— Ouais, mais ne je serais pas une vrai démone si je faisais passer le
+— Ouais, mais ne je serais pas une vraie démone si je faisais passer le
 sort du monde avant mes envies personnelles. »
 
 Kalia sourit. Au moins son amie assumait-elle pleinement son plus

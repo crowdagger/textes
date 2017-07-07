@@ -3,7 +3,7 @@ Kalia se trouvait dans un jardin luxuriant. Elle n'avait plus mal,
 elle n'était plus blessée, elle se sentait bien et même, pour la
 première fois depuis longtemps, heureuse.
 
-Elle avait commencé par flotter au dessus de son corps, puis elle
+Elle avait commencé par flotter au-dessus de son corps, puis elle
 était montée dans les nuages, puis encore plus haut et s'était
 retrouvée dans ces jardins.
 
@@ -145,7 +145,7 @@ qu'au milieu de batailles de rue, quand bien même elle appréciait la
 confusion de ce genre de combats.
 
 Non seulement Kalia ne lui posa pas de question, mais elle
-l'embrassa. L'elfe pensa fugitivement qu'elle aurait dû être être plus
+l'embrassa. L'elfe pensa fugitivement qu'elle aurait dû être plus
 craintive et hésitante, mais venir de frôler la mort, sans 
 compter la joie de retrouver Axelle en vie, lui
 permettait sans doute de moins se poser de questions qu'à
@@ -457,7 +457,7 @@ sud. Tu vois pourquoi ?
 
 — Eh bien, ils n'ont pas trente-six solutions. Je n'en vois que
 deux. Soit ils font ça ; soit ils tentent une brèche dans la muraille ; soit ils essaient de
-passer en force par le centre ville. L'eau, c'est ce qui leur
+passer en force par le centre-ville. L'eau, c'est ce qui leur
 coûterait le moins d'hommes et de temps.
 
 — Ça fait trois, nota Axelle. Pas deux.
@@ -850,7 +850,7 @@ montrer un peu d'or... »
 William n'avait même pas véritablement acheté les soldats. Il s'était
 contenté de montrer une gourmette en argent et quelques pièces d'or
 pour prouver qu'il n'était pas pauvre comme ceux d'en face. Certes, il
-avait offert quelques unes de ses pièces en « dédommagement » de
+avait offert quelques-unes de ses pièces en « dédommagement » de
 l'agressivité de l'elfe, mais *officiellement*, il ne les avait pas
 payés pour passer.  
 
@@ -1170,7 +1170,7 @@ Les réactions furent nettement moins positives. Bien sûr, tout le
 monde était content de voir que la reine avait repris l'avantage sur
 Léhen, il n'y avait pas énormément d'armes, et la plupart des
 barricades n'étaient jamais qu'un amoncellement de meubles. S'ils
-avaient tenu jusque là, c'était uniquement grâce au fleuve et à la
+avaient tenu jusque-là, c'était uniquement grâce au fleuve et à la
 vieille muraille qui faisait le tour de la ville. 
 
 Mais c'était symbolique. Pendant deux jours, les gens présents avaient
@@ -1195,9 +1195,9 @@ Conseil soient élus par les citoyens et pas par leurs pairs. C'est
 déjà une grande victoire ! Je pense que c'est un grand pas en avant et que, pour
 l'instant, il serait raisonnable de s'en contenter. »
 
-Les réactions furent relativement mitigés. Un certain nombre de
+Les réactions furent relativement mitigées. Un certain nombre de
 personnes avaient l'air de penser que ces mesures n'étaient pas
-suffisantes et n'étaient qu'un attrape-nigauds, même si d'autres
+suffisantes et n'étaient qu'un attrape-nigaud, même si d'autres
 avaient l'air tout à fait satisfaits.
 
 « Je ne vois pas de raison de continuer, expliqua un
@@ -1456,7 +1456,7 @@ larges d'épaules que ce à quoi elle s'était attendue.
 
 « On se calme, les mecs. Je ne suis pas armée.
 
-— Que fais tu ici, à cette heure là ? demanda l'elfe qui se
+— Que fais-tu ici, à cette heure-là ? demanda l'elfe qui se
 trouvait de l'autre côté de la flèche.
 
 — Je cherche Lucie de Guymor. La reine.
@@ -1502,7 +1502,7 @@ temps d'aller à la forêt d'Onyx ?
 
 — La reine n'avait pas prévu que Léhen frapperait aussi tôt, mais
 elle s'attendait à ce qu'il le fasse un jour. Elle avait posté cinq
-cent elfes à l'est et cinq cents hommes du Mondar à l'ouest. Pour
+cents elfes à l'est et cinq cents hommes du Mondar à l'ouest. Pour
 assurer ses arrières. Elle ne faisait pas trop confiance en ses
 généraux. 
 

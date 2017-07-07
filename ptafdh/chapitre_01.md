@@ -727,7 +727,7 @@ visage, j'ai peur que ses amis soient plus enclins à lui accorder leur
 confiance qu'à vous. Étant donné leur nombre et le nôtre, je pense qu'il
 serait plus sage de résoudre cette situation de manière intelligente.
 
-— Insinueriez vous, demanda le garde d'un air mauvais,
+— Insinueriez-vous, demanda le garde d'un air mauvais,
   que nous devrions libérer ce criminel parce que quelques-uns de
   ses complices crient dehors ? » 
 
@@ -773,7 +773,7 @@ Puis elle commença à s'éloigner, sans jeter un regard vers les hommes
 cassés. 
 
 « C'était impressionnant », constata un homme que la danseuse
-n'avait pas remarqué jusque là. C'était étonnant car il avait des
+n'avait pas remarqué jusque-là. C'était étonnant car il avait des
 vêtements blancs qui n'étaient pas vraiment discrets. Elle ne put pas
 l'identifier, car sa capuche de la même couleur lui cachait le visage.
 
@@ -974,10 +974,10 @@ protéger. Vous seriez peut-être plus utile ailleurs...
 
 — Comme ?
 
-— Notre diplomate au Darnolc a été assassiné. Depuis quelques temps,
+— Notre diplomate au Darnolc a été assassiné. Depuis quelque temps,
 nos relations avec ce pays sont plus ou moins... tendues. Il
 semblerait que leur roi, avec qui nous entretenions des relations 
-plus que cordiales, soit depuis quelques temps devenu beaucoup plus
+plus que cordiales, soit depuis quelque temps devenu beaucoup plus
 agressif à notre égard. Il serait intéressant de savoir pourquoi. »
 
 William respira une bouffée de fumée avant de répondre.

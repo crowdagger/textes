@@ -126,7 +126,7 @@ porte ; mais le garde se contenta de rester immobile et de sourire.
 
 « Je ne crois pas, Monsieur. »
 
-Le vampire leva un peu sa lèvre supérieur, dévoilant ses impressionnantes
+Le vampire leva un peu sa lèvre supérieure, dévoilant ses impressionnantes
 canines. 
 
 « J'ai dit : ferme la porte ! cracha-t-il, menaçant.
@@ -139,7 +139,7 @@ William haussa les épaules, peu surpris.
 « Ce serait avec plaisir, mais pas maintenant. »
 
 Il se jeta sur son adversaire, déviant au préalable l'épée avec un bon
-coût de pied. Sa stratégie n'était pas parfaite, puisque le garde eut le
+coup de pied. Sa stratégie n'était pas parfaite, puisque le garde eut le
 temps de ramener sa lame et de la lui enfoncer entre les côtes avant
 qu'il ne plonge ses dents dans le cou de sa victime.
 
@@ -274,9 +274,9 @@ risques.
 Ce n'était simplement pas le quartier idéal pour être garde.
 
 « Écoute, fit Louis. Je ne suis pas spécialement partisan de
-  Léhen, mais, lui ou un autre, ça ne changera pas grand
-  chose. Calme-toi. En attendant, il faut qu'on trouve quelqu'un pour
-  s'occuper de Maxime. 
+  Léhen, mais, lui ou un autre, ça ne changera pas
+  grand-chose. Calme-toi. En attendant, il faut qu'on trouve quelqu'un
+  pour s'occuper de Maxime. 
 
 — Je ne vais pas le laisser faire un coup d'État sans rien faire !
 Il n'en a pas le droit. Un vrai garde devrait l'en empêcher.
@@ -484,7 +484,7 @@ Armand. Ce dernier remarqua alors à quel point elle était pâle.
 
 Kalia voulut grimper au sommet de la Porte Est pour vérifier si l'armée de
 Léhen approchait et, si oui, savoir à quelle distance elle était, mais
-elle ne put le faire car des gardes l'en empêchèrent. Tous les accès
+elle ne put le faire, car des gardes l'en empêchèrent. Tous les accès
 étaient bloqués. 
 *A priori*, cela confirmait son hypothèse : Léhen devait
 s'approcher par ce côté. À moins qu'il ne soit déjà en ville et qu'il
@@ -714,15 +714,15 @@ travail.
 Elle suivait distraitement la discussion ; ou plutôt, *les*
 discussions. Il y avait, d'un côté, une sorte de débat « public »,
 plus ou moins organisé, où les nains prenaient la parole à tour de
-rôle en essayant de se faire entendre au dessus du brouhaha. De
-l'autre côté, il y avait des dizaine de petites discussions
+rôle en essayant de se faire entendre au-dessus du brouhaha. De
+l'autre côté, il y avait des dizaines de petites discussions
 « privées » entre quelques individus, ce qui était responsable du
 brouhaha mentionné. Le pire, c'était que parfois un nain répondait en
 hurlant à une discussion privée ou au contraire baissait soudain la
 voix pour s'adresser uniquement à ses voisins les plus proches.
 
 Quelques contremaîtres avaient voulu remettre tout le monde au
-travail, mais les nains les avaient poliment envoyé promener. Les
+travail, mais les nains les avaient poliment envoyés promener. Les
 contremaîtres avaient alors insisté, et s'étaient cette fois fait
 remballer beaucoup moins poliment. 
 
@@ -740,7 +740,7 @@ avec eux et qui était contre ?
 
 Kalia avait apporté un début de réponse à la première question en leur
 suggérant de bloquer la Porte Est. Elle avait aussi répondu clairement
-à la deuxième : ils risquaient probablement la mort. Quand aux deux
+à la deuxième : ils risquaient probablement la mort. Quant aux deux
 dernières, personne n'avait de réponse. La reine avait peut-être déjà
 été exécutée, ou peut-être qu'au contraire le complot avait été
 déjoué.
@@ -976,7 +976,7 @@ fer, et même un balai.
 « Hum, fit le garde en reculant de quelques pas. Je vous demande
   de déposer vos armes....
 
-— C'est toi qui va poser les tiennes ! cria un nain vers le fond. Ou
+— C'est toi qui vas poser les tiennes ! cria un nain vers le fond. Ou
 alors, *schlick !* »
 
 Le garde déglutit et commença à trouver la situation vraiment
@@ -1174,7 +1174,7 @@ Qu'avait-il bien pu se passer ?
 
 Kalia ressortit du Chaud Dragon en se demandant si des combats avaient
 déjà eu lieu à cet endroit, puis elle réalisa qu'un groupe de
-personnes s'affairaient au bout de la rue.
+personnes s'affairait au bout de la rue.
 Lorsqu'elle s'approcha, elle comprit : les travailleuses de la taverne
 étaient en train de monter une barricade.
 
@@ -1808,9 +1808,9 @@ garde sortit sa dague et les lui entailla, avant de retourner
 s'adosser au mur, à côté de son collègue.
 
 Pour ce qu'il en avait compris, l'idée de ce petit manège
-était de pendre, dans une position humiliante et douloureuse, c'est à
-dire nues et la tête en bas, les personnes responsables des désordres
-dans l'est de la ville jusqu'à ce qu'ils se vident de leur sang. 
+était de pendre, dans une position humiliante et douloureuse,
+c'est-à-dire nues et la tête en bas, les personnes responsables des
+désordres dans l'est de la ville jusqu'à ce qu'ils se vident de leur sang. 
 William n'était pas véritablement responsable de ces troubles, mais,
 apparemment, les gens du quartier Haut tenaient à voir que les soldats
 avaient les choses en main, aussi la notion de « responsable »

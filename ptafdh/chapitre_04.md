@@ -54,7 +54,7 @@ Kalia regardait ses pieds.
 « Comment êtes-vous entrées ? demanda la reine en fronçant les
   sourcils.
 
-— Avec votre laisser-passer, mademoiselle, expliqua William en
+— Avec votre laissez-passer, Mademoiselle, expliqua William en
 sortant de l'ombre. Vous vous rappelez ? Vous me l'aviez donné.
 
 — Ah, Wolf, soupira la reine. Vous êtes là aussi. Fermez la porte,
@@ -507,7 +507,7 @@ hésitait. Puis elle réalisa qu'elle n'avait en effet aucune envie de
 faire le chemin jusqu'à chez elle et elle se décida finalement à
 retirer ses bottes et son pantalon.
 
-« Bonne nuit, fit-elle  en s'allongeant à coté de son amie. 
+« Bonne nuit, fit-elle  en s'allongeant à côté de son amie. 
 
 — 'nuit », répondit la démone en soufflant la bougie.
 
@@ -632,7 +632,7 @@ Axelle se leva, se dirigea vers une table sur laquelle traînaient divers
 papiers, déchira un morceau de feuille, écrivit quelque chose dessus,
 et le tendit à Kalia.
 
-« Et si je ne reviens pas, sers toi de ça. »
+« Et si je ne reviens pas, sers-toi de ça. »
 
 L'elfe attrapa le papier, et lut : « *Ynëevgu svyyr qr Yhpvsre sbexér pbzzr Nkryyr* ».
 

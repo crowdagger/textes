@@ -64,7 +64,7 @@ venir.
 
 « Il a fouillé une nouvelle fois la bibliothèque de l'Efeltawar
   et il en a apparemment sorti une qu'il n'avait pas
-  remarquée jusque là, continua cette dernière. Elle est plutôt...
+  remarquée jusque-là, continua cette dernière. Elle est plutôt...
   étonnante.
 
 — Ah ? demanda faiblement la garde.
@@ -89,7 +89,7 @@ faisait peut-être trop, mais son amie n'avait pas voulu en démordre.
 « Et en quoi puis-je vous aider, Majesté ? demanda-t-elle.
 
 — Je me demandais simplement, vous êtes peut-être plus au courant des
-lois que moi. Je suis ça de loin, vous savez ? Alors, dites moi. S'il
+lois que moi. Je suis ça de loin, vous savez ? Alors, dites-moi. S'il
 s'avérait que cette « prophétie » avait été placée là par un
 plaisantin, que risquerait le farceur ?
 
@@ -281,7 +281,7 @@ retrouvent à des milliers de kilomètres. Elles ont un sixième sens.
 — Ce sont des chauves-souris *vampires* ? demanda Kalia avec
 une grimace de dégoût.
 
-— Ne fais pas cette tête là. Il y a des vampires très bien,
+— Ne fais pas cette tête-là. Il y a des vampires très bien,
 tu sais ?
 
 — Si tu le dis, répliqua la jeune femme en s'asseyant. Bon, et

@@ -21,7 +21,7 @@ elle en avait un autre, mais elle commençait à trouver que ses
 pouvoirs avaient fortement décliné depuis qu'elle avait
 abandonné l'Enfer.
 
-Elle n'aimait pas particulièrement sa nature maléfique et elle n'avait pas une grand soif de puissance ; elle n'avait jamais ressenti le 
+Elle n'aimait pas particulièrement sa nature maléfique et elle n'avait pas une grande soif de puissance ; elle n'avait jamais ressenti le 
 besoin de pousser des « Mouahahahahaha » sous des cieux
 orageux. Non, elle préférait avoir une vie normale, ou presque. 
 Le « ou presque » faisait tout de même une sacrée
@@ -32,7 +32,7 @@ lui donnait une chance dans un combat à dix contre une sans avoir à
 s'entraîner des heures durant pour entretenir ses muscles et ses
 techniques de combat. 
 
-Jusque là, elle avait toujours affronté les obstacles en partant du
+Jusque-là, elle avait toujours affronté les obstacles en partant du
 principe que rien de bien grave ne pouvait lui arriver et qu'elle s'en
 tirerait sans une égratignure. Son orbite vide en était une
 importante, d'égratignure, qui lui montrait qu'elle était
@@ -82,7 +82,7 @@ furtivement derrière Edine et pointa une petite arbalète vers lui.
 L'orc obéit.
 
 « Bien. Écartez-vous des chevaux. Je suis désolée, mais je vais
-  devoir vous en emprunter un. Voilà. Tournez vous, maintenant. »
+  devoir vous en emprunter un. Voilà. Tournez-vous, maintenant. »
 
 Edine obéit à nouveau et provoqua la stupéfaction de la femme.
 
@@ -170,7 +170,7 @@ envoyant un couteau de jet dans la main gauche de la jeune femme, qui
 se mit à hurler. 
 
 « Le prochain est pour ton cou si tu ne réponds pas à ma question
-  : qui es tu, et où est la reine ?
+  : qui es-tu, et où est la reine ?
 
 — Ça fait deux questions. Je m'appelle Axelle CrèveCœur, danseuse
 au Chaud Dragon, et la reine est juste un peu plus loin sur la route. »
@@ -311,7 +311,7 @@ une flèche dans le ventre...
 
 — Ben, mieux vaut un orc que la Mort, non ?
 
-— Montrez-le moi, dit Edine en hochant la tête. Je vais voir ce que
+— Montrez-le-moi, dit Edine en hochant la tête. Je vais voir ce que
 je peux faire. 
 
 — Moi, fit Axelle en se relevant, je vais voir ce qui est arrivé à
