@@ -6,10 +6,10 @@ license: CC-BY-SA 4.0
 cover: couv/imposture.png
 version: 1.0.0
 
-output.pdf: imposture.pdf
-output.epub: imposture.epub
-output.html: imposture.html
-output.proofread.html: imposture.proof.html
+output.pdf: tromperies_sur_la_marchandise.pdf
+output.epub: tromperies_sur_la_marchandise.epub
+output.html: tromperies_sur_la_marchandise.html
+output.proofread.html: tromperies_sur_la_marchandise.proof.html
 
 proofread.languagetool: true
 ---

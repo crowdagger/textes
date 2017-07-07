@@ -4,9 +4,9 @@ title: "Rock'n troll"
 license: CC BY-SA 4.0
 version: 1.0.1
 
-output.html: troll.html
-output.pdf: troll.pdf
-output.epub: troll.epub
+output.html: rock_n_troll.html
+output.pdf: rock_n_troll.pdf
+output.epub: rock_n_troll.epub
 ---
 
 Thomas décapsula sa canette de bière et fit craquer ses doigts. Il

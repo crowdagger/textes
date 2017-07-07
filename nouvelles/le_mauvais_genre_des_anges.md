@@ -6,10 +6,10 @@ license: CC-BY-SA 4.0
 
 cover: couv/mauvais_genre.png
 
-output.html: mauvais_genre.html
-output.pdf: mauvais_genre.pdf
-output.epub: mauvais_genre.epub
-output.proofread.html: mauvais_genre.proof.html
+output.html: le_mauvais_genre_des_anges.html
+output.pdf: le_mauvais_genre_des_anges.pdf
+output.epub: le_mauvais_genre_des_anges.epub
+output.proofread.html: le_mauvais_genre_des_anges.proof.html
 
 proofread.languagetool: true
 ---

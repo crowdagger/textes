@@ -4,9 +4,9 @@ title: Une leçon d'humanité
 version: 1.0.1
 license: CC BY-SA 4.0
 
-output.html: space_labrys.html
-output.pdf: space_labrys.pdf
-output.epub: space_labrys.epub
+output.html: une_lecon_d_humanite.html
+output.pdf: une_lecon_d_humanite.pdf
+output.epub: une_lecon_d_humanite.epub
 ---
 
 Une leçon d'humanité
