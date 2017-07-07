@@ -411,9 +411,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="943.87251"
-     inkscape:cy="1247.5459"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1661.8657"
+     inkscape:cy="282.51464"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -434,7 +434,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -855,15 +855,13 @@
          y="393.51544">Fantastique / Monde réel</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.76124954px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.76124954px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="1093.7356"
        y="1100.8822"
        id="text5443-0-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5564"
-         x="1093.7356"
-         y="1100.8822">Fantasy urbaine</tspan></text>
+         id="tspan4551">Butchiverse (fantasy urbaine)</tspan></text>
     <rect
        style="opacity:1;fill:#af91ff;fill-opacity:1;stroke:none;stroke-width:2.90683699;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.72051093, 8.72051093;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5441-2-4"
@@ -1799,28 +1797,36 @@
        id="path5849-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.6153264;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:15.69195884, 15.69195884;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3336-3-1-25-8-4"
-       width="308.44955"
-       height="142.18921"
-       x="1461.6"
-       y="1160.4955" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1604.4481"
-       y="1217.076"
-       id="text4146-5-2-86-6-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10176"
+    <a
+       id="a4543"
+       xlink:href="http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29">
+      <rect
+         y="1160.4955"
+         x="1461.6"
+         height="142.18921"
+         width="308.44955"
+         id="rect3336-3-1-25-8-4"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.61500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </a>
+    <a
+       id="a4546"
+       xlink:href="http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4146-5-2-86-6-9"
+         y="1217.076"
          x="1604.4481"
-         y="1217.076">La chair &amp;</tspan><tspan
-         sodipodi:role="line"
-         id="tspan10178"
-         x="1604.4481"
-         y="1267.076">le sang</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1217.076"
+           x="1604.4481"
+           id="tspan10176"
+           sodipodi:role="line">La chair &amp;</tspan><tspan
+           y="1267.076"
+           x="1604.4481"
+           id="tspan10178"
+           sodipodi:role="line">le sang</tspan></text>
+    </a>
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
