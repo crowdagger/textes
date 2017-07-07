@@ -67,7 +67,7 @@ que ce soit au format HTML, PDF ou EPUB, le plus simple est d'utiliser
 ./gen_all.sh
 ```
 
-(dans le répertoire principal) pour générer tous les fichiers. (Vous aurez aussi besoin de la commande `zip` pour générer les fichiers EPUB, et d'une installation de LaTeX si vous voulez générer les fichiers PDF.)
+(dans le répertoire principal) pour générer tous les fichiers. (Vous aurez aussi besoin de la commande `zip` pour générer les fichiers EPUB, et d'une installation de LaTeX si vous voulez générer les fichiers PDF.) Cette commande génère également trois archives zip contenant respectivement les versions PDF, HTML et EPUB de l'ensemble des textes.
 
 Licence 
 --------
