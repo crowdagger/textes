@@ -104,7 +104,7 @@ orthographiques/de répétition/etc., soit en faisant directement une
 [*pull request*](https://github.com/Crowdagger/textes/pulls), soit en
 créant une [*issue*](https://github.com/Crowdagger/textes/issues). Si
 tout cela est du klingon pour vous, pas de souci, vous pouvez toujours
-m'envoyer un mail à lizzie at crowdagger point fr.
+m'envoyer un mail à lizzie at crowdagger point fr. (J'ai aussi écrit un petit tutoriel pour [contribuer à un projet sur Github sans taper la moindre ligne de commande](http://crowdagger.fr/blog/index.php?post/2017/03/22/Tutoriel-%3A-contribuer-%C3%A0-un-projet-sur-Github).)
 
 Vous pouvez également cliquer sur le bouton *Fork* en haut à droite et
 partir sur votre propre adaptation d'un de mes textes. Le seul truc
