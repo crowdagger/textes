@@ -3,9 +3,9 @@ title: La mémoire de l'eau
 license: CC BY-SA 4.0
 version: 1.0.1
 
-output.html: memoire.html
-output.pdf: memoire.pdf
-output.epub: memoire.epub
+output.html: la_memoire_de_l_eau.html
+output.pdf: la_memoire_de_l_eau.pdf
+output.epub: la_memoire_de_l_eau.epub
 
 - chapitre_1.md
 - chapitre_2.md
