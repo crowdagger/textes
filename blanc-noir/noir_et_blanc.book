@@ -8,10 +8,10 @@ cover: couv/blanc-noir.png
 
 rendering.chapter.template: "Chapitre {{{number}}} : {{{title}}}"
 
-output.epub: blanc-noir.epub
-output.pdf: blanc-noir.pdf
-output.html: blanc-noir.html
-output.odt: blanc-noir.odt
+output.epub: noir_et_blanc.epub
+output.pdf: noir_et_blanc.pdf
+output.html: noir_et_blanc.html
+output.odt: noir_et_blanc.odt
 
 #! copyright.md
 + chapitre_1.md

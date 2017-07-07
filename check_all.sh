@@ -1,7 +1,7 @@
 #! /bin/bash
 
 echo "Noir & blanc..."
-epubcheck blanc-noir/blanc-noir.epub
+epubcheck blanc-noir/noir_et_blanc.epub
 
 echo
 echo "Pas tout à fait des hommes..."

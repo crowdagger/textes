@@ -1,7 +1,7 @@
 #! /bin/bash
 
 echo "Noir & blanc..."
-crowbook blanc-noir/blanc-noir.book
+crowbook blanc-noir/noir_et_blanc.book
 
 echo
 echo "Pas tout à fait des hommes..."
