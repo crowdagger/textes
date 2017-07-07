@@ -5,7 +5,7 @@ epubcheck blanc-noir/noir_et_blanc.epub
 
 echo
 echo "Pas tout à fait des hommes..."
-epubcheck ptafdh/endr.epub
+epubcheck ptafdh/pas_tout_a_fait_des_hommes.epub
 
 echo
 echo "Sorcières & zombies..."
@@ -21,21 +21,22 @@ echo
 echo "Nouvelles..."
 cd nouvelles
 epubcheck pirate.epub
-epubcheck troll.epub
-epubcheck space_labrys.epub
-epubcheck mauvais_genre.epub
-epubcheck imposture.epub
-epubcheck pulmonaire/pulmonaire.epub
-epubcheck revolution/revolution.epub
+epubcheck rock_n_troll.epub
+epubcheck une_lecon_d_humanite.epub
+epubcheck le_mauvais_genre_des_anges.epub
+epubcheck tromperies_sur_la_marchandise.epub
+epubcheck pulmonaire/blonde_a_forte_capacite_pulmonaire.epub
+epubcheck revolution/revolution_avec_un_vampire.epub
+epubcheck lev/on_ne_peut_pas_faire_confiance_aux_demons.epub
 cd ..
 
 echo
 echo "Nouvelles Hell B*tches..."
 cd hell_butches/
-epubcheck sigkill.epub
-epubcheck morgue.epub
-epubcheck soleil.epub
-epubcheck acab.epub
+epubcheck reagir_sans_violence.epub
+epubcheck une_histoire_pour_enfants.epub
+epubcheck bain_de_soleil.epub
+epubcheck dykes_vs_bastards.epub
 cd ..
 
 echo

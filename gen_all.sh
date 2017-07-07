@@ -5,7 +5,7 @@ crowbook blanc-noir/noir_et_blanc.book
 
 echo
 echo "Pas tout à fait des hommes..."
-crowbook ptafdh/ptafdh.book
+crowbook ptafdh/pas_tout_a_fait_des_hommes.book
 
 echo
 echo "Sorcières & zombies..."
@@ -21,21 +21,22 @@ echo
 echo "Nouvelles..."
 cd nouvelles
 crowbook -s pirate.md
-crowbook -s troll.md
-crowbook -s space_labrys.md
-crowbook -s mauvais_genre.md
-crowbook -s imposture.md
-crowbook pulmonaire/pulmonaire.book
-crowbook revolution/revolution.book
+crowbook -s rock_n_troll.md
+crowbook -s une_lecon_d_humanite.md
+crowbook -s le_mauvais_genre_des_anges.md
+crowbook -s tromperies_sur_la_marchandise.md
+crowbook pulmonaire/blonde_a_forte_capacite_pulmonaire.book
+crowbook revolution/revolution_avec_un_vampire.book
+crowbook lev/on_ne_peut_pas_faire_confiance_aux_demons.book
 cd ..
 
 echo
 echo "Nouvelles Hell B*tches..."
 cd hell_butches/
-crowbook -s sigkill.md
-crowbook -s morgue.md
-crowbook -s soleil.md
-crowbook -s acab.md
+crowbook -s reagir_sans_violence.md
+crowbook -s une_histoire_pour_enfants.md
+crowbook -s bain_de_soleil.md
+crowbook -s dykes_vs_bastards.md
 cd ..
 
 echo
