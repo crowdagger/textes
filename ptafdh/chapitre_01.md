@@ -340,8 +340,7 @@ tu n'étais pas né, gamin. »
 
 *****
 
-Le Chaud Dragon était une taverne qui n'avait, à vrai dire, pas grand
-chose de « dragonesque », excepté le dessin sur son enseigne. En revanche,
+Le Chaud Dragon était une taverne qui n'avait, à vrai dire, pas grand-chose de « dragonesque », excepté le dessin sur son enseigne. En revanche,
 l'ambiance y était effectivement plutôt chaude. 
 
 Sur l'estrade se succédaient les danseuses, exécutant, à
@@ -590,7 +589,7 @@ En général, les nains ne pouvaient pas supporter les
 elfes, mais il y avait parfois des exceptions : ils étaient, pour
 beaucoup, des fanatiques de la mécanique, de l'horlogerie et, en
 général, de tout ce qui impliquait du métal, tandis que la jeune femme
-faisait partie de leur meilleurs clients. Enfin, d'une certaine façon : un 
+faisait partie de leurs meilleurs clients. Enfin, d'une certaine façon : un 
 certain nombre de gens venaient commander des mécanismes complexes ou
 des tas d'armes et offraient une petite fortune pour ça. L'elfe avait à
 peine de quoi se payer une chambre vétuste et dépensait donc peu, mais
