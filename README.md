@@ -6,10 +6,13 @@ Remarques
 
 Ceci est le dépôt Github contenant les *fichiers sources* d'un
 certain nombre de mes textes, au format
-*Markdown*. Si vous souhaitez simplement *lire* ces textes, le plus
-simple reste de consulter le site:
-[http://crowdagger.fr](http://crowdagger.fr) où ils sont disponibles
-aux formats HTML, EPUB et PDF, ou consulter les pages de présentations de ces textes (voire ci-dessous).
+*Markdown*. Si vous souhaitez simplement *lire* ces textes, vous pouvez :
+
+* consulter le site:
+[http://crowdagger.fr](http://crowdagger.fr) (où ils sont disponibles
+aux formats HTML, EPUB et PDF, et peuvent pour certains être commandés en version papier) ;
+* ou consulter les pages de présentations de ces textes (voire ci-dessous) ;
+* télécharger le [*Crowpack*](https://github.com/Crowdagger/textes/releases),  archives ZIP contenant l'intégralité de ces textes libres au format EPUB, PDF ou HTML (au choix). 
 
 Le but de ce dépôt est de fournir un accès aux sources de ces
 textes, afin de permettre aux gens qui souhaitent les modifier
