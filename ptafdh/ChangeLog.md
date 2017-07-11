@@ -1,9 +1,9 @@
 ChangeLog 
 =========
 
-unreleased
-------------
-* Correction orthographique.
+1.1.3 (7 juillet 2017)
+---------------------------
+* Corrections orthographiques.
 
 1.1.2 (28 mars 2017):
 --------------------------
