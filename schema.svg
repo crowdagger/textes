@@ -403,6 +403,66 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6173-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175-1-10"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6173-3-9-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175-1-10-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6173-3-9-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175-1-10-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6173-3-80"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175-1-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -412,8 +472,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="833.54061"
-     inkscape:cy="1074.4743"
+     inkscape:cx="1373.6702"
+     inkscape:cy="-113.51293"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -938,7 +998,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6173)"
-       d="m 1271.4286,1488.5297 193.7411,1.0102"
+       d="m 1534.2857,1298.5297 3.7411,109.5816"
        id="path6163"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1794,64 +1854,232 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <a
-       id="a4543"
+       id="a10211"
        xlink:href="http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29">
-      <rect
-         y="1160.4955"
-         x="1461.6"
-         height="142.18921"
-         width="308.44955"
-         id="rect3336-3-1-25-8-4"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.61500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g10202">
+        <a
+           id="a4543"
+           xlink:href="http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29"
+           transform="translate(341.42857,-17.142857)">
+          <rect
+             y="1160.4955"
+             x="1461.6"
+             height="142.18921"
+             width="308.44955"
+             id="rect3336-3-1-25-8-4"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.61500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </a>
+        <a
+           id="a4546"
+           xlink:href="http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29"
+           transform="translate(341.42857,-17.142857)">
+          <text
+             sodipodi:linespacing="125%"
+             id="text4146-5-2-86-6-9"
+             y="1217.076"
+             x="1604.4481"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="1217.076"
+               x="1604.4481"
+               id="tspan10176"
+               sodipodi:role="line">La chair &amp;</tspan><tspan
+               y="1267.076"
+               x="1604.4481"
+               id="tspan10178"
+               sodipodi:role="line">le sang</tspan></text>
+        </a>
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path7662-9-1-9"
+           sodipodi:sides="5"
+           sodipodi:cx="-183.84776"
+           sodipodi:cy="1121.0526"
+           sodipodi:r1="16.597479"
+           sodipodi:r2="44.858051"
+           sodipodi:arg1="0.94531129"
+           sodipodi:arg2="1.5736298"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -174.1301,1134.5078 -9.84477,31.4027 -9.66665,-31.4579 -32.90789,0.341 26.9311,-18.9146 -10.49342,-31.1919 26.311,19.7681 26.42259,-19.6187 -10.67001,31.132 26.82348,19.0668 z"
+           inkscape:transform-center-x="8.5817617"
+           inkscape:transform-center-y="-2.2248372"
+           transform="matrix(0.5658878,-0.45360991,0.45360991,0.5658878,1689.7127,429.71261)" />
+      </g>
     </a>
-    <a
-       id="a4546"
-       xlink:href="http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29">
-      <text
-         sodipodi:linespacing="125%"
-         id="text4146-5-2-86-6-9"
-         y="1217.076"
-         x="1604.4481"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="1217.076"
-           x="1604.4481"
-           id="tspan10176"
-           sodipodi:role="line">La chair &amp;</tspan><tspan
-           y="1267.076"
-           x="1604.4481"
-           id="tspan10178"
-           sodipodi:role="line">le sang</tspan></text>
-    </a>
-    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path7662-9-1-9"
-       sodipodi:sides="5"
-       sodipodi:cx="-183.84776"
-       sodipodi:cy="1121.0526"
-       sodipodi:r1="16.597479"
-       sodipodi:r2="44.858051"
-       sodipodi:arg1="0.94531129"
-       sodipodi:arg2="1.5736298"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m -174.1301,1134.5078 -9.84477,31.4027 -9.66665,-31.4579 -32.90789,0.341 26.9311,-18.9146 -10.49342,-31.1919 26.311,19.7681 26.42259,-19.6187 -10.67001,31.132 26.82348,19.0668 z"
-       inkscape:transform-center-x="8.5817617"
-       inkscape:transform-center-y="-2.2248372"
-       transform="matrix(0.5658878,-0.45360991,0.45360991,0.5658878,1348.2841,446.85547)" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6173-3)"
-       d="m 1274.2108,1484.9534 182.6294,-255.5686"
-       id="path6163-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6173-3-7)"
-       d="m 1771.9939,1231.9317 131.2009,203.0028"
+       d="m 1957.7082,1289.0746 2.6295,141.5742"
        id="path6163-4-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <a
+       id="a13011"
+       xlink:href="http://crowdagger.fr/index.php?post/2016/09/19/Hell-B%E2%98%A0tches-%3A-Une-histoire-pour-enfants">
+      <g
+         transform="translate(-17.142857,-38.571429)"
+         id="g4621">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.91975951;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3336-3-1-25-7-6-9-5"
+           width="282.1387"
+           height="116.48752"
+           x="1069.0295"
+           y="1180.9254" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1206.5656"
+           y="1234.5603"
+           id="text4146-5-2-86-2-9-7-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4617"
+             x="1206.5656"
+             y="1234.5603">Une histoire</tspan><tspan
+             sodipodi:role="line"
+             id="tspan4619"
+             x="1206.5656"
+             y="1284.5603">pour enfants</tspan></text>
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path7662-9-69-7-4-9-5"
+           sodipodi:sides="5"
+           sodipodi:cx="-183.84776"
+           sodipodi:cy="1121.0526"
+           sodipodi:r1="16.597479"
+           sodipodi:r2="44.858051"
+           sodipodi:arg1="0.94531129"
+           sodipodi:arg2="1.5736298"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -174.1301,1134.5078 -9.84477,31.4027 -9.66665,-31.4579 -32.90789,0.341 26.9311,-18.9146 -10.49342,-31.1919 26.311,19.7681 26.42259,-19.6187 -10.67001,31.132 26.82348,19.0668 z"
+           inkscape:transform-center-x="6.4129203"
+           inkscape:transform-center-y="-2.7455031"
+           transform="matrix(0.64746181,-0.32677846,0.32677846,0.64746181,950.71643,394.34637)" />
+      </g>
+    </a>
+    <a
+       id="a13033"
+       xlink:href="http://crowdagger.fr/index.php?post/2016/09/19/Hell-B%E2%98%A0tches-%3A-Dykes-VS-Bastards">
+      <g
+         id="g4634">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.95933652;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3336-3-1-25-7-6-9-5-0"
+           width="206.38484"
+           height="163.59081"
+           x="1433.3351"
+           y="1132.3739" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1537.994"
+           y="1177.4176"
+           id="text4146-5-2-86-2-9-7-8-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4628"
+             x="1537.994"
+             y="1177.4176">Dykes</tspan><tspan
+             sodipodi:role="line"
+             id="tspan4630"
+             x="1537.994"
+             y="1227.4176">VS</tspan><tspan
+             sodipodi:role="line"
+             id="tspan4632"
+             x="1537.994"
+             y="1277.4176">Bastards</tspan></text>
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path7662-9-69-7-4-9-5-1"
+           sodipodi:sides="5"
+           sodipodi:cx="-183.84776"
+           sodipodi:cy="1121.0526"
+           sodipodi:r1="16.597479"
+           sodipodi:r2="44.858051"
+           sodipodi:arg1="0.94531129"
+           sodipodi:arg2="1.5736298"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -174.1301,1134.5078 -9.84477,31.4027 -9.66665,-31.4579 -32.90789,0.341 26.9311,-18.9146 -10.49342,-31.1919 26.311,19.7681 26.42259,-19.6187 -10.67001,31.132 26.82348,19.0668 z"
+           inkscape:transform-center-x="9.2925047"
+           inkscape:transform-center-y="-0.85037171"
+           transform="matrix(0.52940698,-0.49570071,0.49570071,0.52940698,981.04669,456.52239)" />
+      </g>
+    </a>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6173-3-9)"
+       d="m 1040.3387,1383.7387 139.7722,-124.14"
+       id="path6163-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6173-3-9-0)"
+       d="m 1334.0582,1198.92 91.2008,1.5743"
+       id="path6163-4-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker6173-3-80)"
+       d="m 1640.6244,1206.5958 155.4866,3.0028"
+       id="path6163-4-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <a
+       xlink:href="http://crowdagger.fr/index.php?post/2016/09/19/Hell-B%E2%98%A0tches-%3A-Une-histoire-pour-enfants"
+       id="a13019">
+      <g
+         id="g13021"
+         transform="translate(-17.142857,-38.571429)">
+        <rect
+           y="1180.9254"
+           x="1069.0295"
+           height="116.48752"
+           width="282.1387"
+           id="rect13023"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.91975951;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text13025"
+           y="1234.5603"
+           x="1206.5656"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="1234.5603"
+             x="1206.5656"
+             id="tspan13027"
+             sodipodi:role="line">Une histoire</tspan><tspan
+             y="1284.5603"
+             x="1206.5656"
+             id="tspan13029"
+             sodipodi:role="line">pour enfants</tspan></text>
+        <path
+           transform="matrix(0.64746181,-0.32677846,0.32677846,0.64746181,950.71643,394.34637)"
+           inkscape:transform-center-y="-2.7455031"
+           inkscape:transform-center-x="6.4129203"
+           d="m -174.1301,1134.5078 -9.84477,31.4027 -9.66665,-31.4579 -32.90789,0.341 26.9311,-18.9146 -10.49342,-31.1919 26.311,19.7681 26.42259,-19.6187 -10.67001,31.132 26.82348,19.0668 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="1.5736298"
+           sodipodi:arg1="0.94531129"
+           sodipodi:r2="44.858051"
+           sodipodi:r1="16.597479"
+           sodipodi:cy="1121.0526"
+           sodipodi:cx="-183.84776"
+           sodipodi:sides="5"
+           id="path13031"
+           style="opacity:1;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+      </g>
+    </a>
   </g>
 </svg>
