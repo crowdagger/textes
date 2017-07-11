@@ -4,6 +4,8 @@ title: Bain de soleil
 version: 1.0.2
 license: CC BY-SA 4.0
 
+proofread.grammalecte: true
+
 output.epub: bain_de_soleil.epub
 output.html: bain_de_soleil.html
 output.pdf: bain_de_soleil.pdf
@@ -14,7 +16,7 @@ Bain de soleil
 ==============
 
 Il est aux alentours de six heures du soir, et Morgue prend un
-bain de soleil, allongée dans l'herbe. 
+bain de soleil, allongée dans l'herbe.
 
 Elle est blonde, plutôt grande, avec des cheveux courts. Elle porte un
 pantalon noir un peu gothique, avec une chaîne et un patch qui
