@@ -3,6 +3,9 @@ ChangeLog
 
 Tromperies sur la marchandise
 ------------------------------------
+### 1.0.1 (27 novembre 2017)
+* Correction d'une petite incohérence (sœur/amante) dûe à réécriture précédente (merci milouchkna)
+
 ### 1.0.0 (10 décembre 2016)
 * Passage au format Markdown et à Crowbook.
 * Changement de la façon de mettre en page les dialogues.

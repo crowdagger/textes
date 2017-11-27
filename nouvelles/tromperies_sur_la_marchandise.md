@@ -4,7 +4,7 @@ title: Tromperies sur la marchandise
 license: CC-BY-SA 4.0
 
 cover: couv/imposture.png
-version: 1.0.0
+version: 1.0.1
 
 output.pdf: tromperies_sur_la_marchandise.pdf
 output.epub: tromperies_sur_la_marchandise.epub
@@ -323,8 +323,8 @@ Vesper, elle, avait cela bien en tête.
 
 — Mon Dieu, qu'est-ce que tu as fait ? demanda-t-elle.
 
-— Dans le jargon, répondit Vénus en posant la main sur celle de son
-amante, on appelle ça jouer au con.
+— Dans le jargon, répondit Vénus en posant la main sur celle de sa
+sœur, on appelle ça jouer au con.
 
 
 ## *23h58*
