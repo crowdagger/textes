@@ -10,4 +10,5 @@ output.epub: creatures_de_reve.epub
 output.html: creatures_de_reve.html
 
 ! 02_creatures_de_reve.md
-- ../../About.md
+# - ../../About.md
+- about.md
