@@ -59,7 +59,7 @@ convaincu.
   qualifiées dans le domaine. Je peux ?
 
 Elle montrait sa cigarette d'un air interrogateur, puis l'a allumée en
-voyant que personne n'avait l'air se s'y opposer explicitement.
+voyant que personne n'avait l'air de s'y opposer explicitement.
 
 — Comme je l'ai expliqué à monsieur et madame Delese, a commencé
   le psychiatre, je pense que, si Laurent est persuadé d'être possédé

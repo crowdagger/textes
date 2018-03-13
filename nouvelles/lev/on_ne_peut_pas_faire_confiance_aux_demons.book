@@ -1,7 +1,7 @@
 import: ../../common.book
 title: On ne peut pas faire confiance aux démons
 license: CC BY-SA 4.0
-version: 1.1.0
+version: 1.1.1
 
 output.html: on_ne_peut_pas_faire_confiance_aux_demons.html
 output.pdf: on_ne_peut_pas_faire_confiance_aux_demons.pdf
