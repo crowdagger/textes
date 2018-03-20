@@ -65,6 +65,10 @@ Route de nuit
 Sortir du cercueil
 -------------------
 
+### 1.1.2 (20 mars 2018) ###
+* Ajout d'une couverture
+* Correction de quelques fautes
+
 ### 1.1.1 (20 septembre 2016) ###
 * Publication sous licence CC BY-SA 4.0
 

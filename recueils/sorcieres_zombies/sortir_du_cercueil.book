@@ -1,0 +1,13 @@
+import: ../../common.book
+title: Sortir du cercueil
+version: 1.1.2
+license: CC-BY-SA 4.0
+
+cover: couv/sortir_du_cercueil.png
+
+output: [pdf, epub, html, proofread.html]
+
+
+
+! 03_sortir_du_cercueil.md
+- ../../About.md

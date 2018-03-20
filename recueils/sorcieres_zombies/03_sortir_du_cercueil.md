@@ -1,14 +1,3 @@
----
-import: ../../common.book
-title: Sortir du cercueil
-version: 1.1.1
-license: CC-BY-SA 4.0
-
-output.pdf: sortir_du_cercueil.pdf
-output.epub: sortir_du_cercueil.epub
-output.html: sortir_du_cercueil.html
----
-
 Sortir du cercueil
 ==================
 
@@ -56,7 +45,7 @@ pour un fou et, comme Angèle ne se taisait pas pour autant, c'était une
 situation on ne peut plus frustrante.
 
 La diligence se mit enfin à ralentir, ce qui signifiait que le voyage
-touchait à sa fin. Il n'était pas encore arrivé car il ne s'agissait
+touchait à sa fin. Il n'était pas encore arrivé, car il ne s'agissait
 que d'un embranchement auquel le comte d'Ekul avait promis d'envoyer
 son cocher. William espérait qu'il tiendrait
 parole : le soleil 
@@ -440,7 +429,7 @@ tuerait.
 crois pas que c'est aussi en train de te tuer ? Tu appelles ça vivre,
 rester cloîtrée dans ce vieux château ?
 
-— J'irais où, de toutes façons ? demanda Carimall. Les
+— J'irais où, de toute façon ? demanda Carimall. Les
 gens du coin me détestent tous, maintenant. Je suis un monstre, pour
 eux.
 
@@ -537,7 +526,7 @@ monstre ?
 
 — Je m'en moque. Ce n'est pas ça qui...
 
-— Bordel de dieu d'artiste débile ! éructa soudainement le comte.
+— Bordel de Dieu d'artiste débile ! éructa soudainement le comte.
 
 William se retourna et réalisa qu'il se tenait derrière eux, protégé
 du soleil par le battant de la porte. 
@@ -724,7 +713,7 @@ les sourcils.
 
 — Oh, tu n'étais pas au courant, hein ? 
 
-— Peu importe. De toutes façons, je préfère mille fois les vampires
+— Peu importe. De toute façon, je préfère mille fois les vampires
 aux ordures de votre espèce.
 
 — Tu blasphèmes, misérable, alors qu'il te faudrait te repentir.
@@ -737,7 +726,7 @@ aux ordures de votre espèce.
 beaucoup trop hétérosexuel pour moi.
 
 Il se lança alors sur son adversaire et la lame lui transperça le
-cœur. Mais il continua à sourire et bascula par dessus le muret.
+cœur. Mais il continua à sourire et bascula par-dessus le muret.
 
 L'évêque réalisa trop tard que William voulait l'entraîner dans sa
 chute. Il parvint néanmoins à se rattraper de justesse à une fissure et
@@ -808,7 +797,7 @@ William écarquilla les yeux de surprise.
 — Quoi ? s'exclama-t-il. Tu veux dire qu'il y a des bébés vampires ?
 Je croyais que c'était, tu sais ? On ne naît pas vampire, on *meurt* vampire.
 
-— Pas tout le temps, répondit Carimall. Ce que te disais ce
+— Pas tout le temps, répondit Carimall. Ce que je te disais ce
  matin...
  
 Elle approcha son visage de celui du nouveau vampire.
@@ -882,7 +871,7 @@ montrer qu'elle pouvait aussi faire autrement.
 — Je dois te prévenir... Dans le vaste monde, il est possible que
 tout le monde ne t'accepte pas comme tu es.
 
-— Je sais. Grâce à l'évèque, je suis parée.
+— Je sais. Grâce à l'évêque, je suis parée.
 
 — Tu veux dire qu'il t'a fait comprendre ce que pouvait être
 l'intolérance ?
