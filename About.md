@@ -24,22 +24,25 @@ cette licence. Il est également demandé, mais pas requis, de :
 À propos de Lizzie Crowdagger 
 -----------------------------
 
-Pour avoir les dernières informations sur les parutions de Lizzie
-Crowdagger, vous pouvez :
+J’aime beaucoup la fantasy, la science-fiction, et toutes les histoires avec des aventures et des scènes d’action prenantes. Malheureusement, et même s’il y a eu du progrès ces dernières années, j’ai souvent un peu plus de mal à me projeter dans des histoires où les seuls intérêts pris en compte sont ceux des hommes, où les personnages sont toujours désespérément hétérosexuels, et où ils cherchent souvent plus à défendre la société établie qu’à exprimer leur révolte contre celle-ci.
+
+J’ai commencé à écrire pour créer les histoires que j’aurais bien aimé lire mais que je ne trouvais pas, ou trop peu. On y retrouve donc, en général, des choses comme des vampires, de la sorcellerie, des flingues et des explosions ; mais elles parlent aussi de féminisme, d’homosexualité, de transidentité, de lutte des classes, etc.
+
+Pour avoir les dernières informations sur mes parutions, vous pouvez :
 
 * consulter le site web [http://crowdagger.fr](http://crowdagger.fr) ;
-* la soutenir [sur Tipeee](https://www.tipeee.com/lizzie-crowdagger) à
-  partir d'un euro par mois et avoir un accès à des textes inédits ;
 * vous abonner à la
 [liste de diffusion](http://lists.crowdagger.fr/wws/info/crowdagger)
 (faible trafic, pas plus d'un e-mail par mois) ;
 * suivre le compte Twitter
-[@Crowdagger](https://twitter.com/Crowdagger).
+[@Crowdagger](https://twitter.com/Crowdagger) ;
+* me soutenir [sur Tipeee](https://www.tipeee.com/lizzie-crowdagger) à
+  partir d'un euro par mois et avoir un accès à des textes inédits.
 
 Autres livres de Lizzie Crowdagger 
 ----------------------------------
 
-* [*La chair & le sang*](http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29), série feuiletonnante de fantasy urbaine, en cours de publication en auto-édition.
+* [*La chair & le sang*](http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29), série de fantasy urbaine, publiée en auto-édition.
 * [*Enfants de Mars et de Vénus*](http://crowdagger.fr/index.php?post/2015/12/03/Enfants-de-Mars-et-de-V%C3%A9nus),
 polar fantastique, paru aux éditions [Dans nos histoires](http://dansnoshistoires.org).
 * [*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29), roman de
