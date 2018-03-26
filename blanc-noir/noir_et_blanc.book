@@ -8,7 +8,7 @@ description: "Un polar de fantasy urbaine avec des anges et des démons"
 
 cover: couv/blanc-noir.png
 
-rendering.chapter.template: "Chapitre {{{number}}} : {{{title}}}"
+rendering.chapter.template: "Chapitre {{{number}}} : {{{chapter_title}}}"
 
 output.epub: noir_et_blanc.epub
 output.pdf: noir_et_blanc.pdf
