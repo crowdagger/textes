@@ -1,0 +1,11 @@
+import: ../../common.book
+title: Révolution avec une vampire
+license: CC BY-SA 4.0
+version: "1.2.0"
+
+output.html: revolution_avec_une_vampire.html
+output.pdf: revolution_avec_une_vampire.pdf
+output.epub: revolution_avec_une_vampire.epub
+
+! revolution.md
+- ../../About.md

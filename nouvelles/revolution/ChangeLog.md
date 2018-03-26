@@ -1,6 +1,10 @@
 ChangeLog 
 =========
 
+Version 1.2.0 (26 mars 2018)
+----------------------------------
+* Léger changement du titre
+
 Version 1.1.1 (26 mai 2016)
 ----------------------------------
 * Corrections de faute par goofy-bz
