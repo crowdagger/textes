@@ -4,6 +4,7 @@ license: CC BY-SA 4.0
 version: "1.2.0"
 
 output: [html, epub, pdf, proofread.html]
+cover: cover/cover.png
 
 ! revolution.md
 - ../../About.md
