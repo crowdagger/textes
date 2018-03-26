@@ -1,5 +1,5 @@
-Révolution avec un vampire
-==========================
+Révolution avec une vampire
+=================================
 
 — Alors, vous voulez que je vous raconte l'histoire de ma vie ?
 
@@ -20,7 +20,7 @@ la tête. Elle connaît le journal, de nom.
   n'ait pas de courant avant un jour ou deux.
 
 John acquiesce. La seule chose qui l'ennuie, c'est l'absence de
-lumière dans l'appartement ; ainsi que l'absence de chauffage, 
+lumière dans l'appartement. Ça et l'absence de chauffage, 
 surtout que les vitres des deux fenêtres de la pièce ont été brisées.
 Sur un mur et au plafond, des impacts de balles donnent un indice sur
 la façon dont elles l'ont été.
@@ -219,7 +219,7 @@ pas beaucoup.
 — Je crois que personne n'en sait trop rien. La plupart du temps,
 les victimes de vampires meurent. Parfois, certains... sont des
 non-morts. On sait comment éviter ça — la décapitation ou le pieu
-dans le c\oe ur — mais c'est à peu près toute l'étendue de nos
+dans le cœur — mais c'est à peu près toute l'étendue de nos
 connaissances. Des miennes, en tout cas.
 
 — Et votre réveil ? Il a été comment ?
@@ -323,7 +323,7 @@ Dans l'idéal, si j'avais été un de ces vampires à l'agilité d'un chat,
 j'aurais sauté au-dessus de la rampe et me serais rétablie
 impeccablement quatre mètres plus bas. Là, j'avais plutôt l'agilité
 d'un chat à qui on aurait coupé les moustaches. J'ai essayé de passer
-par dessus mais j'ai foiré mon 
+par-dessus mais j'ai foiré mon 
 coup et les types ont commencé à me canarder.
 
 Le mauvais côté, c'est que ça a achevé de me démolir. Le
@@ -377,8 +377,8 @@ son point de vue. Elle a semblé s'en rendre compte.
   moment. Mais disons que t'as de la chance de m'être tombée
   dessus. Littéralement, en plus. Bouge pas, d'accord ?
 
-J'ai obéi. Je n'aurais rien pu faire d'autre, de toutes
-façons. L'essentiel de mes os avaient dû être brisés pendant la
+J'ai obéi. Je n'aurais rien pu faire d'autre, de toute
+façon. L'essentiel de mes os avaient dû être brisés pendant la
 chute et j'étais déjà à moitié morte avant. 
 
 Elle est revenue, une trousse à pharmacie à la main. Elle a sorti un
@@ -471,7 +471,7 @@ Soir, en fait. Et toi ? C'est quoi, ton nom ?
 — J'aime bien.
 
 Comme elle me dévisageait un peu, ce qui était un peu flippant à cause
-de son \oe il mort, j'ai cru qu'elle se demandait si j'étais une femme
+de son œil mort, j'ai cru qu'elle se demandait si j'étais une femme
 biologique ou pas, et je me suis sentie obligée de me justifier. Je
 n'aimais jamais ça, mais avec les clients, c'était nécessaire : si un
 de ces types payait pour me baiser et réalisait en baissant ma culotte
@@ -532,7 +532,7 @@ fascinant ; j'ai toujours été attirée par ces rangées de boutons et de
 voyants. Elle a poussé un levier et le train s'est ébranlé assez
 rapidement, dans un grondement métallique. Il avait une accélération
 impressionnante, ce qui s'expliquait sans doute par le
-nombre de wagons limité.
+nombre limité de wagons.
 
 Les autres hommes se sont assis à côté de moi. L'un d'eux a
 commencé à enlever sa cagoule, mais son compagnon a posé sa main sur
@@ -577,8 +577,7 @@ bruit avant, vu qu'il était régulier : c'était simplement le son du train qui
 roulait contre de vieux rails.
 
 Là, je n'entendais rien à l'extérieur. Les écrans n'affichaient que du bruit
-blanc. Le compteur de vitesse, quant à lui, était bloqué à 191,7 km/h
-précisément.
+blanc. Le compteur de vitesse, quant à lui, était bloqué à précisément 191,7 km/h.
 
 — Qu'est-ce que...
 
@@ -589,9 +588,11 @@ mise sur les épaules, avant de fermer un bouton devant.
   devant elle ?
 
 — Allez-y, a-t-elle répliqué en revenant du poste de
-pilotage. Derrière elle, à travers la vitre qui donnait sur
-l'extérieur, je ne voyais que du brouillard. — On va la tuer, de
-  toutes façons.
+pilotage. 
+
+Derrière elle, à travers la vitre qui donnait sur l'extérieur, je ne voyais que du brouillard. 
+
+— On va la tuer, de toute façon.
 
 L'espace d'une fraction de seconde, j'ai pris peur, mais j'ai vu son
 sourire et j'ai compris qu'elle plaisantait.
@@ -670,7 +671,7 @@ fait plus classe.
 
 — Je vais te montrer.
 
-Elle a ouvert. Comme à travers la vitre, je n'ai aperçu que du
+Elle a tiré la porté métallique coulissante, qui s'est ouverte dans un grincement. Comme à travers la vitre, je n'ai aperçu que du
 brouillard. Tout était blanc, comme si on était au milieu d'un
 nuage. On ne voyait même pas de sol, nulle part.
 
@@ -679,19 +680,19 @@ Elle a refermé et s'est tournée vers moi.
 — Il vaut mieux éviter de tomber. C'est un endroit... spécial. Si
   tu vois ce que je veux dire.
 
-Elle m'a fait un clin d'\oe il, et j'ai alors remarqué que, si elle
-avait toujours un \oe il complètement blanc, ce n'était plus le
+Elle m'a fait un clin d''œil, et j'ai alors remarqué que, si elle
+avait toujours un œil complètement blanc, ce n'était plus le
 même. Je lui ai fait la remarque et elle a hoché la tête. 
 
-— On est entre la vie et la mort, ici. J'ai un \oe il qui voit de
+— On est entre la vie et la mort, ici. J'ai un œil qui voit de
   ce côté
   et... le deuxième de l'autre. C'est pratique pour diriger le train,
   mais ça file de ces migraines...
 
 — Entre la vie et la mort ? Un peu comme... les vampires ?
 
-— Non, a-t-elle répondu en se mettant un bandeau sur l'\oe il qui
-était de l'autre côté. — Rien à voir. Les vampires restent dans le monde des
+— Non, a-t-elle répondu en se mettant un bandeau sur l'œil qui
+était de l'autre côté.  Rien à voir. Les vampires restent dans le monde des
 vivants. Là, c'est plus... les spectres, je pense. Je n'ai jamais
 trop mis les pieds dehors mais certaines choses... enfin, il vaut
 mieux que le train soit blindé.
@@ -708,7 +709,9 @@ bras.
 
 — Léna, a-t-elle dit, je te présente Schrödinger. 
 
-— Miaou, ai-je dit en tendant mes bras, oubliant encore une fois
+— Miaou, ai-je dit en tendant mes bras.
+
+J'oubliais encore une fois
 que je ne pouvais pas me servir de mes mains. Éléonore a posé le chat
 sur mes genoux.
 
@@ -738,7 +741,7 @@ qu'était la CS5I.
 *****
 
 — CS5I, m'a expliqué Éléonore pendant que je caressais le chat
-comme je le pouvais avec mes doigts engourdis, — ça veut dire Commission
+comme je le pouvais avec mes doigts engourdis, ça veut dire Commission
   Surnaturelle de la Cinquième Internationale. L'idée, c'est que la
   situation actuelle fait qu'il est impossible de défendre nos
   positions concernant les vampires en restant dans le cadre de la
@@ -799,12 +802,12 @@ J'ai hoché la tête.
   morte.
 
 Schrödinger est descendu de mes genoux et est reparti vers l'arrière
-du wagon. Éléonore a jeté un coup d'\oe il à mes jambes et a soupiré.
+du wagon. Éléonore a jeté un coup d'œil à mes jambes et a soupiré.
 
 — Entre le sang et les poils de chats...
 
 — Mais vous voulez quoi, vous ? ai-je repris,  ignorant sa
-parenthèse sur l'état de mes vêtements. — Comme véritable alternative ?
+parenthèse sur l'état de mes vêtements. Comme véritable alternative ?
 
 — Le socialisme, a-t-elle dit en souriant. *What else* ?
 
@@ -842,11 +845,7 @@ supérieures légèrement proéminentes.
 — Avec la paranoïa contre les vampires, on garde les monstres hors
 des villes. Mais finalement, une fois qu'on a construit un mur,
 pourquoi ne pas mettre de l'autre côté tous les gens qu'on ne peut pas
-cadrer ? Comme les putes et les travelos, par exemple ?
-
-— Hé ! ai-je protesté, parce que je n'aimais pas le terme.
-
-— Résultat, tu te retrouves obligée de vendre ton corps, vulnérable
+cadrer, hein ? Résultat, tu te retrouves obligée de vendre ton corps, vulnérable
 au premier connard venu. Et finalement tu te retrouves.... vampire. La
 boucle est bouclée.
 
@@ -904,14 +903,14 @@ chats qui s'étaient collés sur mes bas.
   trop, mais dans quelques  jours l'idée d'être devenue un vampire va
   te tourner dans la tête et tu ne sauras pas comment gérer ça. Il n'y
   a pas de remède miracle, mais ça peut donner des pistes pour
-  répondre à quelques unes de tes questions.
+  répondre à quelques-unes de tes questions.
 
 J'ai incliné la tête. Effectivement, une brochure ne serait pas de
 trop. À vrai dire, même un manuel en dix tomes, je n'aurais pas craché
 dessus.
 
 — Cela dit, a ajouté Éléonore, qui m'enlevait toujours un à un les
-  poils de chat, — j'ai l'impression que tu as déjà
+  poils de chat, j'ai l'impression que tu as déjà
     merveilleusement réussi une première transformation et qu'une
     seconde ne devrait pas te poser problème.
 
@@ -958,7 +957,7 @@ mais le journaliste a sa réponse.
 — Merci, en tout cas, dit-il. J'espère qu'on pourra se recroiser... 
 
 — Ça risque d'être... compliqué..., explique la jeune femme, l'air
-pensive, en enfilant son manteau. — Cela dit, vous pourriez m'accompagner.
+pensive, en enfilant son manteau. Cela dit, vous pourriez m'accompagner.
 
 — Je ne sais pas si ce serait très prudent...
 
@@ -1007,7 +1006,7 @@ Il s'assoit sur ce dernier et tape un numéro sur un émetteur, avant
 de décrocher le combiné. Le petit écran indique « connexion
   établie », puis « chiffrage en cours ».
 
-— Oui ? dit finalement l'homme. — Bonjour, monsieur. C'est John.
+— Oui ? dit finalement l'homme. Bonjour, Monsieur. C'est John.
 
 — ...
 
@@ -1049,7 +1048,7 @@ revenir à la normale, je vous crois.
 
 — ...
 
-— Oui, je vous envoie ça tout de suite. Au revoir, monsieur.
+— Oui, je vous envoie ça tout de suite. Au revoir, Monsieur.
 
 John raccroche le combiné et sourit. Les nouvelles sont plutôt
 bonnes, se dit-il en sortant le câble qui permet de relier le
@@ -1069,8 +1068,12 @@ semble en train de visser un silencieux sur un pistolet.
 — Qui... qui êtes vous ? Je vous en prie, ne me tuez pas !
 
 — Ce n'est pas à moi qu'il faut en vouloir, réplique la femme en le
-fixant dans les yeux. John remarque alors qu'une des orbites est
-complètement blanche et se met à paniquer. — C'est à cause d'elle
+fixant dans les yeux. 
+
+John remarque alors qu'une des orbites est
+complètement blanche et se met à paniquer. 
+
+— C'est à cause d'elle
   que tu en sais trop. 
 
 — Je vous en supplie... Pitié...

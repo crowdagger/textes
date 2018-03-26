@@ -3,7 +3,8 @@ ChangeLog
 
 Version 1.2.0 (26 mars 2018)
 ----------------------------------
-* Léger changement du titre
+* Léger changement du titre.
+* Relecture.
 
 Version 1.1.1 (26 mai 2016)
 ----------------------------------
