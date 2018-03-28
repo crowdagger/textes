@@ -40,12 +40,12 @@ Markdown, il est également possible (mais c'est moins joli) de lire
 les nouvelles en ligne sur Github.
 
 
-    * [Tromperies sur la marchandise](tromperies_sur_la_marchandise.md)
-	* [Le mauvais genre des anges](le_mauvais_genre_des_anges.md)
-	* [Rock'n Troll](rock_n_troll.md)
-	* [Pirate!](pirate.md)
-	* [Une leçon d'humanité](une_lecon_d_humanite.md)
-	* [On ne peut pas faire confiance aux démons](lev/exorcisme.md)
+* [Tromperies sur la marchandise](tromperies_sur_la_marchandise.md)
+* [Le mauvais genre des anges](le_mauvais_genre_des_anges.md)
+* [Rock'n Troll](rock_n_troll.md)
+* [Pirate!](pirate.md)
+* [Une leçon d'humanité](une_lecon_d_humanite.md)
+* [On ne peut pas faire confiance aux démons](lev/exorcisme.md)
 
 Licence 
 -------
