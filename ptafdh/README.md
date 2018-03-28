@@ -22,7 +22,7 @@ Ceci est le dépôt public du roman *Pas tout à fait des hommes*. Vous y
 trouverez les fichiers sources au format *Markdown*. Si vous voulez
 juste lire le roman, vous pouvez plus simplement :
 
-* [le télécharger gratuitement (enfin, à prix libre) sur le site crowdagger.fr](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes)
+* [télécharger le livre électronique gratuitement (enfin, à prix libre) sur le site crowdagger.fr](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes)
   (au format PDF, EPUB ou HTML)
 * [commander une version papier sur Amazon](https://www.amazon.fr/Pas-tout-fait-hommes/dp/1532928114/)
   (ou tenter de demander à votre librairie la plus proche de le commander)
