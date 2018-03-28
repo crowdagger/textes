@@ -1,0 +1,210 @@
+body {
+    font-family: "Linux Libertine", "Georgia", serif;
+    text-align: justify;
+    font-size: 100%;
+}
+
+p, #content p {
+    text-indent: 1.25em;
+    margin:0;
+    hyphens: auto;
+}
+
+#content p, .post-content p {
+    text-align: justify;
+}
+
+.post-content {
+    margin: auto;
+    max-width: 40em;
+}
+
+blockquote {
+    margin: 1em;
+    font-style: italic;
+}
+code {
+    font-size: 80%;
+    font-family: "Linux Libertine Mono", monospace;
+    background-color: #F0F0F0;
+}
+pre {
+    font-family: "Linux Libertine Mono", monospace;
+    margin: 1em;
+    padding-top: 0;
+    background-color: #F0F0F0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/* The "Chapter X" section of a chapter */
+span.chapter-header {
+    font-size: 75%;
+}
+
+.rule {
+    text-align: center !important;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+/* The number of the note in an expanded footnote (e.g. [3]) */
+.note-number {
+    font-weight: bold;
+    margin-right: 1em;
+}
+
+td.note-number {
+    vertical-align: top;
+}
+
+/* When footnotes (try to) be diplayed as margin notes */
+.sidenote {
+    display: block;
+    float: right;
+    width: 30%;
+    border: 1px solid black;
+    margin: 1em;
+    padding: .5em;
+    margin-right: -1.5em;
+}
+
+.sidenote .note-number {
+    float: left;
+}
+
+/* The div class displaying notes at the end of a chapter */
+div.notes {
+    text-align: justify;
+    border-top: thin dashed black;
+    margin-top: 1em;
+}
+
+table.notes {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+table.notes tr td {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+table.notes tr td p {
+    text-indent: 0;
+}
+                 
+/* Every markdown table is included in a <div class = "table"> */
+.table {
+    margin: 1em;
+}
+
+.table table {
+    width: 80%;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+.table table th, .table table td {
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+.table table th {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+{{#lang_fr}}
+/* Make list displays '–' instead of bullets */
+ul li {
+    list-style-type: '–';
+    padding-left: .5em;
+}
+{{/lang_fr}}
+
+span.initial { 
+    float: left;
+    font-size: 285%;
+    font-weight: bold;
+    margin-right: 0.05em;
+    line-height: 0.8em;
+}
+
+p.first-para {
+    text-indent: 0;
+}
+
+/* Use this for escape narrow space so it is non-breaking */
+.nnbsp {
+    /* white-space: nowrap;*/
+    word-spacing: -0.13em;
+    /* Following necessary for Kobo EPUB3 reader??? */
+    margin: 0;
+    padding: 0;
+}
+
+{{{additional_code}}}/* Default  HTML CSS file includes default EPUB CSS file */
+
+{{{colours}}}
+
+p.first-para:first-letter {
+    font-size: 300%;
+    float: left;
+    font-weight: bold;
+    margin-right: 0.05em;
+    line-height: 1em;
+}
+
+/* Used for multifiles HTML */
+.prev_chapter {
+    text-align: left;
+    text-indent: 0;
+    margin-bottom: 1em;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+.prev_chapter a {
+    font-size: 200%;
+    border: dashed #57004d;
+}
+
+.next_chapter {
+    text-align: right;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 120%;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+.next_chapter a {
+    font-size: 200%;
+    border: dashed #57004d;
+}
+
+
+#content h1 {
+    font-size: 40px;
+}
+
+#intro-toc ul li {
+    display: inline;
+    padding: 1em;
+}
+
+#intro-toc {
+    margin-top: 1.5em;
+}
+
+{{{additional_code}}}
