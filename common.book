@@ -12,23 +12,16 @@ tex.template.add: '
 \makeatother
 '
 
-# resources.base_path.files: fonts/
-# resources.files: .
-
-# epub.css: templates/epub.css
-
 tex.links_as_footnotes: false
 
+# Commenter pour ne plus avoir des fichiers HTML générés pour s'harmoniser (plus ou moins) avec mon site
+import: templates_website.book
+
 html.icon: img/crowdagger.svg
-html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version}}
- {{#has_license}} (licence : {{{license}}}){{/has_license}}
+html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version}} par {{{author}}}
+ {{#has_license}} (licence : {{{license}}}){{/has_license}}"
 
-
- Ce texte est diffusé à prix libre. Si vous l'avez
- apprécié, vous pouvez (si vous ne l'avez pas déjà fait) faire un don [via Paypal](http://crowdagger.fr/index.php?pages/Libre-ou-gratuit),
- ou [me soutenir sur Tipeee](https://www.tipeee.com/lizzie-crowdagger)."
-
-html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr) | [Blog](http://crowdagger.fr/blog) | [Dépôt Github](https://github.com/crowdagger/textes)"
+# html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr) | [Blog](http://crowdagger.fr/blog) | [Dépôt Github](https://github.com/crowdagger/textes)"
 
 proofread.languagetool: true
 proofread.grammalecte: true

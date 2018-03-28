@@ -1,0 +1,3 @@
+html.standalone.template: templates/template.html
+html.dir.template: templates/template_dir.html
+html.css: templates/style.css
