@@ -8,12 +8,12 @@ Avertissement
 
 Ceci est le dépôt public de ces nouvelles. Si vous souhaitez juste lire ces textes, il sera sans doute plus simple de lire [les livres électroniques sur mon site](http://crowdagger.fr) :
 
-    * [Tromperies sur la marchandise](http://crowdagger.fr/index.php?post/2016/12/11/Tromperies-sur-la-marchandise)
-	* [Le mauvais genre des anges](http://crowdagger.fr/index.php?post/2016/11/08/Le-mauvais-genre-des-anges)
-	* [Rock'n Troll](http://crowdagger.fr/index.php?post/2016/09/20/Rock-n-troll))
-	* [Pirate!](http://crowdagger.fr/blog/index.php?post/2016/04/23/Pirate-%21))
-	* [Une leçon d'humanité](http://crowdagger.fr/index.php?post/2013/02/17/Une-le%C3%A7on-d-humanit%C3%A9)
-	* [On ne peut pas faire confiance aux démons](http://crowdagger.fr/index.php?post/2012/01/19/On-ne-peut-pas-faire-confiance-aux-d%C3%A9mons)
+* [Tromperies sur la marchandise](http://crowdagger.fr/index.php?post/2016/12/11/Tromperies-sur-la-marchandise)
+* [Le mauvais genre des anges](http://crowdagger.fr/index.php?post/2016/11/08/Le-mauvais-genre-des-anges)
+* [Rock'n Troll](http://crowdagger.fr/index.php?post/2016/09/20/Rock-n-troll))
+* [Pirate!](http://crowdagger.fr/blog/index.php?post/2016/04/23/Pirate-%21))
+* [Une leçon d'humanité](http://crowdagger.fr/index.php?post/2013/02/17/Une-le%C3%A7on-d-humanit%C3%A9)
+* [On ne peut pas faire confiance aux démons](http://crowdagger.fr/index.php?post/2012/01/19/On-ne-peut-pas-faire-confiance-aux-d%C3%A9mons)
 
 Le but de ce *repository* est de fournir un accès aux sources du
 document, afin de permettre aux gens qui souhaitent les modifier
