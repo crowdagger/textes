@@ -1,5 +1,5 @@
-Textes de Lizzie Crowdagger 
-===========================
+Romans et nouvelles libres de Lizzie Crowdagger 
+=========================================================
 
 Remarques
 ---------
@@ -8,10 +8,10 @@ Ceci est le dépôt Github contenant les *fichiers sources* d'un
 certain nombre de mes textes, au format
 *Markdown*. Si vous souhaitez simplement *lire* ces textes, vous pouvez :
 
-* consulter le site:
+* consulter le site
 [http://crowdagger.fr](http://crowdagger.fr) (où ils sont disponibles
-aux formats HTML, EPUB et PDF, et peuvent pour certains être commandés en version papier) ;
-* ou consulter les pages de présentations de ces textes (voire ci-dessous) ;
+aux formats EPUB, PDF et HTML, et peuvent pour certains être commandés en version papier) ;
+* consulter les pages de présentations de ces textes (voire ci-dessous) ;
 * télécharger le [*Crowpack*](https://github.com/Crowdagger/textes/releases),  archives ZIP contenant l'intégralité de ces textes libres au format EPUB, PDF ou HTML (au choix). 
 
 Le but de ce dépôt est de fournir un accès aux sources de ces
@@ -29,7 +29,7 @@ Ce dépôt contient les textes suivants :
 
 * [*Pas tout à fait des hommes*](ptafdh/), roman de fantasy ([page de présentation](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes));
 * [*Noir & Blanc*](blanc-noir/), polar surnaturel ([page de présentation](http://crowdagger.fr/index.php?post/2010/11/30/Noir-Blanc));
-* [*L'énième prophétie*](enieme_prophetie/), roman de fantasy ;
+* [*L'énième prophétie*](enieme_prophetie/), roman de fantasy (en cours de changement de format) ;
 * le recueil de nouvelles
   [*Sorcières & Zombies*](recueils/sorcieres_zombies/) ([page de présentation](http://crowdagger.fr/index.php?post/2013/09/16/Sorci%C3%A8res-Zombies)), qui contient les
   textes suivant :
@@ -45,7 +45,7 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/
   * *Bain de soleil* ([page de présentation](http://crowdagger.fr/index.php?post/2011/12/22/Hell-B%E2%98%A0tches-%3A-Bain-de-soleil))
   * *Réagir sans violence* ([page de présentation](http://crowdagger.fr/index.php?post/2012/04/08/Hell-B%E2%98%A0tches-%3A-R%C3%A9agir-sans-violence))
 * d'autres [nouvelles](nouvelles/) situées dans des univers divers :
-  * [*Révolution avec un vampire*](nouvelles/revolution/), un mélange
+  * [*Révolution avec une vampire*](nouvelles/revolution/), un mélange
     de science-fiction/fantasy avec de la lutte des classes et des
     vampires et des thématiques trans ([page de présentation](http://crowdagger.fr/index.php?post/2011/01/01/R%C3%A9volution-avec-un-vampire))
   * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/), de
