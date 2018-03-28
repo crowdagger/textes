@@ -42,9 +42,9 @@ Pour avoir les dernières informations sur mes parutions, vous pouvez :
 Autres livres de Lizzie Crowdagger 
 ----------------------------------
 
-* [*La chair & le sang*](http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29), série de fantasy urbaine, publiée en auto-édition.
+* [*La chair & le sang*](http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29), série de romance paranormale lesbienne, publiée en auto-édition.
 * [*Enfants de Mars et de Vénus*](http://crowdagger.fr/index.php?post/2015/12/03/Enfants-de-Mars-et-de-V%C3%A9nus),
-polar fantastique, paru aux éditions [Dans nos histoires](http://dansnoshistoires.org).
+polar fantastique lesbien, paru aux éditions [Dans nos histoires](http://dansnoshistoires.org).
 * [*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29), roman de
 fantasy urbaine / bitlit paru aux éditions [Dans nos histoires](http://dansnoshistoires.org).
 * [*Pas tout à fait des hommes*](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes),
