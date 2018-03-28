@@ -98,7 +98,7 @@ vous ne respectez pas ces demandes, c'est un peu comme si vous tuiez
 des petits chatons adorables. Ne le faites pas.
 
 Contribuer 
-==========
+------------
 
 Maintenant que ces textes sont sous licence libre et sur un dépôt
 Github, cela veut dire que vous pouvez contribuer plus
@@ -124,7 +124,7 @@ conseillerais plutôt de commencer par un texte un peu court.
 
 
 Soutenir
-==========
+---------
 
 Si vous appréciez que ces textes de fiction soient publiés sous licence libre, vous pouvez me soutenir en faisant un [don sur Paypal](https://www.paypal.me/crowdagger) ou en vous [abonnant sur Tipeee](https://www.tipeee.com/lizzie-crowdagger).
 
