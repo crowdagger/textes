@@ -46,7 +46,7 @@ Licence
 *Sorcières & Zombies* est diffusé sous la licence *Creative
  Commons Attribution-ShareAlike 4.0 International*. Pour plus
  d'information sur les conditions, voir le fichier
- [À propos](about.md), ou la [licence complète](../Licence.md).
+ [À propos](../../About.md), ou la [licence complète](../../Licence.md).
 
 ChangeLog
 ---------
