@@ -1,0 +1,124 @@
+author: Lizzie Crowdagger
+lang: fr
+title: Fraiche et dispo
+version: 1.0.0
+
+html.css.colours: colours.css
+output.html.if: fraiche_et_dispo.html
+
+html.if.new_game: engine.js
+
+html.if.new_turn: "all_segments.push(getNumber());
+document.location.hash = '#!';"
+
+html.if.end_turn: "return display();"
+
+html.css.add: "#statut {
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+#statut table {
+    background-color: #b571af;
+    margin: auto;
+    padding: 0;
+    //width: 60%;
+    border-style: solid;
+    border-color: white;
+    border-collapse: collapse;
+}
+
+#statut table th, #statut table td {
+    border-left-style: solid;
+    border-right-style: solid;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+#statut table td {
+    font-weight: bold;
+    font-size: 150%;
+}
+
+#statut table td img {
+    //border: solid;
+}
+
+#statut table th {
+    
+}
+
+progress {
+    width: 3em;
+    background-color: #eee;
+    color: green;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset; 
+}
+
+progress::-moz-progress-bar {
+    background: green;
+}
+
+progress::-webkit-progress-value {
+    background: green;
+}
+"
+
+
+! debut.md
+! lev.md
+! telephone.md
+! alys.md
+! lit.md
+! home.md
+! dehors.md
+! rangers.md
+! cuisine.md
+! sdb.md
+! sdb2.md
+! cuisine_2.md
+! mal_aux_pieds.md
+! metro.md
+! continuer.md
+! nuit.md
+! personne.md
+! ignorer.md
+! tatane.md
+! fuite.md
+! fight_1_1.md
+! fight_1_2.md
+! cracher.md
+! game_over.md
+! poches.md
+! voiture.md
+! escaliers.md
+! ascenseur.md
+! batte.md
+! pas_mon_probleme.md
+! explosion_haut.md
+! remonter.md
+! bombe.md
+! ouverture.md
+! couper.md
+! merde.md
+! ok.md
+! wtf.md
+! doute.md
+! attaquer.md
+! fight2.md
+! approcher.md
+! brutale.md
+! brutale_onirique.md
+! fin_onirique.md
+! reveiller.md
+! oh.md
+! oh2.md
+! onirique.md
+! applaudir.md
+! baston_lucifer.md
+! baston_lucifer2.md
+! onirique_brutale.md
+! lucifer.md
+! reveiller_bis.md
