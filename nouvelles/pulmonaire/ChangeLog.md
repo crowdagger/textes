@@ -1,6 +1,10 @@
 ChangeLog 
 =========
 
+Version 1.0.2 (24 décembre 2018)
+----------------------------------------
+* Petites corrections en la lisant à voix haute.
+
 Version 1.0.1 (19 septembre 2016) 
 ---------------------------------
 * Passage au format Markdown

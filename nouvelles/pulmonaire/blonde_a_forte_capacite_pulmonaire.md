@@ -317,7 +317,7 @@ de l’enquêtrice.
 
 Nelly était effectivement en train de sucer un petit os. Kalia le lui a
 arraché des mains. Toute personne autre qu’elle aurait alors
-immédiatement perdu au moins deux phalanges ; pourtant la zombie lâcha
+immédiatement perdu au moins deux phalanges ; pourtant la zombie a lâché
 ce qu’elle tenait, se contentant d’une grimace boudeuse.
 
 « Voyons voir, qu’est-ce que ça... »
@@ -377,7 +377,7 @@ Elle se trompait.
 Kalia est maintenant au fond de l’eau depuis plus de trois minutes et,
 même si elle a une forte capacité pulmonaire, l’air commence à lui
 manquer sérieusement. Elle a invoqué la plupart des dieux qu’elle
-connaissait, mais on dirait que son sort ne les intéresse pas vraiment.
+connaît, mais on dirait que son sort ne les intéresse pas vraiment.
 
 Elle profite de ses derniers instants pour essayer de comprendre
 l’élément qu’il lui manque toujours : pourquoi Antoine Delacour, s’il

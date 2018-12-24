@@ -3,7 +3,7 @@
 import: ../common.book
 title: Dykes VS Bastards
 license: CC BY-SA 4.0
-version: 1.1.0
+version: 1.1.1
 
 cover: couv/dykes_vs_bastards.png
 
@@ -98,7 +98,7 @@ broncha pas lorsque le policier lui arracha le bandana.
 
 Celui-ci dévisagea la jeune femme, et
 eut un air lubrique en regardant sa jupe courte et ses chaussures
-talons. 
+à talons. 
 Évidemment, songea Cassandra. La plupart des hommes sont des porcs,
 mais les policiers encore plus que les autres.
 
@@ -597,7 +597,7 @@ Il y eut une détonation qui provenait de derrière Cassandra et le
 policier hurla, la main transpercée par un clou. Son pistolet tomba au
 sol, et la hache de Morgue se planta dans son crâne.
 
-Cassandra se retourna pour voir qui avait tiré et eu la suprise de
+Cassandra se retourna pour voir qui avait tiré et eut la suprise de
 voir que c'était son amie Sigkill.
 
 — Je croyais que tu détestais la violence ? lui demanda-t-elle.
@@ -663,7 +663,7 @@ sur elle, elle avait dû trouver un plan en quatrième vitesse.
 Elle avait eu cette idée de se fournir dans un magasin de bricolage en
 modifiant son apparence pour qu'on ne puisse pas les identifier. Les
 policiers chercheraient un homme, ou un groupe d'hommes. Leur petit
-groupe de lesbiennes ne seraient donc pas inquiétées. Elle avait
+groupe de lesbiennes ne serait donc pas inquiété. Elle avait
 craint à un moment que les policiers aient eu le temps de communiquer
 l'identité de Cassandra, mais heureusement ils avaient préféré faire des blagues
 misogynes et transphobes. 
