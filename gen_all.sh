@@ -13,7 +13,7 @@ cd recueils/sorcieres_zombies/
 crowbook sorcieres_zombies.book
 crowbook route_de_nuit.book
 crowbook creatures_de_reve.book
-crowbook -s 03_sortir_du_cercueil.md
+crowbook sortir_du_cercueil.book
 crowbook -s 04_mine_deterres.md
 cd ../../
 
