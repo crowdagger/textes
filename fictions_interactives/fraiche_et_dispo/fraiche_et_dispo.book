@@ -2,6 +2,7 @@ author: Lizzie Crowdagger
 lang: fr
 title: Fraiche et dispo
 version: 1.0.0
+license: CC-By-SA
 
 html.css.colours: colours.css
 output.html.if: fraiche_et_dispo.html
