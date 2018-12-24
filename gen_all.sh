@@ -53,7 +53,10 @@ crowbook from_rust_till_dawn/rust_till_dawn.book
 echo
 echo "Création du zip avec les fichiers HTML"
 rm -f all_html.zip
-zip -j all_html.zip README Licence.md ChangeLog.md blanc-noir/noir_et_blanc.html hell_butches/bain_de_soleil.html hell_butches/dykes_vs_bastards.html hell_butches/reagir_sans_violence.html hell_butches/une_histoire_pour_enfants.html nouvelles/le_mauvais_genre_des_anges.html nouvelles/lev/on_ne_peut_pas_faire_confiance_aux_demons.html nouvelles/pirate.html nouvelles/pulmonaire/blonde_a_forte_capacite_pulmonaire.html nouvelles/revolution/revolution_avec_une_vampire.html nouvelles/rock_n_troll.html nouvelles/tromperies_sur_la_marchandise.html nouvelles/une_lecon_d_humanite.html ptafdh/pas_tout_a_fait_des_hommes.html recueils/sorcieres_zombies/creatures_de_reve.html recueils/sorcieres_zombies/mine_de_deterres.html recueils/sorcieres_zombies/route_de_nuit.html recueils/sorcieres_zombies/sorcieres_zombies.html recueils/sorcieres_zombies/sortir_du_cercueil.html fictions_interactives/fraiche_et_dispo/fraiche_et_dispo.html fictions_interactives/fraiche_et_dispo/pics/
+zip -j all_html.zip README Licence.md ChangeLog.md blanc-noir/noir_et_blanc.html hell_butches/bain_de_soleil.html hell_butches/dykes_vs_bastards.html hell_butches/reagir_sans_violence.html hell_butches/une_histoire_pour_enfants.html nouvelles/le_mauvais_genre_des_anges.html nouvelles/lev/on_ne_peut_pas_faire_confiance_aux_demons.html nouvelles/pirate.html nouvelles/pulmonaire/blonde_a_forte_capacite_pulmonaire.html nouvelles/revolution/revolution_avec_une_vampire.html nouvelles/rock_n_troll.html nouvelles/tromperies_sur_la_marchandise.html nouvelles/une_lecon_d_humanite.html ptafdh/pas_tout_a_fait_des_hommes.html recueils/sorcieres_zombies/creatures_de_reve.html recueils/sorcieres_zombies/mine_de_deterres.html recueils/sorcieres_zombies/route_de_nuit.html recueils/sorcieres_zombies/sorcieres_zombies.html recueils/sorcieres_zombies/sortir_du_cercueil.html fictions_interactives/fraiche_et_dispo/fraiche_et_dispo.html
+cd fictions_interactives/fraiche_et_dispo
+zip -r ../../all_html.zip pics
+cd ../..
 
 echo
 echo "Création du zip avec les fichiers EPUB"
