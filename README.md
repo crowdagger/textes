@@ -58,6 +58,7 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/
   * *Pirate !*, une courte nouvelle anti-DRM ([page de présentation](http://crowdagger.fr/blog/index.php?post/2016/04/23/Pirate-%21))
   * *Tromperies sur la marchandise*, une nouvelle de fantasy urbaine ([page de présentation](http://crowdagger.fr/index.php?post/2016/12/11/Tromperies-sur-la-marchandise))
   * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy ([page de présentation](http://crowdagger.fr/index.php?post/2016/11/08/Le-mauvais-genre-des-anges)
+* une fiction interactive, [*Fraiche et dispo*](fictions_interactives/fraiche_et_dispo/) ([page de présentation](https://crowdagger.fr/index.php?post/Fraiche-et-dispo))
 
 Générer les formats de sortie
 -----------------------------
