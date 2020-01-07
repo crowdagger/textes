@@ -24,15 +24,28 @@ cette licence. Il est également demandé, mais pas requis, de :
 À propos de Lizzie Crowdagger 
 -----------------------------
 
-J’aime beaucoup la fantasy, la science-fiction, et toutes les histoires avec des aventures et des scènes d’action prenantes. Malheureusement, et même s’il y a eu du progrès ces dernières années, j’ai souvent un peu plus de mal à me projeter dans des histoires où les seuls intérêts pris en compte sont ceux des hommes, où les personnages sont toujours désespérément hétérosexuels, et où ils cherchent souvent plus à défendre la société établie qu’à exprimer leur révolte contre celle-ci.
+Lizzie Crowdagger a commencé une carrière d'astronaute, mais
+une mauvaise vision, une condition physique médiocre et une certaine
+paresse ont fini par la faire renoncer à cette voie vers le CE1. Elle
+a, plus tard, tenté de devenir pilote de course, mais a dû rapidement
+admettre qu'elle conduisait comme un pied et s'est réorientée pour
+devenir une bikeuse vampirique. N'ayant pas de moto et ne possédant
+que des canines d'une taille tout à fait quelconque, elle s'est une
+nouvelle fois résignée à abandonner pour se consacrer à ce qu'elle
+savait le mieux faire : s'imaginer des vies qu'elle ne vivrait
+jamais. 
 
-J’ai commencé à écrire pour créer les histoires que j’aurais bien aimé lire mais que je ne trouvais pas, ou trop peu. On y retrouve donc, en général, des choses comme des vampires, de la sorcellerie, des flingues et des explosions ; mais elles parlent aussi de féminisme, d’homosexualité, de transidentité, de lutte des classes, etc.
+Lizzie Crowdagger écrit essentiellement de la fantasy et de la
+science-fiction. Ses histoires abordent des thématiques sérieuses,
+comme les vampires, la sorcellerie, les armes à feu et les explosions,
+mais parlent également de choses plus légères, comme le féminisme,
+l'homosexualité, la transidentité, la lutte des classes, etc.
 
-Pour avoir les dernières informations sur mes parutions, vous pouvez :
+Pour avoir les dernières informations sur ses parutions, vous pouvez :
 
-* consulter le site web [http://crowdagger.fr](http://crowdagger.fr) ;
+* consulter le site web [https://crowdagger.fr](https://crowdagger.fr) ;
 * vous abonner à la
-[liste de diffusion](http://lists.crowdagger.fr/wws/info/crowdagger)
+[liste de diffusion](http://lists.crowdagger.fr/wws/info/infos)
 (faible trafic, pas plus d'un e-mail par mois) ;
 * suivre le compte Twitter
 [@Crowdagger](https://twitter.com/Crowdagger) ;
@@ -42,13 +55,15 @@ Pour avoir les dernières informations sur mes parutions, vous pouvez :
 Autres livres de Lizzie Crowdagger 
 ----------------------------------
 
-* [*La chair & le sang*](http://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29), série de romance paranormale lesbienne, publiée en auto-édition.
-* [*Enfants de Mars et de Vénus*](http://crowdagger.fr/index.php?post/2015/12/03/Enfants-de-Mars-et-de-V%C3%A9nus),
-polar fantastique lesbien, paru aux éditions [Dans nos histoires](http://dansnoshistoires.org).
-* [*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29), roman de
-fantasy urbaine / bitlit paru aux éditions [Dans nos histoires](http://dansnoshistoires.org).
-* [*Pas tout à fait des hommes*](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes),
+* [*Punk is undead*](https://crowdagger.fr/index.php?post/2016/12/16/La-chair-le-sang-%28COMING-SOON%29), romance paranormale lesbienne, publiée en auto-édition.
+* [*Enfants de Mars et de Vénus*](https://crowdagger.fr/index.php?post/2015/12/03/Enfants-de-Mars-et-de-V%C3%A9nus),
+polar fantastique lesbien, paru aux éditions [Dans nos histoires](https://dansnoshistoires.org).
+* [*Une autobiographie transsexuelle (avec des vampires)*](https://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29), roman de
+fantasy urbaine / bitlit paru aux éditions [Dans nos histoires](https://dansnoshistoires.org).
+* [*Pas tout à fait des hommes*](https://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes),
 roman de fantasy publié en
 auto-édition.
 
-Pour une liste plus exhaustive et mise à jour, consultez le site [http://crowdagger.fr](http://crowdagger.fr).
+Pour une liste plus exhaustive et mise à jour, consultez le site [https://crowdagger.fr](https://crowdagger.fr).
+
+

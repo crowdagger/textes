@@ -8,7 +8,7 @@ version: 1.1.2
 # html.escape_nb_spaces: false
 
 # Décommenter pour mettre une couverture
-# (La couverture utilisée n'est pas libre de droits)
+# (La couverture que j'utilise actuellement n'est pas libre de droits et n'est donc pas dans le dépot Github)
 # cover: couv/cover.png
 
 proofread.grammalecte: true
@@ -16,14 +16,9 @@ proofread.grammalecte: true
 rendering.chapter.template: "Chapitre {{{number}}}"
 rendering.initials: false
 
-output.epub: pas_tout_a_fait_des_hommes.epub 
-output.html: pas_tout_a_fait_des_hommes.html
-output.pdf: pas_tout_a_fait_des_hommes.pdf
-output.odt: pas_tout_a_fait_des_hommes.odt
+output: [epub, html, pdf, odt, proofread.html, proofread.pdf]
 output.html.dir: html
-output.proofread.html: pas_tout_a_fait_des_hommes.proof.html
 output.proofread.html.dir: proof_html
-output.proofread.pdf: pas_tout_a_fait_des_hommes.proof.pdf
 
 + chapitre_01.md
 + chapitre_02.md
@@ -40,4 +35,5 @@ output.proofread.pdf: pas_tout_a_fait_des_hommes.proof.pdf
 + chapitre_13.md
 + chapitre_14.md
 + chapitre_15.md
+- merci.md
 - ../About.md
