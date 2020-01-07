@@ -15,4 +15,4 @@ output.html: index.html
 
 > Par ailleurs, la fonctionnalité « page précédente » ne fonctionne pas, parce que ce serait de la triche.
 
-[OUI, BON, MOI JE VEUX JOUER](e2m4.html)
+[OUI, BON, MOI JE VEUX JOUER](fraiche_et_dispo.html)
