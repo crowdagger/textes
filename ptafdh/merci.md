@@ -1,4 +1,4 @@
-Merci !
+Merci pour votre lecture !
 =========
 
 Merci d'avoir lu *Pas tout à fait des hommes*. J'espère que ce roman vous aura permis de passer
