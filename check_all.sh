@@ -20,6 +20,7 @@ cd ../../
 echo
 echo "Nouvelles..."
 cd nouvelles
+epubcheck celsius.epub
 epubcheck pirate.epub
 epubcheck rock_n_troll.epub
 epubcheck une_lecon_d_humanite.epub
