@@ -48,11 +48,11 @@ Laërith haussa les épaules.
 — Mais c'est sûrement Anaïs qui l'a emporté... Pour l'enterrer, sans
 doute.
 
-— Anaïs est une *vampire », Armand. Alors, je doute que Mikaël
+— Anaïs est une *vampire*, Armand. Alors, je doute que Mikaël
 ait juste été... enterré.
 
 — Non ! Ce n'est pas possible ! Il aurait préféré... mourir que de
-devenir l'un des leurs...*
+devenir l'un des leurs... »
 
 Elle soupira.
 
@@ -196,11 +196,11 @@ grille. Il y eut un petit cliquetis alors qu'elle s'ouvrait.
 
 Lucie parut sceptique.
 
-« Je suis à peu près certaine que si *je » lui demandais de
+« Je suis à peu près certaine que si *je* lui demandais de
 s'ouvrir, ça ne marcherait pas.
 
 — C'est tout un art. Il faut la caresser de façon assez sensuelle
-pour qu'elle soit sous le charme, d'abord.*
+pour qu'elle soit sous le charme, d'abord. »
 
 Lucie sortit de la cellule.
 
@@ -506,7 +506,7 @@ Puis Laërith retira le couteau, et le laissa tomber au sol.
 
 — Tu ne devrais pas le tuer, fit Lucie.
 
-— Pourquoi ? hurla Laërith. *Lui » a bien essayé de me tuer !*
+— Pourquoi ? hurla Laërith. *Lui* a bien essayé de me tuer ! »
 
 Elle s'approcha de Loïc, qui ne bougeait pas.
 

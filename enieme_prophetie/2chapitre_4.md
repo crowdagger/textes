@@ -139,7 +139,7 @@ Le prince tenta de lui donner un coup de dague, mais Anaïs lui attrapa
 la main.
 
 « Vous, lui murmura-t-elle à l'oreille, il se pourrait que ça soit
-vos *minutes » qui soient comptées.*
+vos *minutes* qui soient comptées. »
 
 Le prince déglutit.
 

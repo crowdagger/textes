@@ -9,11 +9,11 @@ y avoir dans une ville standard de la fin du vingtième siècle.
 « Tu sais où est-ce qu'on est ? » demanda Laërith au chat, qui était en
 train de se lécher la queue.
 
-« *Aucune idée. Comment je le saurais ? »
+« *Aucune idée. Comment je le saurais ?*
 
 — C'est toi qui connais tout, non ?
 
-— *Pas ici, en tout cas.**
+— *Pas ici, en tout cas.* »
 
 Laërith hocha la tête.
 
@@ -28,14 +28,14 @@ Elle s'arrêta.
 « Quoi ?
 
 — *Heu... Eh bien, pour commencer, tu es, comme qui dirait,
-nue. »*
+nue.* »
 
 Elle baissa la tête.
 
 « Merde. Pourquoi ça fait toujours ça quand on réapparaît ?
 
-— *À vrai dire, dans *mon » cas, ça me paraissait plutôt
-naturel...* *
+— *À vrai dire, dans *mon* cas, ça me paraissait plutôt
+naturel...* »
 
 Elle sourit.
 
@@ -43,18 +43,18 @@ Elle sourit.
 
 — *Mauvaise langue. Je pense que ça vient de l'apparence
 physique que ton esprit dégage, plus ou moins
-inconsciemment. Champ morphique, ça s'appelle. »
+inconsciemment. Champ morphique, ça s'appelle.*
 
 — Si tu le dis. Ça ne me dit pas comment je vais trouver de quoi
 m'habiller.
 
-— *Si. Tu n'as qu'à te visualiser habillée, je suppose.**
+— *Si. Tu n'as qu'à te visualiser habillée, je suppose.* »
 
 Elle soupira.
 
 « Comme pour ne plus avoir les ailes ?
 
-— *Exactement. »*
+— *Exactement.* »
 
 Subitement, des vêtements apparurent sur la jeune fille : une jupe, un
 haut, un manteau et des baskets. Le tout était noir.
@@ -65,7 +65,7 @@ Elle sourit.
 technique.
 
 — *Ne te réjouis pas trop vite. Déjà, je doute que ça marche
-sur ton monde. Ensuite, ça risque de ne pas durer éternellement. »
+sur ton monde. Ensuite, ça risque de ne pas durer éternellement.*
 
 — Qu'est-ce que tu veux dire ?
 
@@ -77,13 +77,13 @@ risquent de disparaître.*
 déshabiller.
 
 — *Peut-être, mais tu devrais quand même penser à acheter des
-vêtements un peu plus... réels.**
+vêtements un peu plus... réels.* »
 
 Elle hocha la tête.
 
 « En attendant, on y va ?
 
-— *Il a l'air d'y avoir beaucoup de bruit et de monde... »
+— *Il a l'air d'y avoir beaucoup de bruit et de monde...*
 
 — Ça te fait peur ? rétorqua-t-elle en souriant.
 
@@ -93,7 +93,7 @@ Elle hocha la tête.
 
 — *D'accord, d'accord*, répondit le chat en lui emboîtant le
 pas. *Essaie juste de faire en sorte que je ne finisse pas
-écrasé par un type qui n'aura pas regardé où il marchait.**
+écrasé par un type qui n'aura pas regardé où il marchait.* »
 
 
 ******
@@ -112,7 +112,7 @@ avait moins de monde. Le chat la suivit.
 « Ça va ? lui demanda-t-elle. Tu ne t'es pas trop pris trop de coups
 de pied ?
 
-— *Tu rigolerais moins si tu avais ma taille. »*
+— *Tu rigolerais moins si tu avais ma taille.* »
 
 Elle sourit.
 
@@ -123,16 +123,16 @@ Le chat ne répondit pas.
 « C'est marrant, reprit-elle. Ça a l'air de vachement ressembler à
 la Terre. Il y a une chance qu'on soit tombés dessus ?
 
-— *Aucune », répondit le chat. *Si on était sur Terre, tu
+— *Aucune*, répondit le chat. *Si on était sur Terre, tu
 n'aurais pas pu faire apparaître tes vêtements comme ça. Et moi,
-je ne penserais plus comme ça. Enfin, j'espère.**
+je ne penserais plus comme ça. Enfin, j'espère.* »
 
 Elle soupira.
 
 « Dommage. Pourquoi ils parlent anglais, ici, alors qu'ils parlaient
 un espèce de français sur l'autre monde ?
 
-— *Tu n'en as pas marre, de poser des questions stupides ? »*
+— *Tu n'en as pas marre, de poser des questions stupides ?* »
 
 Elle sourit.
 
@@ -144,7 +144,7 @@ silencieusement. Ils débouchèrent sur une avenue. Si les bâtiments
 avait là un grand nombre de voitures, circulant relativement vite. Il y
 avait aussi une grande proportion de motos.
 
-« *Qu'est-ce qu'on fait ? » demanda le chat. *Je n'ai aucune
+« *Qu'est-ce qu'on fait ?* demanda le chat. *Je n'ai aucune
 envie d'aller près de tous ces engins.*
 
 — J'irais bien prendre quelque chose à manger. Tu n'as pas faim ?
@@ -154,7 +154,7 @@ envie d'aller près de tous ces engins.*
 — C'est le genre de détails qui s'arrangent. Je reviens tout de
 suite. Tu m'attends là ?
 
-— *Comme si j'allais aller faire du shopping...**
+— *Comme si j'allais aller faire du shopping...* »
 
 
 ******
@@ -190,7 +190,7 @@ tout ce que tu veux.
 
 — *Oh. C'est du vol, quoi ?*
 
-— Je suppose que oui.*
+— Je suppose que oui. »
 
 
 ******
@@ -198,7 +198,7 @@ Une fois leur repas terminé, Laërith et le chat décidèrent de ce
 qu'ils allaient faire.
 
 « *Je te préviens, je n'ai aucune envie de me balader dans cette
-ville bruyante et puante. »*
+ville bruyante et puante.* »
 
 Elle sourit.
 
@@ -206,19 +206,19 @@ Elle sourit.
 croyais qu'il fallait essayer de trouver un portail vers Erekh ?
 
 — *Et tu me vois me balader en posant des questions à tout le
-monde ? »
+monde ?*
 
 — Non. Mais moi, j'ai envie de le faire. Il faut qu'on se fixe un
 point de rendez-vous.
 
-— *L'endroit où on a débarqué ? Ça m'avait l'air calme.*>
+— *L'endroit où on a débarqué ? Ça m'avait l'air calme.* »
 
 Laërith acquiesça de la tête, et se dirigea vers l'avenue.
 
 « OK. À tout à l'heure.
 
 — *C'est ça. Et n'oublie pas que tu vas te renseigner, pas
-faire les boutiques. »*
+faire les boutiques.* »
 
 
 ******
@@ -373,11 +373,11 @@ Elle commença à s'éloigner. Il sourit.
 Elle s'arrêta.
 
 « Attends une seconde. Tu n'aurais pas entendu parler d'un endroit
-qui s'appellerait « Erekh » » ?
+qui s'appellerait « Erekh » ?
 
 — Erekh ? Non. Désolé.
 
-— Ce n'est pas grave. Bye.*
+— Ce n'est pas grave. Bye. »
 
 Elle recommença à avancer.
 

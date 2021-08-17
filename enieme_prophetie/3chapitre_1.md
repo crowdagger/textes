@@ -61,7 +61,7 @@ Elle se passa la main sur les yeux.
 
 « OK. Reprenons depuis le début. Tu es un chat qui parle ?
 
-— *Bien sûr que non », répondit le chat. *Tout le monde
+— *Bien sûr que non*, répondit le chat. *Tout le monde
 sait que les chats ne parlent pas.*
 
 — C'est qu'il m'avait semblé...
@@ -74,7 +74,7 @@ anatomie me permette de parler ?*
 
 — *Non. Je me contente juste d'imprégner une pensée dans ton
 esprit. Mais je veux bien concevoir que pour une créature
-inférieure, cela puisse se ressembler.**
+inférieure, cela puisse se ressembler.* »
 
 Laërith sourit.
 
@@ -98,7 +98,7 @@ Laërith soupira.
 
 « Ça fait combien de temps qu'on essaie ?
 
-— *Pas qu'*on » essaie. Que *tu* essaies. Moi, j'y
+— *Pas qu'*on* essaie. Que *tu* essaies. Moi, j'y
 arrive très bien.*
 
 — Eh bien moi, j'arrête !
@@ -109,7 +109,7 @@ arrive très bien.*
 
 Le chat parut réfléchir.
 
-« *Pas faux. »
+« *Pas faux.*
 
 — Je peux te poser une question ?
 
@@ -157,7 +157,7 @@ pouvoir être intelligent et pouvoir parl... imprégner des pensées
 dans l'esprit des gens ?
 
 — *Être mort et vivant à la fois permet parfois d'ouvrir certaines
-nouvelles voies. Enfin, ça n'a pas l'air d'être ton cas. »
+nouvelles voies. Enfin, ça n'a pas l'air d'être ton cas.*
 
 — Qu'est-ce que tu racontes ?
 
@@ -167,13 +167,13 @@ nouvelles voies. Enfin, ça n'a pas l'air d'être ton cas. »
 
 — *Et ton autre toi est totalement vivante.*
 
-— C'est quoi, ce délire ?*
+— C'est quoi, ce délire ? »
 
 Le chat eut un léger sourire. Enfin, ses lèvres dessinaient toujours une
 sorte de rictus, mais là, on avait presque l'impression que c'était
 volontaire.
 
-« *Tu n'as pas compris pourquoi tu t'étais retrouvée ici ? »
+« *Tu n'as pas compris pourquoi tu t'étais retrouvée ici ?*
 
 — Je me suis pris un carreau d'arbalète ?
 
@@ -182,14 +182,14 @@ d'arbalète. Et tu te portais mieux que ça.*
 
 — Tu veux dire que ce n'est pas le carreau qui m'a tuée ?
 
-— *Ça y a peut-être un peu contribué.**
+— *Ça y a peut-être un peu contribué.* »
 
 Elle soupira.
 
 « Alors, ça serait quoi ?
 
 — *Tu es au courant qu'il y avait une sorte de prophétie sur
-Erekh ? »
+Erekh ?*
 
 — Le Démon qui se ramène et qui sème la destruction ?
 
@@ -208,7 +208,7 @@ n'aurait jamais marché.*
 — *Alors ? Hop, un petit carreau d'arbalète dans ton coeur, une
 petite balade dans le vide inter-dimensionnel, et il n'y a plus qu'à
 remplacer la gentille Laërith par quelque chose qui ressemble déjà
-un peu plus à un Démon, si tu vois ce que je veux dire.**
+un peu plus à un Démon, si tu vois ce que je veux dire.* »
 
 Laërith réfléchit un moment.
 
@@ -219,13 +219,13 @@ la con puisse se réaliser ?
 — *Ce n'est pas uniquement la prophétie. Mais t'es un
 Démon. Tout le monde croit donc que tu vas faire le Mal et suivre
 ce qu'a dit la prophétie. Comme c'est absolument incompatible
-avec ta personnalité, il fallait que tu ailles voir ailleurs. »
+avec ta personnalité, il fallait que tu ailles voir ailleurs.*
 
 — Alors, ça veut dire qu'Erekh est en danger ?
 
 — *Erekh, non. Je suis certain qu'un vaillant chevalier, ou
 peut-être une équipe de héros, va finir par se pointer et sauver
-le monde. C'est la logique.**
+le monde. C'est la logique.* »
 
 Laërith baissa la tête.
 
@@ -242,7 +242,7 @@ reprendre la parole :
 
 — *Quand je suis parti, ça n'avait pas l'air d'être la grande
 forme pour Mikaël. Tu l'as sérieusement amoché. Les autres, ça
-devrait aller. »
+devrait aller.*
 
 — Je l'ai amoché ? Tu veux dire, l'autre ?
 
@@ -260,11 +260,11 @@ monde, ou des trucs du genre, mais ce n'était pas le cas.*
 
 — *On se remet au boulot ?*
 
-— J'ai une dernière question... Pourquoi tu m'aides ?*
+— J'ai une dernière question... Pourquoi tu m'aides ? »
 
 Le chat se gratta la tête avec sa patte arrière.
 
-« *Tu ne viens pas d'Erekh. Tu viens de la Terre. »
+« *Tu ne viens pas d'Erekh. Tu viens de la Terre.*
 
 — Et alors ?
 
@@ -276,7 +276,7 @@ que tu m'y amènes.*
 
 — *Ce n'est pas très facile, pour un chat, d'être
 intelligent. Si je vais sur Terre, je deviendrais peut-être un
-chat normal.**
+chat normal.*
 
 Laërith soupira.
 
@@ -290,17 +290,17 @@ t'adopte. »
 
 Le chat se gratta l'oreille, d'un air distrait.
 
-« *Tu n'es pas très douée. »
+« *Tu n'es pas très douée.*
 
 — Avec tes explications, aussi...
 
 — *C'est dur à expliquer. Basiquement, il faut juste imaginer
 que tu tombes, ou que tu voles, à travers la structure de
-l'univers.**
+l'univers.*
 
 Elle soupira.
 
-« Et comment tu sais *où » il faut aller ?
+« Et comment tu sais *où* il faut aller ?
 
 — *Je sens qu'il y a un autre monde pas très loin.*
 
@@ -320,7 +320,7 @@ de portail avec la Terre. Mais je n'ai pas tout suivi.*
 relativement proche. C'est là qu'on va aller.*
 
 — Mais je n'ai pas envie de m'amuser à visiter tous les mondes
-possibles et imaginables ! Je veux rentrer chez moi.*
+possibles et imaginables ! Je veux rentrer chez moi. »
 
 Le chat eut ce qui aurait vaguement pu s'apparenter, chez un être
 humain, à un haussement d'épaules.
@@ -334,18 +334,18 @@ Laërith baissa la tête.
 « OK.
 
 — *Pourquoi tu tiens tellement à revenir sur ton monde, au fait
-? »
+?*
 
 — Je... Je ne sais pas. C'est chez moi. Et puis... il y a quelqu'un que
 j'aime, là-bas.
 
-— *Ah. L'amour.**
+— *Ah. L'amour.* »
 
 Laërith sourit.
 
 « Ouais. Je suppose.
 
-— *Moi, je veux juste une vie normale. »
+— *Moi, je veux juste une vie normale.*
 
 — Pas d'amour chez les chats ?
 
@@ -353,36 +353,36 @@ Laërith sourit.
 
 — Désolée. Tu dois te sentir vraiment seul...
 
-— *On s'y fait.**
+— *On s'y fait.*
 
 Ils restèrent silencieux un certain temps. Puis Laërith caressa le
 ventre du chat. Il se mit à ronronner.
 
 « Tu as un nom, au fait ?
 
-— *Non. Personne ne m'appelle. »*
+— *Non. Personne ne m'appelle.* »
 
 
 ******
-« *Tu as fait quelques progrès. »
+« *Tu as fait quelques progrès.*
 
 — Merci. Mais je n'ai pas l'impression qu'on ait beaucoup avancé. Ça
 fait combien de temps qu'on est là ?
 
-— *Aucune idée. Et puis, le temps est relatif.**
+— *Aucune idée. Et puis, le temps est relatif.* »
 
 Laërith soupira.
 
 « Enfin, au moins j'ai quelqu'un avec qui parler...
 
 — *À ce propos, ce serait bien si tu pouvais te taire un
-peu de temps en temps. Et te remettre au travail. »
+peu de temps en temps. Et te remettre au travail.*
 
 — Ça doit faire des jours qu'on ne fait que ça ! Et ça ne donne
 rien. J'ai envie d'une pause !
 
 — *Tu feras une pause une fois qu'on sera arrivé. C'est plus
-agréable que dans le vide, non ?**
+agréable que dans le vide, non ?* »
 
 Laërith se remit à se concentrer. Le principe n'était pas bien
 compliqué : il fallait se servir de son esprit pour naviguer à travers
@@ -413,6 +413,6 @@ doucement. Elle jeta un coup d'oeil aux alentours. Des murs gris. Un
 peu de ciel au-dessus de sa tête. Elle avait donc atterri dans une
 ville.
 
-« *Eh ben voilà », fit le chat. *Tu as quand même fini par y
-arriver.**
+« *Eh ben voilà*, fit le chat. *Tu as quand même fini par y
+arriver.* »
 

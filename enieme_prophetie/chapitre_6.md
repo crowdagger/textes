@@ -142,9 +142,9 @@ ton départ. Le conseil est plus... tolérant, maintenant. Ils ne
 tueront pas quelqu'un d'innocent. Surtout que je ne vois rien qui
 montrerait que ton amie est un démon, si ?
 
-— Hmmm, répondit Mikaël. Meynès aussi était *censé » être un ordre
+— Hmmm, répondit Mikaël. Meynès aussi était *censé* être un ordre
 tolérant... Les connaissant, je ne suis pas certain qu'ils cherchent à
-s'encombrer de preuves.* Il se tourna vers Laërith. « C'est toi qui
+s'encombrer de preuves. » Il se tourna vers Laërith. « C'est toi qui
 devrais choisir. Tu es la principale concernée.
 
 — Oh, j'ai mon mot à dire, maintenant ? répondit-elle,
@@ -245,7 +245,7 @@ apprécié.
 
 — Pourquoi ?
 
-— Il n'est pas de *sang » noble.* Il montra un homme musclé aux
+— Il n'est pas de *sang* noble. » Il montra un homme musclé aux
 cheveux noirs et courts et aux traits durs. « Lui, c'est le duc de
 Léhen. C'est un bon combattant, et il a pas mal de bons
 guerriers. Mais il ne sait pas réfléchir.
@@ -253,8 +253,8 @@ guerriers. Mais il ne sait pas réfléchir.
 — Tu n'as pas l'air de bien t'entendre avec lui...
 
 — Nara est le seul avec qui je m'entends... disons,
-*relativement » bien. Comme tu vois, le conseil a l'air
-*super* tolérant. Quand à la dernière,* fit-il en montrant
+*relativement* bien. Comme tu vois, le conseil a l'air
+*super* tolérant. Quand à la dernière, » fit-il en montrant
 une femme aux cheveux bruns et courts,
 et qui était en grande discussion avec le duc Rana et le roi,
 « je ne sais pas qui c'est.
@@ -351,9 +351,9 @@ d'avoir la confiance de Mikaël et d'Anaïs, et...
 fait pour t'en sortir ? Je croyais que ma chère cousine était
 tombée dans un traquenard, et toi avec...
 
-— Je ne m'en suis *pas » sortie.
+— Je ne m'en suis *pas* sortie.
 
-— Oh.* Elle la regarda de plus près. « Je vois. Et tu te promènes en
+— Oh. » Elle la regarda de plus près. « Je vois. Et tu te promènes en
 plein jour ? »
 
 Anaïs haussa les épaules.
@@ -400,7 +400,7 @@ qui pourrait ne pas l'être.
 — Je crois, fit le Duc Nara, que son innocence ne fait aucun
 doute. Elle n'a fait de mal à personne.
 
-— Aucun doute ? fit le Comte de Marles. C'est un *Démon ». Même
+— Aucun doute ? fit le Comte de Marles. C'est un *Démon*. Même
 si elle le *voulait*, elle ne pourrait *pas* faire le
 bien. Quand aux soi-disant témoins, ce sont deux inconnus et un
 déserteur.
@@ -413,7 +413,7 @@ risquer l'avenir de ce pays parce que les charmes d'un Démon qui
 joue la comédie lui ont fait tourner la tête.
 
 — Je crois, fit Sire de Laine, que c'est au roi et à lui seul de
-décider.*
+décider. »
 
 Tous se tournèrent vers le roi. Celui-ci parut réfléchir quelques
 instants, puis prononça son jugement.
@@ -452,7 +452,7 @@ fuir.
 — Comme vous voulez, fit le roi. C'est comme si vous étiez déjà
 morts !
 
-— Je *suis » déjà morte* répondit Anaïs, avec un sourire étrange.
+— Je *suis* déjà morte » répondit Anaïs, avec un sourire étrange.
 
 « Tirez ! » ordonna le roi.
 
@@ -510,14 +510,14 @@ tuer, non ?
 — Qu'est-ce qui te prend ?
 
 — Qu'est-ce qu'il me prend ? Il me prend que je commence à en avoir
-*marre » que des connards dans son genre domine le monde. Les
+*marre* que des connards dans son genre domine le monde. Les
 choses vont changer.*
 
 Mikaël la regarda dans les yeux.
 
-« Alors c'est *ça », ta vraie nature ?
+« Alors c'est *ça*, ta vraie nature ?
 
-— Tu es avec moi ? cracha-t-elle. Ou *contre* moi ?*
+— Tu es avec moi ? cracha-t-elle. Ou *contre* moi ? »
 
 Il soupira. Il n'aimait vraiment pas son regard.
 
@@ -526,13 +526,13 @@ Il soupira. Il n'aimait vraiment pas son regard.
 — Me calmer ? hurla-t-elle. Ils essaient de me tuer, et tu me demandes
 de me calmer ? Ils contrôlent le pays en se moquant totalement de
 ce qui arrivent aux gens, ils ne s'intéressent qu'à leur
-*pouvoir », et tu me demandes de me *calmer* ?!
+*pouvoir*, et tu me demandes de me *calmer* ?!
 Écarte-toi !
 
 — Non, répliqua Mikaël, sans bouger. Je ne peux pas te laisser faire
 ça.
 
-— Alors, va au diable !*
+— Alors, va au diable ! »
 
 Elle tendit la main, et il fut projeté contre un mur. Mais il se
 redressa, et se saisit de son épée.
@@ -560,13 +560,13 @@ Laërith lui jeta un air mauvais.
 « Tu ne fuis pas ? Tu ne tiens pas à la vie ?
 
 — Fuir ? Tu as le pouvoir de me tuer, de toutes façons. Voilà, ça y
-est. Tu as le *pouvoir ». C'est ce que tu voulais ?
+est. Tu as le *pouvoir*. C'est ce que tu voulais ?
 
 — Je... je ne sais pas...
 
 — Tu as tué Mikaël ! cria Armand.
 
-— Tais-toi !*
+— Tais-toi ! »
 
 Elle leva la main. Armand s'écroula en arrière, inconscient.
 
@@ -582,8 +582,8 @@ alors. Voilà venu le temps des ténèbres et du chaos...
 
 Lucie se retourna vers Laërith, avec un léger sourire.
 
-« D'un autre côté, ça ne pourra pas être *pire » que ce qu'il y
-avait avant, j'imagine...*
+« D'un autre côté, ça ne pourra pas être *pire* que ce qu'il y
+avait avant, j'imagine... »
 
 ******
 Anaïs s'approcha de Mikaël. Celui-ci gisait au sol, gravement

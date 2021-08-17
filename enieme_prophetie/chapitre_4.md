@@ -147,7 +147,7 @@ pas de continuer à avancer. Elle se trouvait maintenant à moins d'un
 mètre du mage. Elle leva les yeux au ciel.
 
 « Détruire l'humanité ? Pourquoi je ferais ça ? Le monde serait
-d'un enui... Sérieusement, vous tenez ça d'où ?
+d'un ennui... Sérieusement, vous tenez ça d'où ?
 
 — C'est... euh... tout le monde le sait. La Prophétie. Un Démon
 viendra, et il montrera son vrai visage, et contrôlera le monde.
@@ -161,7 +161,7 @@ projetée en arrière. Elle la ramena lentement. Du sang coulait de sa
 lèvre, mais elle ne paraissait pas s'en souciait.
 
 « Mais vous ne comprenez donc pas que votre magie ne marche
-*pas » sur moi ?*
+*pas* sur moi ? »
 
 Elle lui arracha le bâton des mains.
 
@@ -312,10 +312,10 @@ et...
 — Tu ne vas quand même pas me dire que tu as aussi une prophétie
 concernant un chat noir ?
 
-— Non. Mais il *devrait » y en avoir une. Bon,
+— Non. Mais il *devrait* y en avoir une. Bon,
 maintenant on y va, si tu veux bien ?
 
-— J'arrive, j'arrive* répondit-elle en trottinant pour les
+— J'arrive, j'arrive » répondit-elle en trottinant pour les
 rattraper.
 
 Et ils se dirigèrent vers le nord-ouest, en direction de la capitale.

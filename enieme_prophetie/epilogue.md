@@ -53,8 +53,8 @@ d'agent dans la garde. Super... »
 Laërith sourit.
 
 « J'ai du mal à vous comprendre, quand même. Qu'est-ce que j'aurais
-donné, pour ne *pas » avoir la « chance » de partir à
-l'aventure...*
+donné, pour ne *pas* avoir la « chance » de partir à
+l'aventure... »
 
 Kalia soupira.
 
@@ -126,11 +126,11 @@ Soudain, une silhouette se matérialisa. Mais ce n'était pas Laërith.
 
 — Ta maîtresse n'est pas là ?
 
-— *Ce n'est pas ma maîtresse. »
+— *Ce n'est pas ma maîtresse.*
 
 — Oh.
 
-— *Elle va venir. J'espère.**
+— *Elle va venir. J'espère.* »
 
 Ils attendirent quelques minutes. Enfin, Laërith apparut.
 
@@ -178,7 +178,7 @@ Elle attrapa le chat.
 
 « Et toi, tu es prêt ? demanda-t-elle.
 
-— *C'est bon, tu peux y aller. »*
+— *C'est bon, tu peux y aller.* »
 
 Laërith se tourna une dernière fois vers Nadia. Elle lui fit un geste
 de la main.
@@ -264,4 +264,4 @@ L'automobiliste klaxonna.
 
 Le chat se tourna vers lui, les yeux brillants.
 
-« *Je suis sur un passage piéton, connard. »*
+« *Je suis sur un passage piéton, connard.* »

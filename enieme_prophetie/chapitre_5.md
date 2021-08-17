@@ -110,12 +110,12 @@ Il se mit à rire.
 — Tu peux manger autre chose ?
 
 — Oh, oui. C'est très mal vu par les vampires, mais oui. Tu sais,
-c'est ça la limitation des vampires : on *peut » voir des
+c'est ça la limitation des vampires : on *peut* voir des
 croix, on *peut* se balader au soleil, on *peut* entrer
 à peu près n'importe où sans y être invité, mais ils sont
 tellement empêtrés dans leurs traditions qu'ils ne *veulent*
 pas le faire. Qu'ils ne peuvent même pas *envisager* de le
-faire.*
+faire. »
 
 Mikaël sourit.
 
@@ -258,11 +258,11 @@ Anaïs leva les yeux au ciel.
 
 — Eh bien...
 
-— Je suis *déjà » une mort-vivante, au cas où tu ne l'aurais pas
+— Je suis *déjà* une mort-vivante, au cas où tu ne l'aurais pas
 remarqué ! Et accessoirement, c'est *moi* qui l'ai mordu.
 
 — Oh. Bon. Il faut aller aider les autres. S'il y a des zombies,
-ils en ont peut-être rencontrés aussi...*
+ils en ont peut-être rencontrés aussi... »
 
 Ils se précipitèrent vers le village.
 
@@ -339,8 +339,8 @@ lui, et lui posa une main sur l'épaule.
 Il haussa les épaules.
 
 « Je n'avais jamais tué personne, avant. Je veux dire... je sais
-bien qu'ils n'étaient plus *vraiment » vivants, mais... tout
-ce sang...*
+bien qu'ils n'étaient plus *vraiment* vivants, mais... tout
+ce sang... »
 
 Elle soupira.
 
@@ -363,8 +363,8 @@ Elle lui jeta un regard furieux.
 « Je ne vois pas ce que ça change. Ça ne fera pas revenir les morts.
 
 — Je voulais juste dire que tu n'avais pas grand chose à te
-reprocher. Enfin, *je » ne suis peut-être pas le mieux placé
-pour parler de ce genre de choses. *
+reprocher. Enfin, *je* ne suis peut-être pas le mieux placé
+pour parler de ce genre de choses. »
 
 Il y eut un moment de silence, qu'Anaïs finit par couper.
 
@@ -520,10 +520,10 @@ défensif, et la situation paraissait un peu bloquée.
 — Pourquoi tu es venue ici ?
 
 — Je n'ai pas choisi. » répondit Laërith en bougeant un pion. « *A
-priori », j'aurais du me retrouver en Enfer, et je me suis retrouvée
-ici, dans un pentacle.
+priori*, j'aurais du me retrouver en Enfer, et je me suis retrouvée
+ici, dans un pentacle. »
 
-— Ah. Je vois.*
+— Ah. Je vois. »
 
 Elles continuèrent silencieusement pendant quelques minutes. Destinée
 paraissait avoir un léger avantage.

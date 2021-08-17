@@ -348,7 +348,7 @@ Il la lui tendit.
 
 Mikaël sourit.
 
-« Un Démon qui a peur du noir, hein ? J'aurais vraiment tout vu,
+« Un Démon qui a peur du noir, hein ? J'aurai vraiment tout vu,
 aujourd'hui. »
 
 
@@ -394,7 +394,7 @@ Le jeune homme lui lança un regard étonné.
 Mikaël éclata de rire.
 
 « Oui, je suis le *légendaire chevalier tueur de
-vampires », répondit-il sur un ton sarcastique. Ça me fait une
+vampires* », répondit-il sur un ton sarcastique. Ça me fait une
 belle jambe... Écoute, euh... tu t'appelles comment, au fait ?
 
 — Armand.
@@ -404,7 +404,7 @@ belle jambe... Écoute, euh... tu t'appelles comment, au fait ?
 Oh, bien sûr, quand je vais dans une auberge, on m'offre parfois
 le couvert, mais généralement on essaie avec subtilité de me faire
 comprendre qu'il serait souhaité que j'élimine le vampire, la
-goule, le loup-garou ou la horde de squelettes du coin.* Il
+goule, le loup-garou ou la horde de squelettes du coin. Il
 soupira. « Tu sais, j'ai parfois l'impression que je passe mon
 temps à me battre. »
 
@@ -475,16 +475,16 @@ et moi je suis le Bien ? Il n'y a pas comme un problème ? »
 
 Armand médita les dernières phrases de Mikaël, perplexe.
 
-« Peut-être, s'avança-t-il, peut être que c'est un *gentil »
-Démon ?*
+« Peut-être, s'avança-t-il, peut être que c'est un *gentil*
+Démon ? »
 
 Mikaël sourit.
 
 « Ouais, fit-il. Peut-être. Mais... Tu vois, le principe, c'est
-qu'il n'y a pas de *gentils » Démons. Je veux dire... J'ai toujours cru
+qu'il n'y a pas de *gentils* Démons. Je veux dire... J'ai toujours cru
 que c'était comme ça ! Si elle ne s'était pas mise à pleurer, ou
 si elle avait paniqué, je l'aurais tuée... Peut-être que j'ai tué
-des gens qui méritaient de vivre, voilà ce que je veux dire.*
+des gens qui méritaient de vivre, voilà ce que je veux dire. »
 
 Armand songea à son ancien capitaine.
 
@@ -621,7 +621,7 @@ viande qui
 surnageaient dans un liquide marron.
 
 « Hum... J'imagine que ça dépend de ce que vous appelez *nourriture
-normale »... *
+normale* »...
 
 Elle s'assit sur le banc de bois et commença à manger le pain.
 
@@ -687,7 +687,7 @@ Mikaël hocha la tête, comme si cela lui semblait normal.
 « Tu viens d'où ? De l'Enfer ?
 
 — Non, répondit-elle. D'un autre monde. Ce qui s'est passé, c'est
-que je suis morte, là-bas. Théoriquement, j'aurais *dû » me retrouver
+que je suis morte, là-bas. Théoriquement, j'aurais *dû* me retrouver
 en Enfer, mais je me suis retrouvée dans le noir complet, pendant
 une éternité. Je ne sais pas pourquoi. Et ensuite, je me suis
 retrouvée ici, dans un pentacle, avec des ailes dans le dos et des
@@ -700,7 +700,7 @@ qu'il soit très différent du tien, au fond. Enfin... un peu quand
 même, en fait, ajouta-t-elle en songeant au peu qu'elle avait
 vu.
 
-— C'est peut-être indiscret, mais tu es morte comment ?*
+— C'est peut-être indiscret, mais tu es morte comment ?
 
 Elle tourna la tête.
 
@@ -1023,9 +1023,9 @@ Mikaël haussa les épaules.
 
 — Elle pourrait être dangereuse...
 
-— Alors, ce n'est plus *mon » problème. Et si c'est le cas, ils
+— Alors, ce n'est plus *mon* problème. Et si c'est le cas, ils
 n'auront qu'à s'en occuper. Ils avaient l'air d'avoir tellement
-envie de la tuer, je ne voudrais pas gâcher leur plaisir. On y va.*
+envie de la tuer, je ne voudrais pas gâcher leur plaisir. On y va. »
 
 Mikaël monta à cheval, puis s'élança. Quelques instants plus tard,
 Armand le rejoignit.
@@ -1075,7 +1075,7 @@ ses bras...
 
 Elle jeta un coup d'oeil aux chevaux.
 
-« Vous ne voulez quand même pas me faire monter *là-dessus » ?
+« Vous ne voulez quand même pas me faire monter *là-dessus* ?
 
 — Euh... Je crois que tu devrais poser ce chat.
 
@@ -1084,7 +1084,7 @@ Elle jeta un coup d'oeil aux chevaux.
 — Eh bien... Disons que si tu as déjà peur de monter sur un
 cheval, il vaudrait peut-être mieux que tu aies les mains libres.
 
-— Je peux le prendre*, proposa Armand, serviable.
+— Je peux le prendre », proposa Armand, serviable.
 
 Elle le lui tendit. Le chat se laissa transporter sans bouger, grosse
 boule de poils endormie.
