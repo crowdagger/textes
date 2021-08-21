@@ -324,9 +324,9 @@ ensemble. OK ? »
 
 Mikaël baissa son arbalète.
 
-« *Deux » Laërith ?
+« *Deux* Laërith ?
 
-— Je t'expliquerai.*
+— Je t'expliquerai. »
 
 Elle regarda Armand, au sol.
 
@@ -408,9 +408,9 @@ Armand haussa les épaules.
 
 « La jambe, oui. Mais j'ai peur pour elle.
 
-— Tu veux dire, l'*autre » Laërith ?
+— Tu veux dire, l'*autre* Laërith ?
 
-— Ouais. *
+— Ouais. »
 
 Mikaël soupira. Il s'assit à coté d'Armand, par terre. Kalia finit par
 les rejoindre.

@@ -71,7 +71,7 @@ fasses remarquer. »
 
 Mikaël eut un large sourire.
 
-« Mais c'est *eux » qui ont commencé...*
+« Mais c'est *eux* qui ont commencé... »
 
 
 ******
@@ -168,8 +168,7 @@ Le duc Nara sourit.
 « Mikaël ? Nous vous croyions mort... Comment avez vous survécu ? »
 
 Mikaël eut un sourire, dévoilant ses dents.
-
-« Je n'ai *pas » survécu.*
+« Je n'ai *pas* survécu. »
 
 Le duc de Léhen paraissait hors de lui.
 
@@ -263,7 +262,7 @@ peuple ?
 répondit-elle. La question n'est pas de savoir si c'est le bien ou
 pas. Le fait est que c'est ce qu'elle veut. Et à cause de cela,
 elle pourrait représenter un danger pour nous. De plus, nous la
-trouvons un peu... *cavalière ». Cela fait des années, des
+trouvons un peu... *cavalière*. Cela fait des années, des
 siècles même, qu'Erekh avait un accord pour nous laisser en
 paix. Elle est différente. Nous ne savons pas si elle respecterait
 un accord.
@@ -297,7 +296,7 @@ cette... condition.
 — Le fait est, reprit Nadia, que Laërith est un danger pour
 Erekh. C'est un problème que nous devrions régler.
 
-— Je croyais que vous étiez pour la neutralité, fit Nara.*
+— Je croyais que vous étiez pour la neutralité, fit Nara. »
 
 Nadia sourit.
 
@@ -394,9 +393,9 @@ sais pas, pas la même, en tout cas.
 — Attendez. Vous êtes en train de dire que c'est la prophétie qui
 l'a rendue cinglée ? demanda Anaïs.
 
-— Pas... *cinglée ». C'est un peu dur à expliquer. Mais je pense
+— Pas... *cinglée*. C'est un peu dur à expliquer. Mais je pense
 que si le corps de Laërith est resté le même, son âme a été
-détruite.* Elle
+détruite. » Elle
 soupira. « C'est de ma faute. J'aurais dû la tuer quand je le
 pouvais encore. »
 
@@ -441,7 +440,7 @@ Nadia s'amusa de la remarque.
 
 Et elle disparut.
 
-àdire{Tu n'es pas très gentil}, lui reprocha Anaïs.
+« Tu n'es pas très gentil », lui reprocha Anaïs.
 
 Mikaël haussa les épaules.
 
@@ -451,8 +450,8 @@ Mikaël haussa les épaules.
 
 Mikaël la regarda.
 
-« Peut-être qu'elle tue *sympathiquement » des gens pour se
-nourrir. Mais elle les tue quand même.*
+« Peut-être qu'elle tue *sympathiquement* des gens pour se
+nourrir. Mais elle les tue quand même. »
 
 Anaïs sourit. Et ils s'embrassèrent.
 

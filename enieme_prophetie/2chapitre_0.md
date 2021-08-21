@@ -78,10 +78,10 @@ Armand secoua la tête.
 
 Laërith parut surprise de la question.
 
-« Pourquoi *quoi » ? demanda-t-elle à son tour.
+« Pourquoi *quoi* ? demanda-t-elle à son tour.
 
 — Pourquoi est-ce que tu as tué Mikaël ? Et le roi ? Pourquoi tu veux
-le pouvoir ?*
+le pouvoir ? »
 
 Elle soupira.
 

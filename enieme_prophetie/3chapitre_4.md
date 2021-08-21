@@ -32,10 +32,10 @@ le perdant abattu. »
 
 Laërith fronça les sourcils.
 
-« Mais, le gouvernement laisse faire *ça » ?
+« Mais, le gouvernement laisse faire *ça* ?
 
 — Le gouvernement n'a pas le droit d'aller dans l'Éther du bas. Et
-ils sont bien protégés, les salauds.*
+ils sont bien protégés, les salauds. »
 
 Laërith soupira.
 
@@ -63,7 +63,7 @@ m'appelle Laërith. »
 
 L'autre se redressa.
 
-« Moi, c'est Melissa.  »
+« Moi, c'est Melissa. »
 
 Elle se dirigea vers la porte, fermée de l'extérieur.
 
@@ -215,7 +215,7 @@ Laërith recula devant l'arme.
 
 « Heu... Non... Tu sais, moi et les armes à feu...
 
-— Prends-le ! ordonna Melissa. Sinon, on va crever toutes les deux !  »
+— Prends-le ! ordonna Melissa. Sinon, on va crever toutes les deux ! »
 
 Laërith attrapa l'arme en rechignant.
 
@@ -370,12 +370,12 @@ Systèmes Éthériques, je suppose. »
 
 Melissa secoua la tête.
 
-« Sauf que tu n'as *pas » de Système Éthérique, je me trompe ?*
+« Sauf que tu n'as *pas* de Système Éthérique, je me trompe ?*
 
 Laërith ne répondit pas.
 
 « Écoute, reprit Melissa, on n'a jamais vu ce genre de trucs ! Tu es
-*qui », au juste ?
+*qui*, au juste ?
 
 — Je suis... une étrangère...
 
@@ -383,7 +383,7 @@ Laërith ne répondit pas.
 
 — Euh... D'ailleurs. De la Terre.
 
-— De la terre ? Tu veux dire, du sol ?*
+— De la terre ? Tu veux dire, du sol ? »
 
 Laërith sourit.
 
@@ -419,13 +419,13 @@ peut-être un moyen. Mais il faut que je te dise la vérité.
 
 Laërith écarquilla les yeux.
 
-« Le *quoi » ?
+« Le *quoi* ?
 
 — B.E.I. Bureau Éthérique d'Investigation. Ma mission est de
 rapporter des informations sur les utilisateurs de magie noire
 dans l'Éther du bas.
 
-— Oh. Et alors ?*
+— Oh. Et alors ? »
 
 Melissa sourit.
 
@@ -437,7 +437,7 @@ quoi, tu pourrais aussi nous fournir quelques... informations.
 
 — Je suis certaine que le B.E.I. serait ravi de savoir qu'on peut
 avoir de tels pouvoirs sans Systèmes Éthériques, et encore plus de
-savoir *comment ».*
+savoir *comment*. »
 
 Laërith secoua la tête.
 
@@ -623,7 +623,7 @@ Tout le monde se tourna vers lui.
 
 Un homme, qui paraissait être le capitaine de l'équipe, soupira.
 
-« What you say ?  » demanda-t-il.
+« What you say ? » demanda-t-il.
 
 Ah, oui, se remémora le chat. Ce n'était pas la même langue. Et il
 fallait être poli.
