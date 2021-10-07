@@ -305,7 +305,7 @@ L'homme ricana.
 « Personne. Personne ! Et même si je travaillais pour Daël, ça
 changerait quoi ? Vous comptez les attaquer ?
 
-— Pourquoi pas ? Question suivante : pourquoi cherchaiss-tu à attenter
+— Pourquoi pas ? Question suivante : pourquoi cherchais-tu à attenter
 à la vie de la reine ?
 
 — Parce que c'est un putain de Démon ! Vous ne vous rendez pas

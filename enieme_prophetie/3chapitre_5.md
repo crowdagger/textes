@@ -85,11 +85,11 @@ au Paradis. Ça marche comme ça. »
 
 Laërith parut réfléchir.
 
-« Vous avez bien dit : les Démons *retournent » en Enfer ?
+« Vous avez bien dit : les Démons *retournent* en Enfer ?
 
 — Oui. Pourquoi ?
 
-— Je ne suis jamais allée en Enfer. C'est peut-être pour ça.*
+— Je ne suis jamais allée en Enfer. C'est peut-être pour ça. »
 
 Alkehys parut étonné.
 
@@ -130,7 +130,7 @@ Le chat fit un geste évasif de la main.
 
 Puis, soudain, il n'y eut plus qu'un gros chat noir devant eux.
 
-« *Tu me reconnais, maintenant ? »*
+« *Tu me reconnais, maintenant ?* »
 
 Laërith sourit ; Alkehys, lui, se passa la main sur les yeux.
 
@@ -255,7 +255,7 @@ téléporte dans la tour Eiffel. Ça peut marcher ?
 d'essayer.
 
 — C'est vrai. Mais supposons que j'arrive sur Terre. Je suis
-*morte », là-bas ! Je veux dire, je n'aurais pas de corps...*
+*morte*, là-bas ! Je veux dire, je n'aurais pas de corps... »
 
 Alkehys sourit.
 
@@ -263,13 +263,13 @@ Alkehys sourit.
 des atomes de carbone, d'hydrogène et d'oxygène. Ce n'est pas ce qui
 manque, sur Terre.
 
-— Oui, mais... Je veux dire, je ne peux pas me *créer » un corps
+— Oui, mais... Je veux dire, je ne peux pas me *créer* un corps
 comme ça !
 
 — Pas exactement. En fait, tu as un certain champ morphique, dû au
 fait que tu as passé la majorité de ton existence sous cette
 forme. Si tu reviens sur Terre, c'est ce champ morphique qui va
-recréer un corps pour toi.*
+recréer un corps pour toi. »
 
 Laërith parut sceptique.
 
@@ -281,8 +281,8 @@ Terre...
 — Mais quand je suis arrivée sur Erekh, j'avais des ailes...
 
 — *Et quand tu es arrivée ici, tu étais nue. C'est juste des petites
-altérations, volontaires ou non. »*, répondit le chat. Puis il
-s'adressa à Alkehys. « *Je lui ai pourtant déjà expliqué... »*
+altérations, volontaires ou non.* », répondit le chat. Puis il
+s'adressa à Alkehys. « *Je lui ai pourtant déjà expliqué...* »
 
 Elle acquiesça.
 
@@ -293,13 +293,13 @@ de façon correcte...
 — Quand deux personnes ont un enfant, ça fait bien la même chose,
 non ?
 
-— Mais ce n'est pas *instantané ».
+— Mais ce n'est pas *instantané*.
 
 — Qui a dit que ça serait instantané ?
 
 — Oh.
 
-— Ça devrait bien prendre quelques secondes.*
+— Ça devrait bien prendre quelques secondes. »
 
 Laërith sourit.
 
@@ -370,10 +370,10 @@ Laërith le regarda, l'air surprise.
 « Oui. Mais le sort d'un pays repose entre mes mains. Enfin, il paraît...
 
 — Ce n'est pas comme si tu allais affronter un Démon, tu en es
-consciente ? C'est *Erekh » que tu vas affronter !
+consciente ? C'est *Erekh* que tu vas affronter !
 
 — Je sais. Je n'ai aucune chance de vaincre. C'est toutes les
-énergies des croyances, accumulées depuis des siècles.* Elle
+énergies des croyances, accumulées depuis des siècles. » Elle
 sourit. « Oui. J'en suis consciente.
 
 — Tu n'as pas peur ?

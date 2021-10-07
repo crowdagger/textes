@@ -36,7 +36,7 @@ j'ai une dette envers toi.
 
 — Pourquoi ? Parce que je ne t'ai pas tué ?
 
-— Non. C'est pareil, j'aurais pu disparaître. *Sûrement. » Parce
+— Non. C'est pareil, j'aurais pu disparaître. *Sûrement.* Parce
 que tu m'as libérée.
 
 — Je ne comprend pas...
@@ -50,7 +50,7 @@ me faire faire tout ce qu'il désirait. Enfin, sûrement. C'est de
 
 — C'est bien joli, tout ça, mais on fait quoi, maintenant ? demanda Armand.
 
-— On va à Meynès. Ils sauront s'occuper de son cas.*
+— On va à Meynès. Ils sauront s'occuper de son cas. »
 
 La jeune fille soupira.
 
@@ -107,9 +107,9 @@ Il caressa légèrement l'aile gauche.
 
 « C'est... marrant, comme texture.
 
-— Oh oui. C'est très *marrant » à porter aussi.
+— Oh oui. C'est très *marrant* à porter aussi.
 
-— Euh... Vous pouvez voler, avec ça ?*
+— Euh... Vous pouvez voler, avec ça ? »
 
 Elle éclata de rire.
 
@@ -158,7 +158,7 @@ Laërith soupira.
 
 Elle eut un sourire triste.
 
-« Enfin, je ne m'étais jamais vraiment fait à l'*autre », non plus.*
+« Enfin, je ne m'étais jamais vraiment fait à l'*autre*, non plus. »
 
 
 ******
@@ -433,7 +433,7 @@ nues. L'homme sentit l'odeur de chair brûlée, mais cela ne semblait
 pas gêner la jeune fille. Elle dirigea l'aiguille vers l'oeil de
 l'homme, qui essayait désespérément de s'en écarter.
 
-« Une raison, cracha Laërith. Donne moi *une » raison de ne pas
+« Une raison, cracha Laërith. Donne moi *une* raison de ne pas
 contempler l'effet que produit *une aiguille chauffé à blanc dans
 certaines parties sensibles du corps*.
 
@@ -441,7 +441,7 @@ certaines parties sensibles du corps*.
 
 — Alors ?
 
-— Je... J'ai une femme et trois enfants.*
+— Je... J'ai une femme et trois enfants. »
 
 Laërith hésita quelques instants. L'argument ne lui semblait pas
 terrible, surtout qu'elle ne pensait pas que le triste sire était
@@ -501,7 +501,7 @@ Laërith replaça sa cape et sortit silencieusement. Elle regarda autour
 d'elle et entendit des bruits de pas. Elle aperçut Armand courir vers
 elle.
 
-« Armand ? ça va ?
+« Armand ? Ça va ?
 
 — Oui. Où est Mikaël ? »
 
@@ -518,11 +518,11 @@ Ils se regroupèrent.
 « Je crois qu'on va avoir du mal à s'enfuir, remarqua Mikaël. Ils
 sont trop nombreux.
 
-— Courez ! cria Laërith. Allez vous en, je vais les distraire un peu.
+— Courez ! cria Laërith. Allez-vous-en, je vais les distraire un peu.
 
 — Mais... répliqua Mikaël.
 
-— Je vous retrouverai dehors. Fais-moi confiance. Allez-vous en ! »
+— Je vous retrouverai dehors. Fais-moi confiance. Allez-vous-en ! »
 
 Mikaël et Armand détalèrent.
 

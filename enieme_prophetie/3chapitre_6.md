@@ -46,8 +46,8 @@ Alkehys soupira.
 
 — Je suis désolé, mais c'est l'usage. Vous répondez juste, vous
 passez. Vous répondez faux, vous mourez. C'est comme ça. C'est mon
-boulot. Pas comme si ça me *plaisait » de passer ma vie
-sur un pont à attendre que quelqu'un veuille bien passer.*
+boulot. Pas comme si ça me *plaisait* de passer ma vie
+sur un pont à attendre que quelqu'un veuille bien passer. »
 
 Laërith sourit.
 
@@ -73,7 +73,7 @@ jaunes et pointues. « Vous pouvez passer. »
 Laërith passa, l'air surprise, puis elle finit par comprendre. Elle
 sourit.
 
-« Oh. La *lettre » E. Bien sûr. Le chat doit répondre à une énigme aussi ?*
+« Oh. La *lettre* E. Bien sûr. Le chat doit répondre à une énigme aussi ? »
 
 Le gardien parut hésiter.
 
@@ -165,17 +165,17 @@ tu as fait pour revenir ? »
 
 Laërith parut surprise.
 
-« Comment savez vous que je ne suis pas... l'*autre » ?
+« Comment savez vous que je ne suis pas... l'*autre* ?
 demanda-t-elle.
 
-— Tu n'as pas les mêmes yeux. Et tu n'as pas d'ailes.*
+— Tu n'as pas les mêmes yeux. Et tu n'as pas d'ailes. »
 
 Laërith sourit.
 
 « Je vois. Comment ça se passe ?
 
-— Eh bien... toi, enfin, *elle », ça va encore. Limite
-schizophrène, cela dit.*
+— Eh bien... toi, enfin, *elle*, ça va encore. Limite
+schizophrène, cela dit. »
 
 Laërith soupira.
 
@@ -187,7 +187,7 @@ j'imagine.
 — Comment ça ?
 
 — Toutes ces croyances, comme tu dis, ça aurait dû générer un
-*vrai » Démon. Enfin, si tu vois ce que je veux dire.*
+*vrai* Démon. Enfin, si tu vois ce que je veux dire. »
 
 Laërith acquiesça. Bien sûr, elle était un *vrai* Démon,
 mais... peut-être pas assez *démoniaque*, en fait.
@@ -282,7 +282,7 @@ ensemble. OK ? »
 
 Mikaël baissa son arbalète.
 
-« *Deux » Laërith ?
+« *Deux* Laërith ?
 
 — Je t'expliquerai.*
 
@@ -370,16 +370,16 @@ des siècles, les gens croient qu'un Démon viendra détruire Erekh. »
 L'autre se mit à sangloter, et s'agenouilla. Laërith se baissa aussi.
 
 « Tous ces souvenirs seraient faux ? Je ne vous crois pas ! Qui me
-dit que ce n'est pas *vous », la fausse ?*
+dit que ce n'est pas *vous*, la fausse ? »
 
 Laërith soupira.
 
-« Tes souvenirs ne sont pas *faux ». Mais ce sont... les
+« Tes souvenirs ne sont pas *faux*. Mais ce sont... les
 *miens*. Et... je pense que tes crises de violence montrent bien
 que tu n'es pas... moi-même. Et arrête de me vouvoyer, on est quand
 même presque les mêmes.
 
-— Tu mens ! Tu n'es que le fruit de mon imagination !*
+— Tu mens ! Tu n'es que le fruit de mon imagination ! »
 
 Laërith secoua la tête.
 

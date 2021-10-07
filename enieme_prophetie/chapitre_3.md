@@ -30,14 +30,14 @@ porte.
 — Nous sommes des voyageurs, répondit Mikaël.
 
 — Des voyageurs ? On n'a pas eu de voyageurs depuis... au
-moins... *longtemps ».
+moins... *longtemps*.
 
 — Écoutez, reprit Mikaël, aussi calmement que possible. Nous
 sommes fatigués. J'ai avec moi une jeune fille à la peau certes
 pâle, mais je peux vous assurer que nous n'avons strictement rien
 à voir avec des vampires.
 
-— Surtout, ne montre pas tes dents.* murmura-t-il à Laërith.
+— Surtout, ne montre pas tes dents. » murmura-t-il à Laërith.
 
 La porte s'entrebailla. La figure rougeaude de l'aubergiste apparut.
 
@@ -297,16 +297,16 @@ Les deux filles s'arrêtèrent un instant et s'adossèrent à un arbre,
 haletantes. Elles se trouvaient au coeur de la forêt. Le village était
 encore à quelques kilomètres.
 
-« On n'a aucune chance ! fit Anaïs. Tu aurais du accepter leur offre.
+« On n'a aucune chance ! fit Anaïs. Tu aurais dû accepter leur offre.
 
 — Hmpf. Manquerait plus que ça. Il y a une rivière, dans le coin ?
 
 — Non. Laisse tomber. On ne leur échappera pas. Personne ne leur a
 jamais échappé.
 
-— Personne d'*humain ».
+— Personne d'*humain*.
 
-— Tu n'es pas...*
+— Tu n'es pas... »
 
 Laërith sourit. Et enleva sa cape, montrant ses deux ailes noires.
 
@@ -380,7 +380,7 @@ Laërith les toisa.
 
 — Mais...
 
-— *Cours » !* hurla-t-elle.
+— *Cours* ! » hurla-t-elle.
 
 Anaïs s'exécuta. Les vampires ne la poursuivirent pas. Ils ricanèrent.
 
@@ -454,7 +454,7 @@ chance, ils sont trois et ils sont puissants... »
 
 Armand apparut derrière Mikaël.
 
-« On va voir ça. Tu es *avec » nous ou *contre* nous ?*
+« On va voir ça. Tu es *avec* nous ou *contre* nous ? »
 
 Anaïs hésita.
 
@@ -521,13 +521,13 @@ humain. On ne peut pas coexister. »
 Laërith leva les yeux au ciel.
 
 « C'est dans ma nature de faire le mal. Il suffit d'un peu de
-*self-control ».
+*self-control*.
 
 — De quoi ?
 
 — Euh...de maîtrise de soi.
 
-— Je ne sais pas si...* fit Anaïs.
+— Je ne sais pas si... » fit Anaïs.
 
 Mikaël haussa les épaules.
 
@@ -643,8 +643,8 @@ vivante, ne pas entrer chez les gens sans être invités...
 
 — Vas-y.
 
-— Pourquoi tu m'as pas laissée mourir ? Je veux dire... *moi »,
-je voulais te tuer...*
+— Pourquoi tu m'as pas laissée mourir ? Je veux dire... *moi*,
+je voulais te tuer... »
 
 Laërith sourit.
 

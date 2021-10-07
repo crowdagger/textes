@@ -220,7 +220,7 @@ cheveux grisonnants, et portait de riches vêtements, bien que —
 jugea Mikaël — pas forcément du meilleur goût. C'était sans doute le
 bourgmestre.
 
-À son coté se trouvait une dame assez belle qui devait être sa
+À son côté se trouvait une dame assez belle qui devait être sa
 femme. Les deux autres personnes étaient plus jeunes et devaient être
 leurs enfants.
 
@@ -297,7 +297,7 @@ de même réussi à savoir quelque chose ?
 le bourgmestre.
 
 — Vous avez raison. Je pourrais. Bien. Il est tard et je n'ai pas
-dormi la nuit dernière. Je verrais cela demain. Auriez vous
+dormi la nuit dernière. Je verrai cela demain. Auriez vous
 l'*obligeance* de
 m'indiquer l'adresse d'une auberge où je pourrais passer la nuit ?
 
