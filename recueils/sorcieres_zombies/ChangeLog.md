@@ -24,6 +24,9 @@ Sorcières & Zombies
 Créatures de rêve 
 ------------------
 
+### 3.0.0 (8 octobre 2021) ###
+* Version éditée telle que publiée par Dans nos histoires
+
 ### 2.0.2 (27 octobre 2016) ###
 * Correction de deux fautes.
 	
