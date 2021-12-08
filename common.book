@@ -14,7 +14,7 @@ tex.template.add: '
 tex.links_as_footnotes: false
 
 # Commenter pour ne plus avoir des fichiers HTML générés pour s'harmoniser (plus ou moins) avec mon site
-import: templates_website.book
+# import: templates_website.book
 
 html.icon: img/crowdagger.svg
 html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version}} par {{{author}}}
