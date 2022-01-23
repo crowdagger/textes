@@ -9,7 +9,7 @@ certain nombre de mes textes, au format
 *Markdown*. Si vous souhaitez simplement *lire* ces textes, vous pouvez :
 
 * consulter le site
-[http://crowdagger.fr](http://crowdagger.fr) (où ils sont disponibles
+[https://crowdagger.fr](https://crowdagger.fr) (où ils sont disponibles
 aux formats EPUB, PDF et HTML, et peuvent pour certains être commandés en version papier) ;
 * consulter les pages de présentations de ces textes (voire ci-dessous) ;
 * télécharger le [*Crowpack*](https://github.com/Crowdagger/textes/releases),  archives ZIP contenant l'intégralité de ces textes libres au format EPUB, PDF ou HTML (au choix). 
@@ -27,38 +27,34 @@ Contenu
 
 Ce dépôt contient les textes suivants :
 
-* [*Pas tout à fait des hommes*](ptafdh/), roman de fantasy ([page de présentation](http://crowdagger.fr/index.php?post/2010/08/12/Pas-tout-%C3%A0-fait-des-hommes));
-* [*Noir & Blanc*](blanc-noir/), polar surnaturel ([page de présentation](http://crowdagger.fr/index.php?post/2010/11/30/Noir-Blanc));
+* [*Pas tout à fait des hommes*](ptafdh/), roman de fantasy ([page de présentation](https://crowdagger.fr/pas-tout-a-fait-des-hommes/));
+* [*Noir & Blanc*](blanc-noir/), polar surnaturel ([page de présentation](https://crowdagger.fr/noir-blanc/));
 * [*L'énième prophétie*](enieme_prophetie/), roman de fantasy (en cours de changement de format) ;
 * le recueil de nouvelles
-  [*Sorcières & Zombies*](recueils/sorcieres_zombies/) ([page de présentation](http://crowdagger.fr/index.php?post/2013/09/16/Sorci%C3%A8res-Zombies)), qui contient les
+  [*Sorcières & Zombies*](recueils/sorcieres_zombies/) ([page de présentation](https://crowdagger.fr/sorcieres-zombies/), qui contient les
   textes suivant :
-  * *Route de nuit* ([page de présentation](http://crowdagger.fr/index.php?post/2012/05/10/Route-de-nuit))
-  * *Créatures de rêve* ([page de présentation](http://crowdagger.fr/index.php?post/2010/02/19/Cr%C3%A9atures-de-r%C3%AAve))
-  * *Sortir du cercueil* ([page de présentation](http://crowdagger.fr/index.php?post/2010/06/11/Sortir-du-cercueil])
-  * *Une mine de déterrés* ([page de présentation](http://crowdagger.fr/index.php?post/2013/11/25/Une-mine-de-d%C3%A9terr%C3%A9s))
+  * *Route de nuit* 
+  * *Créatures de rêve* ([page de présentation](https://crowdagger.fr/creatures-de-reve/))
+  * *Sortir du cercueil* ([page de présentation](https://crowdagger.fr/sortir-du-cercueil/))
+  * *Une mine de déterrés* ([page de présentation](https://crowdagger.fr/une-mine-de-deterres/))
 * quelques nouvelles de fantasy urbaine impliquant des membres des
 [*Hell b☠tches*](hell_butches/) et situées dans l'univers
-d'[*Une autobiographie transsexuelle (avec des vampires)*](http://crowdagger.fr/index.php?post/2011/10/16/Une-autobiographie-transsexuelle-%28avec-des-vampires%29) :
-  * *Dykes VS Bastards* ([page de présentation](http://crowdagger.fr/index.php?post/2016/09/19/Hell-B%E2%98%A0tches-%3A-Dykes-VS-Bastards))
-  * *Une histoire pour enfants* ([page de présentation](http://crowdagger.fr/index.php?post/2016/09/19/Hell-B%E2%98%A0tches-%3A-Une-histoire-pour-enfants))
-  * *Bain de soleil* ([page de présentation](http://crowdagger.fr/index.php?post/2011/12/22/Hell-B%E2%98%A0tches-%3A-Bain-de-soleil))
-  * *Réagir sans violence* ([page de présentation](http://crowdagger.fr/index.php?post/2012/04/08/Hell-B%E2%98%A0tches-%3A-R%C3%A9agir-sans-violence))
+d'[*Une autobiographie transsexuelle (avec des vampires)*](https://crowdagger.fr/une-autobiographie-transsexuelle-avec-des-vampires/) 
 * d'autres [nouvelles](nouvelles/) situées dans des univers divers :
   * [*Révolution avec une vampire*](nouvelles/revolution/), un mélange
     de science-fiction/fantasy avec de la lutte des classes et des
-    vampires et des thématiques trans ([page de présentation](http://crowdagger.fr/index.php?post/2011/01/01/R%C3%A9volution-avec-un-vampire))
+    vampires et des thématiques trans ([page de présentation](https://crowdagger.fr/revolution-avec-une-vampire/))
   * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/), de
-    la fantasy policière ([page de présentation](http://crowdagger.fr/index.php?post/2015/09/17/Blonde-%C3%A0-forte-capacit%C3%A9-pulmonaire))
-  * [*La mémoire de l'eau*](nouvelles/memoire/), du polar fantastique ([page de présentation](http://crowdagger.fr/index.php?post/2015/02/28/La-m%C3%A9moire-de-l-eau))
-  * *On ne peut pas faire confiance aux démons*, du fantastique ([page de présentation](http://crowdagger.fr/index.php?post/2012/01/19/On-ne-peut-pas-faire-confiance-aux-d%C3%A9mons))
+    la fantasy policière ([page de présentation](https://crowdagger.fr/blonde-a-forte-capacite-pulmonaire/))
+  * [*La mémoire de l'eau*](nouvelles/memoire/), du polar fantastique 
+  * *On ne peut pas faire confiance aux démons*, du fantastique 
   * *Une leçon d'humanité*, une courte nouvelle qui devait à la base
-    être le début d'un *space-opéra* avec des vampires ([page de présentation](http://crowdagger.fr/index.php?post/2013/02/17/Une-le%C3%A7on-d-humanit%C3%A9))
-  * *Rock'n troll*, une courte nouvelle féministe ([page de présentation](http://crowdagger.fr/index.php?post/2016/09/20/Rock-n-troll))
-  * *Pirate !*, une courte nouvelle anti-DRM ([page de présentation](http://crowdagger.fr/blog/index.php?post/2016/04/23/Pirate-%21))
-  * *Tromperies sur la marchandise*, une nouvelle de fantasy urbaine ([page de présentation](http://crowdagger.fr/index.php?post/2016/12/11/Tromperies-sur-la-marchandise))
-  * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy ([page de présentation](http://crowdagger.fr/index.php?post/2016/11/08/Le-mauvais-genre-des-anges)
-* une fiction interactive, [*Fraiche et dispo*](fictions_interactives/fraiche_et_dispo/) ([page de présentation](https://crowdagger.fr/index.php?post/Fraiche-et-dispo))
+    être le début d'un *space-opéra* avec des vampires 
+  * *Rock'n troll*, une courte nouvelle féministe 
+  * *Pirate !*, une courte nouvelle anti-DRM 
+  * *Tromperies sur la marchandise*, une nouvelle de fantasy urbaine 
+  * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy
+* une fiction interactive, [*Fraiche et dispo*](fictions_interactives/fraiche_et_dispo/) ([page de présentation](https://crowdagger.fr/fraiche-et-dispo/))
 
 Générer les formats de sortie
 -----------------------------
@@ -127,6 +123,6 @@ conseillerais plutôt de commencer par un texte un peu court.
 Soutenir
 ---------
 
-Si vous appréciez que ces textes de fiction soient publiés sous licence libre, vous pouvez me soutenir en faisant un [don sur Paypal](https://www.paypal.me/crowdagger) ou en vous [abonnant sur Tipeee](https://www.tipeee.com/lizzie-crowdagger).
+Si vous appréciez que ces textes de fiction soient publiés sous licence libre, vous pouvez me soutenir en faisant un [don sur Paypal](https://www.paypal.me/crowdagger) ou en vous [abonnant](https://crowdagger.fr/abonne%c2%b7e%c2%b7s/).
 
 
