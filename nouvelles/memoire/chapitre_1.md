@@ -37,8 +37,7 @@ qu'elle détestait. Quand l'ascenseur s'arrêtait, on le sentait, même
 si celui-ci n'était pas le plus vif qu'elle ait pris. Pourquoi
 se sentait-il le besoin de faire un putain de « ting » ?
 
-Elle se dirigea vers l'appartement 63. Elle jeta un rapide coup d'\oe
-il sur la sonnette pour vérifier qu'elle ne se trompait pas de
+Elle se dirigea vers l'appartement 63. Elle jeta un rapide coup d'œil sur la sonnette pour vérifier qu'elle ne se trompait pas de
 porte ou d'étage. « Vincent Meyer — détective privé ». Elle
 sourit en sonnant. Qu'est-ce que ce type était venu faire ici ?
 Combien de clients pouvait-il avoir ? Qui pouvait bien engager un

@@ -1,7 +1,7 @@
 import: ../../common.book
 title: La mémoire de l'eau
 license: CC BY-SA 4.0
-version: 1.0.1
+version: 1.0.2
 
 output.html: la_memoire_de_l_eau.html
 output.pdf: la_memoire_de_l_eau.pdf

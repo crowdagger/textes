@@ -1,6 +1,11 @@
 ChangeLog 
 =========
 
+Version 1.0.2 (3 février 2022)
+====================================
+* Correction coquille.
+
+
 Version 1.0.1 (20 septembre 2016) 
 -------------------------------
 * Publication sous licence CC BY-SA 4.0
