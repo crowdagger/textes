@@ -4,7 +4,7 @@ title: Tromperies sur la marchandise
 license: CC-BY-SA 4.0
 
 cover: couv/imposture.png
-version: 1.0.1
+version: 1.0.2
 
 output.pdf: tromperies_sur_la_marchandise.pdf
 output.epub: tromperies_sur_la_marchandise.epub
@@ -30,7 +30,7 @@ avérée longue et houleuse.
 
 La vieille horloge n'était pas le seul meuble surdimensionné de la
 salle : la table en bois massif était également beaucoup trop grande,
-et il y a avait aussi de larges commodes qui n'avaient probablement pas été
+et il y avait aussi de larges commodes qui n'avaient probablement pas été
 ouvertes depuis des années. Un antique chandelier pendait du
 plafond, mais n'était pas utilisé : on était au vingtième siècle, plus
 personne n'avait envie de perdre des heures à allumer des bougies.
