@@ -1,5 +1,9 @@
 ChangeLog
 ===========
+1.2.0 (2 janvier 2023)
+----------------------------
+* Ajout de la nouvelle *Soumise par une insoumise*
+
 
 1.1.0 (24 décembre 2018)
 ------------------------------

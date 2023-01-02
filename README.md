@@ -49,6 +49,7 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](https://crowdagger.fr
   * [*La mémoire de l'eau*](nouvelles/memoire/), du polar fantastique ([page de présentation](https://crowdagger.fr/la-memoire-de-leau/)
     * *Tromperies sur la marchandise*, une nouvelle de fantasy urbaine  ([page de présentation](https://crowdagger.fr/tromperies-sur-la-marchandise/))
   * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy ([page de présentation](https://crowdagger.fr/le-mauvais-genre-des-anges/))
+  * *Soumise par une insoumise*, une nouvelle électoralo-érotique ([page de présentation](https://crowdagger.fr/soumise-par-une-insoumise/))
   * *On ne peut pas faire confiance aux démons*, du fantastique 
   * *Une leçon d'humanité*, une courte nouvelle qui devait à la base
     être le début d'un *space-opéra* avec des vampires 
