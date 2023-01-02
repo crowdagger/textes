@@ -46,14 +46,14 @@ d'[*Une autobiographie transsexuelle (avec des vampires)*](https://crowdagger.fr
     vampires et des thématiques trans ([page de présentation](https://crowdagger.fr/revolution-avec-une-vampire/))
   * [*Blonde à forte capacité pulmonaire*](nouvelles/pulmonaire/), de
     la fantasy policière ([page de présentation](https://crowdagger.fr/blonde-a-forte-capacite-pulmonaire/))
-  * [*La mémoire de l'eau*](nouvelles/memoire/), du polar fantastique 
+  * [*La mémoire de l'eau*](nouvelles/memoire/), du polar fantastique ([page de présentation](https://crowdagger.fr/la-memoire-de-leau/)
+    * *Tromperies sur la marchandise*, une nouvelle de fantasy urbaine  ([page de présentation](https://crowdagger.fr/tromperies-sur-la-marchandise/))
+  * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy ([page de présentation](https://crowdagger.fr/le-mauvais-genre-des-anges/))
   * *On ne peut pas faire confiance aux démons*, du fantastique 
   * *Une leçon d'humanité*, une courte nouvelle qui devait à la base
     être le début d'un *space-opéra* avec des vampires 
   * *Rock'n troll*, une courte nouvelle féministe 
   * *Pirate !*, une courte nouvelle anti-DRM 
-  * *Tromperies sur la marchandise*, une nouvelle de fantasy urbaine 
-  * *Le mauvais genre des anges*, une nouvelle de science-fiction/fantasy
 * une fiction interactive, [*Fraiche et dispo*](fictions_interactives/fraiche_et_dispo/) ([page de présentation](https://crowdagger.fr/fraiche-et-dispo/))
 
 Générer les formats de sortie
