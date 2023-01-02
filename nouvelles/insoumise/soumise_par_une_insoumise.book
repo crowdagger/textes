@@ -1,0 +1,14 @@
+lang: fr
+title: Soumise par une insoumise
+subtitle: "La féminisation forcée dans l'isoloir et le choix entre la cravache et le martinet, à 400 000 voix près"
+license: CC-BY-SA 4.0
+version: "1.0.0"
+author: Lizzie Crowdagger
+output: [pdf, epub, html]
+
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
+#+ chapitre_05.md
+# + chapitre_06.md

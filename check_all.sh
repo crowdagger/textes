@@ -29,6 +29,7 @@ epubcheck tromperies_sur_la_marchandise.epub
 epubcheck pulmonaire/blonde_a_forte_capacite_pulmonaire.epub
 epubcheck revolution/revolution_avec_un_vampire.epub
 epubcheck lev/on_ne_peut_pas_faire_confiance_aux_demons.epub
+epubcheck insoumise/soumise_par_une_insoumise.epub
 cd ..
 
 echo
