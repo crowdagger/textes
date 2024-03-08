@@ -8,7 +8,7 @@ flowchart LR
     classDef novella fill:#b4f5ff;
 
     %% Pour essayer que le positionnement soit moins pire 
-    fantastique ~~~ butchiverse 
+    fantastique ~~~ butchiverse ~~~ legende
     divers ~~~ erekh
     subgraph divers[Divers]
         nb("Noir & blanc")
@@ -72,6 +72,15 @@ flowchart LR
         enfants --> demons
         class route,creatures,demons nouvelle;
         class enfants roman;
+    end
+
+    subgraph legende["Légende"]
+        r["Roman"]
+        ne(["Nouvelle"])
+        na("Novella")
+        class r roman;
+        class ne nouvelle;
+        class na novella;
     end
 
     nb --> np
