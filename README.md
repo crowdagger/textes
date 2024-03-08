@@ -69,6 +69,67 @@ que ce soit au format HTML, PDF ou EPUB, le plus simple est d'utiliser
 
 (dans le répertoire principal) pour générer tous les fichiers. (Vous aurez aussi besoin de la commande `zip` pour générer les fichiers EPUB, et d'une installation de LaTeX si vous voulez générer les fichiers PDF.) Cette commande génère également trois archives zip contenant respectivement les versions PDF, HTML et EPUB de l'ensemble des textes.
 
+Ordre chronologique
+------------------------
+
+**Tous les romans listés ici ne sont pas sous licence libre.**
+
+```mermaid
+flowchart LR
+    subgraph butchiverse[Butchiverse]
+    autobio["Une autobiographie transsexuelle (avec des vampires)"]
+    bain("Bain de soleil")
+    violence("Réagir sans violence")
+    tromperies("Tromperies sur la marchandise")
+    histoire("Une histoire pour enfants")
+    punk["Punk is undead"]
+    sorcellerie["La sorcellerie est un sport de combat"]
+    fusillade["La fusillade est une science sociale"]
+    dykes("Dykes VS Bastards")
+    bain --> autobio
+    violence --> autobio
+    tromperies -.-> autobio
+    autobio --> histoire
+    histoire --> dykes
+    dykes -.-> sorcellerie
+    dykes -.-> punk
+    sorcellerie --> fusillade
+    punk -.-> fusillade
+    end
+    subgraph erekh[Erekh]
+    cercueil{{"Sortir du cercueil"}}
+    np["L'énième prophétie"]
+    ptafdh["Pas tout à fait des hommes"]
+    blonde{{"Blonde à forte capacité pulmonaire"}}
+    deterres{{"Une mine de déterrés"}}
+    sang{{"Sans le sang ni les larmes"}}
+
+    cercueil --> ptafdh
+    np -.-> ptafdh
+    ptafdh --> blonde
+    ptafdh -.-> deterres
+    end
+    subgraph fantastique[Fantastique]
+    route{{"Route de nuit"}}
+    creatures{{"Créatures de rêve"}}
+    enfants["Enfants de Mars et de Vénus"]
+    demons{{"On ne peut pas faire confiance aux démons"}}
+
+    route --> creatures
+    creatures --> enfants
+    enfants --> demons
+    end
+
+    subgraph divers[Divers]
+    nb("Noir & blanc")
+    revolution{{"Révolution avec une vampire"}}
+    memoire{{"La mémoire de l'eau"}}
+    anges{{"Le mauvais genre des anges"}}
+    humanite{{"Une leçon d'humanité"}}
+    end 
+    nb --> np
+```
+
 Licence 
 --------
 
