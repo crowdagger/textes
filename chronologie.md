@@ -1,6 +1,3 @@
----
-title: Ordre chronologique
----
 flowchart LR
     %% Définition des classes 
     classDef roman fill:#ffb4b4;
@@ -81,6 +78,8 @@ flowchart LR
         class r roman;
         class ne nouvelle;
         class na novella;
+        r-->|Personnages communs| ne
+        ne -.->|Personnages différents| na
     end
 
     nb --> np
