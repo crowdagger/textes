@@ -17,8 +17,8 @@ tex.links_as_footnotes: false
 # import: templates_website.book
 
 html.icon: img/crowdagger.svg
-html.footer: "*{{{title}}}*{{#has_version}}, version {{{version}}}{{/has_version}} par {{{author}}}
- {{#has_license}} (licence : {{{license}}}){{/has_license}}"
+html.footer: "*{{title}}* version {{version}} par {{author}}
+ (licence : {{license}})"
 
 # html.header: "[Site web de Lizzie Crowdagger](http://crowdagger.fr) | [Blog](http://crowdagger.fr/blog) | [Dépôt Github](https://github.com/crowdagger/textes)"
 
