@@ -68,6 +68,9 @@ Route de nuit
 Sortir du cercueil
 -------------------
 
+### 1.1.3 (12 mars 2024) ###
+* Correction typo. 
+
 ### 1.1.2 (20 mars 2018) ###
 * Ajout d'une couverture
 * Correction de quelques fautes

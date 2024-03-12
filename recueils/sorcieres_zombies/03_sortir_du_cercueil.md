@@ -589,7 +589,7 @@ me coucher. Tes raisonnements me filent mal au crâne.
 
 *****
 
-Will ? fit Angèle.
+— Will ? fit Angèle.
 
 Le jeune homme ouvrit un œil, grimaça, et le referma.
 
