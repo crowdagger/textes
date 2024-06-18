@@ -4,6 +4,7 @@ subject: fantasy
 description: "Un roman de fantasy vaguement médiévale, avec de l'humour, de l'amour lesbien, des guerres, des épées, des dragons, de la lutte, de la classe et de la lutte des classes."
 license: CC BY-SA 4.0
 version: 1.1.2
+tex.cover: true
 
 # html.escape_nb_spaces: false
 
