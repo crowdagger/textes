@@ -1,4 +1,3 @@
-
 ---
 import: ../common.book
 title: Dykes VS Bastards
@@ -7,7 +6,7 @@ version: 1.1.1
 
 cover: couv/dykes_vs_bastards.png
 
-output: [pdf, epub, html, odt, proofread.html]
+output: [pdf, epub, html]
 ---
 
 Dykes VS Bastards
