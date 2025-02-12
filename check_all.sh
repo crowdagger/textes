@@ -8,6 +8,10 @@ echo "Pas tout à fait des hommes..."
 epubcheck ptafdh/pas_tout_a_fait_des_hommes.epub
 
 echo
+echo "Punk is undead..."
+epubcheck punk_is_undead/punk_is_undead.epub
+
+echo
 echo "Sorcières & zombies..."
 cd recueils/sorcieres_zombies/
 epubcheck sorcieres_zombies.epub

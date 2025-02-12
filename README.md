@@ -27,6 +27,7 @@ Contenu
 
 Ce dépôt contient les textes suivants :
 
+* [*Punk is undead*](punk_is_undead/), romance paranormale lesbienne ([page de présentation](https://crowdagger.fr/punk-is-undead/))
 * [*Pas tout à fait des hommes*](ptafdh/), roman de fantasy ([page de présentation](https://crowdagger.fr/pas-tout-a-fait-des-hommes/));
 * [*Noir & Blanc*](blanc-noir/), polar surnaturel ([page de présentation](https://crowdagger.fr/noir-blanc/));
 * [*L'énième prophétie*](enieme_prophetie/), roman de fantasy (en cours de changement de format) ;
