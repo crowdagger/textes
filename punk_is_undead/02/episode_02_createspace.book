@@ -1,0 +1,21 @@
+import: ../common.book
+title: Good cop, bad cop
+subtitle: "La chair & le sang, épisode 2"
+
+version: 1.0.3
+
+
+cover: episode_02.png
+
+tex.paper.size: "paperwidth=5in, paperheight=8in"
+output.pdf: episode_02_createspace.pdf
+
+- chapitre_00.md
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
+- chapitre_08.md

@@ -1,0 +1,17 @@
+import: ../common.book
+title: Les coups et les douleurs (extrait)
+
+version: 1.0.1
+
+cover: episode_01.png
+
+output.pdf: episode_01.pdf
+output.html: episode_01.html
+output.epub: episode_01.epub
+output.proofread.html: episode_01.proof.html
+
+# ! chapitre_00.md
+- chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
+- lire_suite.md

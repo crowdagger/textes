@@ -1,0 +1,52 @@
+author: Lizzie Crowdagger
+lang: fr
+subject: "fantasy urbaine, romance paranormale, lesbienne"
+description: "Une série de fantasy urbaine avec de la romance lesbienne, des punks vampires, des skinhead garous, de l'humour, de l'amour, de l'enquête et de la baston"
+
+epub.version: 3
+rendering.initials: true
+
+resources.base_path.images: images/
+resources.base_path.templates: templates/
+
+epub.css.add: '
+del {
+    color: black;
+    background-color: black;
+}'
+
+html.css.add: '
+del {
+    color: black;
+    background-color: black;
+}'
+
+# tex.template: template.tex
+tex.template.add: '
+\usepackage{libertine}
+\usepackage[normalem]{ulem}
+\usepackage{censor}
+\setlength{\DefaultNindent}{0em}
+\setcounter{DefaultLines}{3}
+\input EileenBl.fd
+\newcommand*\initfamily{\usefont{U}{EileenBl}{xl}{n}}
+\renewcommand{\LettrineFontHook}{\initfamily}
+\usepackage[Sonny]{fncychap}
+\ChTitleUpperCase
+\ChTitleVar{\Huge\sf}
+\widowpenalty10000
+\clubpenalty10000
+\emergencystretch=0pt
+\pretolerance=2000
+\tolerance=5000
+\hyphenpenalty=5000
+\hyphenation{quel-ques chan-ces mar-ches con-cen-trait hom-me com-me}
+\renewcommand{\sout}[1]{\xblackout{#1}}'
+
+tex.links_as_footnotes: false
+
+proofread.repetitions: false
+proofread.languagetool: true
+proofread.grammalecte: true
+
+# html.escape_nb_spaces: false

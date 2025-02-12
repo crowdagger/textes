@@ -1,0 +1,26 @@
+import: ../common.book
+title: "Souffrir pour être rebelle"
+subtitle: "La chair & le sang, épisode 3"
+
+version: 1.0.0
+
+cover: episode_03.png
+
+output.pdf: episode_03.pdf
+output.html: episode_03.html
+output.epub: episode_03.epub
+output.proofread.html: episode_03.proof.html
+
+- resume.md
+- chapitre_00.md
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
++ chapitre_08.md
+- a_suivre.md
+- chapitre_09.md
+

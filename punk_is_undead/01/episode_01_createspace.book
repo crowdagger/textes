@@ -1,0 +1,20 @@
+import: ../common.book
+title: Les coups et les douleurs
+subtitle: "La chair & le sang, épisode 1"
+
+version: 1.1.0
+
+cover: episode_01.png
+
+tex.paper.size: "paperwidth=5in, paperheight=8in"
+output.pdf: episode_01_createspace.pdf
+
+# ! chapitre_00.md
+- chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
+- chapitre_08.md

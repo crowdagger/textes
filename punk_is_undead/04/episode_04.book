@@ -1,0 +1,27 @@
+import: ../common.book
+title: "Cupidon tireur d'élite"
+subtitle: "La chair & le sang, épisode 4"
+
+cover: episode_04.png
+
+version: 1.0.0
+
+output.pdf: episode_04.pdf
+output.html: episode_04.html
+output.epub: episode_04.epub
+output.odt: episode_04.odt
+output.proofread.html: episode_04.proof.html
+
+- resume.md
+- chapitre_00.md
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
++ chapitre_08.md
++ chapitre_09.md
+- a_suivre.md
+- chapitre_10.md

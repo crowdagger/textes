@@ -1,0 +1,30 @@
+import: ../common.book
+title: "Plus haut que Carrero"
+subtitle: "La chair & le sang, épisode 5"
+
+cover: episode_05.png
+
+output:
+  - pdf
+  - html
+  - epub
+  - proofread.html
+
+
+- note_titre.md
+- resume.md
+- chapitre_00.md
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
++ chapitre_08.md
++ chapitre_09.md
++ chapitre_10.md
++ chapitre_11.md
+- chapitre_12.md
+- a_suivre.md
+- chapitre_13.md

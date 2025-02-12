@@ -1,0 +1,26 @@
+import: ../common.book
+title: Good cop, bad cop
+subtitle: "La chair & le sang, épisode 2"
+
+version: 1.0.3
+
+
+cover: episode_02.png
+
+output.pdf: episode_02.pdf
+output.html: episode_02.html
+output.html.dir: 02/
+output.epub: episode_02.epub
+output.proofread.html: episode_02.proof.html
+
+- resume.md
+- chapitre_00.md
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
+- a_suivre.md
+- chapitre_08.md

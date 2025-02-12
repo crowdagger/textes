@@ -1,0 +1,23 @@
+import: ../common.book
+title: "Souffrir pour être rebelle"
+subtitle: "La chair & le sang, épisode 3"
+
+version: 1.0.1
+
+cover: episode_03.png
+license: "Illustration de couverture (boxeuse) d'après Yingnan Lu via Pixabay."
+
+tex.paper.size: "paperwidth=5in, paperheight=8in"
+output.pdf: episode_03_createspace.pdf
+
+- chapitre_00.md
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
++ chapitre_08.md
+- chapitre_09.md
+

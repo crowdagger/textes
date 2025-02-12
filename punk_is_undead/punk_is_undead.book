@@ -1,0 +1,78 @@
+import: common.book
+title: "Punk is undead"
+subtitle: "La chair & le sang, intégrale saison 1"
+
+cover: punk_is_undead.png
+version: 1.0.1
+license: CC-By-SA
+
+output.pdf: punk_is_undead.pdf
+output.html: punk_is_undead.html
+output.epub: punk_is_undead.epub
+
+# rendering.part.template: "Épisode {{{number}}} : {{{part_title}}}"
+rendering.part: Épisode
+
+@ Les coups et les douleurs
+# ! 01/chapitre_00.md
+- 01/chapitre_01.md
++ 01/chapitre_02.md
++ 01/chapitre_03.md
++ 01/chapitre_04.md
++ 01/chapitre_05.md
++ 01/chapitre_06.md
++ 01/chapitre_07.md
+- 01/chapitre_08.md
+@ Good cop, bad cop
+- 02/chapitre_00.md
++ 02/chapitre_01.md
++ 02/chapitre_02.md
++ 02/chapitre_03.md
++ 02/chapitre_04.md
++ 02/chapitre_05.md
++ 02/chapitre_06.md
++ 02/chapitre_07.md
+- 02/chapitre_08.md
+@ Souffrir pour être rebelle
+- 03/chapitre_00.md
++ 03/chapitre_01.md
++ 03/chapitre_02.md
++ 03/chapitre_03.md
++ 03/chapitre_04.md
++ 03/chapitre_05.md
++ 03/chapitre_06.md
++ 03/chapitre_07.md
++ 03/chapitre_08.md
+- 03/chapitre_09.md
+@ Cupidon tireur d'élite
+- 04/chapitre_00.md
++ 04/chapitre_01.md
++ 04/chapitre_02.md
++ 04/chapitre_03.md
++ 04/chapitre_04.md
++ 04/chapitre_05.md
++ 04/chapitre_06.md
++ 04/chapitre_07.md
++ 04/chapitre_08.md
++ 04/chapitre_09.md
+- 04/chapitre_10.md
+@ On séquestre en groupe
+- 05/chapitre_00.md
++ 05/chapitre_01.md
++ 05/chapitre_02.md
++ 05/chapitre_03.md
++ 05/chapitre_04.md
++ 05/chapitre_06.md
+- 05/chapitre_05.md
+@ Plus haut que Carrero
+- 05/note_titre.md
+- 05/intro_02.md
++ 05/chapitre_07.md
++ 05/chapitre_08.md
++ 05/chapitre_09.md
++ 05/chapitre_10.md
++ 05/chapitre_11.md
+- 05/chapitre_12.md
+#- merci.md
+- 05/chapitre_13.md
+

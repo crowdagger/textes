@@ -1,0 +1,22 @@
+import: ../common.book
+title: Les coups et les douleurs
+subtitle: "La chair & le sang, épisode 1"
+
+version: 1.0.1
+
+cover: episode_01.png
+
+output.pdf: episode_01.pdf
+output.html: episode_01.html
+output.epub: episode_01.epub
+
+# ! chapitre_00.md
+- chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
+- a_suivre.md
+- chapitre_08.md
