@@ -13,8 +13,8 @@ gratuitement. Si c'est le cas, et que vous l'avez apprécié, je me
 permets de vous inviter à faire une contribution pour que je puisse
 continuer à en écrire d'autres. Pour cela, vous pouvez :
 
-* [faire un don ponctuel via Payal](https://www.paypal.com/donate/?token=K6MRDiBm0kMeHsYnGFe6AWRAprc3DgBWRMMCYLEbJe032LeCtirs5efDSjO_ORv1lpGV8W&country.x=FR&locale.x=FR) ;
-* [me soutenir sur Tipeee](https://www.tipeee.com/lizzie-crowdagger).
+* [faire un don via Ko-Fi](https://ko-fi.com/crowdagger) ;
+* [me soutenir sur Patron](https://www.patreon.com/c/crowdagger)
 
 N'hésitez pas non plus si vous avez envie de faire une critique
 honnête sur la plate-forme de votre choix. Il est compliqué pour un
