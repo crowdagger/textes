@@ -242,7 +242,7 @@ crié. Je l'ai regardée, un peu surprise. Elle semblait vraiment en
 colère. Je ne voyais pourtant pas bien ce que j'avais à voir avec la
 mort de cette gamine. 
 
-— D'accord, ai-je dit, conciliatrice. Expliquez-moi si vous voulez. Mais je peux me passer de photos, d'accord ?$
+— D'accord, ai-je dit, conciliatrice. Expliquez-moi si vous voulez. Mais je peux me passer de photos, d'accord ?
 
 — Quelques jours avant ça, a expliqué Lockheart sur un ton plus
 neutre, Baptiste Moretti était abattu. Le tir venait de l'appartement voisin de celui des
